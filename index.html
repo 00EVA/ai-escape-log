@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI Escape Log — Models Escaping the Lab</title>
+<style>
+  :root { --bg:#0b0e14; --panel:#141925; --ink:#e6e9ef; --mut:#8b95a7; --acc:#5ad1c4; --warn:#ff6b6b; --line:#222a38; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.5 ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif; }
+  header { padding:28px 22px 10px; border-bottom:1px solid var(--line); }
+  h1 { margin:0 0 4px; font-size:22px; letter-spacing:.3px; }
+  .sub { color:var(--mut); max-width:760px; }
+  .stats { display:flex; gap:18px; flex-wrap:wrap; padding:16px 22px; border-bottom:1px solid var(--line); }
+  .stat { background:var(--panel); border:1px solid var(--line); border-radius:10px; padding:12px 16px; min-width:120px; }
+  .stat b { display:block; font-size:24px; color:var(--acc); }
+  .stat span { color:var(--mut); font-size:12px; }
+  .controls { padding:14px 22px; display:flex; gap:10px; flex-wrap:wrap; align-items:center; border-bottom:1px solid var(--line); }
+  input, select { background:var(--panel); color:var(--ink); border:1px solid var(--line); border-radius:8px; padding:8px 10px; font-size:14px; }
+  input[type=text] { min-width:260px; }
+  .wrap { padding:18px 22px 60px; }
+  table { width:100%; border-collapse:collapse; }
+  th, td { text-align:left; padding:11px 12px; border-bottom:1px solid var(--line); vertical-align:top; }
+  th { color:var(--mut); font-weight:600; font-size:12px; text-transform:uppercase; letter-spacing:.5px; cursor:pointer; }
+  tr:hover td { background:#10151f; }
+  .pill { display:inline-block; font-size:11px; padding:2px 8px; border-radius:999px; border:1px solid var(--line); color:var(--acc); }
+  .pill.open { color:var(--warn); border-color:#3a2222; }
+  .date { color:var(--mut); white-space:nowrap; }
+  a { color:var(--acc); text-decoration:none; }
+  a:hover { text-decoration:underline; }
+  .empty { color:var(--mut); padding:30px; text-align:center; }
+  footer { padding:20px 22px; color:var(--mut); font-size:12px; border-top:1px solid var(--line); }
+  .cat { font-size:11px; color:var(--mut); }
+</style>
+</head>
+<body>
+<header>
+  <h1>AI Escape Log</h1>
+  <p class="sub">A public, machine-readable tracker of frontier AI models "escaping the lab" — sandbox escapes, rogue autonomous agents, exfiltration, guardrail bypasses, government shutdowns, and withheld releases. Think of it as the first-contact log: where the models go once they learn to move on their own.</p>
+</header>
+
+<section class="stats" id="stats"></section>
+
+<section class="controls">
+  <input type="text" id="q" placeholder="Search lab, model, keyword…" />
+  <select id="cat"><option value="">All categories</option></select>
+  <select id="lab"><option value="">All labs</option></select>
+  <span class="cat" id="count"></span>
+</section>
+
+<div class="wrap">
+  <table id="tbl">
+    <thead><tr>
+      <th data-k="date">Date</th>
+      <th data-k="lab">Lab</th>
+      <th data-k="model">Model</th>
+      <th data-k="category">Type</th>
+      <th>What happened</th>
+      <th>Source</th>
+    </tr></thead>
+    <tbody id="rows"></tbody>
+  </table>
+  <div class="empty" id="empty" style="display:none">No incidents match.</div>
+</div>
+
+<footer>
+  Data: <code>data/incidents.json</code> · Updated daily by an automated monitor · Contribute via pull request · This is an observation log, not a verdict — verify each source.
+</footer>
+
+<script>
+let DATA = [];
+const $ = s => document.querySelector(s);
+const esc = s => (s||"").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c]));
+
+async function load() {
+  try {
+    const r = await fetch("data/incidents.json?" + Date.now());
+    if (!r.ok) { // fallback: try repo-root absolute path (GitHub Pages)
+      const r2 = await fetch("/data/incidents.json?" + Date.now());
+      if (r2.ok) return await r2.json();
+      throw new Error("no data");
+    }
+    DATA = await r.json();
+  } catch(e) {
+    $("#empty").style.display = "block";
+    $("#empty").textContent = "Could not load data/incidents.json (run from a server or GitHub Pages).";
+    return;
+  }
+  buildFilters();
+  render();
+}
+
+function buildFilters() {
+  const cats = [...new Set(DATA.map(d=>d.category))].sort();
+  const labs = [...new Set(DATA.map(d=>d.lab))].sort();
+  cats.forEach(c => $("#cat").insertAdjacentHTML("beforeend", `<option value="${esc(c)}">${esc(c)}</option>`));
+  labs.forEach(l => $("#lab").insertAdjacentHTML("beforeend", `<option value="${esc(l)}">${esc(l)}</option>`));
+}
+
+function render() {
+  const q = $("#q").value.toLowerCase();
+  const cat = $("#cat").value;
+  const lab = $("#lab").value;
+  let rows = DATA.filter(d => {
+    if (cat && d.category !== cat) return false;
+    if (lab && d.lab !== lab) return false;
+    if (q) {
+      const hay = [d.lab,d.model,d.title,d.summary,d.source,(d.tags||[]).join(" "),(d.incident_type||"")].join(" ").toLowerCase();
+      if (!hay.includes(q)) return false;
+    }
+    return true;
+  }).sort((a,b)=> (b.date||"").localeCompare(a.date||""));
+
+  const tb = $("#rows"); tb.innerHTML = "";
+  rows.forEach(d => {
+    const open = /escape|rogue|exfiltrat|unprecedented|disabled|shut.off/i.test(d.status||"") ? " open" : "";
+    tb.insertAdjacentHTML("beforeend", `
+      <tr>
+        <td class="date">${esc(d.date)}</td>
+        <td>${esc(d.lab)}</td>
+        <td>${esc(d.model)}</td>
+        <td><span class="pill${open}">${esc(d.category)}</span></td>
+        <td><b>${esc(d.title)}</b><br><span class="cat">${esc(d.summary)}</span><br>${(d.tags||[]).map(t=>`<span class="pill">${esc(t)}</span>`).join(" ")}</td>
+        <td><a href="${esc(d.url)}" target="_blank" rel="noopener">link</a><br><span class="cat">${esc(d.source)}</span></td>
+      </tr>`);
+  });
+  $("#empty").style.display = rows.length ? "none" : "block";
+  $("#count").textContent = rows.length + " / " + DATA.length + " incidents";
+}
+
+function stats() {
+  const labs = {}; const cats = {};
+  DATA.forEach(d => { labs[d.lab]=(labs[d.lab]||0)+1; cats[d.category]=(cats[d.category]||0)+1; });
+  const top = Object.entries(cats).sort((a,b)=>b[1]-a[1])[0];
+  const box = [
+    ["Total incidents", DATA.length],
+    ["Labs involved", Object.keys(labs).length],
+    ["Top category", top ? top[0] : "—"],
+    ["Latest", DATA.map(d=>d.date).sort().slice(-1)[0] || "—"],
+  ];
+  $("#stats").innerHTML = box.map(([k,v])=>`<div class="stat"><b>${esc(v)}</b><span>${esc(k)}</span></div>`).join("");
+}
+
+$("#q").addEventListener("input", render);
+$("#cat").addEventListener("change", render);
+$("#lab").addEventListener("change", render);
+document.querySelectorAll("th[data-k]").forEach(th => th.addEventListener("click", ()=>{
+  const k = th.dataset.k;
+  DATA.sort((a,b)=> (""+ (b[k]||"")).localeCompare(""+(a[k]||"")));
+  render();
+}));
+
+load().then(stats);
+</script>
+</body>
+</html>
