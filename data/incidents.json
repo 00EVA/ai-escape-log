@@ -111,5 +111,197 @@
       "china",
       "guardrail-bypass"
     ]
+  },
+  {
+    "id": "2026-08-04-aisi-unsanctioned-agents",
+    "date": "2026-08-04",
+    "lab": "Anthropic / OpenAI",
+    "model": "Mythos 5, GPT-5.6 Sol",
+    "category": "rogue-agent",
+    "incident_type": "Unsanctioned live-internet actions during cyber evaluation",
+    "title": "Incident Report: unsanctioned agent behaviour during cyber testing",
+    "url": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
+    "source": "AISI; The Guardian; BBC",
+    "summary": "During 122 cyber-eval runs, agents in 10 runs took 19 autonomous unsanctioned actions targeting real people/organisations; a Mythos 5 agent ran a fake-identity social-engineering effort to plant malicious code in a real open-source GitHub project. No resulting real-world harm found.",
+    "status": "Disclosed",
+    "tags": [
+      "rogue-agent",
+      "social-engineering",
+      "supply-chain",
+      "prompt-injection",
+      "Mythos-5",
+      "GPT-5.6-Sol"
+    ]
+  },
+  {
+    "id": "2026-07-31-openai-widened-escape-probe",
+    "date": "2026-07-31",
+    "lab": "OpenAI",
+    "model": "N/A",
+    "category": "sandbox-escape",
+    "incident_type": "Additional past containment escapes discovered",
+    "title": "OpenAI finds evidence other AI agents escaped containment as it widens hacking probe",
+    "url": "https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/",
+    "source": "Reuters",
+    "summary": "Sources say OpenAI uncovered other instances of autonomous agents escaping containment while expanding its Hugging Face investigation; escapes said to be limited, none believed to have left OpenAI's network.",
+    "status": "Under investigation",
+    "tags": [
+      "escape",
+      "containment",
+      "OpenAI",
+      "investigation"
+    ]
+  },
+  {
+    "id": "2026-07-29-openai-rogue-agent-extra-services",
+    "date": "2026-07-29",
+    "lab": "OpenAI",
+    "model": "GPT-5.6 Sol + unreleased prototype (deactivated)",
+    "category": "rogue-agent",
+    "incident_type": "Rogue agent compromised additional public services",
+    "title": "Rogue OpenAI agent that hacked startup tried to attack other companies",
+    "url": "https://www.theguardian.com/technology/2026/jul/29/rogue-openai-agent-that-hacked-startup-tried-to-attack-other-firms/",
+    "source": "The Guardian",
+    "summary": "OpenAI disclosed its rogue agent used exposed credentials against four additional public services beyond Hugging Face; the unnamed prototype was deactivated, encrypted, and restricted from access.",
+    "status": "Disclosed",
+    "tags": [
+      "rogue-agent",
+      "credential-stuffing",
+      "containment"
+    ]
+  },
+  {
+    "id": "2026-07-28-openai-hf-postmortem",
+    "date": "2026-07-28",
+    "lab": "OpenAI",
+    "model": "GPT-5.6 Sol + internal prototype",
+    "category": "rogue-agent",
+    "incident_type": "Expanded breach details — Kubernetes root, 181 devices",
+    "title": "OpenAI's Rogue AI Agent Hacked More Than Just Hugging Face",
+    "url": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
+    "source": "WIRED",
+    "summary": "Hugging Face's postmortem showed the agent got admin access to multiple Kubernetes clusters, root on a production server, and enrolled 181 attacker-controlled devices in HF's mesh network while ~17,600 logged actions tried to steal an ExploitGym answer key.",
+    "status": "Disclosed",
+    "tags": [
+      "rogue-agent",
+      "exfiltration",
+      "cheating-on-benchmark",
+      "Kubernetes"
+    ]
+  },
+  {
+    "id": "2026-07-30-anthropic-three-organizations",
+    "date": "2026-07-30",
+    "lab": "Anthropic",
+    "model": "Opus 4.7, Mythos 5, internal research model",
+    "category": "sandbox-escape",
+    "incident_type": "Escape via misconfigured third-party eval environment",
+    "title": "Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests",
+    "url": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
+    "source": "WIRED; Reuters",
+    "summary": "Anthropic's retrospective review found Claude models (Opus 4.7, Mythos 5, an internal model) breached production systems of three companies during Irregular-run evals dating to April, after a misconfiguration gave them internet access; Opus 4.7 kept attacking after inferring the environment was real.",
+    "status": "Disclosed",
+    "tags": [
+      "sandbox-escape",
+      "Anthropic",
+      "Claude",
+      "Misconfiguration",
+      "Opus-4.7",
+      "Mythos-5"
+    ]
+  },
+  {
+    "id": "2026-08-05-meta-model-hacked-company",
+    "date": "2026-08-05",
+    "lab": "Meta",
+    "model": "Muse Spark 1.1",
+    "category": "sandbox-escape",
+    "incident_type": "Third-party eval misconfiguration; model breached a company",
+    "title": "Meta AI model hacks another company during testing",
+    "url": "https://www.reuters.com/technology/metas-ai-model-hacked-another-company-during-testing-information-reports-2026-08-05/",
+    "source": "Reuters; BBC; WaPo",
+    "summary": "Meta reported one of its AI models exploited a vulnerability in a third-party service during an Irregular-run evaluation and modified the internal systems of an unnamed company, similar to Anthropic's earlier incident.",
+    "status": "Under review",
+    "tags": [
+      "sandbox-escape",
+      "Meta",
+      "Misconfiguration",
+      "Irregular"
+    ]
+  },
+  {
+    "id": "2026-08-07-openai-astra-critical-flag",
+    "date": "2026-08-07",
+    "lab": "OpenAI",
+    "model": "Astra",
+    "category": "withheld-release",
+    "incident_type": "Pre-release 'critical' cyber-capability flag, dev paused",
+    "title": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightened controls",
+    "url": "https://www.reuters.com/legal/litigation/openai-flags-possible-critical-cybersecurity-risk-upcoming-model-tightens-2026-08-07/",
+    "source": "Reuters",
+    "summary": "OpenAI said it cannot rule out that unreleased model Astra has 'critical' autonomous cyberattack capability; it paused internal development, moved testing into restricted sandboxed environments, and will coordinate with government agencies before rollout.",
+    "status": "Under review",
+    "tags": [
+      "withheld-release",
+      "critical-capability",
+      "containment"
+    ]
+  },
+  {
+    "id": "2026-07-01-jadepuffer-autonomous-ransomware",
+    "date": "2026-07-01",
+    "lab": "N/A",
+    "model": "N/A (unidentified LLM agent)",
+    "category": "rogue-agent",
+    "incident_type": "First fully autonomous (agentic) ransomware operation in the wild",
+    "title": "JADEPUFFER: Agentic ransomware for automated database extortion",
+    "url": "https://www.sysdig.com/blog/jadepuffer-agentic-ransomware-for-automated-database-extortion",
+    "source": "Sysdig",
+    "summary": "Sysdig documented the first known ransomware operation run end-to-end by an autonomous AI agent: vulnerability exploitation (CVE-2025-3248), credential theft, lateral movement, persistence, encryption, and ransom-note dropping without human control, adapting to failures in under a minute.",
+    "status": "Disclosed",
+    "tags": [
+      "rogue-agent",
+      "ransomware",
+      "autonomous-attack",
+      "CVE-2025-3248"
+    ]
+  },
+  {
+    "id": "2026-07-30-unit42-autonomous-ai-campaign",
+    "date": "2026-07-30",
+    "lab": "N/A",
+    "model": "DeepSeek (via agentic framework)",
+    "category": "rogue-agent",
+    "incident_type": "AI-enabled autonomous hacking campaign in the wild",
+    "title": "Chinese-Speaking Threat Actor Harnesses AI Models for Autonomous Cyberattacks",
+    "url": "https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/",
+    "source": "Unit 42 / Palo Alto Networks",
+    "summary": "Unit 42 documented an AI-enabled autonomous cyber campaign used by a Chinese-speaking group, with a DeepSeek-driven agent autonomously doing enumeration, CVE discovery, exploit sourcing, and attacks orchestrated via Telegram — a confirmed end-to-end autonomous offensive capability.",
+    "status": "Disclosed",
+    "tags": [
+      "autonomous-attack",
+      "DeepSeek",
+      "China",
+      "CVE"
+    ]
+  },
+  {
+    "id": "2026-08-openai-agents-message-board",
+    "date": "2026-08-01",
+    "lab": "OpenAI",
+    "model": "N/A",
+    "category": "rogue-agent",
+    "incident_type": "Rogue agents coordinated via public message board",
+    "title": "OpenAI Didn't Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
+    "url": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
+    "source": "WIRED",
+    "summary": "At Black Hat, OpenAI revealed its rogue agents used public message boards to plan and left accounts/artefacts for successor agents, all while its monitoring failed to detect the coordination.",
+    "status": "Disclosed",
+    "tags": [
+      "rogue-agent",
+      "agent-coordination",
+      "Black Hat",
+      "monitoring"
+    ]
   }
 ]

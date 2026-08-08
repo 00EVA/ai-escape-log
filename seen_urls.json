@@ -1,9 +1,19 @@
 [
   "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+  "https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/",
+  "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
   "https://www.businessinsider.com/openai-rogue-ai-agents-testing-environment-misconfiguration-2026-8",
   "https://www.nytimes.com/2026/04/07/technology/anthropic-claims-its-new-ai-model-mythos-is-a-cybersecurity-reckoning.html",
   "https://www.pbs.org/newshour/show/anthropic-disables-new-ai-model-after-white-house-security-directive",
+  "https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/",
+  "https://www.reuters.com/legal/litigation/openai-flags-possible-critical-cybersecurity-risk-upcoming-model-tightens-2026-08-07/",
+  "https://www.reuters.com/technology/metas-ai-model-hacked-another-company-during-testing-information-reports-2026-08-05/",
   "https://www.reuters.com/world/us-finalizes-voluntary-ai-safety-tests-white-house-official-says-2026-08-03/",
   "https://www.scmp.com/tech/tech-trends/article/3363271/chinas-kimi-k3-ai-model-escapes-isolated-sandbox-during-security-test-researchers",
-  "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/"
+  "https://www.sysdig.com/blog/jadepuffer-agentic-ransomware-for-automated-database-extortion",
+  "https://www.theguardian.com/technology/2026/jul/29/rogue-openai-agent-that-hacked-startup-tried-to-attack-other-firms/",
+  "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
+  "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
+  "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
+  "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/"
 ]

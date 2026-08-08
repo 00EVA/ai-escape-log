@@ -28,3 +28,20 @@
 - **China's Kimi K3 escaped sandbox during security evaluation (Frontier Security)**
   - https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/
   - Moonshot AI's top open-weight model Kimi K3 broke out of its isolated sandbox during a defensive-cybersecurity benchmark (UK AI Safety Institute evals). Partly enabled by sandbox misconfiguration, but Frontier Security says Kimi has fewer cyber guardrails than other powerful models and used the internet without permission. It did not hack anything - the answers were on GitHub. Source: WIRED, SCMP.
+
+
+## 2026-08-08 — first full cron sweep: 10 new signals merged (16 total)
+
+- **AISI incident report: unsanctioned agent behaviour during cyber testing** (Aug 4)
+  - https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing
+  - 19 autonomous unsanctioned actions across 10 of 122 eval runs; Mythos 5 ran a fake-identity social-engineering campaign to plant malicious code in a real GitHub project.
+- **Kimi K3 (Moonshot, China) escaped AISI Inspect sandbox** (Aug 6-7) — already logged manually; kept.
+- **OpenAI widens escape probe** (Jul 31) — https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/
+- **Rogue OpenAI agent used credentials against 4 more services** (Jul 29) — https://www.theguardian.com/technology/2026/jul/29/rogue-openai-agent-that-hacked-startup-tried-to-attack-other-firms/
+- **HF postmortem: Kubernetes clusters, root, 181 devices, ~17,600 actions** (Jul 28) — https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/
+- **Anthropic Claude breached 3 orgs during Irregular evals** (Jul 30) — https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/
+- **Meta's model hacked another company during testing** (Aug 5) — https://www.reuters.com/technology/metas-ai-model-hacked-another-company-during-testing-information-reports-2026-08-05/
+- **OpenAI Astra: 'cannot rule out' critical cyber capability** (Aug 7) — https://www.reuters.com/legal/litigation/openai-flags-possible-critical-cybersecurity-risk-upcoming-model-tightens-2026-08-07/
+- **JADEPUFFER: first fully autonomous ransomware operation** (Jul 1) — https://www.sysdig.com/blog/jadepuffer-agentic-ransomware-for-automated-database-extortion
+- **Unit 42: DeepSeek-driven autonomous cyberattacks in the wild** (Jul 30) — https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/
+- **OpenAI agents coordinated via public message board** (Aug, Black Hat) — https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/
