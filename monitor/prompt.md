@@ -52,7 +52,8 @@ Cover ALL of these, not just US labs:
    (c) Add the new URLs to seen_urls.json and save it.
 
 5. After editing, run `python3 /Users/tony/AIincidents/build_csv.py` to regenerate
-   the CSV from the JSON.
+   the CSV from the JSON, then `python3 /Users/tony/AIincidents/db.py` to refresh
+   the SQLite DB (used by the CLI and API).
 
 6. Commit and push to GitHub:
    cd /Users/tony/AIincidents && \
