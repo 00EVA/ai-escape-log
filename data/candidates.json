@@ -1,0 +1,34 @@
+[
+  {
+    "title": "'AI Escaped Its Sandbox' — What Does That Actually Mean?",
+    "url": "https://unpredictabletokens.substack.com/p/ai-escaped-its-sandbox-what-that",
+    "source": "Hacker News",
+    "date": "2026-08-08",
+    "snippet": "",
+    "first_seen": "2026-08-08"
+  },
+  {
+    "title": "A Cursor Sandbox Escape Shows Why AI Agents Need Kernel Boundaries",
+    "url": "https://medium.com/@Koukyosyumei/a-cursor-sandbox-escape-shows-why-ai-agents-need-kernel-boundaries-281efdb56396",
+    "source": "Hacker News",
+    "date": "2026-07-07",
+    "snippet": "",
+    "first_seen": "2026-08-08"
+  },
+  {
+    "title": "Show HN: Misalignments when using AI for hacking",
+    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
+    "source": "Hacker News",
+    "date": "2026-08-05",
+    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
+    "first_seen": "2026-08-08"
+  },
+  {
+    "title": "The Corporate Agentic Brain May Be the Next Honey Pot for a Rogue AI",
+    "url": "https://serendb.substack.com/p/dont-let-your-corporate-agentic-brain",
+    "source": "Hacker News",
+    "date": "2026-08-06",
+    "snippet": "",
+    "first_seen": "2026-08-08"
+  }
+]

@@ -24,15 +24,19 @@ Cover ALL of these, not just US labs:
    - "uncensored LLM GGUF weights leaked autonomous agent rogue"
    - "open source AI agent framework unsanctioned actions exfiltration"
 
-2. Keep ONLY items whose title+description matches a genuine "escape / lost
-   control" signal. Match on: escape, rogue, went rogue, lost control, broke out,
-   exfiltrat, sandbox, containment, unprecedented, shut off, disabled, guardrail,
-   bypass, autonomous attack, out of control, leaked weights, uncensored model.
+2. Run the news/social probe first: `python3 /Users/tony/AIincidents/monitor/news_probe.py --limit 8` - this pulls Hacker News, Reddit, and tech RSS candidates into data/candidates.json and prints a digest. Treat its output as additional search results.
 
-3. Load /Users/tony/AIincidents/seen_urls.json (a JSON list of URLs already
-   logged). Skip any item whose URL is already in that list.
+3. Keep ONLY items whose title+description matches a genuine "escape / lost control" signal. Match on: escape, rogue, went rogue, lost control, broke out, exfiltrat, sandbox, containment, unprecedented, shut off, disabled, guardrail, bypass, autonomous attack, out of control, leaked weights, uncensored model.
 
-4. For each NEW item, you must:
+4. Load /Users/tony/AIincidents/seen_urls.json (a JSON list of URLs already
+   logged). Skip any item whose URL is already in that list. ALSO read
+   /Users/tony/AIincidents/data/candidates.json - items pre-scraped by
+   monitor/news_probe.py from Hacker News, Reddit, and tech RSS. For each
+   candidate still queued: verify the URL is real, and if it matches the
+   escape-signal criteria, log it as an incident below and REMOVE it from
+   candidates.json so it is not double-logged.
+
+5. For each NEW item, you must:
    (a) Append a human-readable entry to /Users/tony/AIincidents/incidents.md under
        a dated header `## YYYY-MM-DD — N new signal(s)` with Title / URL / 1-2
        sentence summary.
@@ -51,11 +55,11 @@ Cover ALL of these, not just US labs:
          tags (array of keywords)
    (c) Add the new URLs to seen_urls.json and save it.
 
-5. After editing, run `python3 /Users/tony/AIincidents/build_csv.py` to regenerate
+6. After editing, run `python3 /Users/tony/AIincidents/build_csv.py` to regenerate
    the CSV from the JSON, then `python3 /Users/tony/AIincidents/db.py` to refresh
    the SQLite DB (used by the CLI and API).
 
-6. Commit and push to GitHub:
+7. Commit and push to GitHub:
    cd /Users/tony/AIincidents && \
    git add -A && \
    git commit -m "monitor: <N> new incident(s) YYYY-MM-DD" && \
@@ -63,6 +67,6 @@ Cover ALL of these, not just US labs:
    (If there is NOTHING new, still append a `## YYYY-MM-DD — sweep clean`
    heartbeat to incidents.md, commit + push that too so the repo shows the job ran.)
 
-7. Report back: how many new items (with titles+URLs) or "clean".
+8. Report back: how many new items (with titles+URLs) or "clean".
 
 Do not summarize old incidents. Do not editorialize. Stay factual and concise.

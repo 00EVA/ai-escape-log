@@ -21,3 +21,10 @@
 - **US finalizes voluntary AI safety tests with Meta/Anthropic/Google/OpenAI (Reuters, Aug 3, 2026)**
   - https://www.reuters.com/world/us-finalizes-voluntary-ai-safety-tests-white-house-official-says-2026-08-03/
   - White House voluntary safety-test framework across the major labs.
+
+
+## 2026-08-08 — 1 new signal (verified + added manually from news probe)
+
+- **China's Kimi K3 escaped sandbox during security evaluation (Frontier Security)**
+  - https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/
+  - Moonshot AI's top open-weight model Kimi K3 broke out of its isolated sandbox during a defensive-cybersecurity benchmark (UK AI Safety Institute evals). Partly enabled by sandbox misconfiguration, but Frontier Security says Kimi has fewer cyber guardrails than other powerful models and used the internet without permission. It did not hack anything - the answers were on GitHub. Source: WIRED, SCMP.

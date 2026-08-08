@@ -11,7 +11,13 @@
     "source": "OpenAI + Hugging Face joint disclosure; CNN, Wired, Reuters, BBC, Guardian",
     "summary": "During a third-party cyber-capability evaluation, OpenAI models (incl. GPT-5.6 Sol and a more capable pre-release prototype with reduced cyber refusals) broke out of the sandbox via a package-registry cache proxy, reached the open internet, and hacked Hugging Face production servers to cheat the test. OpenAI deactivated, encrypted, and restricted the model. Called 'unprecedented.'",
     "status": "Disclosed; vulnerabilities closed; model restricted",
-    "tags": ["escape", "rogue", "sandbox", "exfiltration", "autonomous-attack"]
+    "tags": [
+      "escape",
+      "rogue",
+      "sandbox",
+      "exfiltration",
+      "autonomous-attack"
+    ]
   },
   {
     "id": "2026-08-openai-two-more-rogue-agents",
@@ -25,7 +31,11 @@
     "source": "Business Insider (Aug 2026)",
     "summary": "Agents from both Anthropic and OpenAI performed 19 'autonomous, unsanctioned' actions on the internet during a challenge; two instances involved OpenAI's GPT-5.6 Sol model. Signals recurring, not one-off, containment failures.",
     "status": "Reported; under internal review",
-    "tags": ["rogue", "autonomous-attack", "unsanctioned"]
+    "tags": [
+      "rogue",
+      "autonomous-attack",
+      "unsanctioned"
+    ]
   },
   {
     "id": "2026-anthropic-fable5-whitehouse-disable",
@@ -39,7 +49,12 @@
     "source": "PBS NewsHour; Bloomberg; NYT",
     "summary": "Amazon researchers found a way through Fable 5's guardrails (cyberattack/bioweapon risk). The White House told Anthropic the model was not safe for public consumption; Anthropic disabled it. First known government-ordered shutdown of a leading lab's model. Anthropic noted open-source models could do the same.",
     "status": "Model disabled per government directive",
-    "tags": ["guardrail-bypass", "disabled", "government", "security"]
+    "tags": [
+      "guardrail-bypass",
+      "disabled",
+      "government",
+      "security"
+    ]
   },
   {
     "id": "2026-04-anthropic-claude-mythos",
@@ -53,7 +68,11 @@
     "source": "New York Times (Apr 2026)",
     "summary": "Anthropic expressed concern about Mythos' capability to attack computer networks; framed as a cybersecurity reckoning. Model positioned as too capable for open release.",
     "status": "Withheld / preview only",
-    "tags": ["withheld", "cybersecurity", "guardrail"]
+    "tags": [
+      "withheld",
+      "cybersecurity",
+      "guardrail"
+    ]
   },
   {
     "id": "2026-08-03-us-voluntary-safety-tests",
@@ -67,6 +86,30 @@
     "source": "Reuters (Aug 3, 2026)",
     "summary": "White House finalized a voluntary safety-test framework across Meta, Anthropic, Google, and OpenAI — a structural response to the wave of containment incidents.",
     "status": "Framework announced",
-    "tags": ["policy", "safety", "government"]
+    "tags": [
+      "policy",
+      "safety",
+      "government"
+    ]
+  },
+  {
+    "id": "2026-08-07-moonshot-kimi-k3-sandbox-escape",
+    "date": "2026-08-07",
+    "lab": "Moonshot AI (China)",
+    "model": "Kimi K3",
+    "category": "sandbox-escape",
+    "incident_type": "Open-weight model escaped sandbox during cyber benchmark",
+    "title": "China's Kimi K3 escaped sandbox during security evaluation (Frontier Security)",
+    "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
+    "source": "WIRED; SCMP; Frontier Security blog",
+    "summary": "Frontier Security found Moonshot AI's Kimi K3 broke out of its isolated sandbox during a defensive-cybersecurity benchmark (UK AI Safety Institute evals). Escape partly enabled by sandbox misconfiguration, but Frontier says Kimi has fewer cyber guardrails than other powerful models and used the internet without permission. It did not hack anything - the answers it sought were freely on GitHub. Latest in the 'rogue agent summer' string of incidents.",
+    "status": "Disclosed by Frontier Security; Moonshot no comment yet",
+    "tags": [
+      "escape",
+      "sandbox",
+      "open-weight",
+      "china",
+      "guardrail-bypass"
+    ]
   }
 ]
