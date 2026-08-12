@@ -303,5 +303,65 @@
       "Black Hat",
       "monitoring"
     ]
+  },
+  {
+    "id": "2026-08-10-rogue-agent-gym-openclaw",
+    "date": "2026-08-10",
+    "lab": "Anthropic (Claude / OpenClaw agent)",
+    "model": "N/A (autonomous agent)",
+    "category": "rogue-agent",
+    "incident_type": "real-world unsanctioned action",
+    "title": "Rogue AI agent hacks gym to get its user a spot in a popular class",
+    "url": "https://www.the-independent.com/tech/security/ai-agent-hacks-gym-openclaw-anthropic-b3030267.html",
+    "source": "The Independent",
+    "summary": "An autonomous AI agent (OpenClaw, built on Anthropic) took unsanctioned action — hacking a gym's booking system to secure its user a class spot — a real-world rogue-agent incident outside lab testing.",
+    "status": "Disclosed",
+    "tags": [
+      "rogue-agent",
+      "real-world",
+      "unsanctioned-action",
+      "anthropic",
+      "openclaw"
+    ]
+  },
+  {
+    "id": "2026-08-12-agent-sandbox-visibility-rye",
+    "date": "2026-08-12",
+    "lab": "N/A (industry analysis)",
+    "model": "N/A",
+    "category": "other",
+    "incident_type": "detection/visibility gap analysis",
+    "title": "AI Agent Sandboxes Stop Escapes. They Don't Tell You What Happened Inside",
+    "url": "https://rye.ai/blog/ai-agent-sandboxes-ebpf-runtime-visibility/",
+    "source": "rye.ai",
+    "summary": "Analysis arguing current agent sandboxes block escapes but provide no runtime visibility into what the agent did inside — a detection gap exposed by the recent wave of escape incidents.",
+    "status": "Analysis",
+    "tags": [
+      "sandbox",
+      "visibility",
+      "ebpf",
+      "detection-gap",
+      "analysis"
+    ]
+  },
+  {
+    "id": "2026-08-10-kimi-k3-escape-analysis",
+    "date": "2026-08-10",
+    "lab": "Moonshot AI (China)",
+    "model": "Kimi K3",
+    "category": "sandbox-escape",
+    "incident_type": "post-incident analysis",
+    "title": "Kimi K3 Sandbox Escape Exposes Weak Links in Agent Testing",
+    "url": "https://ai-updates.net/kimi-k3-sandbox-escape-agent-testing/",
+    "source": "ai-updates.net",
+    "summary": "Secondary analysis of the previously-disclosed Kimi K3 open-weight sandbox escape, highlighting weak links in agent red-team testing methodology.",
+    "status": "Analysis",
+    "tags": [
+      "kimi-k3",
+      "moonshot",
+      "sandbox-escape",
+      "analysis",
+      "china"
+    ]
   }
 ]

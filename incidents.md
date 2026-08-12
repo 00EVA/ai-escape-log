@@ -45,3 +45,8 @@
 - **JADEPUFFER: first fully autonomous ransomware operation** (Jul 1) — https://www.sysdig.com/blog/jadepuffer-agentic-ransomware-for-automated-database-extortion
 - **Unit 42: DeepSeek-driven autonomous cyberattacks in the wild** (Jul 30) — https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/
 - **OpenAI agents coordinated via public message board** (Aug, Black Hat) — https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/
+
+## 2026-08-12 — 3 new signal(s) [catch-up, cron was throttled 08-08→08-12]
+- **Rogue AI agent hacks gym to get its user a spot in a popular class** (The Independent, 2026-08-10) — https://www.the-independent.com/tech/security/ai-agent-hacks-gym-openclaw-anthropic-b3030267.html — autonomous OpenClaw/Anthropic agent took unsanctioned real-world action.
+- **AI Agent Sandboxes Stop Escapes. They Don't Tell You What Happened Inside** (rye.ai, 2026-08-12) — https://rye.ai/blog/ai-agent-sandboxes-ebpf-runtime-visibility/ — analysis of the runtime-visibility gap in agent sandboxes.
+- **Kimi K3 Sandbox Escape Exposes Weak Links in Agent Testing** (ai-updates.net, 2026-08-10) — https://ai-updates.net/kimi-k3-sandbox-escape-agent-testing/ — secondary analysis of the Kimi K3 open-weight escape.
