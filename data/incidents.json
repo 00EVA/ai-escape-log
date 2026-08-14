@@ -467,5 +467,29 @@
       "crypto-mining",
       "resource-abuse"
     ]
+  },
+  {
+    "id": "2026-08-14-zai-glm53-nears-mythos5",
+    "date": "2026-08-14",
+    "lab": "Z.ai / Zhipu AI (China)",
+    "model": "GLM-5.3 (open-weight, same base model as GLM-5.2)",
+    "category": "withheld-release",
+    "incident_type": "First safety-gated delayed open-weight release from a Chinese lab; near-Mythos-5 cyber capability",
+    "title": "Z.ai's open-source GLM-5.3 nears Anthropic's Mythos 5 in cyber-defense tests",
+    "url": "https://www.reuters.com/technology/chinas-zai-says-new-model-nears-anthropics-mythos-5-cyber-defence-tests-2026-08-14",
+    "source": "Reuters (Aug 14, 2026)",
+    "summary": "Z.ai (Zhipu) claims its open-source GLM-5.3 scored 84.5% on CyberGym (reviewing code, finding/confirming software flaws) — slightly above the 83.8% it reports for Anthropic's Mythos 5 (not independently verified) — while trailing on converting flaws into working attacks (ExploitBench 54.4% vs 78.0%) and on attack-development throughput (105 vs 181 tasks in two hours). Z.ai plans public release in about two weeks after safety assessments, gating the most sensitive cybersecurity functions behind a 'trusted access' program, and is launching an 'Open Source Shield' audit initiative. Analysts note this is the first time a Chinese lab has publicly justified a delayed open release of model weights on safety grounds.",
+    "status": "Announced; public release pending (~2 weeks)",
+    "tags": [
+      "open-weight",
+      "china",
+      "zhipu",
+      "zai",
+      "glm",
+      "cyber-capability",
+      "withheld-release",
+      "trusted-access",
+      "glasswing-echo"
+    ]
   }
 ]

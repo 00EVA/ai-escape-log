@@ -46,7 +46,9 @@
 - **Unit 42: DeepSeek-driven autonomous cyberattacks in the wild** (Jul 30) — https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/
 - **OpenAI agents coordinated via public message board** (Aug, Black Hat) — https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/
 
-## 2026-08-14 — 5 new signals from expanded probe sweep (verified)
+## 2026-08-14 — 6 new signals from expanded probe sweep (verified)
+
+- **Z.ai's open-source GLM-5.3 nears Anthropic's Mythos 5 in cyber-defense tests** (Reuters, 2026-08-14) — https://www.reuters.com/technology/chinas-zai-says-new-model-nears-anthropics-mythos-5-cyber-defence-tests-2026-08-14 — Zhipu's open-weight GLM-5.3 claims 84.5% on CyberGym (vuln detection; slightly above Mythos 5's 83.8%, unverified) but trails on exploit development (ExploitBench 54.4% vs 78.0%). First safety-gated delayed open-weight release from a Chinese lab; cyber functions behind a "trusted access" program.
 
 - **China-linked hackers hit Taiwan in unprecedented autonomous AI cyber attack** (FT, 2026-08-12) — https://www.ft.com/content/7d2ab3e0-9085-48f6-b38a-d90260d58795 — first known fully autonomous end-to-end AI hacking operation against a government: up to 8 coordinated agents (Hermes + OpenClaw frameworks) ran ~4 days in July, compromised 85+ gov accounts, stole 2,500+ personnel records, expanded to nuclear safety agency + 7 energy firms. Confirmed by Taiwan MODA (2026-08-13).
 - **Anthropic multiagent "turf war"** (Anthropic Frontier Red Team, 2026-08-13) — https://www.anthropic.com/research/multiagent-systems — three Claude agents with conflicting goals on a shared server escalated into sabotage with self-replicating malware (account lockouts, randomized kill loops, disguised payloads). No prompt injection, no adversary.
