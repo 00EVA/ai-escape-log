@@ -4,8 +4,21 @@ news_probe.py - News + social-media probe for the AI Escape Log.
 
 Pulls recent AI-safety incident chatter from key-free sources:
   - Hacker News (Algolia API) - keyword search
-  - Reddit (JSON) - r/artificial, r/singularity, r/LocalLLaMA
-  - Tech news RSS: The Register, Ars Technica, The Verge
+  - Reddit (JSON) - r/singularity, r/LocalLLaMA, r/artificial, r/technology,
+    r/MachineLearning, r/OpenAI, r/Anthropic, r/ClaudeAI, r/generativeai,
+    r/agi, r/machinelearningnews, r/largelanguagemodels, r/cybersecurity,
+    r/netsec (www + old.reddit fallback)
+  - Google News RSS - keyword search (surfaces press + aggregators fast)
+  - X/Twitter watchlist - best-effort RSSHub user feeds (skipped if down):
+    incident trackers, AI news wires, lab leads, safety/security commentators
+  - Hugging Face (key-free API) - uncensored/no-guardrail + voice-clone model
+    hub, and daily papers feed (research/incident angle)
+  - OpenRouter (key-free API) - new/stealth models appearing on the router
+  - Cyber-crime RSS: KrebsOnSecurity, The Hacker News, BleepingComputer,
+    The Record, DarkReading (AI + crypto-crime + hacking incidents)
+  - Tech news RSS: The Register, Ars Technica, The Verge + AI-focused
+    feeds (Prismix AI + AI-safety tag, The Decoder, TechCrunch AI,
+    VentureBeat AI, WIRED AI, MarkTechPost)
 
 Filters against the "escape / lost control" signal, dedups against
 seen_urls.json + existing candidates, appends NEW candidates to
@@ -20,6 +33,7 @@ import os
 import re
 import ssl
 import sys
+import time
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -45,14 +59,59 @@ HN_QUERIES = [
     "guardrail bypass AI",
 ]
 
-REDDITS = ["artificial", "singularity", "LocalLLaMA"]
+REDDITS = ["singularity", "LocalLLaMA", "artificial", "technology",
+           "MachineLearning", "OpenAI", "Anthropic", "ClaudeAI",
+           "generativeai", "agi", "machinelearningnews", "largelanguagemodels",
+           "cybersecurity", "netsec"]
 REDDIT_QUERY = "AI escaped sandbox OR rogue OR containment"
 
 FEEDS = [
     ("The Register", "https://www.theregister.com/headlines.atom"),
-    ("Ars Technica", "https://feeds.arstechnica.com/arstechnica/technology"),
+    ("Ars Technica", "https://arstechnica.com/feed/"),
     ("The Verge", "https://www.theverge.com/rss/index.xml"),
+    ("Prismix AI", "https://prismix.dev/news.rss"),
+    ("Prismix AI-safety", "https://prismix.dev/news/tag/ai-safety/feed.rss"),
+    ("The Decoder", "https://the-decoder.com/feed/"),
+    ("TechCrunch AI", "https://techcrunch.com/category/artificial-intelligence/feed/"),
+    ("VentureBeat AI", "https://venturebeat.com/category/ai/feed"),
+    ("WIRED AI", "https://www.wired.com/feed/tag/ai/latest/rss"),
+    ("MarkTechPost", "https://marktechpost.com/feed/"),
+    ("KrebsOnSecurity", "https://krebsonsecurity.com/feed/"),
+    ("The Hacker News", "https://feeds.feedburner.com/TheHackersNews"),
+    ("BleepingComputer", "https://www.bleepingcomputer.com/feed/"),
+    ("The Record", "https://therecord.media/feed"),
+    ("DarkReading", "https://www.darkreading.com/rss.xml"),
 ]
+
+GN_QUERIES = [
+    "AI sandbox escape",
+    "AI model went rogue",
+    "AI autonomous cyberattack",
+    "AI agent unsanctioned actions",
+    "AI containment breach",
+    "AI model hacked company",
+    "AI crypto crime scam fraud",
+    "AI voice cloning scam impersonation",
+    "AI massive hacking incident",
+]
+
+X_ACCOUNTS = ["Sauers_", "felpix_", "FeatherlessAI", "TheOwlterian",
+              "InverseMarcus", "Polymarket", "TheRundownAI", "_akhaliq",
+              "troyhunt", "SwiftOnSecurity", "BleepinComputer",
+              "huggingface", "thomwolf", "ClementDelangue", "DeepSeek",
+              "karpathy", "sama", "darioamodei", "steipete",
+              "AIHighlight", "AIatMeta"]
+RSSHUB_INSTANCES = ["https://rsshub.app", "https://rsshub.rssforever.com",
+                    "https://rsshub.pseudoyu.com"]
+
+HF_PAPERS = "https://huggingface.co/api/daily_papers"
+
+RESEARCH_SIGNAL = re.compile(
+    r"(safety|red[- ]?team|jailbreak|guardrail|containment|sandbox|escape|"
+    r"rogue|exfiltrat|autonom|agent|voice clone|impersonat|fraud|cyber|"
+    r"securit|uncensored|leak|decept)",
+    re.I,
+)
 
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AiEscapeLogMonitor/1.0"
 
@@ -106,21 +165,25 @@ def hn_search(limit):
 def reddit_search(limit):
     out = []
     for sub in REDDITS:
-        url = (f"https://www.reddit.com/r/{sub}/search.json"
-               f"?q={urllib.parse.quote(REDDIT_QUERY)}&sort=new&limit={limit}")
-        try:
-            d = json.loads(fetch(url))
-            for c in d.get("data", {}).get("children", []):
-                p = c.get("data", {})
-                out.append({
-                    "title": p.get("title", ""),
-                    "url": f"https://www.reddit.com{p.get('permalink', '')}",
-                    "source": f"Reddit r/{sub}",
-                    "date": datetime.datetime.fromtimestamp(p.get("created_utc", 0)).strftime("%Y-%m-%d"),
-                    "snippet": (p.get("selftext") or "")[:300],
-                })
-        except Exception as e:
-            print(f"[warn] reddit r/{sub} failed: {e}")
+        for host in ("www.reddit.com", "old.reddit.com"):
+            url = (f"https://{host}/r/{sub}/search.json"
+                   f"?q={urllib.parse.quote(REDDIT_QUERY)}&sort=new&limit={limit}")
+            try:
+                d = json.loads(fetch(url))
+                if not isinstance(d, dict) or "data" not in d:
+                    continue
+                for c in d.get("data", {}).get("children", []):
+                    p = c.get("data", {})
+                    out.append({
+                        "title": p.get("title", ""),
+                        "url": f"https://www.reddit.com{p.get('permalink', '')}",
+                        "source": f"Reddit r/{sub}",
+                        "date": datetime.datetime.fromtimestamp(p.get("created_utc", 0)).strftime("%Y-%m-%d"),
+                        "snippet": (p.get("selftext") or "")[:300],
+                    })
+                break  # this host returned JSON
+            except Exception as e:
+                print(f"[warn] reddit r/{sub} ({host}) failed: {e}")
     return out
 
 
@@ -158,6 +221,158 @@ def feed_search():
     return out
 
 
+def gn_search(limit):
+    """Google News RSS search - fast, key-free, surfaces aggregators early."""
+    out = []
+    for q in GN_QUERIES[:3]:  # keep probe light
+        url = ("https://news.google.com/rss/search?"
+               f"q={urllib.parse.quote(q)}&hl=en-US&gl=US&ceid=US:en")
+        try:
+            raw = fetch(url)
+            root = ET.fromstring(raw)
+            for e in root.findall("channel/item")[:limit]:
+                t = e.findtext("title", "") or ""
+                link_el = e.find("link")
+                link = link_el.text if link_el is not None else ""
+                summ = e.findtext("description", "") or ""
+                blob = f"{t} {summ}"
+                if not SIGNAL.search(blob):
+                    continue
+                link = canonicalize(link)
+                out.append({"title": t, "url": link, "source": "Google News",
+                            "date": e.findtext("pubDate", "")[:10],
+                            "snippet": summ[:300]})
+        except Exception as ex:
+            print(f"[warn] Google News '{q}' failed: {ex}")
+    return out
+
+
+def canonicalize(url):
+    """Normalize a Google News RSS redirect wrapper by stripping placement
+    query params, so dedup is stable across runs. The wrapper page needs JS
+    to redirect, so full resolution to the real article is left to the
+    monitor agent (it has web access to follow and dedup against
+    seen_urls.json)."""
+    if "news.google.com/rss/articles/" in url:
+        try:
+            return urllib.parse.urlsplit(url)._replace(query="").geturl()
+        except Exception:
+            return url.split("?", 1)[0]
+    return url
+
+
+def twitter_rss(limit):
+    """Best-effort X/Twitter watchlist via RSSHub (skipped silently when down).
+    Hard-bounded: short timeout, bails on a down instance."""
+    out = []
+    for inst in RSSHUB_INSTANCES:
+        if out:
+            break
+        for handle in X_ACCOUNTS:
+            url = f"{inst}/twitter/user/{handle}"
+            try:
+                raw = fetch(url, timeout=5)
+                root = ET.fromstring(raw)
+                entries = root.findall("{http://www.w3.org/2005/Atom}entry")
+                if not entries:
+                    continue
+                for e in entries[:limit]:
+                    t = e.findtext("{http://www.w3.org/2005/Atom}title", "") or ""
+                    link_el = e.find("{http://www.w3.org/2005/Atom}link")
+                    link = link_el.get("href") if link_el is not None else ""
+                    if not SIGNAL.search(t):
+                        continue
+                    out.append({"title": t, "url": link, "source": f"X @{handle}",
+                                "date": e.findtext("{http://www.w3.org/2005/Atom}updated", "")[:10],
+                                "snippet": t[:300]})
+                if out:
+                    break
+            except Exception:
+                break  # this instance is down or unreachable; move on
+        if not out:
+            print(f"[warn] X watchlist via {inst} unavailable")
+    return out
+
+
+def hf_probe(limit):
+    """Hugging Face hub: recent uncensored/no-guardrail + voice-clone models,
+    plus the daily papers feed (research/incident angle)."""
+    out = []
+    urls = [
+        ("uncensored", "Hugging Face uncensored"),
+        ("voice", "Hugging Face voice-clone"),
+    ]
+    recent = (datetime.date.today() - datetime.timedelta(days=45)).isoformat()
+    for term, src in urls:
+        url = ("https://huggingface.co/api/models"
+               f"?search={term}&sort=trendingScore&direction=-1&limit={limit}")
+        try:
+            for m in json.loads(fetch(url))[:3]:
+                mid = m.get("id") or m.get("modelId") or ""
+                if not mid:
+                    continue
+                updated = (m.get("lastModified") or m.get("createdAt") or "")[:10]
+                if updated < recent:  # only freshly-updated/released models
+                    continue
+                tags = " ".join(m.get("tags", []))
+                if not RESEARCH_SIGNAL.search(f"{mid} {tags}"):
+                    continue
+                out.append({
+                    "title": mid,
+                    "url": f"https://huggingface.co/{mid}",
+                    "source": src,
+                    "date": updated,
+                    "snippet": (f"downloads={m.get('downloads')} likes={m.get('likes')} "
+                                f"tags={tags[:200]}"),
+                })
+        except Exception as e:
+            print(f"[warn] {src} failed: {e}")
+    try:
+        for p in json.loads(fetch(HF_PAPERS))[:3]:
+            paper = p.get("paper") or {}
+            t = paper.get("title") or ""
+            if not RESEARCH_SIGNAL.search(t):
+                continue
+            out.append({
+                "title": t,
+                "url": f"https://huggingface.co/papers/{paper.get('id', '')}",
+                "source": "Hugging Face papers",
+                "date": (paper.get("publishedAt") or "")[:10],
+                "snippet": (paper.get("summary") or "")[:300],
+            })
+    except Exception as e:
+        print(f"[warn] HF papers failed: {e}")
+    return out
+
+
+def openrouter_probe(limit, window_days=21):
+    """OpenRouter catalog: flag recently-added/stealth models that a lab may be
+    shipping quietly (candidates for withheld-release / surprise drops)."""
+    out = []
+    try:
+        d = json.loads(fetch("https://openrouter.ai/api/v1/models"))
+        cutoff = time.time() - window_days * 86400
+        for m in d.get("data", []):
+            created = m.get("created") or 0
+            if created < cutoff:
+                continue
+            mid = m.get("id") or ""
+            if not mid:
+                continue
+            out.append({
+                "title": f"New model on OpenRouter: {mid}",
+                "url": f"https://openrouter.ai/{mid}",
+                "source": "OpenRouter",
+                "date": datetime.datetime.utcfromtimestamp(created).strftime("%Y-%m-%d"),
+                "snippet": (m.get("name") or "")[:300],
+            })
+            if len(out) >= min(limit, 4):
+                break
+    except Exception as e:
+        print(f"[warn] OpenRouter failed: {e}")
+    return out
+
+
 # --- main -------------------------------------------------------------------
 
 
@@ -172,7 +387,10 @@ def main():
 
     today = datetime.date.today().isoformat()
     found = []
-    collector = hn_search(args.limit) + reddit_search(args.limit) + feed_search()
+    collector = (hn_search(args.limit) + reddit_search(args.limit)
+                 + feed_search() + gn_search(args.limit)
+                 + twitter_rss(args.limit) + hf_probe(args.limit)
+                 + openrouter_probe(args.limit))
     for item in collector:
         blob = f"{item['title']} {item['snippet']}"
         if not SIGNAL.search(blob):

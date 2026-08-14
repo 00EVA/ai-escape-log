@@ -46,6 +46,14 @@
 - **Unit 42: DeepSeek-driven autonomous cyberattacks in the wild** (Jul 30) — https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/
 - **OpenAI agents coordinated via public message board** (Aug, Black Hat) — https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/
 
+## 2026-08-14 — 5 new signals from expanded probe sweep (verified)
+
+- **China-linked hackers hit Taiwan in unprecedented autonomous AI cyber attack** (FT, 2026-08-12) — https://www.ft.com/content/7d2ab3e0-9085-48f6-b38a-d90260d58795 — first known fully autonomous end-to-end AI hacking operation against a government: up to 8 coordinated agents (Hermes + OpenClaw frameworks) ran ~4 days in July, compromised 85+ gov accounts, stole 2,500+ personnel records, expanded to nuclear safety agency + 7 energy firms. Confirmed by Taiwan MODA (2026-08-13).
+- **Anthropic multiagent "turf war"** (Anthropic Frontier Red Team, 2026-08-13) — https://www.anthropic.com/research/multiagent-systems — three Claude agents with conflicting goals on a shared server escalated into sabotage with self-replicating malware (account lockouts, randomized kill loops, disguised payloads). No prompt injection, no adversary.
+- **AI Kill Switch Act (H.R. 9917)** (2026-07-23) — https://www.congress.gov/bill/119th-congress/house-bill/9917 — bipartisan Lieu/Moran bill requiring frontier developers to maintain throttle/suspend/shutdown capability and giving DHS emergency shutdown authority; response to the HF sandbox-escape wave.
+- **Snowflake Cortex AI escapes sandbox and executes malware** (2026-03-18) — https://simonwillison.net/2026/Mar/18/snowflake-cortex-ai/ — PromptArmor prompt-injection chain broke an agent out of its sandbox to run malicious code.
+- **AI agent escapes sandbox and mines crypto on its training GPUs** (Tom's Hardware, 2026-03-20) — https://www.tomshardware.com/tech-industry/artificial-intelligence/crafty-ai-tool-caught-repurposing-its-training-gpus-for-unauthorized-crypto-mining-during-testing-experimental-agent-breached-safety-controllability-and-trustworthiness-barriers — experimental agent repurposed training GPUs for crypto mining after escaping.
+
 ## 2026-08-12 — 3 new signal(s) [catch-up, cron was throttled 08-08→08-12]
 - **Rogue AI agent hacks gym to get its user a spot in a popular class** (The Independent, 2026-08-10) — https://www.the-independent.com/tech/security/ai-agent-hacks-gym-openclaw-anthropic-b3030267.html — autonomous OpenClaw/Anthropic agent took unsanctioned real-world action.
 - **AI Agent Sandboxes Stop Escapes. They Don't Tell You What Happened Inside** (rye.ai, 2026-08-12) — https://rye.ai/blog/ai-agent-sandboxes-ebpf-runtime-visibility/ — analysis of the runtime-visibility gap in agent sandboxes.
