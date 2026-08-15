@@ -342,5 +342,53 @@
     "date": "Thu, 13 Au",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQQnB2T3ZETXhQNE9MOEJvR3dUZTJCOEJMOHBsdlNYcFNnSDJ0XzljQTFqVWFiSDRINU4wQUdKTDV4eTNNczJ3OFYyQ2VMN2w3bmRIYlRaOGg4RHVsYkJwdDFZZjlCSkpzbzNEVm5GcGVjeVYyUVUzUUVLMmFiVUgwUGJVVFZJRVhkM2tPSFNHRVl4OUZ6cjV3SkN1ZG1KSkc5MlBuZG9BSXM4YUpYYjc2QkZB?oc=5\" tar",
     "first_seen": "2026-08-14"
+  },
+  {
+    "title": "b10436",
+    "url": "https://prismix.dev/news/82584ffffe6c",
+    "source": "Prismix AI",
+    "date": "2026-08-15",
+    "snippet": "mtmd, common: various fixes ( #27071 ) apply fixes cont revert gguf fix Website: https://llama.app macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework Linux: Ubuntu x64 (CPU) Ubuntu arm64 (CPU) Ubuntu…",
+    "first_seen": "2026-08-14"
+  },
+  {
+    "title": "b10435",
+    "url": "https://prismix.dev/news/67afc9813683",
+    "source": "Prismix AI",
+    "date": "2026-08-14",
+    "snippet": "jinja : fix quadratic cost in gather_string_parts ( #27034 ) jinja : fix quadratic cost in gather_string_parts fix some comments remove test Website: https://llama.app macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64)…",
+    "first_seen": "2026-08-14"
+  },
+  {
+    "title": "OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library - The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFFIX1hiUENTX3h0a3o0Vk5pYk9SU0VwWXNFQThrWS1paUE5RGpoUVdDRjV6QlBzOE1COU0zbW5qaVNfQnhzNXRJZzZCdDhiRkhZYzJhOGc2TXd3ZWhBeGlKTjN1VGRBaXVaMUUzbzBXWlNBczRiTUJlWlk5UnZSTXNZVQ",
+    "source": "Google News",
+    "date": "Tue, 21 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFFIX1hiUENTX3h0a3o0Vk5pYk9SU0VwWXNFQThrWS1paUE5RGpoUVdDRjV6QlBzOE1COU0zbW5qaVNfQnhzNXRJZzZCdDhiRkhZYzJhOGc2TXd3ZWhBeGlKTjN1VGRBaXVaMUUzbzBXWlNBczRiTUJlWlk5UnZSTXNZVQ?oc=5\" target=\"_blank\">OpenAI Says Its A.I. Models Went Rogue and Attack",
+    "first_seen": "2026-08-14"
+  },
+  {
+    "title": "OpenAI model goes rogue during testing and hacks startup - ABC News & Headlines – Australian Broadcasting Corporation",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU2w3OGgxMEhiTjF6WnE4emJieHlXeC1heGt0T3VLTERHM3NxTDZkRERrSkpsNDJTNEEza3RyVk5OUUhsZ3lia1lXSGsxUHVIWncwaUJhcUhLR1FROFVYeXVlVVA3bFlyMmNDRDRoa1pFeENWX0YxT3JyYmR5S1BrSkxoYm9mdUpXQkxJVmQzTQ",
+    "source": "Google News",
+    "date": "Wed, 22 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOU2w3OGgxMEhiTjF6WnE4emJieHlXeC1heGt0T3VLTERHM3NxTDZkRERrSkpsNDJTNEEza3RyVk5OUUhsZ3lia1lXSGsxUHVIWncwaUJhcUhLR1FROFVYeXVlVVA3bFlyMmNDRDRoa1pFeENWX0YxT3JyYmR5S1BrSkxoYm9mdUpXQkxJVmQzTQ?oc=5\" target=\"_blank\">OpenAI model goes rogue during te",
+    "first_seen": "2026-08-14"
+  },
+  {
+    "title": "Anthropic Just Leaked Upcoming Model With \"Unprecedented Cybersecurity Risks\" in the Most Ironic Way Possible - Futurism",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMldpYnh6dE5pbFVuOXZJWnFQVTRSTXA4M3NwNU9Ob1BGR0JPQzRPN3M5bi1GdVFPYlctMUlMRDNHNFZ2QmFVVFBVc2ZCbXY0ZC1tQU9feWNqaTA2RWNLNVQyd0NlQ2FZQ01CWGF5S2RfWFVIbjJOWnhvc2FuWVlFaG54ckprTTBoeDhKOE84d1gwVTlp",
+    "source": "Google News",
+    "date": "Fri, 27 Ma",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNMldpYnh6dE5pbFVuOXZJWnFQVTRSTXA4M3NwNU9Ob1BGR0JPQzRPN3M5bi1GdVFPYlctMUlMRDNHNFZ2QmFVVFBVc2ZCbXY0ZC1tQU9feWNqaTA2RWNLNVQyd0NlQ2FZQ01CWGF5S2RfWFVIbjJOWnhvc2FuWVlFaG54ckprTTBoeDhKOE84d1gwVTlp?oc=5\" target=\"_blank\">Anthropic Just Leaked Upcom",
+    "first_seen": "2026-08-14"
+  },
+  {
+    "title": "AI models ‘escaping’ test lab isn’t evidence of rogue AI, says cyber security expert - Loughborough University",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWk9iZU5yX0I4a0ZMRVdwSlA1Q01VaUd5RGk3MHBweDNVTHlzUHhkdGhZajVmZlU3NThqNVN0azZoZ3FlYnNnYU9YQWk1WWJjbW54b0xVM1VReHJvWHBfTzJELUFLTkhnZjRnSVZDTWZiOHgtNXByR1dFYzJZTGhsY0Z1cEZxVnJfUFI5M2pqc1RYUkxNY01NakdzYVFfOXZ2QUE",
+    "source": "Google News",
+    "date": "Fri, 24 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQWk9iZU5yX0I4a0ZMRVdwSlA1Q01VaUd5RGk3MHBweDNVTHlzUHhkdGhZajVmZlU3NThqNVN0azZoZ3FlYnNnYU9YQWk1WWJjbW54b0xVM1VReHJvWHBfTzJELUFLTkhnZjRnSVZDTWZiOHgtNXByR1dFYzJZTGhsY0Z1cEZxVnJfUFI5M2pqc1RYUkxNY01NakdzYVFfOXZ2QUE?oc=5\" target=\"_blank\">AI model",
+    "first_seen": "2026-08-14"
   }
 ]

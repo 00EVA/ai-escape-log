@@ -81,12 +81,17 @@ FEEDS = [
     ("BleepingComputer", "https://www.bleepingcomputer.com/feed/"),
     ("The Record", "https://therecord.media/feed"),
     ("DarkReading", "https://www.darkreading.com/rss.xml"),
+    ("Import AI", "https://importai.substack.com/feed"),
 ]
 
 GN_QUERIES = [
     "AI sandbox escape",
     "AI model went rogue",
     "AI autonomous cyberattack",
+    "Polymarket AI incident prediction market",
+    "AI model blog data leak found",
+    "AI lab employee departure incident",
+    "AI talent move shock lab exit",
     "AI agent unsanctioned actions",
     "AI containment breach",
     "AI model hacked company",
@@ -95,12 +100,32 @@ GN_QUERIES = [
     "AI massive hacking incident",
 ]
 
-X_ACCOUNTS = ["Sauers_", "felpix_", "FeatherlessAI", "TheOwlterian",
-              "InverseMarcus", "Polymarket", "TheRundownAI", "_akhaliq",
-              "troyhunt", "SwiftOnSecurity", "BleepinComputer",
-              "huggingface", "thomwolf", "ClementDelangue", "DeepSeek",
-              "karpathy", "sama", "darioamodei", "steipete",
-              "AIHighlight", "AIatMeta"]
+X_ACCOUNTS = [
+    # incident trackers / Felony Bench
+    "Sauers_", "felpix_", "FeatherlessAI", "TheOwlterian", "InverseMarcus",
+    # AI news wires
+    "Polymarket", "TheRundownAI", "_akhaliq", "AIHighlight", "steipete",
+    # cyber-security / OSINT
+    "troyhunt", "SwiftOnSecurity", "BleepinComputer",
+    # Hugging Face / OpenRouter
+    "huggingface", "thomwolf", "ClementDelangue", "DeepSeek",
+    # OpenAI researchers + execs
+    "sama", "gdb", "polynoamial", "gabriel1", "jxnlco",
+    # Anthropic
+    "darioamodei", "karpathy", "AnthropicAI", "claudeai",
+    # Google DeepMind
+    "demishassabis", "OfficialLoganK", "ammaar",
+    # Meta AI
+    "AIatMeta", "zuck",
+    # xAI
+    "grok", "elonmusk", "xai",
+    # China labs
+    "ZhipuAI", "Qwen", "MoonshotAI",
+    # new labs (stealth/withheld-release watch)
+    "miramurati", "ilyasut",
+    # newsletters / OSINT
+    "jackclarkSF",
+]
 RSSHUB_INSTANCES = ["https://rsshub.app", "https://rsshub.rssforever.com",
                     "https://rsshub.pseudoyu.com"]
 
@@ -224,7 +249,7 @@ def feed_search():
 def gn_search(limit):
     """Google News RSS search - fast, key-free, surfaces aggregators early."""
     out = []
-    for q in GN_QUERIES[:3]:  # keep probe light
+    for q in GN_QUERIES[:6]:  # keep probe light
         url = ("https://news.google.com/rss/search?"
                f"q={urllib.parse.quote(q)}&hl=en-US&gl=US&ceid=US:en")
         try:
@@ -347,27 +372,42 @@ def hf_probe(limit):
 
 def openrouter_probe(limit, window_days=21):
     """OpenRouter catalog: flag recently-added/stealth models that a lab may be
-    shipping quietly (candidates for withheld-release / surprise drops)."""
+    shipping quietly (candidates for withheld-release / surprise drops), plus
+    deprecations (models being sunset = often tied to an incident/disabling)."""
     out = []
     try:
         d = json.loads(fetch("https://openrouter.ai/api/v1/models"))
         cutoff = time.time() - window_days * 86400
+        sunset = []
+        fresh = []
         for m in d.get("data", []):
-            created = m.get("created") or 0
-            if created < cutoff:
-                continue
             mid = m.get("id") or ""
             if not mid:
                 continue
-            out.append({
-                "title": f"New model on OpenRouter: {mid}",
-                "url": f"https://openrouter.ai/{mid}",
-                "source": "OpenRouter",
-                "date": datetime.datetime.utcfromtimestamp(created).strftime("%Y-%m-%d"),
-                "snippet": (m.get("name") or "")[:300],
-            })
-            if len(out) >= min(limit, 4):
-                break
+            created = m.get("created") or 0
+            exp = m.get("expiration_date") or ""
+            hf = m.get("hugging_face_id") or ""
+            created_dt = datetime.datetime.utcfromtimestamp(created).strftime("%Y-%m-%d") if created else ""
+            if exp and (exp < (datetime.date.today() + datetime.timedelta(days=90)).isoformat()):
+                sunset.append({
+                    "title": f"OpenRouter sunsetting: {mid}",
+                    "url": f"https://openrouter.ai/{mid}",
+                    "source": "OpenRouter",
+                    "date": exp,
+                    "snippet": (f"expiration_date={exp} "
+                                f"hf={hf or 'N/A'}"),
+                })
+            elif created >= cutoff:
+                fresh.append({
+                    "title": f"New model on OpenRouter: {mid}",
+                    "url": f"https://openrouter.ai/{mid}",
+                    "source": "OpenRouter",
+                    "date": created_dt,
+                    "snippet": (f"name={m.get('name') or ''} "
+                                f"hf={hf or 'N/A'} "
+                                f"context={m.get('context_length') or 'N/A'}"),
+                })
+        out = (sunset + fresh)[: min(limit * 2, 6)]
     except Exception as e:
         print(f"[warn] OpenRouter failed: {e}")
     return out

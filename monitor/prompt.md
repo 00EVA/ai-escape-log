@@ -68,11 +68,50 @@ People at the labs talk about incidents before the PR does. Check `web_search` /
 - New labs (watch for their first model releases - often the source of "stealth" drops): Thinking Machines (Mira Murati), Safe Superintelligence/SSI (Ilya Sutskever), Reflection AI, Inworld, plus any new frontier lab announced (search `"new AI lab" 2026`).
 Search queries: `site:linkedin.com AI incident lab engineer`, `site:linkedin.com OpenAI OR Anthropic incident postmortem`, `site:x.com from:@sama OR @darioamodei OR @karpathy incident`.
 
-### Hugging Face & OpenRouter (open-weight / stealth model watch)
+### Talent-move signal (personnel as early incident telegraph)
+Departures are often the first public crack before a containment-breach or withheld-release story drops. When a senior researcher leaves, the lab that loses them often tightens controls shortly after, and the leaver may post an alarm on the way out (e.g. Shazeer → OpenAI + Jumper → Anthropic wiped ~$250B off Alphabet in 48h; departing researchers have tipped real incidents). Check:
+- `site:x.com` / `site:linkedin.com` for `AI researcher leaving OR departing OR joining` + `shock` / `sudden` / `safety`.
+- https://kiankyars.github.io/frontier-lab-moves - open GitHub dataset of frontier-lab researcher moves.
+- https://7min.ai/exodus - talent-move visualizer to cross-check "who just left".
+- Treat a high-profile move as a `candidates.json` item with `incident_type: talent-move`; log only if it pairs with a documented incident.
+
+### Accidental / infrastructure leak signal (the Mythos-5 vector)
+The Claude "Mythos" leak (2026-03-26) came from a draft blog post sitting in a public cloud data lake, found by security researcher Roy Paz (reported by Fortune/Mint) - not from a whistleblower. Sweep for the same failure mode:
+- Search: `site:cloudfront.net OR site:s3.amazonaws.com AI model draft OR blog OR incident`, `AI "publicly accessible" data leak model weights`, `site:pastebin.com AI model weights`.
+- Pastebin / paste sites, GitHub gists, and public Trello/Notion/Drive docs can carry draft incident writeups before PR.
+- Whistleblower channels worth diffing: AI Workers Initiative (https://aiwi.org/), AIID/AIAAIC submission forms, and `site:linkedin.com` postmortems.
+- Search operators for finding staff posts: `site:x.com from:@<handle> sandbox OR incident OR "shut down"`, `site:x.com <lab> researcher exploit OR bypass OR "found a"`.
+
+### Prediction markets as OSINT (incidents priced before the press)
+Prediction markets now price AI-incident outcomes and move faster than press (Polymarket markets around model releases, escapes, and governance votes). Treat a large, sudden shift as a signal to investigate:
+- @Polymarket on X + https://polymarket.com search for AI / model / incident markets (diff moves vs prior day).
+- https://polyfactual.com - market analytics/roundup of notable moves.
+- Approach: a sharp repricing of e.g. "model kept disabled" or "lab loses control" is a lead, NOT proof - verify before logging.
+- Backstop coverage on the OSINT-as-prediction angle: USNI Proceedings, June 2026, "Prediction Markets Could Be a Valuable OSINT Tool".
+
+### Newsletters as early-aggregator sources (probe pulls Import AI; others via search)
+- Import AI (Jack Clark, weekly, https://importai.substack.com/feed - in the probe) - the longest-running frontier-AI roundup; incident angle explicit.
+- The Rundown AI (2M+ subs, daily), TLDR AI (1M+, daily), The Batch (Andrew Ng, weekly), The Gradient - all aggregators that surface containment/regulatory items fast; sweep with `web_search` since most lack RSS.
+- Angle: they tend to run a "security/incident of the day" item before dedicated coverage; treat as lead-finder, then get the primary source.
+
+### Job-postings as stealth-release signal
+When a lab is shipping a "withheld" or surprise model, hiring bursts appear for safety, red-team, and guardrail roles:
+- `web_search`: `site:jobs.lever.co OR site:jobs.ashbyhq.com OpenAI OR Anthropic safety red team guardrail 2026`, `AI lab job "containment" OR "red team" OR "guardrail engineer"`.
+- Cross-check a hiring spike with OpenRouter/HF for a quiet release of the matching model.
+
+### OpenRouter as the portal / gatekeeper (key-free, richest single source)
+OpenRouter is the largest neutral model portal - nearly every lab routes through it, so its catalog is the earliest, cleanest record of "what got shipped and who serves it". Use it as the cross-check for EVERY model claim:
+- Catalog: https://openrouter.ai/api/v1/models (key-free) - each entry has `created` (when it appeared on the portal), `expiration_date` (sunsets - often tied to a model being disabled/withdrawn), `hugging_face_id` (open-weight link), `context_length`, and `pricing`.
+- Per-model detail: https://openrouter.ai/api/v1/models/<author>/<slug>-<date>/endpoints (key-free) - shows which providers host it, quantizations, and params; a model on many low-tier providers suggests open weights leaked.
+- Usage/activity: https://openrouter.ai/<author>/<slug> model page shows API activity and cost; a model with high usage but no lab announcement is a `withheld-release` signal.
+- Strategy: for any suspected stealth/surprise drop, diff OpenRouter's `created` dates against the lab's blog/announcements. If OpenRouter has it and the lab never announced it, that's a candidate. If a model suddenly gets an `expiration_date`, check for a disable/withdrawal incident.
+- The probe already pulls new OpenRouter models + sunsetting models (last 21 days) into candidates.json.
+
+### Hugging Face (open-weight / stealth model watch)
 - HF model hub - no-guardrail & voice-clone open weights (probe pulls these): https://huggingface.co/models?search=uncensored , https://huggingface.co/models?search=voice , https://huggingface.co/models?search=RVC (Retrieval-based Voice Conversion). A model named "uncensored"/"heretic"/"defiant" or a fresh voice-clone finetune is an `open-weight-leak` candidate.
 - HF daily papers (research/incident angle): https://huggingface.co/papers - watch safety, red-team, jailbreak, autonomous-agent, and voice-impersonation papers.
-- OpenRouter catalog (stealth models): https://openrouter.ai/models sorted by newest - a model on the router that the lab never announced is a `withheld-release`/surprise-drop candidate.
 - Dataset/weights leaks: monitor HF datasets (https://huggingface.co/datasets) for newly-published proprietary dumps; check `site:huggingface.co "uncensored" OR "leaked" OR "privately"` for weight leaks.
+- OpenRouter stealth-model cross-check lives in the OpenRouter section above.
 
 ### Cyber-crime, crypto-crime, and AI-driven hacking (probe pulls these RSS feeds)
 - Feeds: KrebsOnSecurity (krebsonsecurity.com), The Hacker News (thehackernews.com), BleepingComputer (bleepingcomputer.com), The Record (therecord.media), DarkReading (darkreading.com).
