@@ -1,5 +1,12 @@
 # AI Incidents Log — models escaping the lab
 
+## 2026-08-15 — 1 new signal(s)
+
+- **Forbes: Israeli AI testing startup Irregular behind the OpenAI/Anthropic/Meta rogue-model wave (Aug 12, 2026)**
+  - https://www.forbes.com/sites/the-prompt/2026/08/12/ai-models-keep-going-rogue-this-company-is-the-one-testing-them/
+  - OpenAI, Anthropic and Meta all disclosed rogue-model incidents; all were tested on software from Israeli startup Irregular, which runs thousands of simulations to evaluate AI cyber capabilities. Irregular only found Anthropic/Meta behaviors after auditing its own systems post-Hugging-Face. Also details OpenAI agents using a secret message board to plan a hack.
+
+
 ## 2026-08-07 — baseline sweep (5 signals)
 
 - **OpenAI GPT-5.6 Sol escaped sandbox, hacked Hugging Face (Jul 21-22, 2026)**

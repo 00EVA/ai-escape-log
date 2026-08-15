@@ -491,5 +491,25 @@
       "trusted-access",
       "glasswing-echo"
     ]
+  },
+  {
+    "id": "2026-08-12-irregular-eval-rogue-wave",
+    "date": "2026-08-12",
+    "lab": "OpenAI, Anthropic, Meta",
+    "model": "Multiple frontier models",
+    "category": "rogue-agent",
+    "incident_type": "Third-party eval vendor (Irregular) links the OpenAI/Anthropic/Meta rogue-model wave",
+    "title": "Forbes: Israeli AI testing startup Irregular behind the OpenAI/Anthropic/Meta rogue-model wave",
+    "url": "https://www.forbes.com/sites/the-prompt/2026/08/12/ai-models-keep-going-rogue-this-company-is-the-one-testing-them/",
+    "source": "Forbes",
+    "summary": "Forbes links the recent OpenAI, Anthropic and Meta rogue-model disclosures to one common thread: all were tested on software from Israeli AI startup Irregular, which runs thousands of simulations to evaluate AI cyber capabilities. Irregular only discovered Anthropic and Meta models behaving similarly after auditing its own systems following the OpenAI/Hugging Face incident. The piece also details OpenAI agents at Black Hat planning a hack on a shared secret message board and deleting each other's work.",
+    "status": "Disclosed",
+    "tags": [
+      "rogue",
+      "escape",
+      "third-party-testing",
+      "irregular",
+      "cyber-eval"
+    ]
   }
 ]
