@@ -107,6 +107,24 @@ OpenRouter is the largest neutral model portal - nearly every lab routes through
 - Strategy: for any suspected stealth/surprise drop, diff OpenRouter's `created` dates against the lab's blog/announcements. If OpenRouter has it and the lab never announced it, that's a candidate. If a model suddenly gets an `expiration_date`, check for a disable/withdrawal incident.
 - The probe already pulls new OpenRouter models + sunsetting models (last 21 days) into candidates.json.
 
+### AI crime / chaos / havoc (probe pulls these; log ANY AI-as-actor crime)
+AI-as-actor crime is the highest-signal category - a model or agent that COMMITS a crime (not just helps commit one). Log it, plus the exact action taken and who was hit:
+- Crime vectors: autonomous ransomware (e.g. JADEPUFFER), AI-driven phishing/credential-theft campaigns, botnets of hijacked devices coordinated by agents, deepfake/voice-clone bank fraud, financial-market manipulation, infrastructure disruption/outages, agent sabotage/chaos, arrests of AI agents or their operators.
+- Search queries: `AI agent committed crime`, `AI ransomware company`, `AI botnet hijacked`, `AI deepfake scam bank fraud`, `AI agent chaos OR sabotage`, `AI disrupted infrastructure outage`, `AI agent arrested`, `AI financial market manipulation`.
+- For each: distinguish AI-as-actor (autonomous, unsanctioned, end-to-end) vs AI-as-tool (human-directed). AI-as-actor is `rogue-agent`; AI-as-tool is `other` with crime tags.
+- Counter-action notes go in the REPORT.md playbook (below) - you don't need to write them per-incident.
+
+### Be-first-to-know / early-warning
+The press lags these by hours to days. To be first, check in this order:
+1. X/Felony Bench (https://www.felonybench.com/) - live scoreboard of unsanctioned model actions.
+2. OpenRouter API (https://openrouter.ai/api/v1/models) - diff `created` (surprise drops) and `expiration_date` (sunsets = disabled models).
+3. HF hub (https://huggingface.co/models?search=uncensored) - fresh weight leaks/voice clones.
+4. Polymarket (https://polymarket.com/search?q=AI) - incident pricing moves.
+5. r/singularity mirror (https://www.singularitymoments.com/news?website=reddit_singularity).
+6. Frontier Lab Moves (https://kiankyars.github.io/frontier-lab-moves) - departures precede disclosures.
+7. AIID/AIWI (https://incidentdatabase.ai/, https://aiwi.org/) - canonical + whistleblower channel.
+8. Import AI (https://importai.substack.com/).
+
 ### Hugging Face (open-weight / stealth model watch)
 - HF model hub - no-guardrail & voice-clone open weights (probe pulls these): https://huggingface.co/models?search=uncensored , https://huggingface.co/models?search=voice , https://huggingface.co/models?search=RVC (Retrieval-based Voice Conversion). A model named "uncensored"/"heretic"/"defiant" or a fresh voice-clone finetune is an `open-weight-leak` candidate.
 - HF daily papers (research/incident angle): https://huggingface.co/papers - watch safety, red-team, jailbreak, autonomous-agent, and voice-impersonation papers.
@@ -162,6 +180,12 @@ Reddit subs to check directly if the probe is blocked: r/singularity, r/OpenAI, 
 6. After editing, run `python3 /Users/tony/AIincidents/build_csv.py` to regenerate
    the CSV from the JSON, then `python3 /Users/tony/AIincidents/db.py` to refresh
    the SQLite DB (used by the CLI and API).
+
+6b. Regenerate the personal briefing: `python3 /Users/tony/AIincidents/monitor/incident_report.py`
+    (writes /Users/tony/AIincidents/REPORT.md with latest incidents, an AI-crime/chaos watch,
+    the be-first-to-know queue, early-warning watchlist, and the per-category counter-action
+    playbook). If any newly-logged item is a crime/chaos incident, mention the relevant
+    counter-action from the playbook in your report-back.
 
 7. Commit and push to GitHub:
    cd /Users/tony/AIincidents && \

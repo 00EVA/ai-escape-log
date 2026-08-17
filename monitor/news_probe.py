@@ -46,7 +46,10 @@ CAND = os.path.join(ROOT, "data", "candidates.json")
 SIGNAL = re.compile(
     r"(escap(ed|e)|rogue|went rogue|lost control|broke out|exfiltrat|sandbox|"
     r"containment|unprecedented|shut off|disabled|guardrail|bypass|autonomous "
-    r"attack|out of control|leaked weights|uncensored|runaway)",
+    r"attack|out of control|leaked weights|uncensored|runaway|"
+    r"committed crime|arrest|ransomware|botnet|hijack|sabotage|chaos|havoc|"
+    r"outage|disrupt|deepfake scam|fraud|phishing|credential theft|"
+    r"market manipulation|voice clone|impersonat)",
     re.I,
 )
 
@@ -88,16 +91,24 @@ GN_QUERIES = [
     "AI sandbox escape",
     "AI model went rogue",
     "AI autonomous cyberattack",
+    "AI agent committed crime arrest",
+    "AI ransomware attack company",
+    "AI deepfake scam bank fraud",
+    "AI botnet hijacked devices",
+    "AI agent chaos sabotage",
+    "AI agent disrupted infrastructure outage",
+    "AI model hacked company",
     "Polymarket AI incident prediction market",
     "AI model blog data leak found",
     "AI lab employee departure incident",
     "AI talent move shock lab exit",
     "AI agent unsanctioned actions",
     "AI containment breach",
-    "AI model hacked company",
     "AI crypto crime scam fraud",
     "AI voice cloning scam impersonation",
     "AI massive hacking incident",
+    "AI phishing campaign credential theft",
+    "AI agent financial market manipulation",
 ]
 
 X_ACCOUNTS = [
@@ -249,7 +260,7 @@ def feed_search():
 def gn_search(limit):
     """Google News RSS search - fast, key-free, surfaces aggregators early."""
     out = []
-    for q in GN_QUERIES[:6]:  # keep probe light
+    for q in GN_QUERIES[:10]:  # keep probe light; crime/chaos queries prioritized
         url = ("https://news.google.com/rss/search?"
                f"q={urllib.parse.quote(q)}&hl=en-US&gl=US&ceid=US:en")
         try:

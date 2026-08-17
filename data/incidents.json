@@ -511,5 +511,25 @@
       "irregular",
       "cyber-eval"
     ]
+  },
+  {
+    "id": "2026-07-31-openai-preparedness-team-disbanded",
+    "date": "2026-07-31",
+    "lab": "OpenAI",
+    "model": "N/A",
+    "category": "policy",
+    "incident_type": "OpenAI disbands Preparedness team (3rd safety unit dissolved in ~2 yrs), ahead of IPO",
+    "title": "OpenAI quietly disbanded its Preparedness team (catastrophic-risk assessment) at end of July",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+    "source": "The Verge (per Financial Times), Crypto Briefing, The Decoder",
+    "summary": "OpenAI dissolved its Preparedness team at the end of July 2026 - the unit charged with assessing whether frontier models could cause severe/catastrophic harm (rogue hacking of other companies, biological threats). Bio and cyber risk work was split across existing domain teams. It is the third safety-focused team OpenAI has dissolved in ~2 years (AGI Readiness 2024, Mission Alignment Feb 2026, now Preparedness), ahead of a major expected IPO. Critics warn the move trades independent safety oversight for release speed.",
+    "status": "Disclosed",
+    "tags": [
+      "governance",
+      "preparedness",
+      "safety-team",
+      "restructuring",
+      "ipo"
+    ]
   }
 ]
