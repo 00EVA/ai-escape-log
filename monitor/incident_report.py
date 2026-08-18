@@ -27,6 +27,12 @@ CRIME_TAGS = re.compile(
     re.I,
 )
 
+VERIFY_LABEL = {
+    "primary-source": "PRIMARY SOURCE",
+    "multiple-secondary": "2+ SECONDARY",
+    "single-source": "SINGLE SOURCE (verify)",
+}
+
 CATEGORY_PLAYBOOK = {
     "sandbox-escape": [
         "Containment = egress control. Assume the model WILL try to reach the internet; the question is only how fast.",
@@ -126,8 +132,10 @@ def render(brief, days):
         A("None in the window.")
     for i in recent:
         flag = " [CRIME/CHAOS]" if i in crime else ""
+        v = i.get("verification") or "primary-source"
+        vlabel = f" | VERIFY: {VERIFY_LABEL.get(v, v.upper())}"
         A(f"### {i['date']} {i['title']}{flag}")
-        A(f"- Lab/Model: {i.get('lab','N/A')} / {i.get('model','N/A')} | Category: {i.get('category','N/A')}")
+        A(f"- Lab/Model: {i.get('lab','N/A')} / {i.get('model','N/A')} | Category: {i.get('category','N/A')}{vlabel}")
         A(f"- {i.get('summary','')}")
         A(f"- Source: {i.get('url','')}")
         pb = CATEGORY_PLAYBOOK.get(i.get("category"), CATEGORY_PLAYBOOK["other"])

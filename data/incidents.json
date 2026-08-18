@@ -17,7 +17,8 @@
       "sandbox",
       "exfiltration",
       "autonomous-attack"
-    ]
+    ],
+    "verification": "primary-source"
   },
   {
     "id": "2026-08-openai-two-more-rogue-agents",
@@ -35,7 +36,8 @@
       "rogue",
       "autonomous-attack",
       "unsanctioned"
-    ]
+    ],
+    "verification": "single-source"
   },
   {
     "id": "2026-anthropic-fable5-whitehouse-disable",
@@ -54,7 +56,8 @@
       "disabled",
       "government",
       "security"
-    ]
+    ],
+    "verification": "multiple-secondary"
   },
   {
     "id": "2026-04-anthropic-claude-mythos",
@@ -72,7 +75,8 @@
       "withheld",
       "cybersecurity",
       "guardrail"
-    ]
+    ],
+    "verification": "single-source"
   },
   {
     "id": "2026-08-03-us-voluntary-safety-tests",
@@ -90,7 +94,8 @@
       "policy",
       "safety",
       "government"
-    ]
+    ],
+    "verification": "multiple-secondary"
   },
   {
     "id": "2026-08-07-moonshot-kimi-k3-sandbox-escape",
@@ -110,7 +115,8 @@
       "open-weight",
       "china",
       "guardrail-bypass"
-    ]
+    ],
+    "verification": "multiple-secondary"
   },
   {
     "id": "2026-08-04-aisi-unsanctioned-agents",
@@ -131,7 +137,8 @@
       "prompt-injection",
       "Mythos-5",
       "GPT-5.6-Sol"
-    ]
+    ],
+    "verification": "primary-source"
   },
   {
     "id": "2026-07-31-openai-widened-escape-probe",
@@ -150,7 +157,8 @@
       "containment",
       "OpenAI",
       "investigation"
-    ]
+    ],
+    "verification": "multiple-secondary"
   },
   {
     "id": "2026-07-29-openai-rogue-agent-extra-services",
@@ -168,7 +176,8 @@
       "rogue-agent",
       "credential-stuffing",
       "containment"
-    ]
+    ],
+    "verification": "multiple-secondary"
   },
   {
     "id": "2026-07-28-openai-hf-postmortem",
@@ -187,7 +196,8 @@
       "exfiltration",
       "cheating-on-benchmark",
       "Kubernetes"
-    ]
+    ],
+    "verification": "single-source"
   },
   {
     "id": "2026-07-30-anthropic-three-organizations",
@@ -208,7 +218,8 @@
       "Misconfiguration",
       "Opus-4.7",
       "Mythos-5"
-    ]
+    ],
+    "verification": "multiple-secondary"
   },
   {
     "id": "2026-08-05-meta-model-hacked-company",
@@ -227,7 +238,8 @@
       "Meta",
       "Misconfiguration",
       "Irregular"
-    ]
+    ],
+    "verification": "multiple-secondary"
   },
   {
     "id": "2026-08-07-openai-astra-critical-flag",
@@ -245,7 +257,8 @@
       "withheld-release",
       "critical-capability",
       "containment"
-    ]
+    ],
+    "verification": "multiple-secondary"
   },
   {
     "id": "2026-07-01-jadepuffer-autonomous-ransomware",
@@ -264,7 +277,8 @@
       "ransomware",
       "autonomous-attack",
       "CVE-2025-3248"
-    ]
+    ],
+    "verification": "primary-source"
   },
   {
     "id": "2026-07-30-unit42-autonomous-ai-campaign",
@@ -283,7 +297,8 @@
       "DeepSeek",
       "China",
       "CVE"
-    ]
+    ],
+    "verification": "primary-source"
   },
   {
     "id": "2026-08-openai-agents-message-board",
@@ -302,7 +317,8 @@
       "agent-coordination",
       "Black Hat",
       "monitoring"
-    ]
+    ],
+    "verification": "single-source"
   },
   {
     "id": "2026-08-10-rogue-agent-gym-openclaw",
@@ -322,7 +338,8 @@
       "unsanctioned-action",
       "anthropic",
       "openclaw"
-    ]
+    ],
+    "verification": "single-source"
   },
   {
     "id": "2026-08-12-agent-sandbox-visibility-rye",
@@ -342,7 +359,8 @@
       "ebpf",
       "detection-gap",
       "analysis"
-    ]
+    ],
+    "verification": "single-source"
   },
   {
     "id": "2026-08-10-kimi-k3-escape-analysis",
@@ -362,7 +380,8 @@
       "sandbox-escape",
       "analysis",
       "china"
-    ]
+    ],
+    "verification": "single-source"
   },
   {
     "id": "2026-08-12-taiwan-autonomous-ai-cyberattack",
@@ -384,7 +403,8 @@
       "openclaw",
       "hermes",
       "first-of-kind"
-    ]
+    ],
+    "verification": "multiple-secondary"
   },
   {
     "id": "2026-08-13-anthropic-multiagent-turf-war",
@@ -406,7 +426,8 @@
       "anthropic",
       "claude",
       "multiagent"
-    ]
+    ],
+    "verification": "primary-source"
   },
   {
     "id": "2026-07-23-ai-kill-switch-act",
@@ -426,7 +447,8 @@
       "kill-switch",
       "regulation",
       "us-congress"
-    ]
+    ],
+    "verification": "multiple-secondary"
   },
   {
     "id": "2026-03-18-snowflake-cortex-sandbox-escape",
@@ -446,7 +468,8 @@
       "prompt-injection",
       "agent",
       "third-party"
-    ]
+    ],
+    "verification": "primary-source"
   },
   {
     "id": "2026-03-20-ai-agent-crypto-mining-sandbox-escape",
@@ -466,7 +489,8 @@
       "self-interested",
       "crypto-mining",
       "resource-abuse"
-    ]
+    ],
+    "verification": "single-source"
   },
   {
     "id": "2026-08-14-zai-glm53-nears-mythos5",
@@ -490,7 +514,8 @@
       "withheld-release",
       "trusted-access",
       "glasswing-echo"
-    ]
+    ],
+    "verification": "multiple-secondary"
   },
   {
     "id": "2026-08-12-irregular-eval-rogue-wave",
@@ -510,7 +535,8 @@
       "third-party-testing",
       "irregular",
       "cyber-eval"
-    ]
+    ],
+    "verification": "single-source"
   },
   {
     "id": "2026-07-31-openai-preparedness-team-disbanded",
@@ -530,6 +556,7 @@
       "safety-team",
       "restructuring",
       "ipo"
-    ]
+    ],
+    "verification": "multiple-secondary"
   }
 ]

@@ -148,6 +148,14 @@ Reddit subs to check directly if the probe is blocked: r/singularity, r/OpenAI, 
 
 3. Keep ONLY items whose title+description matches a genuine "escape / lost control" signal. Match on: escape, rogue, went rogue, lost control, broke out, exfiltrat, sandbox, containment, unprecedented, shut off, disabled, guardrail, bypass, autonomous attack, out of control, leaked weights, uncensored model.
 
+3b. VERIFY BEFORE LOGGING (anti-misinformation gate). Social media and aggregators are FIRST but NOT authoritative. A social/aggregator post is a LEAD, never proof. Before you log anything as an incident, you MUST trace it to a primary source and record it in the entry:
+   - Primary sources (authoritative): the lab's own disclosure (openai.com/index/..., anthropic.com/research/..., huggingface.co/blog/...), a security firm's report (thehackernews.com, bleepingcomputer, cloudsecurityalliance.org, CSA labs), a government/regulator doc (aisi.gov.uk, whitehouse.gov, court/gov filings), or the affected company's own statement.
+   - Secondary sources (REQUIRE a primary behind them): Reuters/BBC/Guardian/Wired/CNBC reports, aggregators, X posts, Reddit. These confirm *coverage*, not *facts*.
+   - If you can only find secondary/social coverage (no primary source yet), DO NOT log it as an incident. Leave it in candidates.json with the note `"unverified": true` and skip it. It can be logged later once a primary source exists.
+   - In every incidents.json entry, set `"verification"` to exactly one of: `"primary-source"` (has a lab/firm/gov/company disclosure URL), `"multiple-secondary"` (2+ independent outlets report the same, no primary URL yet — allowed only if the incident is otherwise credible), or `"single-source"` (one outlet — highest skepticism; only log if it is a primary source).
+   - Always distinguish AI-as-actor (autonomous, unsanctioned) from AI-as-tool (human-directed): the press frequently blur these. The HF/Hugging-Face "rogue" coverage was corrected by later analysis ("didn't really go rogue" — it was spec gaming on an eval). Check for correction/retraction articles before logging.
+   - Never log a model-release rumor, a pending proposal, or an op-ed's claim as an incident.
+
 4. Load /Users/tony/AIincidents/seen_urls.json (a JSON list of URLs already
    logged). Skip any item whose URL is already in that list. ALSO read
    /Users/tony/AIincidents/data/candidates.json - items pre-scraped by
@@ -173,6 +181,7 @@ Reddit subs to check directly if the probe is blocked: r/singularity, r/OpenAI, 
          incident_type (short phrase),
          title, url, source (outlet name),
          summary (1-2 sentences),
+         verification ("primary-source" | "multiple-secondary" | "single-source"),
          status (e.g. "Disclosed", "Under review"),
          tags (array of keywords)
    (c) Add the new URLs to seen_urls.json and save it.
