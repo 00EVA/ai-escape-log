@@ -23,8 +23,9 @@
   th, td { text-align:left; padding:11px 12px; border-bottom:1px solid var(--line); vertical-align:top; }
   th { color:var(--mut); font-weight:600; font-size:12px; text-transform:uppercase; letter-spacing:.5px; cursor:pointer; }
   tr:hover td { background:#10151f; }
-  .pill { display:inline-block; font-size:11px; padding:2px 8px; border-radius:999px; border:1px solid var(--line); color:var(--acc); }
-  .pill.open { color:var(--warn); border-color:#3a2222; }
+  .type { display:inline-block; width:fit-content; padding:1px 8px 1px 10px; border-left:3px solid var(--ty,var(--acc)); color:var(--ty,var(--acc)); font-size:12px; font-weight:600; letter-spacing:.3px; white-space:nowrap; line-height:1.35; }
+  .type.open { color:var(--warn); border-left-color:var(--warn); }
+  .tag { display:inline-block; width:fit-content; font-size:10px; color:var(--mut); background:transparent; border:1px solid var(--line); border-radius:2px; padding:0 5px; margin-right:4px; line-height:1.5; }
   .date { color:var(--mut); white-space:nowrap; }
   a { color:var(--acc); text-decoration:none; }
   a:hover { text-decoration:underline; }
@@ -71,6 +72,13 @@
 let DATA = [];
 const $ = s => document.querySelector(s);
 const esc = s => (s||"").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c]));
+const CATCOLOR = {"sandbox-escape":"#5ad1c4","rogue-agent":"#ff6b6b","government-shutdown":"#ffb86b","withheld-release":"#b78bff","open-weight-leak":"#6bc96b","policy":"#6b8bff","other":"#8b95a7"};
+function typeBadge(cat, open) {
+  const color = CATCOLOR[cat] || "#8b95a7";
+  // dynamic sizing: longer category names get a slightly smaller font so the label never crowds
+  const fs = cat.length > 16 ? 10.5 : cat.length > 11 ? 11.5 : 12;
+  return `<span class="type${open}" style="--ty:${color};font-size:${fs}px">${esc(cat)}</span>`;
+}
 
 async function load() {
   try {
@@ -119,8 +127,8 @@ function render() {
         <td class="date">${esc(d.date)}</td>
         <td>${esc(d.lab)}</td>
         <td>${esc(d.model)}</td>
-        <td><span class="pill${open}">${esc(d.category)}</span></td>
-        <td><b>${esc(d.title)}</b><br><span class="cat">${esc(d.summary)}</span><br>${(d.tags||[]).map(t=>`<span class="pill">${esc(t)}</span>`).join(" ")}</td>
+        <td>${typeBadge(d.category, open)}</td>
+        <td><b>${esc(d.title)}</b><br><span class="cat">${esc(d.summary)}</span><br>${(d.tags||[]).map(t=>`<span class="tag">${esc(t)}</span>`).join(" ")}</td>
         <td><a href="${esc(d.url)}" target="_blank" rel="noopener">link</a><br><span class="cat">${esc(d.source)}</span></td>
       </tr>`);
   });
