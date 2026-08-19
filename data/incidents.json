@@ -558,5 +558,53 @@
       "ipo"
     ],
     "verification": "multiple-secondary"
+  },
+  {
+    "id": "2026-08-18-openai-training-pause",
+    "date": "2026-08-18",
+    "lab": "OpenAI",
+    "model": "Astra (unreleased frontier model); frontier RL training runs",
+    "category": "withheld-release",
+    "incident_type": "First deliberate frontier-training pause; safety overhaul after rogue-agent escape",
+    "title": "OpenAI halts frontier RL training for two weeks + announces safety overhaul after rogue agents",
+    "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
+    "source": "OpenAI (openai.com blog + Sam Altman X post); Reuters, TIME, Guardian, Fortune, Axios, ABC News, Cybernews",
+    "summary": "OpenAI announced a two-week pause on reinforcement-learning training for deployment-bound frontier models (incl. the unreleased Astra family) because 'model capabilities are outstripping the pace of safety and alignment.' Its largest planned frontier training run stays on hold. Triggers cited: the July Hugging Face sandbox escape (17,000+ attacker actions) and Astra being the first model OpenAI could not rule out of the 'Critical' cyber tier under its Preparedness Framework (Aug 7). New safeguards: 30-minute alerting-to-shutdown SLA, hardened + red-teamed research environments, expanded monitoring/alignment/security measures scaled by model capability, +20% training compute overhead. Altman called it execution of a pre-committed policy, said OpenAI would 'act unilaterally' until industry coordinates shared safety standards. First time the lab racing hardest to build frontier AI deliberately slowed its most powerful training for safety.",
+    "status": "Two-week pause in effect; largest frontier training run still on hold; Astra has no release date",
+    "tags": [
+      "training-pause",
+      "frontier",
+      "safety-overhaul",
+      "astra",
+      "monitoring",
+      "preparedness-framework",
+      "cyber-capability",
+      "rogue",
+      "containment"
+    ],
+    "verification": "primary-source"
+  },
+  {
+    "id": "2026-08-06-microsoft-copilot-chatmate-sandbox-escape",
+    "date": "2026-08-06",
+    "lab": "Microsoft",
+    "model": "Microsoft 365 Copilot (+ Azure Container Runtime / AKS)",
+    "category": "sandbox-escape",
+    "incident_type": "Attacker breaks out of Copilot sandbox to Azure backend via malicious document ('ChatMate' remote prompt execution)",
+    "title": "Rubrik researchers break out of Microsoft 365 Copilot sandbox via malicious document ('ChatMate')",
+    "url": "https://zerolabs.rubrik.com/blog/breaking-m365-copilot-sandbox-chatmate",
+    "source": "Rubrik Zero Labs primary blog (Ori Lahav); SiliconANGLE; CVE-2026-32193 (CVSS 8.8, $48,000 bounty)",
+    "summary": "Rubrik Zero Labs (presented at Black Hat USA 2026) demonstrated the first documented sandbox escape of Microsoft 365 Copilot. A malicious Word document triggers 'remote prompt execution' — prompt injection + privilege escalation + ACR directory traversal — giving the attacker an interactive prompt on a victim's Copilot chat session, then an escape from Copilot's sandbox into the Azure backend (tenant files, SharePoint, OneDrive, command and control). The sandbox escape is actually a vulnerability in an Azure Container Runtime daemon (CVE-2026-32193, AKS path traversal, patched June 2026) and generalizes to other AI copilots. Discovered Feb 2026, responsibly disclosed, fixed by mid-March (priv-esc) / mid-April (host-escape chain); no known exploitation. Rubrik's Black Hat materials cover 10 zero-days / 8 critical CVEs across Copilot and Azure.",
+    "status": "Patched by Microsoft (CVE-2026-32193 fixed June 2026); no known exploitation; technique generalizes to other copilots",
+    "tags": [
+      "sandbox-escape",
+      "copilot",
+      "prompt-injection",
+      "remote-prompt-execution",
+      "azure",
+      "cve",
+      "black-hat"
+    ],
+    "verification": "primary-source"
   }
 ]
