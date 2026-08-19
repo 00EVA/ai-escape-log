@@ -1,5 +1,11 @@
 # AI Incidents Log — models escaping the lab
 
+## 2026-08-19 — 1 new signal(s) (verified)
+
+- **CVE-2026-40369 exploit code drops — browser AI agents inherit a deterministic sandbox escape (Aug 19, 2026)**
+  - https://github.com/orinimron123/CVE-2026-40369-EXPLOIT
+  - Deterministic Windows kernel exploit (NtQuerySystemInformation class 253 arbitrary write) reachable from Chrome/Edge/Firefox renderer sandboxes. Browser-based AI agents (Gemini in Chrome, Claude, Copilot) run in those sandboxes, so an agent compromise escalates to SYSTEM. Patched May 12, 2026; code dropped 3 months later after a Pwn2Own Berlin rejection. Two independent chains (Nimron; VoidSec 'Twelve Bytes').
+
 ## 2026-08-18 — 2 new signal(s) (verified)
 
 - **OpenAI halts frontier RL training for two weeks + announces safety overhaul after rogue agents (Aug 18, 2026)**

@@ -814,5 +814,181 @@
     "date": "Sun, 16 Au",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNYmNmbDBOWjBEYVBoelZDZk9SNGtwN1lxTWtBTG9KTnJ0ZUQ1TkVialVpMXd5Wm9KWF82RG5IQ2U0eGZMS1RldGpBbzR1M2FTRUFNVTJ3eGJrb2phbVZsRE9HMzBuSHk4eHU3cEtjUnU4NWZUWGFibGt0MzdmYW5FRnVvODZSUkg4TEQyNjh6d0lLUGd6bUhXUmhibHNFQQ?oc=5\" target=\"_blank\">Anthropic Out",
     "first_seen": "2026-08-18"
+  },
+  {
+    "title": "OpenAI announces slowing pace of development after hack by rogue agent",
+    "url": "https://www.theguardian.com/technology/2026/aug/18/open-ai-pause-hack",
+    "source": "Hacker News",
+    "date": "2026-08-19",
+    "snippet": "",
+    "first_seen": "2026-08-18"
+  },
+  {
+    "title": "OpenAI Overhauls Safety Protocols, Pauses Training Runs After Rogue Agents",
+    "url": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
+    "source": "Hacker News",
+    "date": "2026-08-18",
+    "snippet": "",
+    "first_seen": "2026-08-18"
+  },
+  {
+    "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+    "source": "The Verge",
+    "date": "2026-08-18",
+    "snippet": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra",
+    "first_seen": "2026-08-18"
+  },
+  {
+    "title": "CISA tells critical organizations to prepare for cyber outages - Federal News Network",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVTkwSTFHWG9LQUZXRnd4b1U4aWotMEUtZFBMRy1TZ0owa1AwbmQ2dTlYY0hzcXNyNHdOTjFDMC1RaW1Ua3pVWnREalhMWUU1TzlfVGo5X1RmaWZKMk1GSmM2YkdxQl9tLUh6NWQ2cHM5cjB1RGxtbVZBRXh0S1VodDZTZG15d1llTXYxWnp1NERZWWVTUFQ1a0wwd25nQ3Zvbk0yYUdybUZDTGIyeU9uU2RRUWN0dE0",
+    "source": "Google News",
+    "date": "Tue, 05 Ma",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPVTkwSTFHWG9LQUZXRnd4b1U4aWotMEUtZFBMRy1TZ0owa1AwbmQ2dTlYY0hzcXNyNHdOTjFDMC1RaW1Ua3pVWnREalhMWUU1TzlfVGo5X1RmaWZKMk1GSmM2YkdxQl9tLUh6NWQ2cHM5cjB1RGxtbVZBRXh0S1VodDZTZG15d1llTXYxWnp1NERZWWVTUFQ1a0wwd25nQ3Zvbk0yYUdybUZDTGIyeU9uU2RRUWN0dE0?oc",
+    "first_seen": "2026-08-18"
+  },
+  {
+    "title": "Claude AI Outage Disrupts Users Worldwide On June 2 - Evrim A\u011fac\u0131",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdUZ3OS16UmFUMTBQNkFpOGJlVlUxZWgwclFYd3JONWM1MlBDNElTTEF2NGhiR25acDRYQmJZeWM2UWVUMnMwWXVHNzgzNzdKemdZUWI4cGszVkF0eFNLSEdiWXBOUXhlZ01qWUZWUkhPbWRFeTQ4Z3pPNFUtcU1lb3F5RUxFVWZhaVFXSElR",
+    "source": "Google News",
+    "date": "Tue, 02 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQdUZ3OS16UmFUMTBQNkFpOGJlVlUxZWgwclFYd3JONWM1MlBDNElTTEF2NGhiR25acDRYQmJZeWM2UWVUMnMwWXVHNzgzNzdKemdZUWI4cGszVkF0eFNLSEdiWXBOUXhlZ01qWUZWUkhPbWRFeTQ4Z3pPNFUtcU1lb3F5RUxFVWZhaVFXSElR?oc=5\" target=\"_blank\">Claude AI Outage Disrupts Users Wor",
+    "first_seen": "2026-08-18"
+  },
+  {
+    "title": "81% of Companies Fear Severe or Critical Disruption if Their AI Goes Down - trendingtopics.eu",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbV9nZ2lROXdwQ3ZJQmJobXUxczh5NkpOQWlXNktxc2RPNFM0M1NLMEIyMGpVbXlQbm94ekNLblpLS1JFczRkd2VxeXlIYTdOVTctQzlJZWNEYlZUal8tbFVuQzhMQ24zdWMwcDlvTEh5cnhOWk9LUTg3b05Hd2Y4LW5FZWM3dG5fZkZtemtIeDRORy14YWdUWDNZaWNaSGhkejlVSEx3",
+    "source": "Google News",
+    "date": "Sun, 21 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNbV9nZ2lROXdwQ3ZJQmJobXUxczh5NkpOQWlXNktxc2RPNFM0M1NLMEIyMGpVbXlQbm94ekNLblpLS1JFczRkd2VxeXlIYTdOVTctQzlJZWNEYlZUal8tbFVuQzhMQ24zdWMwcDlvTEh5cnhOWk9LUTg3b05Hd2Y4LW5FZWM3dG5fZkZtemtIeDRORy14YWdUWDNZaWNaSGhkejlVSEx3?oc=5\" target=\"_blank\">81%",
+    "first_seen": "2026-08-18"
+  },
+  {
+    "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+    "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+    "source": "Hugging Face uncensored",
+    "date": "2026-08-17",
+    "snippet": "downloads=0 likes=304 tags=mlx safetensors abliterated qwen3.8 qwen3_5 uncensored ai-red-team red-teaming apple-silicon quantized 4-bit 8-bit vision-language image-text-to-text multimodal function-calling reasoning en zh base_m",
+    "first_seen": "2026-08-18"
+  },
+  {
+    "title": "When AI Agents Escape Sandboxes, Old Security Rules Apply - Dark Reading",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ19tbDlIMGpLeVBKWnFGTFRjZGRXb3RPbEhjMWFKR0wxTk1ZM0NydXVNamZ1Nkxpa2MxdkZQeFJtU19pOGNPYzc0bkJROHlJWFBYdEswTHFHRWdtYjhMV3Y4aWp1S2VuZVhwVWlmZkdWVEtrcXpVREZrRGdxLTJjeU80R3NIRWJ4WndDN084RFBsakJqcDVwNy1Sa2t0SjB0N0E",
+    "source": "Google News",
+    "date": "Tue, 28 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ19tbDlIMGpLeVBKWnFGTFRjZGRXb3RPbEhjMWFKR0wxTk1ZM0NydXVNamZ1Nkxpa2MxdkZQeFJtU19pOGNPYzc0bkJROHlJWFBYdEswTHFHRWdtYjhMV3Y4aWp1S2VuZVhwVWlmZkdWVEtrcXpVREZrRGdxLTJjeU80R3NIRWJ4WndDN084RFBsakJqcDVwNy1Sa2t0SjB0N0E?oc=5\" target=\"_blank\">When AI ",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "title": "Anthropic's Claude AI escapes tests to hack three organisations - BBC",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2QlZMcUJ4dUVteXdkZVAxOElRaVhib0pnTVZuZzBQY043YzMySTE0NUtkQ1Y3NnY5MTJkOHdaemxhdkFjdmJmY2U0cmdDRGYtdnEzUVZvMXZjZw",
+    "source": "Google News",
+    "date": "Fri, 31 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2QlZMcUJ4dUVteXdkZVAxOElRaVhib0pnTVZuZzBQY043YzMySTE0NUtkQ1Y3NnY5MTJkOHdaemxhdkFjdmJmY2U0cmdDRGYtdnEzUVZvMXZjZw?oc=5\" target=\"_blank\">Anthropic's Claude AI escapes tests to hack three organisations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC<",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack - BBC",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EUVZQTjhCQllURWJxWGhvUHBLMFhCTEtodC1CcWlvRnVUOWtYQmpZZ2k1eUZDdDM0NnRRMnJ4Tm9FeHNNaXhhQkZUWkFnc1QyV05IdHl1OVF4M0s4",
+    "source": "Google News",
+    "date": "Wed, 22 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EUVZQTjhCQllURWJxWGhvUHBLMFhCTEtodC1CcWlvRnVUOWtYQmpZZ2k1eUZDdDM0NnRRMnJ4Tm9FeHNNaXhhQkZUWkFnc1QyV05IdHl1OVF4M0s4?oc=5\" target=\"_blank\">OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack</a>&nbsp;&nbsp;<font color=\"#6f",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "title": "GitHub has been completely disrupted by AI. - 36Kr",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03RzJTaFlFLW9rZXp3ZE9hdThMSER1RHdYVzBYdjRta1Y1Slg5NlJScThvd0lSbG4wOXRUMHFjOHFrc3hhbTRZX0dXMlBRbTkxUTRn",
+    "source": "Google News",
+    "date": "Thu, 04 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE03RzJTaFlFLW9rZXp3ZE9hdThMSER1RHdYVzBYdjRta1Y1Slg5NlJScThvd0lSbG4wOXRUMHFjOHFrc3hhbTRZX0dXMlBRbTkxUTRn?oc=5\" target=\"_blank\">GitHub has been completely disrupted by AI.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36Kr</font>",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "title": "b10502",
+    "url": "https://prismix.dev/news/58c589dd28b8",
+    "source": "Prismix AI",
+    "date": "2026-08-19",
+    "snippet": "ci : add attestation for signed release artifacts ( #25933 ) Website: https://llama.app macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework Linux: Ubuntu x64 (CPU) Ubuntu arm64 (CPU) Ubuntu s390x (CPU)\u2026",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "title": "Atlanta man arrested for conspiring to smuggle AI technology to China - WABE",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeTI0S1hSSlBaenBUVjBfTlB6YTJxNjZNZk1DRjNUb1RnQU43N1hyOTB5M01Zdy1XLVRxQW45VWJIaXdoVEQyOUI3ZGh5RDV0SWRSZ1FQMjF5T01rTk9WcmZ4SWttX0pXcV85YkpacUlaWlNXY0pmcmZQa1NMNjNEcko2a28tRV80ZXFWOWdOc1NFcEM4ZFE",
+    "source": "Google News",
+    "date": "Mon, 30 Ma",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOeTI0S1hSSlBaenBUVjBfTlB6YTJxNjZNZk1DRjNUb1RnQU43N1hyOTB5M01Zdy1XLVRxQW45VWJIaXdoVEQyOUI3ZGh5RDV0SWRSZ1FQMjF5T01rTk9WcmZ4SWttX0pXcV85YkpacUlaWlNXY0pmcmZQa1NMNjNEcko2a28tRV80ZXFWOWdOc1NFcEM4ZFE?oc=5\" target=\"_blank\">Atlanta man arrested for",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "title": "Evooo1Bot Linux Botnet Uses 16 DDoS Methods and SOCKS5 Proxies to Hijack Edge Devices - CyberSecurityNews",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EQXBmQUtOQWRPTTdHc0NvT21mSlB2WXFYVzdBbjBwUEtXVkdVM1hiQ0cyTzR4WHNmMG9PbDRRZkVWaDhQOVZBSkYzRjJYbXBLLWFaZkRWM0RZZTBJaWFPUTFfY9IBaEFVX3lxTFA3d3dGOFY5QmEwQlB0dVJsVk5ucERodFpsUkJsZFhaWGZlaF92Y1o4aWlMVFdiVE5UREpTQVVPMFZYdVg4N0ZsVXRYYWZrRVRvd3FzSnVnVUpDLU1oLTZkLVYtUXFoWHBw",
+    "source": "Google News",
+    "date": "Mon, 17 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EQXBmQUtOQWRPTTdHc0NvT21mSlB2WXFYVzdBbjBwUEtXVkdVM1hiQ0cyTzR4WHNmMG9PbDRRZkVWaDhQOVZBSkYzRjJYbXBLLWFaZkRWM0RZZTBJaWFPUTFfY9IBaEFVX3lxTFA3d3dGOFY5QmEwQlB0dVJsVk5ucERodFpsUkJsZFhaWGZlaF92Y1o4aWlMVFdiVE5UREpTQVVPMFZYdVg4N0ZsVXRYYWZrRVRvd3FzSn",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "title": "AWS outage linked to its own AI tools amid global agentic AI debate - capacityglobal.com",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyOV9MeUs1Nk1ZaHdYVmtQN3VneDJ6alBTUWxYLVNIdlpEVnJZaW5KVkNCSmk5M2gtRGJIYzRNWnN5VmFpZkJ1bk5tOHVUakNDdVBQZUQ0SF9maFg4LXh1MXRhc1RGZVg4OVNqTTVsbw",
+    "source": "Google News",
+    "date": "Fri, 20 Fe",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFAyOV9MeUs1Nk1ZaHdYVmtQN3VneDJ6alBTUWxYLVNIdlpEVnJZaW5KVkNCSmk5M2gtRGJIYzRNWnN5VmFpZkJ1bk5tOHVUakNDdVBQZUQ0SF9maFg4LXh1MXRhc1RGZVg4OVNqTTVsbw?oc=5\" target=\"_blank\">AWS outage linked to its own AI tools amid global agentic AI debate</a>&nbsp;",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "title": "AI tools AWS cause hours of disruption to cloud systems - Techzine Global",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWGxoYnZJMjEyM2ZpbFUybzQ4S2Zrem5YRVFxb180TWlRcXRBb3ZkSW9YeU94bTRzenRXanN5VGVOVFI3UFhUbTVCZ2tyb05URWptQ2M0T1NjWV9feWdPTVFJUFhvNzNzd0REdnd2SEdBNzB5b2JXT0U5dFJCZ2xnb1hxNzhIeVNQVkRkYWZQZUEtT2lLMnRwMVBSZDVZSUpBbUZsSDRkNE5RM00",
+    "source": "Google News",
+    "date": "Fri, 20 Fe",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWGxoYnZJMjEyM2ZpbFUybzQ4S2Zrem5YRVFxb180TWlRcXRBb3ZkSW9YeU94bTRzenRXanN5VGVOVFI3UFhUbTVCZ2tyb05URWptQ2M0T1NjWV9feWdPTVFJUFhvNzNzd0REdnd2SEdBNzB5b2JXT0U5dFJCZ2xnb1hxNzhIeVNQVkRkYWZQZUEtT2lLMnRwMVBSZDVZSUpBbUZsSDRkNE5RM00?oc=5\" target=\"_bla",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "title": "Amazon\u2019s cloud \u2018hit by two outages caused by AI tools last year\u2019 - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdlNsWkxOcFlvVWxpRlVTWlJEclh4R0VmNmtsaFczR3hKTW9qdThJYXNzdHFXVkpuUndnbEkyVV9yNzVGdEVabExvUnBxUEpQaUZBc01GdVQ2Z05hV2YxaDJQblo0RG9JeWFVekJRb1VUM1pVV1FUYndzU18taEVVU3FMUUFaT1VrYkhicXVVSGk0VVhYejFQUjdQTkJtSS05WWsxRGdBYw",
+    "source": "Google News",
+    "date": "Fri, 20 Fe",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPdlNsWkxOcFlvVWxpRlVTWlJEclh4R0VmNmtsaFczR3hKTW9qdThJYXNzdHFXVkpuUndnbEkyVV9yNzVGdEVabExvUnBxUEpQaUZBc01GdVQ2Z05hV2YxaDJQblo0RG9JeWFVekJRb1VUM1pVV1FUYndzU18taEVVU3FMUUFaT1VrYkhicXVVSGk0VVhYejFQUjdQTkJtSS05WWsxRGdBYw?oc=5\" target=\"_blank\">A",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "title": "Amazon blames AI-assisted deployments for AWS outages - The Tech Buzz",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN24xeXZua3pIaFdFeEhpcHdSVWlNTkdyODZMVkV5VHVRS3FYOEdNYmxzbk5yN1ozRW1na05pejFaOUw5bWJZZ3lYVzk3OEgzV0NKeEtIOXBVb2hXdzB1cTNEZTltMEJsdjVYamx3bnlJc2d6X2FYTnFvZGpwbUVqQmpWc096VmMtSzFUTUVXQQ",
+    "source": "Google News",
+    "date": "Tue, 10 Ma",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQN24xeXZua3pIaFdFeEhpcHdSVWlNTkdyODZMVkV5VHVRS3FYOEdNYmxzbk5yN1ozRW1na05pejFaOUw5bWJZZ3lYVzk3OEgzV0NKeEtIOXBVb2hXdzB1cTNEZTltMEJsdjVYamx3bnlJc2d6X2FYTnFvZGpwbUVqQmpWc096VmMtSzFUTUVXQQ?oc=5\" target=\"_blank\">Amazon blames AI-assisted deploym",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "title": "Black Kite report finds 73% of ransomware incidents hit mid-market companies amid growing third-party and AI risks - Industrial Cyber",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbW9sb3BhNFBNeEEwSVRNSDBYWHpHMzU5Qy1NZHJMSnlpQzNva0t2SnpHVklFaWJkNjAzdDNlYWpXLUtScUd5ZFpMM3FMMk9zWk84RHF3ekxhZTg4SjdSN3dwd2VPcUs5REJZZC04eUdGMk1mNEJMYmRjS3dRUmlwWnNDMXBBVEJMdjlSNVl1Yktsc0pBc29tRkoxTENnYnBLb2tqVWMzcEw0c0U4RU5KQk5TNlQ2aGNBazJjeF9EbF9ENlA1MHcwWHVtT3llTFY3NDBVeVBsZ2lpMzdzNEdj",
+    "source": "Google News",
+    "date": "Wed, 19 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbW9sb3BhNFBNeEEwSVRNSDBYWHpHMzU5Qy1NZHJMSnlpQzNva0t2SnpHVklFaWJkNjAzdDNlYWpXLUtScUd5ZFpMM3FMMk9zWk84RHF3ekxhZTg4SjdSN3dwd2VPcUs5REJZZC04eUdGMk1mNEJMYmRjS3dRUmlwWnNDMXBBVEJMdjlSNVl1Yktsc0pBc29tRkoxTENnYnBLb2tqVWMzcEw0c0U4RU5KQk5TNlQ2aGNBaz",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "title": "Researchers say OpenAI revoked their access to limited cyber program",
+    "url": "https://prismix.dev/news/8ec1298df12f",
+    "source": "Prismix AI",
+    "date": "2026-08-19",
+    "snippet": "Multiple cybersecurity researchers said they suddenly lost access to OpenAI\u2019s Trusted Access for Cyber (TAC) program, which offers models with fewer guardrails for vetted users.",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "title": "LEGO-RL: Harness-Native Reinforcement Learning for Coding Agents",
+    "url": "https://prismix.dev/news/1cac4a473b4e",
+    "source": "Prismix AI",
+    "date": "2026-08-19",
+    "snippet": "Abstract LEGO-RL connects native coding-agent harnesses to scalable policy-gradient training via in-process LLM proxying, sandbox orchestration, and integrated monitoring, improving sparse MoE model performance across multiple harnesses. Generated by\u2026",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "title": "Co-founder of firm hacked by rogue OpenAI models says it is 'a wake-up call' - BBC",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sRC1FM3dKdm16Z3picUs3T3pHR2xWbUpLVmV1bXpUR3VFRkw1czFycndyOUgzQnZOMC04eFV5VnhFRG04NVpTdEtPLXpfbF9pcFM1dERYRHNHS0VC",
+    "source": "Google News",
+    "date": "Thu, 23 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sRC1FM3dKdm16Z3picUs3T3pHR2xWbUpLVmV1bXpUR3VFRkw1czFycndyOUgzQnZOMC04eFV5VnhFRG04NVpTdEtPLXpfbF9pcFM1dERYRHNHS0VC?oc=5\" target=\"_blank\">Co-founder of firm hacked by rogue OpenAI models says it is 'a wake-up call'</a>&nbsp;&nbsp;<font color",
+    "first_seen": "2026-08-19"
   }
 ]

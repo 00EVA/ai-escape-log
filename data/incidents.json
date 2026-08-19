@@ -606,5 +606,28 @@
       "black-hat"
     ],
     "verification": "primary-source"
+  },
+  {
+    "id": "2026-08-19-cve-2026-40369-browser-sandbox-escape",
+    "date": "2026-08-19",
+    "lab": "Microsoft (Windows kernel) / browsers hosting AI agents",
+    "model": "Browser-based AI agents: Gemini in Chrome, Claude, Copilot (inherit renderer sandbox escape)",
+    "category": "sandbox-escape",
+    "incident_type": "Deterministic Windows kernel exploit published 3 months post-patch; escapes Chrome/Edge/Firefox renderer sandboxes that host AI agents",
+    "title": "CVE-2026-40369 exploit code drops — browser AI agents inherit a deterministic sandbox escape",
+    "url": "https://github.com/orinimron123/CVE-2026-40369-EXPLOIT",
+    "source": "GitHub (orinimron123); NVD CVE-2026-40369; VoidSec analysis; Forkast (Aug 19, 2026)",
+    "summary": "Researcher Ori Nimron publicly released 100% deterministic exploit code for CVE-2026-40369, a Windows kernel (ntoskrnl.exe ExpGetProcessInformation, NtQuerySystemInformation class 253) arbitrary-write primitive. It is reachable from the renderer sandboxes of Chrome, Edge and Firefox (ProbeForWrite is bypassed via length=0; not blocked by win32k lockdown, restricted tokens, or untrusted integrity). Because browser-based AI agents — Gemini in Chrome, Claude, Copilot — run in those same sandboxes, any agent compromise escalates to SYSTEM. Microsoft patched May 12, 2026 (Windows 11 24H2/25H2, Server 2025); code dropped 3 months later after a Pwn2Own Berlin rejection, leaving a large unpatched exposure gap. Two independent chains exist (Nimron; VoidSec 'Twelve Bytes to Escape the Browser Sandbox').",
+    "status": "Patched May 12, 2026; exploit code now public; exposure gap for unpatched systems hosting AI agents",
+    "tags": [
+      "sandbox-escape",
+      "browser",
+      "kernel-exploit",
+      "cve",
+      "ai-agent",
+      "deterministic-exploit",
+      "pwn2own"
+    ],
+    "verification": "primary-source"
   }
 ]
