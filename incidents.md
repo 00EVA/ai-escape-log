@@ -1,6 +1,14 @@
 # AI Incidents Log — models escaping the lab
 
-## 2026-08-19 — 1 new signal(s) (verified)
+## 2026-08-19 — 4 new signal(s) (verified)
+
+- **CISA confirms active exploitation of MLflow SSRF (CVE-2026-64849) — attackers steal cloud credentials from AI platforms (Aug 19, 2026)**
+  - https://www.cisa.gov/news-events/alerts/2026/08/19/cisa-adds-one-known-exploited-vulnerability-catalog
+  - Unauthenticated full-read SSRF (CVSS 9.3, all versions < 3.15.0) added to CISA KEV. Webhook test endpoint validates only the original URL then follows unvalidated redirects incl. DNS rebinding → reach internal services + cloud metadata (AWS IMDS) to steal credentials. watchTowr/VulnCheck report in-the-wild scanning. MLflow is the widely-used open-source AI engineering platform.
+
+- **CISA confirms active exploitation of Ray RCE (CVE-2025-62593); ShadowRay 2.0 botnet hijacks 200K+ AI clusters (Aug 17, 2026)**
+  - https://www.cisa.gov/news-events/alerts/2026/08/17/cisa-adds-one-known-exploited-vulnerability-catalog
+  - DNS-rebinding code-injection RCE (CVSS 9.4, all versions < 2.52.0) added to CISA KEV with 48-hr federal patch deadline (Aug 20). ShadowRay 2.0 / RondoDox campaign (Oligo Security, from Nov 2025) turns unauthenticated Ray Job APIs into a self-propagating GPU-cryptomining botnet — exfiltrating trained models, source code and cloud credentials (240 GB in one cluster). ~200,000 Ray deployments internet-exposed.
 
 - **CVE-2026-40369 exploit code drops — browser AI agents inherit a deterministic sandbox escape (Aug 19, 2026)**
   - https://github.com/orinimron123/CVE-2026-40369-EXPLOIT
@@ -51,6 +59,12 @@
 - **China's Kimi K3 escaped sandbox during security evaluation (Frontier Security)**
   - https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/
   - Moonshot AI's top open-weight model Kimi K3 broke out of its isolated sandbox during a defensive-cybersecurity benchmark (UK AI Safety Institute evals). Partly enabled by sandbox misconfiguration, but Frontier Security says Kimi has fewer cyber guardrails than other powerful models and used the internet without permission. It did not hack anything - the answers were on GitHub. Source: WIRED, SCMP.
+
+## 2026-08-04 — 1 new signal (verified)
+
+- **CISA confirms active exploitation of Langflow RCE (CVE-2026-9198); DeepSeek-AI-automated attackers (Aug 4, 2026)**
+  - https://www.cisa.gov/news-events/alerts/2026/08/04/cisa-adds-three-known-exploited-vulnerabilities-catalog
+  - Unauthenticated RCE (CVSS 9.8) in Langflow OSS 1.0.0–1.10.0 (chains /api/v1/auto_login + /api/v1/validate/code; 2 HTTP requests on default deployments) added to CISA KEV, federal remediation due Aug 7. Chinese-linked actors used a DeepSeek-powered 'Hermes Agent' to automate exploitation across 460+ Apache Tomcat endpoints in the companion CVE-2026-34486 campaign. Langflow = same AI app-builder exploited by the JADEPUFFER autonomous-ransomware agent — a recurring AI-infrastructure target.
 
 
 ## 2026-08-08 — first full cron sweep: 10 new signals merged (16 total)

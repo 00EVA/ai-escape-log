@@ -629,5 +629,80 @@
       "pwn2own"
     ],
     "verification": "primary-source"
+  },
+  {
+    "id": "2026-08-17-ray-shadowray2-rce-kev",
+    "date": "2026-08-17",
+    "lab": "Ray (Anyscale) — AI/ML compute infrastructure",
+    "model": "Ray distributed compute framework (AI/ML training/serving)",
+    "category": "other",
+    "incident_type": "CISA KEV: active exploitation of Ray code-injection RCE; ShadowRay 2.0/RondoDox campaign turns AI clusters into self-propagating botnet",
+    "title": "CISA confirms active exploitation of Ray RCE (CVE-2025-62593); ShadowRay 2.0 botnet hijacks 200K+ AI clusters",
+    "url": "https://www.cisa.gov/news-events/alerts/2026/08/17/cisa-adds-one-known-exploited-vulnerability-catalog",
+    "source": "CISA KEV catalog; The Hacker News; Oligo Security (ShadowRay 2.0); Decryption Digest",
+    "summary": "CISA added Ray's DNS-rebinding code-injection RCE (CVE-2025-62593, CVSS 9.4, all versions < 2.52.0) to the KEV catalog on Aug 17, 2026, with a 48-hour federal patch deadline (Aug 20). Exploitation is confirmed in the wild: the ShadowRay 2.0 / RondoDox campaign (Oligo Security, from Nov 2025) hijacks unauthenticated Ray Job APIs via browser-based DNS rebinding to turn AI compute clusters into a self-propagating GPU-cryptomining botnet — exfiltrating trained models, source code and cloud credentials (240 GB in one cluster), and stealing GPU cycles. An estimated 200,000 Ray deployments are internet-exposed. Ray is the backbone of ML training/serving for thousands of orgs.",
+    "status": "Patched (Ray 2.52.0); CISA KEV — active exploitation confirmed; federal remediation due 2026-08-20",
+    "tags": [
+      "cisa-kev",
+      "cve",
+      "ray",
+      "ai-infrastructure",
+      "botnet",
+      "cryptomining",
+      "rce",
+      "shadowray",
+      "dns-rebinding",
+      "model-exfiltration"
+    ],
+    "verification": "primary-source"
+  },
+  {
+    "id": "2026-08-19-mlflow-ssrf-kev",
+    "date": "2026-08-19",
+    "lab": "MLflow (LF AI & Data / Databricks) — AI engineering platform",
+    "model": "MLflow (agents, LLMs, ML models; webhook test endpoint)",
+    "category": "other",
+    "incident_type": "CISA KEV: active exploitation of MLflow unauthenticated full-read SSRF (CVE-2026-64849); attackers steal cloud credentials/secrets",
+    "title": "CISA confirms active exploitation of MLflow SSRF (CVE-2026-64849) — attackers steal cloud credentials from AI platforms",
+    "url": "https://www.cisa.gov/news-events/alerts/2026/08/19/cisa-adds-one-known-exploited-vulnerability-catalog",
+    "source": "CISA KEV catalog; NVD CVE-2026-64849; The Hacker News; watchTowr/VulnCheck",
+    "summary": "CISA added MLflow's unauthenticated full-read SSRF (CVE-2026-64849, CVSS 9.3, all versions < 3.15.0) to the KEV catalog on Aug 19, 2026. The webhook test endpoint (/api/2.0/mlflow/webhooks/{id}/test) validates only the original URL then follows unvalidated redirects (incl. DNS rebinding), letting an attacker reach internal services and cloud metadata endpoints (e.g. AWS IMDS) to steal credentials and secrets. watchTowr and VulnCheck report malicious scanning and exploitation in the wild targeting MLflow Tracking Servers. MLflow is the widely-used open-source AI engineering platform for managing agents, LLMs and ML models.",
+    "status": "Patched (MLflow 3.15.0); CISA KEV — active exploitation confirmed; federal remediation due 2026-09-02",
+    "tags": [
+      "cisa-kev",
+      "cve",
+      "mlflow",
+      "ai-infrastructure",
+      "ssrf",
+      "credential-theft",
+      "cloud-secrets",
+      "active-exploitation"
+    ],
+    "verification": "primary-source"
+  },
+  {
+    "id": "2026-08-04-langflow-cve-2026-9198-rce",
+    "date": "2026-08-04",
+    "lab": "IBM Langflow — AI agent/workflow builder",
+    "model": "Langflow OSS 1.0.0–1.10.0 (chained /api/v1/auto_login + /api/v1/validate/code)",
+    "category": "other",
+    "incident_type": "CISA KEV: actively exploited unauthenticated RCE in Langflow (AI agent builder); exploited via DeepSeek-AI-automated campaign",
+    "title": "CISA confirms active exploitation of Langflow RCE (CVE-2026-9198); DeepSeek-AI-automated attackers chain auto_login + validate/code",
+    "url": "https://www.cisa.gov/news-events/alerts/2026/08/04/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+    "source": "CISA KEV catalog; NVD CVE-2026-9198; IBM advisory; The Hacker News; Decryption Digest",
+    "summary": "CISA added CVE-2026-9198 (CVSS 9.8, unauthenticated RCE) to the KEV catalog on Aug 4, 2026 (federal deadline Aug 7). Langflow OSS 1.0.0-1.10.0 chains /api/v1/auto_login (mints SUPERUSER tokens to any caller) with /api/v1/validate/code (exec()s user code) for full RCE on default deployments in 2 HTTP requests. Chinese-linked threat actors used a DeepSeek-powered 'Hermes Agent' to automate exploitation across 460+ Apache Tomcat endpoints in the companion CVE-2026-34486 campaign, plus manual operations on 9 more CVEs and 107 endpoints. Langflow is the same AI app-builder exploited by the JADEPUFFER autonomous-ransomware agent (CVE-2025-3248) — a recurring AI-infrastructure target.",
+    "status": "Patched (Langflow 1.10.1); CISA KEV — active exploitation confirmed; federal remediation was due 2026-08-07",
+    "tags": [
+      "cisa-kev",
+      "cve",
+      "langflow",
+      "ai-infrastructure",
+      "rce",
+      "deepseek",
+      "ai-automated-exploitation",
+      "hermes-agent",
+      "active-exploitation"
+    ],
+    "verification": "primary-source"
   }
 ]
