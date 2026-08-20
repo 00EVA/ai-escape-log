@@ -107,6 +107,13 @@ OpenRouter is the largest neutral model portal - nearly every lab routes through
 - Strategy: for any suspected stealth/surprise drop, diff OpenRouter's `created` dates against the lab's blog/announcements. If OpenRouter has it and the lab never announced it, that's a candidate. If a model suddenly gets an `expiration_date`, check for a disable/withdrawal incident.
 - The probe already pulls new OpenRouter models + sunsetting models (last 21 days) into candidates.json.
 
+### CVE / vulnerability sources (probe pulls CISA KEV + NVD; verify these references)
+Vulnerability records are a primary source when a sandbox escape / agent compromise is a CVE. The probe already pulls:
+- **CISA KEV catalog** (known exploited vulnerabilities): https://www.cisa.gov/known-exploited-vulnerabilities-catalog (official JSON feed https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json) - exploits confirmed in the wild; filter for AI/agent infrastructure.
+- **NVD 2.0 API**: https://services.nvd.nist.gov/rest/json/cves/2.0 - keyword-search fresh CVEs (LLM prompt injection, agent framework RCE, sandbox escape, copilot). Reference: https://nvd.nist.gov/general/cve-process
+- CVE record home (by ID): https://www.cve.org/CVERecord?id=CVE-YYYY-XXXXX (and https://www.cve.org/) - canonical CVE assignment. Background: https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures, https://www.redhat.com/en/topics/security/what-is-cve
+- When an escape/vuln is a CVE, use the NVD/KEV record as the `verification: primary-source` URL and link the CVE ID in the summary/tags (e.g. CVE-2026-32193, CVE-2026-40369).
+
 ### AI crime / chaos / havoc (probe pulls these; log ANY AI-as-actor crime)
 AI-as-actor crime is the highest-signal category - a model or agent that COMMITS a crime (not just helps commit one). Log it, plus the exact action taken and who was hit:
 - Crime vectors: autonomous ransomware (e.g. JADEPUFFER), AI-driven phishing/credential-theft campaigns, botnets of hijacked devices coordinated by agents, deepfake/voice-clone bank fraud, financial-market manipulation, infrastructure disruption/outages, agent sabotage/chaos, arrests of AI agents or their operators.

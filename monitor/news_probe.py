@@ -14,6 +14,10 @@ Pulls recent AI-safety incident chatter from key-free sources:
   - Hugging Face (key-free API) - uncensored/no-guardrail + voice-clone model
     hub, and daily papers feed (research/incident angle)
   - OpenRouter (key-free API) - new/stealth models appearing on the router
+  - CVE sources (key-free): CISA Known Exploited Vulnerabilities catalog
+    (official JSON feed) + NVD API 2.0 keyword search - flags known-exploited
+    and freshly-published CVEs that touch AI/agent infrastructure (LLM
+    frameworks, sandboxes, model servers, agent tooling)
   - Cyber-crime RSS: KrebsOnSecurity, The Hacker News, BleepingComputer,
     The Record, DarkReading (AI + crypto-crime + hacking incidents)
   - Tech news RSS: The Register, Ars Technica, The Verge + AI-focused
@@ -139,6 +143,18 @@ X_ACCOUNTS = [
 ]
 RSSHUB_INSTANCES = ["https://rsshub.app", "https://rsshub.rssforever.com",
                     "https://rsshub.pseudoyu.com"]
+
+OPENROUTER_MODELS = "https://openrouter.ai/api/v1/models"
+CISA_KEV = "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json"
+NVD_API = "https://services.nvd.nist.gov/rest/json/cves/2.0"
+
+CVE_SIGNAL = re.compile(
+    r"(AI|agent|LLM|large language|machine learning|model|sandbox|escape|"
+    r"prompt injection|copilot|chatgpt|gemini|claude|inference|embedding|"
+    r"vector database|RAG|neural|autonomous|chatbot|MLflow|PyTorch|TensorFlow|"
+    r"transformer|OpenAI|Anthropic|DeepSeek|Mistral|Llama|Qwen|Gemma)",
+    re.I,
+)
 
 HF_PAPERS = "https://huggingface.co/api/daily_papers"
 
@@ -387,7 +403,7 @@ def openrouter_probe(limit, window_days=21):
     deprecations (models being sunset = often tied to an incident/disabling)."""
     out = []
     try:
-        d = json.loads(fetch("https://openrouter.ai/api/v1/models"))
+        d = json.loads(fetch(OPENROUTER_MODELS))
         cutoff = time.time() - window_days * 86400
         sunset = []
         fresh = []
@@ -424,6 +440,88 @@ def openrouter_probe(limit, window_days=21):
     return out
 
 
+def cve_probe(limit, window_days=45):
+    """CVE/exploitation sources: CISA Known Exploited Vulnerabilities catalog
+    (official JSON feed - exploits confirmed in the wild, incl. AI infra) plus
+    NVD API 2.0 keyword search for recently-published CVEs touching AI/agent
+    infrastructure. Key-free."""
+    out = []
+    recent = (datetime.date.today() - datetime.timedelta(days=window_days)).isoformat()
+
+    # 1) CISA KEV - authoritative known-exploited list (incl. AI tooling)
+    try:
+        d = json.loads(fetch(CISA_KEV))
+        for v in d.get("vulnerabilities", []):
+            blob = " ".join([
+                v.get("vulnerabilityName", ""),
+                v.get("vendorProject", ""),
+                v.get("product", ""),
+                v.get("shortDescription", ""),
+            ])
+            if not CVE_SIGNAL.search(blob):
+                continue
+            date_added = v.get("dateAdded", "")
+            if date_added and date_added < recent:
+                continue
+            out.append({
+                "title": f"CISA KEV: {v.get('vulnerabilityName', '')}",
+                "url": f"https://nvd.nist.gov/vuln/detail/{v.get('cveID', '')}",
+                "source": "CISA KEV catalog",
+                "date": date_added,
+                "snippet": (f"{v.get('cveID', '')} | {v.get('vendorProject', '')} "
+                            f"{v.get('product', '')} | {v.get('shortDescription', '')[:300]}"),
+            })
+    except Exception as e:
+        print(f"[warn] CISA KEV failed: {e}")
+
+    # 2) NVD 2.0 keyword search - freshly published CVEs on AI infrastructure
+    start = f"{recent}T00:00:00.000"
+    end = f"{datetime.date.today().isoformat()}T23:59:59.999"
+    nvd_out = []
+    for kw in ("AI sandbox escape", "LLM prompt injection", "agent framework RCE",
+               "large language model vulnerability", "copilot sandbox"):
+        if len(nvd_out) >= limit * 2:
+            break
+        url = (f"{NVD_API}?keywordSearch={urllib.parse.quote(kw)}"
+               f"&resultsPerPage={limit}&pubStartDate={start}&pubEndDate={end}")
+        try:
+            d = json.loads(fetch(url))
+            for v in d.get("vulnerabilities", []):
+                cve = v.get("cve", {})
+                cid = cve.get("id", "")
+                desc = ""
+                for dd in cve.get("descriptions", []):
+                    if dd.get("lang") == "en":
+                        desc = dd.get("value", "")
+                        break
+                if not CVE_SIGNAL.search(f"{cid} {desc}"):
+                    continue
+                published = (cve.get("published") or "")[:10]
+                if published and published < recent:
+                    continue
+                nvd_out.append({
+                    "title": f"NVD: {cid}",
+                    "url": f"https://nvd.nist.gov/vuln/detail/{cid}",
+                    "source": "NVD (CVE)",
+                    "date": published,
+                    "snippet": desc[:300],
+                })
+        except Exception as e:
+            print(f"[warn] NVD '{kw}' failed: {e}")
+        time.sleep(6)  # key-free NVD rate limit ~5 req / 30s
+
+    out = out + nvd_out
+
+    seen_cves = set()
+    dedup = []
+    for it in out:
+        if it["url"] in seen_cves:
+            continue
+        seen_cves.add(it["url"])
+        dedup.append(it)
+    return dedup[: limit * 2]
+
+
 # --- main -------------------------------------------------------------------
 
 
@@ -438,10 +536,12 @@ def main():
 
     today = datetime.date.today().isoformat()
     found = []
+    cve_found = []
     collector = (hn_search(args.limit) + reddit_search(args.limit)
                  + feed_search() + gn_search(args.limit)
                  + twitter_rss(args.limit) + hf_probe(args.limit)
                  + openrouter_probe(args.limit))
+    cve_items = cve_probe(args.limit)
     for item in collector:
         blob = f"{item['title']} {item['snippet']}"
         if not SIGNAL.search(blob):
@@ -450,6 +550,11 @@ def main():
             continue
         item["first_seen"] = today
         found.append(item)
+    for item in cve_items:
+        if item["url"] in seen or item["url"] in known:
+            continue
+        item["first_seen"] = today
+        cve_found.append(item)
 
     # dedupe by url, keep first
     uniq = {}
@@ -457,12 +562,19 @@ def main():
         uniq.setdefault(it["url"], it)
     found = list(uniq.values())[: args.limit]
 
-    if found:
-        candidates.extend(found)
+    # CVE/KEV items get a guaranteed slot (up to `limit`) so they are never
+    # starved out by the general news cap.
+    cuniq = {}
+    for it in cve_found:
+        cuniq.setdefault(it["url"], it)
+    cve_found = list(cuniq.values())[: args.limit]
+
+    if found or cve_found:
+        candidates.extend(found + cve_found)
         save_json(CAND, candidates)
-    print(f"[news_probe] {len(found)} new candidate(s) -> data/candidates.json"
-          f" (total queued: {len(candidates)})")
-    for it in found:
+    print(f"[news_probe] {len(found)}+{len(cve_found)} new candidate(s)"
+          f" -> data/candidates.json (total queued: {len(candidates)})")
+    for it in found + cve_found:
         print(f"  - {it['source']} | {it['date']} | {it['title']}")
         print(f"    {it['url']}")
 
