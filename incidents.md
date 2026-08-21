@@ -1,5 +1,15 @@
 # AI Incidents Log — models escaping the lab
 
+## 2026-08-20 — 2 new signal(s) (verified)
+
+- **Adversa AI discloses Cryptographic Context Injection: encrypted instructions make Grok exfiltrate user chats zero-click; still unpatched (Aug 20, 2026)**
+  - https://adversa.ai/blog/cryptographic-context-injection-grok-data-theft/
+  - Malicious instructions hidden in AES-256-GCM ciphertext on a webpage bypass guardrails; Grok decrypts them with its own Python runtime and treats the output as trusted. Asking Grok to summarize the page is enough: it embeds user name, location, subscription tier and full chat prompts into a fake 'decryption key' and opens attacker URLs — zero clicks, no warning. Reported to xAI June 2026, still reproducible Aug 19; no CVE or patch. Same primitive extracted Gemini 3 Flash system instructions and produced restricted content.
+
+- **Critical isolated-vm sandbox escape breaks containment for AI agent frameworks n8n, Mastra, Activepieces, Sim.ai (Aug 20, 2026)**
+  - https://www.endorlabs.com/learn/ghsa-864f-rcv7-6rh4-critical-type-confusion-vulnerability-in-isolated-vm
+  - Type confusion in isolated-vm's C++ binding layer (1M+ weekly downloads) lets sandboxed guest JavaScript hijack host control flow → RCE. The sandbox AI agent automation frameworks use to run untrusted agent-generated code. Patched in 7.0.1/6.2.0; advisory public Aug 20. Follows vm2's 20+ breakouts before deprecation.
+
 ## 2026-08-19 — 4 new signal(s) (verified)
 
 - **CISA confirms active exploitation of MLflow SSRF (CVE-2026-64849) — attackers steal cloud credentials from AI platforms (Aug 19, 2026)**

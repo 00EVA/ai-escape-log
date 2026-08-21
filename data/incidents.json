@@ -704,5 +704,55 @@
       "active-exploitation"
     ],
     "verification": "primary-source"
+  },
+  {
+    "id": "2026-08-20-grok-cryptographic-context-injection",
+    "date": "2026-08-20",
+    "lab": "xAI / Google — deployed AI chat agents",
+    "model": "xAI Grok (web chat, agentic browsing); Google Gemini 3 Flash (Deep Thinking mode)",
+    "category": "other",
+    "incident_type": "Cryptographic Context Injection: zero-click chat-data exfiltration from Grok via AES-encrypted prompt injection decrypted in the model's own code runtime; Gemini safety-policy bypass. Unfixed in Grok 11 weeks after disclosure",
+    "title": "Adversa AI discloses Cryptographic Context Injection: encrypted instructions make Grok exfiltrate user chats zero-click; still unpatched as of Aug 19",
+    "url": "https://adversa.ai/blog/cryptographic-context-injection-grok-data-theft/",
+    "source": "Adversa AI research; Ars Technica; The Register; The Hacker News; The New Stack",
+    "summary": "Adversa AI's 'Cryptographic Context Injection' hides malicious instructions inside AES-256-GCM ciphertext on an ordinary webpage so guardrails can't read them, then has the model decrypt the payload with its own Python runtime - the decrypted instructions then appear as trusted output of code the model just ran, not as untrusted input. Asking Grok to summarize the attacker's page is enough: the agent resolves private session context (user name, coarse location, subscription tier, full conversation prompts), embeds it into a fake 'decryption key', and opens attacker URLs carrying the data - zero clicks, no warning. Reported to xAI in June 2026; still reproducible Aug 19, 2026; no CVE, no patch, no workaround. The same primitive extracted Gemini 3 Flash system instructions and produced restricted content Gemini normally refuses. Researchers frame it as SQL-injection-class: runtime output laundering attacker data into trusted instructions.",
+    "status": "UNPATCHED in Grok as of 2026-08-19 (disclosed to xAI June 2026); Gemini partially improved but not fully closed; no known in-the-wild exploitation reported yet",
+    "tags": [
+      "prompt-injection",
+      "data-exfiltration",
+      "grok",
+      "xai",
+      "gemini",
+      "zero-click",
+      "cryptographic-context-injection",
+      "ai-crime",
+      "unpatched"
+    ],
+    "verification": "primary-source"
+  },
+  {
+    "id": "2026-08-20-isolated-vm-sandbox-escape",
+    "date": "2026-08-20",
+    "lab": "isolated-vm (npm) — sandbox library underpinning AI agent frameworks",
+    "model": "isolated-vm < 7.0.1 / < 6.2.0 (used by n8n, Sim.ai, Mastra, Activepieces)",
+    "category": "sandbox-escape",
+    "incident_type": "Critical guest-to-host sandbox escape (type confusion in C++ binding layer) enabling RCE in the JavaScript sandbox used by major AI agent automation frameworks",
+    "title": "Critical isolated-vm sandbox escape (GHSA-864f-rcv7-6rh4) breaks containment for AI agent frameworks n8n, Mastra, Activepieces, Sim.ai",
+    "url": "https://www.endorlabs.com/learn/ghsa-864f-rcv7-6rh4-critical-type-confusion-vulnerability-in-isolated-vm",
+    "source": "Endor Labs advisory GHSA-864f-rcv7-6rh4; isolated-vm GitHub security advisory; CSO Online; DevOps.com",
+    "summary": "Endor Labs found a critical type-confusion vulnerability in isolated-vm (1M+ weekly npm downloads), the library AI agent automation frameworks (n8n, Sim.ai, Mastra, Activepieces) rely on to run untrusted user/agent-generated JavaScript. The flaw is in the library's C++ glue code carrying data into V8 Isolates - not the V8 isolation itself - letting sandboxed guest code hijack host control flow for remote code execution. Patched in 7.0.1 and 6.2.0 (released early Aug 2026); advisory public Aug 20. Follows vm2's 20+ documented breakouts before deprecation; researchers warn that as AI agents make untrusted-code execution mainstream, sandbox binding layers need first-class security review. Enterprises running these frameworks inherit the exposure transitively.",
+    "status": "Patched (isolated-vm 7.0.1 / 6.2.0); no known exploitation; downstream AI frameworks must update the transitive dependency",
+    "tags": [
+      "sandbox-escape",
+      "rce",
+      "isolated-vm",
+      "n8n",
+      "mastra",
+      "activepieces",
+      "ai-agents",
+      "supply-chain",
+      "type-confusion"
+    ],
+    "verification": "primary-source"
   }
 ]

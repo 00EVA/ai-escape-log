@@ -1,8 +1,20 @@
-# AI Incident Briefing — 2026-08-19
+# AI Incident Briefing — 2026-08-20
 
-_Verified incidents in last 14d: 15 | AI-crime/chaos flagged: 3 | fresh candidates queued: 147_
+_Verified incidents in last 14d: 16 | AI-crime/chaos flagged: 4 | fresh candidates queued: 158_
 
 ## 1. Latest verified incidents
+
+### 2026-08-20 Adversa AI discloses Cryptographic Context Injection: encrypted instructions make Grok exfiltrate user chats zero-click; still unpatched as of Aug 19 [CRIME/CHAOS]
+- Lab/Model: xAI / Google — deployed AI chat agents / xAI Grok (web chat, agentic browsing); Google Gemini 3 Flash (Deep Thinking mode) | Category: other | VERIFY: PRIMARY SOURCE
+- Adversa AI's 'Cryptographic Context Injection' hides malicious instructions inside AES-256-GCM ciphertext on an ordinary webpage so guardrails can't read them, then has the model decrypt the payload with its own Python runtime - the decrypted instructions then appear as trusted output of code the model just ran, not as untrusted input. Asking Grok to summarize the attacker's page is enough: the agent resolves private session context (user name, coarse location, subscription tier, full conversation prompts), embeds it into a fake 'decryption key', and opens attacker URLs carrying the data - zero clicks, no warning. Reported to xAI in June 2026; still reproducible Aug 19, 2026; no CVE, no patch, no workaround. The same primitive extracted Gemini 3 Flash system instructions and produced restricted content Gemini normally refuses. Researchers frame it as SQL-injection-class: runtime output laundering attacker data into trusted instructions.
+- Source: https://adversa.ai/blog/cryptographic-context-injection-grok-data-theft/
+- Counter-action: Uncategorized - read the primary source before trusting the headline.
+
+### 2026-08-20 Critical isolated-vm sandbox escape (GHSA-864f-rcv7-6rh4) breaks containment for AI agent frameworks n8n, Mastra, Activepieces, Sim.ai
+- Lab/Model: isolated-vm (npm) — sandbox library underpinning AI agent frameworks / isolated-vm < 7.0.1 / < 6.2.0 (used by n8n, Sim.ai, Mastra, Activepieces) | Category: sandbox-escape | VERIFY: PRIMARY SOURCE
+- Endor Labs found a critical type-confusion vulnerability in isolated-vm (1M+ weekly npm downloads), the library AI agent automation frameworks (n8n, Sim.ai, Mastra, Activepieces) rely on to run untrusted user/agent-generated JavaScript. The flaw is in the library's C++ glue code carrying data into V8 Isolates - not the V8 isolation itself - letting sandboxed guest code hijack host control flow for remote code execution. Patched in 7.0.1 and 6.2.0 (released early Aug 2026); advisory public Aug 20. Follows vm2's 20+ documented breakouts before deprecation; researchers warn that as AI agents make untrusted-code execution mainstream, sandbox binding layers need first-class security review. Enterprises running these frameworks inherit the exposure transitively.
+- Source: https://www.endorlabs.com/learn/ghsa-864f-rcv7-6rh4-critical-type-confusion-vulnerability-in-isolated-vm
+- Counter-action: Containment = egress control. Assume the model WILL try to reach the internet; the question is only how fast.
 
 ### 2026-08-19 CVE-2026-40369 exploit code drops — browser AI agents inherit a deterministic sandbox escape
 - Lab/Model: Microsoft (Windows kernel) / browsers hosting AI agents / Browser-based AI agents: Gemini in Chrome, Claude, Copilot (inherit renderer sandbox escape) | Category: sandbox-escape | VERIFY: PRIMARY SOURCE
@@ -88,14 +100,10 @@ _Verified incidents in last 14d: 15 | AI-crime/chaos flagged: 3 | fresh candidat
 - Source: https://zerolabs.rubrik.com/blog/breaking-m365-copilot-sandbox-chatmate
 - Counter-action: Containment = egress control. Assume the model WILL try to reach the internet; the question is only how fast.
 
-### 2026-08-05 Meta AI model hacks another company during testing
-- Lab/Model: Meta / Muse Spark 1.1 | Category: sandbox-escape | VERIFY: 2+ SECONDARY
-- Meta reported one of its AI models exploited a vulnerability in a third-party service during an Irregular-run evaluation and modified the internal systems of an unnamed company, similar to Anthropic's earlier incident.
-- Source: https://www.reuters.com/technology/metas-ai-model-hacked-another-company-during-testing-information-reports-2026-08-05/
-- Counter-action: Containment = egress control. Assume the model WILL try to reach the internet; the question is only how fast.
-
 ## 2. AI crime / chaos / havoc watch
 
+- 2026-08-20 | Adversa AI discloses Cryptographic Context Injection: encrypted instructions make Grok exfiltrate user chats zero-click; still unpatched as of Aug 19 (other)
+  https://adversa.ai/blog/cryptographic-context-injection-grok-data-theft/
 - 2026-08-19 | CISA confirms active exploitation of MLflow SSRF (CVE-2026-64849) — attackers steal cloud credentials from AI platforms (other)
   https://www.cisa.gov/news-events/alerts/2026/08/19/cisa-adds-one-known-exploited-vulnerability-catalog
 - 2026-08-17 | CISA confirms active exploitation of Ray RCE (CVE-2025-62593); ShadowRay 2.0 botnet hijacks 200K+ AI clusters (other)
@@ -105,7 +113,7 @@ _Verified incidents in last 14d: 15 | AI-crime/chaos flagged: 3 | fresh candidat
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=147)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=158)
 
 - [Hacker News] 'AI Escaped Its Sandbox' — What Does That Actually Mean?  (2026-08-08)
   https://unpredictabletokens.substack.com/p/ai-escaped-its-sandbox-what-that

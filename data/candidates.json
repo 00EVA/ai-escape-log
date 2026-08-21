@@ -1150,5 +1150,109 @@
     "date": "2026-07-29",
     "snippet": "CVE-2026-20316 | Cisco Secure Firewall Management Center (FMC) | Cisco Secure Firewall Management Center (FMC) formerly known as Firepower Management Center contains a use of hard-coded password vulnerability that could allow an unauthenticated, remote attacker to log in to an affected device using a low-privileged account to access sensitive data within the impa",
     "first_seen": "2026-08-19"
+  },
+  {
+    "title": "b10506",
+    "url": "https://prismix.dev/news/f92ac1cf6220",
+    "source": "Prismix AI",
+    "date": "2026-08-20",
+    "snippet": "metal : dequantize q8_0 using packed types ( #27370 ) Website: https://llama.app macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework Linux: Ubuntu x64 (CPU) Ubuntu arm64 (CPU) Ubuntu s390x (CPU) Ubuntu\u2026",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "title": "b10505",
+    "url": "https://prismix.dev/news/c5f2ce343874",
+    "source": "Prismix AI",
+    "date": "2026-08-20",
+    "snippet": "server: add dedup-cache-models preset option ( #27346 ) Website: https://llama.app macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework Linux: Ubuntu x64 (CPU) Ubuntu arm64 (CPU) Ubuntu s390x (CPU) Ubuntu\u2026",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "title": "CISA KEV: MLflow Server-Side Request Forgery Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-64849",
+    "source": "CISA KEV catalog",
+    "date": "2026-08-19",
+    "snippet": "CVE-2026-64849 | MLflow MLflow | MLflow contains a server-side request forgery vulnerability that can allow attackers to reach internal or cloud metadata services and receive response_status and response_body.",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "title": "CISA KEV: Ray-Project Ray Code Injection Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-62593",
+    "source": "CISA KEV catalog",
+    "date": "2026-08-17",
+    "snippet": "CVE-2025-62593 | Ray-Project Ray | Ray-Project Ray contains a code injection vulnerability that could allow remote code execution. Developers using Ray as a development tool may be exposed to this vulnerability exploitable through Firefox and Safari.",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "title": "CISA KEV: IBM Langflow Code Injection Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-9198",
+    "source": "CISA KEV catalog",
+    "date": "2026-08-04",
+    "snippet": "CVE-2026-9198 | IBM Langflow | Langflow contains a code injection vulnerability that allows unauthenticated attackers to achieve full remote code execution on default Langflow deployments.",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "title": "How Mossad and CIA sabotaged economic protests in Iran to stir up chaos \u2013 but failed - PressTV",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMHJBeGVNNm1tMWpfVkxIa2M4aFRkcEJPRmdZTEcyQV84SHRhcmdQczVINmZhNlpFMXdRZmt4M2lKUHl5ZVAwZy1ISXIwRzQwMExUNEs1TnZSUHBvRW1udFNwTHRyYVcxblRpQzk4d3dWT2FVMS1NNnRjOC1HZkJVcmtSZERPc0owT0JoMmZrUFpKc0xPMjZhOW8telV1Qi1PTXBRT1d3RVkwRWE5eWNBZDBoZ2VyaGdPcllDeQ",
+    "source": "Google News",
+    "date": "Wed, 14 Ja",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPMHJBeGVNNm1tMWpfVkxIa2M4aFRkcEJPRmdZTEcyQV84SHRhcmdQczVINmZhNlpFMXdRZmt4M2lKUHl5ZVAwZy1ISXIwRzQwMExUNEs1TnZSUHBvRW1udFNwTHRyYVcxblRpQzk4d3dWT2FVMS1NNnRjOC1HZkJVcmtSZERPc0owT0JoMmZrUFpKc0xPMjZhOW8telV1Qi1PTXBRT1d3RVkwRWE5eWNBZDBoZ2VyaGdPcl",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "title": "Mapping intrinsic rank and informational gravity in complex tabular data: I developed a non-parametric, model-agnostic, information-theoretic diagnostic to bypass the limits of linear, rank, and Euclidean baselines. [R]",
+    "url": "https://prismix.dev/news/31b5fe422740",
+    "source": "Prismix AI",
+    "date": "2026-08-20",
+    "snippet": "Links: Entropic Scree Function v1.0.0 / GitHub: https://github.com/tjleestjohn/Entropic-Scree Preprint: https://doi.org/10.5281/zenodo.22028087 TL;DR: Standard PCA fundamentally fractures non-linear dependencies into \"Spurious Orthogonal Dimensions,\" drastically overestimating\u2026",
+    "first_seen": "2026-08-20"
+  },
+  {
+    "title": "Ubuntu DDoS Attack: What Canonical\u2019s Outage Reveals About DDoS Disruption - Security Boulevard",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNam5hME1lVUVUMENwUEJwTld5SURWVndTaTRIY01LTjRIUTd2U2RfeWxvcnlnbjRsWDdNQ2VNX3Y5cWs2Z1BmOVRyeC1aMVRobjVCQVRxVUExZkVyOTJfdlhTYnN1X1liUTZkUGhWM3pFUWFMUC1kWnhNSDRNXzllZUJWbVU3RXVxaEszd19ZMHFQaTM4WjQ3R3lTU1ROcngzakk3MXFQYlhMV25tUXNz",
+    "source": "Google News",
+    "date": "Thu, 16 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNam5hME1lVUVUMENwUEJwTld5SURWVndTaTRIY01LTjRIUTd2U2RfeWxvcnlnbjRsWDdNQ2VNX3Y5cWs2Z1BmOVRyeC1aMVRobjVCQVRxVUExZkVyOTJfdlhTYnN1X1liUTZkUGhWM3pFUWFMUC1kWnhNSDRNXzllZUJWbVU3RXVxaEszd19ZMHFQaTM4WjQ3R3lTU1ROcngzakk3MXFQYlhMV25tUXNz?oc=5\" target=",
+    "first_seen": "2026-08-20"
+  },
+  {
+    "title": "Debates over AI consciousness are a trap",
+    "url": "https://prismix.dev/news/c87f63873a8c",
+    "source": "Prismix AI",
+    "date": "2026-08-20",
+    "snippet": "\u201cRunaway\u201d AI, \u201crogue\u201d agents, and \u201cautonomous\u201d actors\u2014the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these\u2026",
+    "first_seen": "2026-08-20"
+  },
+  {
+    "title": "CISA KEV: TrueConf Server Code Injection Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-72530",
+    "source": "CISA KEV catalog",
+    "date": "2026-08-20",
+    "snippet": "CVE-2026-72530 | TrueConf Server | TrueConf Server contains a code injection vulnerability that could allow an unauthorized remote attacker with network access via port 4307/TCP to use a specially crafted script to break out of the isolated environment and execute arbitrary code on the host system.",
+    "first_seen": "2026-08-20"
+  },
+  {
+    "title": "CISA KEV: TrueConf Server Missing Authentication for Critical Function Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-72529",
+    "source": "CISA KEV catalog",
+    "date": "2026-08-20",
+    "snippet": "CVE-2026-72529 | TrueConf Server | TrueConf Server contains a missing authentication for critical function vulnerability which could allow a remote unauthorized attacker with network access via port 4307/TCP to execute an arbitrary script.",
+    "first_seen": "2026-08-20"
+  },
+  {
+    "title": "Quantifying Event Impacts on Time Series via Multiscale Contrastive Learning",
+    "url": "https://prismix.dev/news/810a62333fcd",
+    "source": "Prismix AI",
+    "date": "2026-08-21",
+    "snippet": "arXiv:2608.19447v1 Announce Type: new Abstract: Shocks that spread through the web, such as cybersecurity breach disclosures, can abruptly disrupt financial time series and cause substantial abnormal losses. While these events are disclosed as discrete records through news\u2026",
+    "first_seen": "2026-08-20"
+  },
+  {
+    "title": "Critical flaw patched in popular JavaScript sandbox used in AI projects - csoonline.com",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZnZ5WlBZYkZDNzRoeEdoamkxRWNtQXFNcWVKbFhtTzNGYU9XaTJvT0ZfeTFFc2NhaUxNZENvWGxFdmdVTU40cktNdjEzVWJDc3hmMzFsYVlsSE9aSU1TZERJWkVadDQ3NFNJNFNuOUx0dy1SR2RDT3JLUlpxaTVjOUZId3JNY01IcEpEbXRvbXMzUlFKSE9Hd2FicUZFTkYxWEhPd25OSll5Z2FTQWtsSlAyR1h2TzFEekE",
+    "source": "Google News",
+    "date": "Thu, 20 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQZnZ5WlBZYkZDNzRoeEdoamkxRWNtQXFNcWVKbFhtTzNGYU9XaTJvT0ZfeTFFc2NhaUxNZENvWGxFdmdVTU40cktNdjEzVWJDc3hmMzFsYVlsSE9aSU1TZERJWkVadDQ3NFNJNFNuOUx0dy1SR2RDT3JLUlpxaTVjOUZId3JNY01IcEpEbXRvbXMzUlFKSE9Hd2FicUZFTkYxWEhPd25OSll5Z2FTQWtsSlAyR1h2TzFEek",
+    "first_seen": "2026-08-20"
   }
 ]
