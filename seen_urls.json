@@ -35,5 +35,7 @@
   "https://www.cisa.gov/news-events/alerts/2026/08/04/cisa-adds-three-known-exploited-vulnerabilities-catalog",
   "https://adversa.ai/blog/cryptographic-context-injection-grok-data-theft/",
   "https://www.endorlabs.com/learn/ghsa-864f-rcv7-6rh4-critical-type-confusion-vulnerability-in-isolated-vm",
-  "https://github.com/laverdet/isolated-vm/security/advisories/GHSA-864f-rcv7-6rh4"
+  "https://github.com/laverdet/isolated-vm/security/advisories/GHSA-864f-rcv7-6rh4",
+  "https://guidelight.ai/blog/control-assessment-august-2026",
+  "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/"
 ]

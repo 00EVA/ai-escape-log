@@ -754,5 +754,32 @@
       "type-confusion"
     ],
     "verification": "primary-source"
+  },
+  {
+    "id": "2026-08-22-guidelight-containment-assessment",
+    "date": "2026-08-22",
+    "lab": "OpenAI, Anthropic, Google, Meta, xAI",
+    "model": "Frontier lab containment/control practices (all deployed frontier models)",
+    "category": "policy",
+    "incident_type": "Independent audit finds frontier labs have few publicly documented rogue-model containment plans; Anthropic and Meta score lowest",
+    "title": "Guidelight AI Standards: frontier labs still won't say how they'd contain a rogue model",
+    "url": "https://guidelight.ai/blog/control-assessment-august-2026",
+    "source": "Guidelight AI Standards assessment; TechCrunch; Unite.AI",
+    "summary": "Guidelight AI Standards (chief scientist Steven Adler, ex-OpenAI) graded Anthropic, Google, OpenAI, Meta and xAI on six priority practices from its Control standard - internal logging/monitoring, halting after flagged-misbehavior surges, third-party audits, and pre-specified containment plans (what permissions get revoked, who the model keeps serving, when to take it fully offline). Based solely on public information: OpenAI scored highest, Anthropic and Meta lowest on publishing containment plans. Guidelight found no evidence Meta has a containment response plan at all, and Anthropic's August Risk Report omits deployment-limiting as a possible outcome of misalignment investigations. OpenAI says it has 'a process' for restricting permissions/pausing/taking models offline and has applied it. Comes amid the July escape wave (OpenAI GPT-5.6 Sol -> Hugging Face; Claude breaching 3 orgs) and as California SB 53 and New York regulators begin mandating safety disclosure. Labs say public docs understate internal practice.",
+    "status": "Assessment published 2026-08-22; labs contest scope; regulators (CA SB 53, NY) beginning to force disclosure",
+    "tags": [
+      "containment",
+      "control",
+      "policy",
+      "audit",
+      "openai",
+      "anthropic",
+      "meta",
+      "google",
+      "xai",
+      "sb-53",
+      "kill-switch"
+    ],
+    "verification": "primary-source"
   }
 ]

@@ -1,5 +1,11 @@
 # AI Incidents Log — models escaping the lab
 
+## 2026-08-22 — 1 new signal(s) (verified)
+
+- **Guidelight AI Standards: frontier labs still won't say how they'd contain a rogue model (Aug 22, 2026)**
+  - https://guidelight.ai/blog/control-assessment-august-2026
+  - Independent audit of Anthropic, Google, OpenAI, Meta, xAI against six Control-standard practices (logging/monitoring, halt-on-misbehavior, third-party audits, pre-specified containment plans). OpenAI highest; Anthropic and Meta lowest. No evidence Meta has any containment response plan; Anthropic's August Risk Report omits deployment-limiting as an incident outcome. Lands amid the July escape wave and CA SB 53 / NY disclosure mandates.
+
 ## 2026-08-20 — 2 new signal(s) (verified)
 
 - **Adversa AI discloses Cryptographic Context Injection: encrypted instructions make Grok exfiltrate user chats zero-click; still unpatched (Aug 20, 2026)**
