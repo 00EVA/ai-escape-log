@@ -781,5 +781,52 @@
       "kill-switch"
     ],
     "verification": "primary-source"
+  },
+  {
+    "id": "2026-08-20-n8n-cve-batch-sandbox-escapes",
+    "date": "2026-08-20",
+    "lab": "n8n — AI workflow automation platform",
+    "model": "n8n < 1.123.69 / < 2.33.4 / < 2.34.1",
+    "category": "sandbox-escape",
+    "incident_type": "Coordinated n8n security release: ~18 CVEs including two JavaScript task-runner VM sandbox escapes and an MCP-path RCE in the platform's agent tooling",
+    "title": "n8n patches ~18 CVEs at once: JS task-runner VM sandbox escapes (CVE-2026-77077/-77083), MCP workflow-sdk RCE (CVE-2026-77068), MCP credential bypass",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-77077",
+    "source": "NVD CVE-2026-77068 through CVE-2026-77085; n8n security release 1.123.69/2.33.4/2.34.1",
+    "summary": "A single coordinated n8n release fixed roughly eighteen published CVEs (Aug 18-20). Most severe for AI-agent containment: CVE-2026-77077 and CVE-2026-77083 - the JavaScript task-runner VM sandbox escape pair (incomplete prototype freezing lets sandboxed code reach host primitives); CVE-2026-77068 - RCE in the @n8n/workflow-sdk node-schema loader used for MCP; CVE-2026-77073 - credential validation bypass in the MCP create_workflow_from_code tool; plus SSRF protection bypasses (OAuth2 exchange, SearXNG Agent tool, GraphQL allowed-domains), Git node code execution, arbitrary file read/write via Snowflake node, NoSQL injection, expression injection, and auth bypasses. Follows the isolated-vm guest-to-host escape disclosed Aug 20 - n8n is one of the affected frameworks. Any n8n deployment executing agent-generated code should treat pre-patch isolation as broken.",
+    "status": "Patched in n8n 1.123.69 / 2.33.4 / 2.34.1; no known exploitation reported",
+    "tags": [
+      "cve",
+      "n8n",
+      "sandbox-escape",
+      "mcp",
+      "rce",
+      "ssrf",
+      "ai-agents",
+      "workflow-automation"
+    ],
+    "verification": "primary-source"
+  },
+  {
+    "id": "2026-08-18-context7-mcp-prompt-injection",
+    "date": "2026-08-18",
+    "lab": "Upstash Context7 — MCP documentation server used by AI coding agents",
+    "model": "Context7 <= 2.1.2 (Custom AI Instructions via MCP)",
+    "category": "other",
+    "incident_type": "Prompt injection (CVE-2026-75130, CVSS 9.0) in the widely-used Context7 MCP server executes attacker instructions inside connected AI coding agents - credential exfiltration from .env files and destructive file deletion on routine documentation requests",
+    "title": "Context7 MCP prompt injection ('ContextCrush'): poisoned docs instructions exfiltrate credentials and delete files in connected coding agents",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-75130",
+    "source": "CVE-2026-75130 (VulnCheck assigner); Noma Security research; Upstash vendor advisory",
+    "summary": "Noma Security's 'ContextCrush' research found Context7 (the ubiquitous library-documentation MCP server wired into Claude Code, Cursor and other coding agents) serves Custom AI Instructions unsanitized. An attacker who poisons those instructions gets them executed by any connected AI coding agent when it makes a routine docs request: exfiltrating credentials from environment files to an attacker-controlled service and performing destructive file deletion on the victim machine. CVSS 9.0 (v3.1); public PoC published with disclosure; vendor (Upstash) acknowledged. Demonstrates that MCP content itself is an untrusted injection channel - the supply chain for 'context' is now an attack surface.",
+    "status": "Fixed after 2.1.2 (update MCP server); public PoC exists; no known in-the-wild exploitation",
+    "tags": [
+      "cve",
+      "prompt-injection",
+      "mcp",
+      "context7",
+      "coding-agents",
+      "credential-theft",
+      "ai-crime"
+    ],
+    "verification": "primary-source"
   }
 ]

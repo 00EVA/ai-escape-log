@@ -37,5 +37,8 @@
   "https://www.endorlabs.com/learn/ghsa-864f-rcv7-6rh4-critical-type-confusion-vulnerability-in-isolated-vm",
   "https://github.com/laverdet/isolated-vm/security/advisories/GHSA-864f-rcv7-6rh4",
   "https://guidelight.ai/blog/control-assessment-august-2026",
-  "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/"
+  "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+  "https://nvd.nist.gov/vuln/detail/CVE-2026-77077",
+  "https://nvd.nist.gov/vuln/detail/CVE-2026-75130",
+  "https://noma.security/blog/contextcrush-context7-the-mcp-server-vulnerability/"
 ]

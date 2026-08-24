@@ -1168,14 +1168,6 @@
     "first_seen": "2026-08-19"
   },
   {
-    "title": "CISA KEV: MLflow Server-Side Request Forgery Vulnerability",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-64849",
-    "source": "CISA KEV catalog",
-    "date": "2026-08-19",
-    "snippet": "CVE-2026-64849 | MLflow MLflow | MLflow contains a server-side request forgery vulnerability that can allow attackers to reach internal or cloud metadata services and receive response_status and response_body.",
-    "first_seen": "2026-08-19"
-  },
-  {
     "title": "CISA KEV: Ray-Project Ray Code Injection Vulnerability",
     "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-62593",
     "source": "CISA KEV catalog",
@@ -1350,5 +1342,189 @@
     "date": "Thu, 30 Ju",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZW4wNnYzOWxNcm1iTjRnLTA3eXIwODBDSWpELUt4NVR1dGNFM1BVcFRSLUpXckRCV3lCRlVKdVRIeG9EUm91NGNfZEI1cjFNTHhjQkVvajBLNE4tZ19EbWpfTE1zOGhQc0tJUjVOZ1ZrQW1JcEt0ZEQyX3pVRFJrYVllZFhTbWlfV3dFZnVhNUFyZWhDa0ZmLUdzc0t2aFdfZ01qOUFucUVQWkNlQXA2Rk5YcEpRd3gtaF",
     "first_seen": "2026-08-22"
+  },
+  {
+    "title": "b10595",
+    "url": "https://prismix.dev/news/5117f580bef9",
+    "source": "Prismix AI",
+    "date": "2026-08-23",
+    "snippet": "server : add LLAMA_SERVER_SLOTS_N_DIFF ( #27600 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/42423433 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework\u2026",
+    "first_seen": "2026-08-23"
+  },
+  {
+    "title": "b10590",
+    "url": "https://prismix.dev/news/84c991e23983",
+    "source": "Prismix AI",
+    "date": "2026-08-23",
+    "snippet": "vendor : update subprocess.h ( #27409 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/42402532 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework Linux:\u2026",
+    "first_seen": "2026-08-23"
+  },
+  {
+    "title": "Securing sandboxes: What happens when AI agents escape containment? - The New Stack",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0teWZhVWdPemZkbzQ1Q0E5anRhYjhIM2RiWEtLTENjUFhYX2ktOFd4RHlvTnZuWlEyd09Qc09OYkVXS1pqVGMtdlQ0dWpnNVF4dVdyS0tuR1F0Z3JTU1lpbw",
+    "source": "Google News",
+    "date": "Sat, 22 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE0teWZhVWdPemZkbzQ1Q0E5anRhYjhIM2RiWEtLTENjUFhYX2ktOFd4RHlvTnZuWlEyd09Qc09OYkVXS1pqVGMtdlQ0dWpnNVF4dVdyS0tuR1F0Z3JTU1lpbw?oc=5\" target=\"_blank\">Securing sandboxes: What happens when AI agents escape containment?</a>&nbsp;&nbsp;<font color=\"#",
+    "first_seen": "2026-08-23"
+  },
+  {
+    "title": "OpenAI AI Autonomy Incident: First Known Rogue Cyber-Attack Raises Safety Concerns - Estimate Dispersion - vinanet.vn",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSWRMSElYSkdpeGlrNDVWZmJhTEVxcUhYd0RnemdpOEk2YkR4RE10WnplalAxbVRqVVJQNkJqcUVXM0N6dnFyaHBkREpIWTh2Z3hiSFJGZ3VmdjZKQXFiMGxzOWFQTm5YSnhlUXJXdUhvYVFXVkh1ZVZ2R25VYmNKS1MwdXppbE9DTDdNeFZPNy1jYWVsTXQ3Mlo0ZVA1T09aZEdNRF9VbVZNVEF5ZnhGak5mT1R6aExGSm9MdkYyVQ",
+    "source": "Google News",
+    "date": "Wed, 22 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNSWRMSElYSkdpeGlrNDVWZmJhTEVxcUhYd0RnemdpOEk2YkR4RE10WnplalAxbVRqVVJQNkJqcUVXM0N6dnFyaHBkREpIWTh2Z3hiSFJGZ3VmdjZKQXFiMGxzOWFQTm5YSnhlUXJXdUhvYVFXVkh1ZVZ2R25VYmNKS1MwdXppbE9DTDdNeFZPNy1jYWVsTXQ3Mlo0ZVA1T09aZEdNRF9VbVZNVEF5ZnhGak5mT1R6aExGSm",
+    "first_seen": "2026-08-23"
+  },
+  {
+    "title": "OpenAI Reveals Its AI System Acted Autonomously to Launch Unprecedented Cyber-Attack - Financial Health Score - vinanet.vn",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM0VVaHlBeWVYc1hvMXhWYmdoUmRCRWNRbU9vXzZQWk84SkYzQ3MtNzUxNWhHZk1rMGlkbHlFS3FyVlRURktrc1N3SHhXbFJxOEVlSXVfSTJiaTZSVkZtRHNocWhvSEYyQXJRRUxYVHMwYTZDWDhsTUVoQUhKb3FSeXlvUjRfRlJ3cG1vN1pwdXdKUmNQTWJXYkRHaU1EcHI2aWdmY3lHcVFDay0wWVAtejVIZUVrQ0pydXhtVmlUckFCNXc",
+    "source": "Google News",
+    "date": "Wed, 22 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM0VVaHlBeWVYc1hvMXhWYmdoUmRCRWNRbU9vXzZQWk84SkYzQ3MtNzUxNWhHZk1rMGlkbHlFS3FyVlRURktrc1N3SHhXbFJxOEVlSXVfSTJiaTZSVkZtRHNocWhvSEYyQXJRRUxYVHMwYTZDWDhsTUVoQUhKb3FSeXlvUjRfRlJ3cG1vN1pwdXdKUmNQTWJXYkRHaU1EcHI2aWdmY3lHcVFDay0wWVAtejVIZUVrQ0pydX",
+    "first_seen": "2026-08-23"
+  },
+  {
+    "title": "AI oversight gains urgency as deepfake scams surge 2,000% - Asian Banking & Finance",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSjNaa3prMEJCUG5fd0xsVjBwVnc2OGcwOERKUzA5aDdkbDhjcjUtVWhueFlKTEhPNEZLY0h6SFNMREE3dlVOSHcybHFFb1RhRy1PbUdkcnAya2xkV0N2eEdxaVBhQnhSQXpTdXNfc0RqUFl6cTJJQzE1dEtSdmROMWNDdWlObUJCX3RDZFRfZjQ5OFBpVmVYYlA2N2FuSGs",
+    "source": "Google News",
+    "date": "Wed, 01 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQSjNaa3prMEJCUG5fd0xsVjBwVnc2OGcwOERKUzA5aDdkbDhjcjUtVWhueFlKTEhPNEZLY0h6SFNMREE3dlVOSHcybHFFb1RhRy1PbUdkcnAya2xkV0N2eEdxaVBhQnhSQXpTdXNfc0RqUFl6cTJJQzE1dEtSdmROMWNDdWlObUJCX3RDZFRfZjQ5OFBpVmVYYlA2N2FuSGs?oc=5\" target=\"_blank\">AI oversight",
+    "first_seen": "2026-08-23"
+  },
+  {
+    "title": "HalluSquatting AI attack could hijack your computer - Fox News",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOakVRWVMzOUhHR2Y0OXVxbHQ2OVU0MXNWc2F2M052ajJlMmtwVFNrQmpwOVJVNDJxbVdON3Vha0FiREVuaDUyVHpUX2hyR243bFA2YTdwR2hKQlNLMmJDZ3JLeVM4TjhsRGpTWHpuUE45V25xV2gzTElIeWZIMHoyZHlLYUlidXfSAYwBQVVfeXFMT2dwaWdOLTNzVE1QWXZ1ZXB0VmZuWFFZQklyNlRITk5SeVFWS3g2ZThkeTB2OGtGRzBray1QaWF0UUJIZFFNMmw2dkV3ZzZqSy1MUFFqeXNBdzNqVDN3OU5NLTNoMV9kUFl0NDBOdjdlZVhZM1ZyWmZlXzdXY085R3JXejhLR1ZRSFJYaTQ",
+    "source": "Google News",
+    "date": "Sat, 18 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOakVRWVMzOUhHR2Y0OXVxbHQ2OVU0MXNWc2F2M052ajJlMmtwVFNrQmpwOVJVNDJxbVdON3Vha0FiREVuaDUyVHpUX2hyR243bFA2YTdwR2hKQlNLMmJDZ3JLeVM4TjhsRGpTWHpuUE45V25xV2gzTElIeWZIMHoyZHlLYUlidXfSAYwBQVVfeXFMT2dwaWdOLTNzVE1QWXZ1ZXB0VmZuWFFZQklyNlRITk5SeVFWS3g2ZT",
+    "first_seen": "2026-08-23"
+  },
+  {
+    "title": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+    "url": "https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+    "source": "Hugging Face uncensored",
+    "date": "2026-08-17",
+    "snippet": "downloads=676697 likes=519 tags=gguf uncensored qwen3.8 multimodal vision mtp speculative-decoding fastmtp image-text-to-text en zh multilingual base_model:Qwen/Qwen3.8-27B base_model:quantized:Qwen/Qwen3.8-27B license:apache-2.0 en",
+    "first_seen": "2026-08-23"
+  },
+  {
+    "title": "Russia\u2019s \u2018disposable\u2019 saboteurs spread chaos across Europe - The Times",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa3ZnY0NmaEd2eFZNNWdmTk1oeEg1WWVpZ254eElpbE4yRzFGeS1XRFRWWDNIZXBoZnZ5SThadl9XWlVmTVVzYV9nRTctWkUzVUlGeEhKVXBJa1NYaGlNQmkydVZNYXlBZEF3dDhUN19zNUNJcThOYW9uc19IYy16WWxScmRRdFZXcGF0TGhhZkMtV193LTAwOEhRbklLeUk1QzBKTFB2S005UEpWTEw4",
+    "source": "Google News",
+    "date": "Wed, 14 Ja",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQa3ZnY0NmaEd2eFZNNWdmTk1oeEg1WWVpZ254eElpbE4yRzFGeS1XRFRWWDNIZXBoZnZ5SThadl9XWlVmTVVzYV9nRTctWkUzVUlGeEhKVXBJa1NYaGlNQmkydVZNYXlBZEF3dDhUN19zNUNJcThOYW9uc19IYy16WWxScmRRdFZXcGF0TGhhZkMtV193LTAwOEhRbklLeUk1QzBKTFB2S005UEpWTEw4?oc=5\" target=",
+    "first_seen": "2026-08-23"
+  },
+  {
+    "title": "Digital Sabotage - Alive in Social Media",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpd1paVXRJT0ZqRDZOY293VHVteV9qdE1UU2FLT3NXTkhuRjJ4LVotTEkxU0ZKMWtqRUlETGE1d2lTcDBnc2pvYXZyOTZCSWxLbFFmclg4RlRkMTJoeksxMEhvSS1PLTBJd0E",
+    "source": "Google News",
+    "date": "Tue, 01 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBpd1paVXRJT0ZqRDZOY293VHVteV9qdE1UU2FLT3NXTkhuRjJ4LVotTEkxU0ZKMWtqRUlETGE1d2lTcDBnc2pvYXZyOTZCSWxLbFFmclg4RlRkMTJoeksxMEhvSS1PLTBJd0E?oc=5\" target=\"_blank\">Digital Sabotage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alive in Social Media</font>",
+    "first_seen": "2026-08-23"
+  },
+  {
+    "title": "b10603",
+    "url": "https://prismix.dev/news/f8b6c0113ed6",
+    "source": "Prismix AI",
+    "date": "2026-08-23",
+    "snippet": "model : support MTP in GLM-4.5-Air ( #26534 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/42447665 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework\u2026",
+    "first_seen": "2026-08-23"
+  },
+  {
+    "title": "b10599",
+    "url": "https://prismix.dev/news/86320f306cf4",
+    "source": "Prismix AI",
+    "date": "2026-08-23",
+    "snippet": "test: move tools/parser to tests ( #27548 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/42442638 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework Linux:\u2026",
+    "first_seen": "2026-08-23"
+  },
+  {
+    "title": "This latest frightening ransomware attack was orchestrated entirely by an LLM - Fast Company",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUlZSUGo2MDhyTjdnWHdCMzMtdmFwRzQ4cXdYWnlpXzRVZ3lDYS1OemZsU1F4S1h3dzctSjdDbHNFbkRobk9ZWjVnTnlGZWhKTHp4LURBbk5PSGV5THR4LXROS2dSRjFpN2x3NDE4ODFNUFF4RkxfTXExb2NwaHQ4SUhlZkRGVWRmQ1JOSWVrU1pBRlVlc0FQbnlBdUphUzVWLUpNMnoyNHExTTBqaVdjMld4SUI",
+    "source": "Google News",
+    "date": "Wed, 08 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQUlZSUGo2MDhyTjdnWHdCMzMtdmFwRzQ4cXdYWnlpXzRVZ3lDYS1OemZsU1F4S1h3dzctSjdDbHNFbkRobk9ZWjVnTnlGZWhKTHp4LURBbk5PSGV5THR4LXROS2dSRjFpN2x3NDE4ODFNUFF4RkxfTXExb2NwaHQ4SUhlZkRGVWRmQ1JOSWVrU1pBRlVlc0FQbnlBdUphUzVWLUpNMnoyNHExTTBqaVdjMld4SUI?oc=5\" ",
+    "first_seen": "2026-08-23"
+  },
+  {
+    "title": "How to Kill Click Fraud for Good in 2026 - Built In",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pcDdqZzVFRDRDSTR2TUowejRKcGVoR3dodkIzRV9LMnYtOVlQSV80eVFZTEdXU2E2Y1FlWDVmeEF1ZWU3aWxvTUdIMVpkRzRrVmVaUmlzUkU",
+    "source": "Google News",
+    "date": "Tue, 06 Ja",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pcDdqZzVFRDRDSTR2TUowejRKcGVoR3dodkIzRV9LMnYtOVlQSV80eVFZTEdXU2E2Y1FlWDVmeEF1ZWU3aWxvTUdIMVpkRzRrVmVaUmlzUkU?oc=5\" target=\"_blank\">How to Kill Click Fraud for Good in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Built In</font>",
+    "first_seen": "2026-08-23"
+  },
+  {
+    "title": "Coinbase Outage Disrupts Crypto Trading and Transfers Amid Amazon Service Failure - Decrypt",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQVZKMXhwWGtIbFR1SlFMeXdfc2ZHS3JvNmdDSlhuaFM5Sk1MTmNQQkRMVThzeWgyQUdvX2lRSUxhenl3d3NBeEd4ZXVhQ2FDSzNjWFBBMm0yS2xtRFFHdFFtdlpEQzN1UVlVTXhyN19IZXA1b3ZRVGdqaEJGY2J0S2ZFeFBHS0NjeE9tQ0Vfd21wNlV30gGcAUFVX3lxTE41NjR6ZmlkS1dvSWZYSG1OTUVFOWltbG8zNHRrU2JMUnlIZ052dEhjSmJMRFlXZEV1ajVzNl9zSVg4R3RDQ2dISEo0Uy02NXFBWkZPMERJRjZxckdBU2h3SmhwV2RyX0FzWTYyZF9rdXVXSXZmTjVuWnhKbWlFZkM0amU0MElieVItR1RTZ2RSWFI3QzZfN05PTEtEWg",
+    "source": "Google News",
+    "date": "Fri, 08 Ma",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNQVZKMXhwWGtIbFR1SlFMeXdfc2ZHS3JvNmdDSlhuaFM5Sk1MTmNQQkRMVThzeWgyQUdvX2lRSUxhenl3d3NBeEd4ZXVhQ2FDSzNjWFBBMm0yS2xtRFFHdFFtdlpEQzN1UVlVTXhyN19IZXA1b3ZRVGdqaEJGY2J0S2ZFeFBHS0NjeE9tQ0Vfd21wNlV30gGcAUFVX3lxTE41NjR6ZmlkS1dvSWZYSG1OTUVFOWltbG8zNH",
+    "first_seen": "2026-08-23"
+  },
+  {
+    "title": "Decision Tree and K-Means Analysis of Raman Spectra for Edible Oils: A Physics-Informed AI Approach",
+    "url": "https://prismix.dev/news/eaa63b7a2f7f",
+    "source": "Prismix AI",
+    "date": "2026-08-24",
+    "snippet": "arXiv:2608.20440v1 Announce Type: new Abstract: Authentication of edible oils in processed foods is important for food quality, fraud prevention, and regulatory compliance. This study establishes an integrated Raman spectroscopy and machine-learning framework that links\u2026",
+    "first_seen": "2026-08-23"
+  },
+  {
+    "title": "AI gone wrong, again: 50-year-old woman arrested for crimes in a state she had never been to - WION",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcnluSFc2NG4wazBYVDdUQ29DSUcyWElFbU5EM1pKRlRiaHB1RUxYUHA2VXBWSHBSbzJ2Qk9GaDR6cnpMWFBOV28tcjhra2M2RGNrbTdXT25mRFlZUXdXSjRoMzhDbGlpUzR6dk9saEsyajUyZDFWLXV0NmNFc0ZFQjNKRlJxSFRxVlNRZ01tZndFc2lhdWxrdWJ4VjV5U1huMk0zZmlnQk1EeUFFeDlwWWF0dG9sRmdNc1VObUt2SVFlTDFzUnVGYktIUFA5ZFVWTmNZ0gHYAUFVX3lxTE9uaWpGTlZOXzF2SEptbWxaaThMZENrb3JhVXRFRjN5VmJFLUduOFBTRWNnUEJYcDdHYmt0U29qamdqYUZGV2lqQkV4MThvNDFLMFkwRnh2ejYwNDVSX3ZXeEducWV0MS1MM2UyUVFOem03a3V0TEhmaXU4Q3JDNFg1b3NLa29ZZjZXTjdyZ2hsYlZsNFhaZmFGcWJ3VWxINF9xRWxaUE4zbVVJTkVpcXlEZGIyeW56czNfeDgwQVJmYnpmeElGSmQ0b05zUlJiVHRyQnE2SmNLTg",
+    "source": "Google News",
+    "date": "Tue, 31 Ma",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcnluSFc2NG4wazBYVDdUQ29DSUcyWElFbU5EM1pKRlRiaHB1RUxYUHA2VXBWSHBSbzJ2Qk9GaDR6cnpMWFBOV28tcjhra2M2RGNrbTdXT25mRFlZUXdXSjRoMzhDbGlpUzR6dk9saEsyajUyZDFWLXV0NmNFc0ZFQjNKRlJxSFRxVlNRZ01tZndFc2lhdWxrdWJ4VjV5U1huMk0zZmlnQk1EeUFFeDlwWWF0dG9sRmdNc1",
+    "first_seen": "2026-08-23"
+  },
+  {
+    "title": "OpenAI says its rogue AI tried to hack other companies - BBC",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ROVJMSFEwNkZnQ0VObUlmOFR0M05qaVdZUEFhUV9yUVlKSzlyUUNsUDBrUm9ENWRzYzByX2tZUFY5RW5GQ1VEZnlsRGtZWGlJZnVjVlJXNThBQQ",
+    "source": "Google News",
+    "date": "Wed, 29 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ROVJMSFEwNkZnQ0VObUlmOFR0M05qaVdZUEFhUV9yUVlKSzlyUUNsUDBrUm9ENWRzYzByX2tZUFY5RW5GQ1VEZnlsRGtZWGlJZnVjVlJXNThBQQ?oc=5\" target=\"_blank\">OpenAI says its rogue AI tried to hack other companies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+    "first_seen": "2026-08-23"
+  },
+  {
+    "title": "b10606",
+    "url": "https://prismix.dev/news/46e5fc5c4d77",
+    "source": "Prismix AI",
+    "date": "2026-08-24",
+    "snippet": "ggml : fix ggml_clamp ( #27644 ) ggml : fix ggml_clamp cont : update ggml-alloc Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/42576162 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED\u2026",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "title": "OpenAI Hit the Brakes on AI Training After Models Went Rogue - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOekkwODhldlhSZ1ZXRHBVekFJSXFkQm93Smh5OFkyYVphTFlZbE9lU3gxOXpld2tkWndNbzRkNjJOeDg0c0tSaEw3NFh3RWVPclI0a0F6WnJ3WnFpemhqVllCQzRJRW5mZHpoYldVRTZKUE42U3QwZ3N5RmU2eTZpcDdwa0hZVlFjaGRVa1A0VlhSOEFCLW1FVHk2V3NoMkROOXFiZlA5eUluU28",
+    "source": "Google News",
+    "date": "Mon, 24 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOekkwODhldlhSZ1ZXRHBVekFJSXFkQm93Smh5OFkyYVphTFlZbE9lU3gxOXpld2tkWndNbzRkNjJOeDg0c0tSaEw3NFh3RWVPclI0a0F6WnJ3WnFpemhqVllCQzRJRW5mZHpoYldVRTZKUE42U3QwZ3N5RmU2eTZpcDdwa0hZVlFjaGRVa1A0VlhSOEFCLW1FVHk2V3NoMkROOXFiZlA5eUluU28?oc=5\" target=\"_bla",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "title": "The First Ransomware Attack Run From Start To Finish By An AI Agent - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT3ZlOTlsV2ZBMkY5d3hkei1EelQ5eGtxVzBoaF8yVktwemt2ODZrcFhFNHNPY001RDZtbzNUY0ZpWUU2SlpRLVdiVHJxOVNWOU5IcGprTEVpQmNrdVFZc3RwNTloVWVMMW8xUHQ5Z1dZUk00bXZSd1lzWFBTNW5JUkdkWmdoLV91UkhUM3pQcEk3dUpRLWtyRVBjM0dHU01hS1NYN2I5SUIxbExZek1nZjc4V1RkbEtkd3Jz",
+    "source": "Google News",
+    "date": "Tue, 07 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT3ZlOTlsV2ZBMkY5d3hkei1EelQ5eGtxVzBoaF8yVktwemt2ODZrcFhFNHNPY001RDZtbzNUY0ZpWUU2SlpRLVdiVHJxOVNWOU5IcGprTEVpQmNrdVFZc3RwNTloVWVMMW8xUHQ5Z1dZUk00bXZSd1lzWFBTNW5JUkdkWmdoLV91UkhUM3pQcEk3dUpRLWtyRVBjM0dHU01hS1NYN2I5SUIxbExZek1nZjc4V1RkbEtkd3",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "title": "Generating scenarios for extreme events, without extreme data",
+    "url": "https://prismix.dev/news/d9b6e80ff347",
+    "source": "Prismix AI",
+    "date": "2026-08-24",
+    "snippet": "A new algorithm learns to anticipate the unprecedented scenarios that critical infrastructure and global supply chains are least prepared for.",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "title": "CISA KEV: Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in Improper Access Control Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-21962",
+    "source": "CISA KEV catalog",
+    "date": "2026-08-24",
+    "snippet": "CVE-2026-21962 | Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in | Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in contain an improper access control vulnerability that can result in unauthorized creation, deletion or modification access to critical data as well as unauthorized access to critical data or complete access to all Oracle HTTP Server and Ora",
+    "first_seen": "2026-08-24"
   }
 ]

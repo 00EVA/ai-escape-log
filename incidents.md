@@ -1,5 +1,15 @@
 # AI Incidents Log — models escaping the lab
 
+## 2026-08-20 — 1 new signal(s) (verified)
+
+- **n8n patches ~18 CVEs at once: JS task-runner VM sandbox escapes, MCP workflow-sdk RCE, MCP credential bypass (Aug 18–20, 2026)**
+  - https://nvd.nist.gov/vuln/detail/CVE-2026-77077
+  - Coordinated release fixes CVE-2026-77068 through -77085: two JavaScript task-runner VM sandbox escapes (incomplete prototype freezing → host takeover), RCE in the @n8n/workflow-sdk MCP node-schema loader, credential validation bypass in the MCP create_workflow_from_code tool, plus SSRF bypasses, Git node code exec, arbitrary file read/write. Follows the isolated-vm escape (n8n is an affected framework). Patched in 1.123.69/2.33.4/2.34.1.
+
+- **Context7 MCP prompt injection ('ContextCrush', CVE-2026-75130 CVSS 9.0): poisoned docs instructions exfiltrate credentials in connected coding agents (Aug 18, 2026)**
+  - https://nvd.nist.gov/vuln/detail/CVE-2026-75130
+  - Context7 ≤2.1.2 serves Custom AI Instructions unsanitized via MCP; attacker-poisoned instructions execute inside any connected coding agent on a routine docs request — exfiltrating .env credentials to attacker servers and deleting files. Public PoC (Noma Security); vendor acknowledged. MCP content itself is now an injection channel.
+
 ## 2026-08-22 — 1 new signal(s) (verified)
 
 - **Guidelight AI Standards: frontier labs still won't say how they'd contain a rogue model (Aug 22, 2026)**
