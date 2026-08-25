@@ -1526,5 +1526,117 @@
     "date": "2026-08-24",
     "snippet": "CVE-2026-21962 | Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in | Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in contain an improper access control vulnerability that can result in unauthorized creation, deletion or modification access to critical data as well as unauthorized access to critical data or complete access to all Oracle HTTP Server and Ora",
     "first_seen": "2026-08-24"
+  },
+  {
+    "title": "Amjad Masad,\u00a0CEO\u00a0and co-founder\u00a0of\u00a0Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+    "url": "https://prismix.dev/news/878545275de8",
+    "source": "Prismix AI",
+    "date": "2026-08-24",
+    "snippet": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "title": "CISA KEV: MLflow Server-Side Request Forgery Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-64849",
+    "source": "CISA KEV catalog",
+    "date": "2026-08-19",
+    "snippet": "CVE-2026-64849 | MLflow MLflow | MLflow contains a server-side request forgery vulnerability that can allow attackers to reach internal or cloud metadata services and receive response_status and response_body.",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "title": "Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities - The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSXAtS1RCcGV1bHZxRGdjNmtlT2dRcmFJLUpmcmMxZVE3ZzNLNW5iNl9aeHRkWGhETjdHRUQ5aHk4RUZPWVVCS3lMU2xQMmpOaUFIS1RNbTdZZWxZazBRcmVZQTh3RGFYbE5WVHdESWlDUTA1OEUwY2M2X0RXQnVTeTdndUc5R2p3S3VoRVZXTU9RUQ",
+    "source": "Google News",
+    "date": "Mon, 24 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNSXAtS1RCcGV1bHZxRGdjNmtlT2dRcmFJLUpmcmMxZVE3ZzNLNW5iNl9aeHRkWGhETjdHRUQ5aHk4RUZPWVVCS3lMU2xQMmpOaUFIS1RNbTdZZWxZazBRcmVZQTh3RGFYbE5WVHdESWlDUTA1OEUwY2M2X0RXQnVTeTdndUc5R2p3S3VoRVZXTU9RUQ?oc=5\" target=\"_blank\">Anatomy of an Autonomous Atta",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "title": "Cheap streaming box could hijack your home internet - Fox News",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xZkF3ZnZxZkUwUjk1RDJOX3lOWnFtNGI3b2NqQnR3ZHlIQTFqdlNaN3Z6blNCTTZ2QlRWa2REV2NxSTdOcmFXSGl1U3JzTUdOUDRSclhWemtocVpDRlZkWk1jN0dGZFp1RVM0NWs2N1ZERGJ0a0xScNIBfkFVX3lxTE9YNEpQVjVCaEtrQWpnV1FOcXhSbUtRbWN0QjNOM2R3YXkzZWhZN3FTLXI2U3pMenhWVVR1a2NaeGN2RVJqODg5NnFPZWVhRUEyS0NDQ0FVd2NCSHNyNzhMZUZNVHlQYXFWV2tKWThNXzhPUEYtOEdPcldmTEk5UQ",
+    "source": "Google News",
+    "date": "Fri, 03 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1xZkF3ZnZxZkUwUjk1RDJOX3lOWnFtNGI3b2NqQnR3ZHlIQTFqdlNaN3Z6blNCTTZ2QlRWa2REV2NxSTdOcmFXSGl1U3JzTUdOUDRSclhWemtocVpDRlZkWk1jN0dGZFp1RVM0NWs2N1ZERGJ0a0xScNIBfkFVX3lxTE9YNEpQVjVCaEtrQWpnV1FOcXhSbUtRbWN0QjNOM2R3YXkzZWhZN3FTLXI2U3pMenhWVVR1a2NaeG",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "title": "Feds disrupt monster IoT botnets behind record-breaking DDoS attacks - The Register",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUnFSSFhwenh2YUw4NTMzVHcyWlNBN256M2QwWHFmUkdYMnA0VUhnWHB6c0xHSTBkOEw1eXBGY2xNMzdFdzRROHQwbGlYUERwWjR6STBXemZXYXJOb3Ftd3l3MDUtYVl3WldDa29hZUJzVDNJcmx1d1JVNGZOenliY28zR3lTbnlhZWNlc2pBTjZSeHhKSjc5WkJJcjU3cnVFbDhCYWtCb1prOFBzdzJmZlBnc05BQzA",
+    "source": "Google News",
+    "date": "Fri, 20 Ma",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQUnFSSFhwenh2YUw4NTMzVHcyWlNBN256M2QwWHFmUkdYMnA0VUhnWHB6c0xHSTBkOEw1eXBGY2xNMzdFdzRROHQwbGlYUERwWjR6STBXemZXYXJOb3Ftd3l3MDUtYVl3WldDa29hZUJzVDNJcmx1d1JVNGZOenliY28zR3lTbnlhZWNlc2pBTjZSeHhKSjc5WkJJcjU3cnVFbDhCYWtCb1prOFBzdzJmZlBnc05BQzA?oc",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "title": "Nearly 2 million Android devices hijacked by massive new botnet \u2014 how to stay safe - Tom's Guide",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcHJJa2RuVTQtbzZYaDhYSzhwV1pveERiWnFYSDJhYXNWdWtWeTZRNm1KNXd2ekJxSEFtckpsYUREeUNGbmdKV0MxVjA0eTFZVEFxV0prNkRHQ1IzTEd6bHAxZjhVU0R5VnM5ZW5MUEt2S19CMTlSRTVCNWcwTDhqcF9mVDIyTmFvTk91T0tHcU5mZVZmeUtOanVYYklQWXJfb2o1aW1DWG1pM2kzeFE5TDBueU9aUHd4OGZmQ1dhWmpWaWZRNk9ZUVFSMXJHdlBCdnNfb0tQdFBZeGZGUHUwbw",
+    "source": "Google News",
+    "date": "Fri, 19 De",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcHJJa2RuVTQtbzZYaDhYSzhwV1pveERiWnFYSDJhYXNWdWtWeTZRNm1KNXd2ekJxSEFtckpsYUREeUNGbmdKV0MxVjA0eTFZVEFxV0prNkRHQ1IzTEd6bHAxZjhVU0R5VnM5ZW5MUEt2S19CMTlSRTVCNWcwTDhqcF9mVDIyTmFvTk91T0tHcU5mZVZmeUtOanVYYklQWXJfb2o1aW1DWG1pM2kzeFE5TDBueU9aUHd4OG",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS - The Hacker News",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSQTg3ZF9sNDZ4YnBmemh2Q1hRTHdJMUNmd2ZIYVFPUHc1NGhlcjRFMWhSRWdiRDJxeVpzRlB2R1NwQkExQ2RkZ3JMTVZBX0ZNNjROWDE3UXUxQ1lrX2J0c2tiZ3ZKemNyNTN0LUVaSms1UTRkdE0zMzE1Sk4tZnM",
+    "source": "Google News",
+    "date": "Tue, 30 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBSQTg3ZF9sNDZ4YnBmemh2Q1hRTHdJMUNmd2ZIYVFPUHc1NGhlcjRFMWhSRWdiRDJxeVpzRlB2R1NwQkExQ2RkZ3JMTVZBX0ZNNjROWDE3UXUxQ1lrX2J0c2tiZ3ZKemNyNTN0LUVaSms1UTRkdE0zMzE1Sk4tZnM?oc=5\" target=\"_blank\">RustDuck Botnet Rebuilds in Rust to Hijack Routers and S",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "title": "b10618",
+    "url": "https://prismix.dev/news/e2ea6bdeec63",
+    "source": "Prismix AI",
+    "date": "2026-08-25",
+    "snippet": "grammar : parse - in char classes as literal hyphen ( #27591 ) grammar : accept \"-\" escape in character classes gbnf_escape_char_class() escapes '-' as \"-\" but parse_char() rejected that escape, so generated tool-call grammars failed to parse. Assisted-by: Claude Code\u2026",
+    "first_seen": "2026-08-25"
+  },
+  {
+    "title": "One Success Isn't Reliability: Thinkingbox, a Sandbox and Benchmark for Agents in Stateful Business Workflows",
+    "url": "https://prismix.dev/news/cf724b567141",
+    "source": "Prismix AI",
+    "date": "2026-08-25",
+    "snippet": "Abstract Recent agent benchmarks increasingly ground evaluation in executable environments, from code repair to web navigation, app APIs, and function calling. Yet completing consequential work beyond code requires more than producing a plausible response or valid tool call:\u2026",
+    "first_seen": "2026-08-25"
+  },
+  {
+    "title": "b10617",
+    "url": "https://prismix.dev/news/a6d2a2e52b4f",
+    "source": "Prismix AI",
+    "date": "2026-08-25",
+    "snippet": "sycl : mark tq2_0 as not supported ( #27660 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/42777546 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework\u2026",
+    "first_seen": "2026-08-25"
+  },
+  {
+    "title": "MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks",
+    "url": "https://prismix.dev/news/4b7d92798c4c",
+    "source": "Prismix AI",
+    "date": "2026-08-25",
+    "snippet": "Abstract MobilePA-Bench is an interactive sandbox benchmark that evaluates mobile planning agents on tool-calling, sub-agent collaboration, memory usage, and composite skill invocation under real runtime constraints. Generated by thinkingmachines/Inkling-Small As on-device LLM\u2026",
+    "first_seen": "2026-08-25"
+  },
+  {
+    "title": "AI Models Are Going Rogue. Should We Be Worried? | Terms of Service - Modern Ghana",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oT1JUVnZwWWlzOTFINEQ0dkJILTdoXzhZaENBSDZSOUdlSFBXUFJ6dDVDQVJqb1E0WDMyZVZ5YjZBd2t6OHFqOXR2eVFtbVZLc0EzWlJ3YmNHRWpnU1Bj",
+    "source": "Google News",
+    "date": "Tue, 25 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oT1JUVnZwWWlzOTFINEQ0dkJILTdoXzhZaENBSDZSOUdlSFBXUFJ6dDVDQVJqb1E0WDMyZVZ5YjZBd2t6OHFqOXR2eVFtbVZLc0EzWlJ3YmNHRWpnU1Bj?oc=5\" target=\"_blank\">AI Models Are Going Rogue. Should We Be Worried? | Terms of Service</a>&nbsp;&nbsp;<font color=\"#6f",
+    "first_seen": "2026-08-25"
+  },
+  {
+    "title": "b10620",
+    "url": "https://prismix.dev/news/a6458cece8b6",
+    "source": "Prismix AI",
+    "date": "2026-08-25",
+    "snippet": "sync : ggml Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/42810281 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework Linux: Ubuntu x64 (CPU) Ubuntu arm64\u2026",
+    "first_seen": "2026-08-25"
+  },
+  {
+    "title": "An AI agent allegedly deleted a startup's production database, causing a huge outage - Mashable",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZno5WXh4S2VvTnI0d1VsWnpxM2ZrWmQ4UVlyeE5BQTFqTG9mbmc5QWNtX3ZfR19Nbk9NQzFwZ2xCODI5anJ3WGI2RWpiTHhfcXBneGtjWVJBb1hNQ2VQQVdEQk9PdEd5bFl5MExXcWROSkJ4bG9MRG4wZFk4QlZ0STBVUDZsQ1pBQWc",
+    "source": "Google News",
+    "date": "Mon, 27 Ap",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNZno5WXh4S2VvTnI0d1VsWnpxM2ZrWmQ4UVlyeE5BQTFqTG9mbmc5QWNtX3ZfR19Nbk9NQzFwZ2xCODI5anJ3WGI2RWpiTHhfcXBneGtjWVJBb1hNQ2VQQVdEQk9PdEd5bFl5MExXcWROSkJ4bG9MRG4wZFk4QlZ0STBVUDZsQ1pBQWc?oc=5\" target=\"_blank\">An AI agent allegedly deleted a startup'",
+    "first_seen": "2026-08-25"
   }
 ]

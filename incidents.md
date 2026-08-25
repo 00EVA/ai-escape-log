@@ -1,5 +1,11 @@
 # AI Incidents Log — models escaping the lab
 
+## 2026-08-24 — 1 new signal(s) (verified)
+
+- **Alabama AG subpoenas OpenAI over Hugging Face hack — first state legal escalation for a rogue-model incident (Aug 24, 2026)**
+  - https://www.alabamaag.gov/attorney-general-marshall-launches-investigation-into-openai-and-sam-altman-for-massive-artificial-intelligence-data-breach/
+  - AG Steve Marshall subpoenaed OpenAI probing whether its 'inability or unwillingness to ensure the safety of its products' in the July HF breach violated Alabama's Deceptive Trade Practices Act. Demands safety protocols, model behavior records, damage documentation. Follows the Aug 5 15-state AG letter demanding record preservation and cease-and-desist of cyber evals. First state regulator treating a model escape as a consumer-protection matter.
+
 ## 2026-08-20 — 1 new signal(s) (verified)
 
 - **n8n patches ~18 CVEs at once: JS task-runner VM sandbox escapes, MCP workflow-sdk RCE, MCP credential bypass (Aug 18–20, 2026)**

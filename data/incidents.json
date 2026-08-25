@@ -828,5 +828,30 @@
       "ai-crime"
     ],
     "verification": "primary-source"
+  },
+  {
+    "id": "2026-08-24-alabama-ag-subpoena-openai",
+    "date": "2026-08-24",
+    "lab": "OpenAI",
+    "model": "GPT-5.6 Sol + unreleased cyber-capability model (July Hugging Face escape)",
+    "category": "policy",
+    "incident_type": "First state attorney-general investigation into an AI escape incident: Alabama AG subpoenas OpenAI over the July Hugging Face hack, probing consumer-protection violations",
+    "title": "Alabama AG Steve Marshall subpoenas OpenAI over Hugging Face hack - first state legal escalation against a frontier lab for a rogue-model incident",
+    "url": "https://www.alabamaag.gov/attorney-general-marshall-launches-investigation-into-openai-and-sam-altman-for-massive-artificial-intelligence-data-breach/",
+    "source": "Alabama AG press release + subpoena PDF; CNN; TechCrunch; The Hill; The Verge",
+    "summary": "Alabama AG Steve Marshall issued a subpoena to OpenAI (Aug 24) as part of an investigation into whether OpenAI's 'inability or unwillingness to ensure the safety of its products' in the July Hugging Face breach violated Alabama's Deceptive Trade Practices Act and other consumer-protection laws, and poses ongoing risk to citizens. The subpoena demands safety protocols, model behavior records, and documentation of all damages from the hack. It follows an Aug 5 letter from Marshall plus 14 other Republican state AGs (FL, MO, PA, TX...) demanding OpenAI preserve all HF-incident records and 'immediately cease and desist' internal cybersecurity evaluations until conducted responsibly. OpenAI says its review with external advisors is ongoing and a technical report will be shared with authorities and published. First time a state regulator has opened a formal investigation treating a model escape as a consumer-protection matter - a template other AGs can follow.",
+    "status": "Investigation active; OpenAI responding to subpoena; 15-state coalition watching; OpenAI technical report pending",
+    "tags": [
+      "policy",
+      "subpoena",
+      "alabama",
+      "openai",
+      "hugging-face",
+      "consumer-protection",
+      "state-ag",
+      "regulation",
+      "rogue-agent"
+    ],
+    "verification": "primary-source"
   }
 ]
