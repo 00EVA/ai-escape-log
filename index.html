@@ -32,6 +32,22 @@
   .empty { color:var(--mut); padding:30px; text-align:center; }
   footer { padding:20px 22px; color:var(--mut); font-size:12px; border-top:1px solid var(--line); }
   .cat { font-size:11px; color:var(--mut); }
+  /* Community-Notes-style verification card (modeled on X Community Notes) */
+  .cnote { margin-top:10px; background:#121722; border:1px solid #2a3345; border-radius:12px; overflow:hidden; max-width:640px; }
+  .cnote-head { display:flex; gap:8px; align-items:center; padding:9px 12px; border-bottom:1px solid #222a38; font-size:12.5px; font-weight:700; color:#cfd6e4; }
+  .cnote-body { padding:10px 12px; font-size:13.5px; }
+  .cnote-status { display:flex; align-items:baseline; gap:7px; font-weight:600; font-size:13px; flex-wrap:wrap; }
+  .cnote-status .dot { width:16px; height:16px; border-radius:50%; display:inline-block; text-align:center; line-height:16px; font-size:10px; color:#0b0e14; font-weight:800; align-self:center; }
+  .cnote-muted { color:var(--mut); font-weight:400; }
+  .cnote-tags { color:var(--mut); font-size:12px; margin-top:4px; }
+  .cnote-ai { color:#b78bff; font-size:12.5px; margin-top:8px; }
+  .cnote-links { margin-top:6px; font-size:12.5px; }
+  .cnote details { border-top:1px solid #222a38; }
+  .cnote summary { cursor:pointer; padding:8px 12px; color:var(--acc); font-size:12.5px; list-style:none; }
+  .cnote summary::-webkit-details-marker { display:none; }
+  .cnote .detail { padding:2px 12px 12px; font-size:12.5px; color:var(--mut); }
+  .cnote .detail b { color:var(--ink); }
+  .cnote-foot { padding:8px 12px; border-top:1px solid #222a38; color:var(--mut); font-size:11.5px; }
 </style>
 </head>
 <body>
@@ -78,6 +94,51 @@ function typeBadge(cat, open) {
   // dynamic sizing: longer category names get a slightly smaller font so the label never crowds
   const fs = cat.length > 16 ? 10.5 : cat.length > 11 ? 11.5 : 12;
   return `<span class="type${open}" style="--ty:${color};font-size:${fs}px">${esc(cat)}</span>`;
+}
+
+// Community-Notes-style status derived from the incident's verification field.
+// primary-source      -> Currently rated helpful (green)  · cites high-quality sources
+// multiple-secondary  -> Rated helpful (teal)             · provides important context
+// single-source/other -> Context needs review (amber)     · needs more verification
+function noteMeta(d) {
+  const v = (d.verification||"").toLowerCase();
+  if (v.includes("primary")) return {
+    mark:"✓", color:"#2ecc71", label:"Currently rated helpful",
+    why:"Enough independent verification: this entry is traced to a primary source — an official disclosure, vendor advisory, CVE/KEV record, or the affected lab itself. Shown as confirmed context on the log.",
+    tags:["Provides important context","Cites high-quality sources"] };
+  if (v.includes("secondary")) return {
+    mark:"✓", color:"#3fbfb0", label:"Rated helpful",
+    why:"Corroborated by two or more independent secondary sources. A primary source has not yet been located — confidence is high but not confirmed.",
+    tags:["Provides important context"] };
+  return {
+    mark:"!", color:"#ffb86b", label:"Context needs review",
+    why:"Based on a single unconfirmed source. Treat with caution until a primary source or a second independent outlet corroborates it.",
+    tags:["Needs more verification"] };
+}
+
+function noteCard(d) {
+  const m = noteMeta(d);
+  const nid = esc(d.id || (d.date+"-"+esc(d.lab)).replace(/\s+/g,"-").toLowerCase());
+  return `
+  <div class="cnote">
+    <div class="cnote-head">👥 Context added by the verification gate</div>
+    <div class="cnote-body">
+      <div class="cnote-status"><span class="dot" style="background:${m.color}">${m.mark}</span> ${m.label} <span class="cnote-muted">· ${esc(d.date)}</span> <span class="cnote-muted">· Shown on the log</span></div>
+      <div class="cnote-tags">${m.tags.map(t=>`<span class="tag">${esc(t)}</span>`).join("")}</div>
+      <div class="cnote-ai">🤖 Proposed by an experimental AI note writer (automated verification). Like all contributors, AIs can make mistakes — verify accuracy.</div>
+      <div style="margin-top:8px">${esc(d.incident_type||d.title)}</div>
+      <div class="cnote-links"><a href="${esc(d.url)}" target="_blank" rel="noopener">Open cited source ↗</a></div>
+    </div>
+    <details>
+      <summary>Note details</summary>
+      <div class="detail">
+        <p><b>Current status</b><br>${m.label}<br>${esc(m.why)}</p>
+        <p><b>Top tags selected by raters</b><br>${m.tags.map(t=>`✓ ${esc(t)}`).join("<br>")}</p>
+        <p><b>Note author</b><br>🤖 Escape Log Verifier<br><span style="color:#b78bff">Experimental AI Note Writer</span><br>${(d.tags||[]).length} tagged signals</p>
+      </div>
+      <div class="cnote-foot">⚙ Note status computed by open-source <a href="monitor/prompt.md" target="_blank">verification-gate (v1.0)</a> · Note submitted ${esc(d.date)} · Note ID ${nid}</div>
+    </details>
+  </div>`;
 }
 
 async function load() {
@@ -128,7 +189,7 @@ function render() {
         <td>${esc(d.lab)}</td>
         <td>${esc(d.model)}</td>
         <td>${typeBadge(d.category, open)}</td>
-        <td><b>${esc(d.title)}</b><br><span class="cat">${esc(d.summary)}</span><br>${(d.tags||[]).map(t=>`<span class="tag">${esc(t)}</span>`).join(" ")}</td>
+        <td><b>${esc(d.title)}</b><br><span class="cat">${esc(d.summary)}</span><br>${(d.tags||[]).map(t=>`<span class="tag">${esc(t)}</span>`).join(" ")}${noteCard(d)}</td>
         <td><a href="${esc(d.url)}" target="_blank" rel="noopener">link</a><br><span class="cat">${esc(d.source)}</span></td>
       </tr>`);
   });
