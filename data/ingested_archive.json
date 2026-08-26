@@ -5,7 +5,8 @@
     "source": "Google News",
     "date": "Wed, 22 Ju",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EUVZQTjhCQllURWJxWGhvUHBLMFhCTEtodC1CcWlvRnVUOWtYQmpZZ2k1eUZDdDM0NnRRMnJ4Tm9FeHNNaXhhQkZUWkFnc1QyV05IdHl1OVF4M0s4?oc=5\" target=\"_blank\">OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack</a>&nbsp;&nbsp;<font color=\"#6f",
-    "first_seen": "2026-08-19"
+    "first_seen": "2026-08-19",
+    "reason": "duplicate"
   },
   {
     "title": "Anthropic's Claude AI escapes tests to hack three organisations - BBC",
@@ -13,7 +14,8 @@
     "source": "Google News",
     "date": "Fri, 31 Ju",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE50SmtNcDZCM3hZNTNTOG02SDc1MFhUT2JNc3gzUGVEeVl4dDB2WWJmejdYMDNqUnY2T1MybmcyXzQ5akxPU3ZRNDBycVRiMzVTcDczdDE4Qjc5NUFV?oc=5\" target=\"_blank\">Anthropic's Claude AI escapes tests to hack three organisations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BB",
-    "first_seen": "2026-08-19"
+    "first_seen": "2026-08-19",
+    "reason": "duplicate"
   },
   {
     "title": "CISA KEV: N-able N-central Authentication Bypass Using an Alternate Path or Channel Vulnerability",
@@ -21,7 +23,8 @@
     "source": "CISA KEV catalog",
     "date": "2026-08-03",
     "snippet": "CVE-2026-18577 | N-able N-central | N-able N-central contains an authentication bypass using an alternate path or channel allows for authentication bypass and account takeover in N-central. This vulnerability is the result of an incomplete patch for CVE-2026-18556.",
-    "first_seen": "2026-08-19"
+    "first_seen": "2026-08-19",
+    "reason": "duplicate"
   },
   {
     "title": "HalluSquatting AI attack could hijack your computer - Fox News",
@@ -29,7 +32,8 @@
     "source": "Google News",
     "date": "Sat, 18 Ju",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOakVRWVMzOUhHR2Y0OXVxbHQ2OVU0MXNWc2F2M052ajJlMmtwVFNrQmpwOVJVNDJxbVdON3Vha0FiREVuaDUyVHpUX2hyR243bFA2YTdwR2hKQlNLMmJDZ3JLeVM4TjhsRGpTWHpuUE45V25xV2gzTElIeWZIMHoyZHlLYUlidXfSAYwBQVVfeXFMT2dwaWdOLTNzVE1QWXZ1ZXB0VmZuWFFZQklyNlRITk5SeVFWS3g2ZT",
-    "first_seen": "2026-08-23"
+    "first_seen": "2026-08-23",
+    "reason": "duplicate"
   },
   {
     "title": "AI Models Are Going Rogue. Should We Be Worried? | Terms of Service - Modern Ghana",
@@ -37,6 +41,7 @@
     "source": "Google News",
     "date": "Tue, 25 Au",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0bGtqY3lfYXBXTXQ4aHR1TGFHRm1QMnlLd3R0eUlZS0RoMmdWbjFvRHJXeTVyZjc5aF9NakhsVUFOY3Z6MWozMTcyR2Q5TUI1Q2xLSDlWRUozMUp1bjVv?oc=5\" target=\"_blank\">AI Models Are Going Rogue. Should We Be Worried? | Terms of Service</a>&nbsp;&nbsp;<font color=\"#6f",
-    "first_seen": "2026-08-25"
+    "first_seen": "2026-08-25",
+    "reason": "duplicate"
   }
 ]
