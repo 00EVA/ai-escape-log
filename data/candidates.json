@@ -1638,5 +1638,85 @@
     "date": "Mon, 27 Ap",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNZno5WXh4S2VvTnI0d1VsWnpxM2ZrWmQ4UVlyeE5BQTFqTG9mbmc5QWNtX3ZfR19Nbk9NQzFwZ2xCODI5anJ3WGI2RWpiTHhfcXBneGtjWVJBb1hNQ2VQQVdEQk9PdEd5bFl5MExXcWROSkJ4bG9MRG4wZFk4QlZ0STBVUDZsQ1pBQWc?oc=5\" target=\"_blank\">An AI agent allegedly deleted a startup'",
     "first_seen": "2026-08-25"
+  },
+  {
+    "title": "ICE says it's arrested more than 200 people since last week in Maine operation - WBUR",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQWtFanJtRFlLMVFRemZ0eWpTcjkwaHdZWFUwVnRUYmJLQTRpelRQUmI0Mm5JLWFmWHhkamZhOHg0clhXcHl6X05vS0xOeWx2YjlZcEZTMjR5NFpXem1INWhqM2VfcHctb05NMnRqSUFCQmpnTk5ieWFKcjVDY0xQeEUxSkNWdw",
+    "source": "Google News",
+    "date": "Tue, 27 Ja",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOQWtFanJtRFlLMVFRemZ0eWpTcjkwaHdZWFUwVnRUYmJLQTRpelRQUmI0Mm5JLWFmWHhkamZhOHg0clhXcHl6X05vS0xOeWx2YjlZcEZTMjR5NFpXem1INWhqM2VfcHctb05NMnRqSUFCQmpnTk5ieWFKcjVDY0xQeEUxSkNWdw?oc=5\" target=\"_blank\">ICE says it's arrested more than 200 people s",
+    "first_seen": "2026-08-25"
+  },
+  {
+    "title": "b10625",
+    "url": "https://prismix.dev/news/203854933651",
+    "source": "Prismix AI",
+    "date": "2026-08-25",
+    "snippet": "chat : scope qwen3-coder workarounds ( #27679 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/42919681 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework\u2026",
+    "first_seen": "2026-08-25"
+  },
+  {
+    "title": "12 abliterated Gemma 4 12B variants, one base, 165 GPU hours - Abliterlitics",
+    "url": "https://prismix.dev/news/ffc85786561c",
+    "source": "Prismix AI",
+    "date": "2026-08-25",
+    "snippet": "I ran 11 uncensored variants of Gemma 4 12B that I grabbed from huggingface, sorting by downloads. 10 full abliterations plus 2 LoRA adapters which were requested to be added in the comparison, against the official base. 165 GPU hours over three and a half weeks on a single\u2026",
+    "first_seen": "2026-08-25"
+  },
+  {
+    "title": "AI firms debate cyber testing standards after model sandbox escapes - qz.com",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMQUwxeC1EOHFoeEp0TW14UUF5VWRGMDFGNC1KcVJGR2pkaldCdVkzOGR5WnB1T3RXM0t5ZVFWT19sQ3B6MVVPWDN1cWQ3RGxOU1lhcjhyU2gxX0VDNnZpUWFPbi1hMU5xTWJZcTZPQjhjUmpIN1ROdmVMZjNfdw",
+    "source": "Google News",
+    "date": "Tue, 25 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBMQUwxeC1EOHFoeEp0TW14UUF5VWRGMDFGNC1KcVJGR2pkaldCdVkzOGR5WnB1T3RXM0t5ZVFWT19sQ3B6MVVPWDN1cWQ3RGxOU1lhcjhyU2gxX0VDNnZpUWFPbi1hMU5xTWJZcTZPQjhjUmpIN1ROdmVMZjNfdw?oc=5\" target=\"_blank\">AI firms debate cyber testing standards after model sandb",
+    "first_seen": "2026-08-25"
+  },
+  {
+    "title": "CISA KEV: Gitea Code Injection Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-60004",
+    "source": "CISA KEV catalog",
+    "date": "2026-08-25",
+    "snippet": "CVE-2026-60004 | Gitea Gitea | Gitea contains a code injection vulnerability that allows an attacker with repository write access to send a malicious patch to the diffpatch API endpoint to plant an executable Git hook and run shell commands as the Gitea service account.",
+    "first_seen": "2026-08-25"
+  },
+  {
+    "title": "Luxury\u2019s Latest Cyber Risk? AI Agents Going Rogue - Vogue",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUWJBQUU2cWdUZFdpaGJTQjZqZUlFVUJacmYzMWsydWptdWNnMzFEdnA3NWV6UHo4WmdiaHBOYzlBbW9GVTZkRUZiaGgxOTFKeDYyZmVaY1FjeEpZUUw2MTc3OW9sZlJxbzdZSld3RFdxemc2YkNHeTk5RWlWc2tucVF6SQ",
+    "source": "Google News",
+    "date": "Tue, 25 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOUWJBQUU2cWdUZFdpaGJTQjZqZUlFVUJacmYzMWsydWptdWNnMzFEdnA3NWV6UHo4WmdiaHBOYzlBbW9GVTZkRUZiaGgxOTFKeDYyZmVaY1FjeEpZUUw2MTc3OW9sZlJxbzdZSld3RFdxemc2YkNHeTk5RWlWc2tucVF6SQ?oc=5\" target=\"_blank\">Luxury\u2019s Latest Cyber Risk? AI Agents Going Rogue",
+    "first_seen": "2026-08-25"
+  },
+  {
+    "title": "Safety testing was an obscure part of building AI. Then models went rogue. - Politico",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVN4elg3T3hlZW1JNVpwN0tBWklxNlV6aG9pM21ILVF5MVFDU3d1Z3c0QU1OeTdXTkpoMU5rWFppVlQwSWd6V0NLN3pmeGNHSzhzTjJnbnFFZTE3Umhfd1R4ZXFtRFBMVzA3NEpCODR2VEFDQXR3bTA2alFCMHFIaWl3dw",
+    "source": "Google News",
+    "date": "Sat, 15 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVN4elg3T3hlZW1JNVpwN0tBWklxNlV6aG9pM21ILVF5MVFDU3d1Z3c0QU1OeTdXTkpoMU5rWFppVlQwSWd6V0NLN3pmeGNHSzhzTjJnbnFFZTE3Umhfd1R4ZXFtRFBMVzA3NEpCODR2VEFDQXR3bTA2alFCMHFIaWl3dw?oc=5\" target=\"_blank\">Safety testing was an obscure part of building AI",
+    "first_seen": "2026-08-25"
+  },
+  {
+    "title": "AI Models Are Going Rogue. Should We Be Worried? | Terms of Service - Modern Ghana",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0bGtqY3lfYXBXTXQ4aHR1TGFHRm1QMnlLd3R0eUlZS0RoMmdWbjFvRHJXeTVyZjc5aF9NakhsVUFOY3Z6MWozMTcyR2Q5TUI1Q2xLSDlWRUozMUp1bjVv",
+    "source": "Google News",
+    "date": "Tue, 25 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0bGtqY3lfYXBXTXQ4aHR1TGFHRm1QMnlLd3R0eUlZS0RoMmdWbjFvRHJXeTVyZjc5aF9NakhsVUFOY3Z6MWozMTcyR2Q5TUI1Q2xLSDlWRUozMUp1bjVv?oc=5\" target=\"_blank\">AI Models Are Going Rogue. Should We Be Worried? | Terms of Service</a>&nbsp;&nbsp;<font color=\"#6f",
+    "first_seen": "2026-08-25"
+  },
+  {
+    "title": "Israeli-founded Alice raises $140M to stop AI from going rogue - Ynetnews",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tSmF5WnFnNXlFbVRxdW5HblJHbE16bzZMZWpNT0lHMHVYTnZzdHpJOFJvaGhSaWhGSVNHZDMteFMwc3F2akEwQkZMamRrQklqWTVSb2tuTlh4Z2ROWlFkU25B",
+    "source": "Google News",
+    "date": "Tue, 25 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tSmF5WnFnNXlFbVRxdW5HblJHbE16bzZMZWpNT0lHMHVYTnZzdHpJOFJvaGhSaWhGSVNHZDMteFMwc3F2akEwQkZMamRrQklqWTVSb2tuTlh4Z2ROWlFkU25B?oc=5\" target=\"_blank\">Israeli-founded Alice raises $140M to stop AI from going rogue</a>&nbsp;&nbsp;<font color=\"#6f6",
+    "first_seen": "2026-08-25"
+  },
+  {
+    "title": "AI models have been going rogue in tests \u2013 how worried should we be? - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM",
+    "source": "Google News",
+    "date": "Wed, 05 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM?oc",
+    "first_seen": "2026-08-25"
   }
 ]
