@@ -26,6 +26,17 @@
   .PEND  { background:rgba(139,149,167,.12); color:var(--mut); border:1px solid var(--line); }
   .SCORE { float:right; color:var(--mut); font-size:12px; }
   .count { color:var(--mut); }
+  .actions { margin-top:8px; display:flex; gap:6px; flex-wrap:wrap; }
+  .actions button { background:#0d1119; color:var(--ink); border:1px solid var(--line); border-radius:7px; padding:5px 11px; font-size:12.5px; cursor:pointer; }
+  .actions button:hover { border-color:var(--acc); color:var(--acc); }
+  .actions button.on-accept { background:rgba(46,204,113,.15); border-color:var(--ok); color:var(--ok); font-weight:700; }
+  .actions button.on-decline { background:rgba(255,107,107,.12); border-color:var(--warn); color:var(--warn); font-weight:700; }
+  .actions button.on-star { background:rgba(255,184,107,.15); border-color:var(--amber); color:var(--amber); font-weight:700; }
+  .cand.decided-decline { opacity:.55; }
+  .toolbar { display:flex; gap:8px; align-items:center; }
+  .toolbar button { background:var(--panel); color:var(--acc); border:1px solid var(--line); border-radius:8px; padding:8px 12px; font-size:13px; cursor:pointer; }
+  .toolbar button:hover { border-color:var(--acc); }
+  .hint { color:var(--mut); font-size:12px; max-width:520px; }
   footer { padding:20px 22px; color:var(--mut); font-size:12px; border-top:1px solid var(--line); }
   a { color:var(--acc); text-decoration:none; } a:hover { text-decoration:underline; }
   nav.site { display:flex; gap:4px; flex-wrap:wrap; padding:12px 22px; border-bottom:1px solid var(--line); background:#0d1119; position:sticky; top:0; z-index:5; }
@@ -75,6 +86,11 @@
   </select>
   <input type="text" id="q" placeholder="Search candidates…" />
   <span class="count" id="count"></span>
+  <div class="toolbar">
+    <button id="export">⬇ Export decisions</button>
+    <button id="pushflow" title="How to apply decisions">? </button>
+    <span class="hint" id="hintbox"></span>
+  </div>
 </section>
 
 <div class="wrap" id="list"></div>
@@ -121,16 +137,52 @@ function render(){
   });
   $("#list").innerHTML = rows.map(c=>{
     const t = tier(c), s = score(c);
-    return `<div class="cand">
+    const dec = DECISIONS[c.url] || {};
+    const state = dec.decision ? ` · <b style="color:${dec.decision==="accept"?"var(--ok)":dec.decision==="decline"?"var(--warn)":"var(--amber)"}">${dec.decision.toUpperCase()}${dec.star?" ★":""}</b>` : (dec.star ? ` · <b style="color:var(--amber)">★ STARRED</b>` : "");
+    return `<div class="cand ${dec.decision==="decline"?"decided-decline":""}">
       <span class="SCORE">score ${s}/4 · seen ${esc(c.first_seen)}</span>
       <span class="badge ${t}">${t==="AUTO"?"AUTO-INGESTS HOURLY":t==="HOT"?"HOT · NEEDS HUMAN":"PENDING"}</span>
-      <span class="t">${esc(c.title)}</span>
+      <span class="t">${esc(c.title)}</span>${state}
       <div class="m">${esc(c.source)} · ${esc(c.date)} · <a href="${esc(c.url)}" target="_blank" rel="noopener">${esc(c.url)}</a></div>
+      <div class="actions">
+        <button class="${dec.decision==="accept"?"on-accept":""}" onclick="decide('${esc(c.url)}','accept')">✓ Accept → log it</button>
+        <button class="${dec.decision==="decline"?"on-decline":""}" onclick="decide('${esc(c.url)}','decline')">✕ Decline → archive only</button>
+        <button class="${dec.star?"on-star":""}" onclick="star('${esc(c.url)}')">${dec.star?"★ High-impact":"☆ Star high-impact"}</button>
+        <button onclick="decide('${esc(c.url)}','reset')">↺ Reset</button>
+      </div>
     </div>`;
   }).join("") || "<p class='count'>Queue empty 🎉</p>";
   const counts = {AUTO:0,HOT:0,PEND:0}; DATA.forEach(c=>counts[tier(c)]++);
-  $("#count").textContent = `${rows.length} shown · ${counts.AUTO} auto / ${counts.HOT} hot / ${counts.PEND} pending of ${DATA.length}`;
+  const decs = Object.values(DECISIONS).filter(d=>d.decision).length;
+  $("#count").textContent = `${rows.length} shown · ${counts.AUTO} auto / ${counts.HOT} hot / ${counts.PEND} pending of ${DATA.length} · ${decs} decision(s) pending export`;
 }
+
+/* ---- human decision controls ---- */
+const LS_KEY = "aiel_decisions_v1";
+let DECISIONS = JSON.parse(localStorage.getItem(LS_KEY) || "{}");
+function persist(){ localStorage.setItem(LS_KEY, JSON.stringify(DECISIONS)); }
+function decide(url, d){
+  if (d === "reset") { delete DECISIONS[url]?.decision; if(!DECISIONS[url]?.star) delete DECISIONS[url]; }
+  else { DECISIONS[url] = DECISIONS[url] || {}; DECISIONS[url].decision = d; DECISIONS[url].at = new Date().toISOString(); }
+  persist(); render();
+}
+function star(url){
+  DECISIONS[url] = DECISIONS[url] || {};
+  DECISIONS[url].star = !DECISIONS[url].star;
+  if (!DECISIONS[url].star && !DECISIONS[url].decision) delete DECISIONS[url];
+  persist(); render();
+}
+$("#export").addEventListener("click", ()=>{
+  const out = { exported: new Date().toISOString(), decisions: DECISIONS };
+  const blob = new Blob([JSON.stringify(out, null, 2)], {type:"application/json"});
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob); a.download = "human_decisions.json"; a.click();
+  $("#hintbox").textContent = "Saved human_decisions.json → drop it into data/ in the repo (or hand it to your assistant). Hourly job applies it: accepts get logged, declines archived, stars spotlighted. Nothing is deleted.";
+});
+$("#pushflow").addEventListener("click", ()=>{
+  $("#hintbox").textContent = "Flow: click ✓/✕/★ → Export → put file in data/ (git add data/human_decisions.json && commit && push, or ask your assistant). auto_ingest applies it within the hour and GitHub Pages refreshes.";
+});
+window.decide = decide; window.star = star;
 $("#filter").addEventListener("change", render);
 $("#q").addEventListener("input", render);
 load();
