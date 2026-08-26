@@ -81,6 +81,11 @@
 
 <section class="stats" id="stats"></section>
 
+<section id="spotlight-sec" style="display:none;padding:14px 22px;border-bottom:1px solid var(--line);">
+  <div style="font-size:12px;color:var(--mut);text-transform:uppercase;letter-spacing:.5px;margin-bottom:8px">★ High-impact spotlight <span style="text-transform:none;letter-spacing:0">(starred from the review queue)</span></div>
+  <div id="spotlight" style="display:flex;gap:10px;flex-wrap:wrap"></div>
+</section>
+
 <section class="controls">
   <input type="text" id="q" placeholder="Search lab, model, keyword…" />
   <select id="cat"><option value="">All categories</option></select>
@@ -243,6 +248,24 @@ document.querySelectorAll("th[data-k]").forEach(th => th.addEventListener("click
 }));
 
 load().then(stats);
+
+// Spotlight: pinned high-impact incidents starred via review.html
+fetch("data/spotlight.json?" + Date.now()).then(r => r.ok ? r.json() : []).then(sp => {
+  if (!sp || !sp.length) return;
+  const byUrl = {}; DATA.forEach(d => byUrl[d.url] = d);
+  const sec = $("#spotlight-sec"), box = $("#spotlight");
+  sp.forEach(s => {
+    const inc = byUrl[s.url];
+    const label = inc ? `${esc(inc.date)} — ${esc(inc.title)}` : esc(s.title);
+    const url = inc ? inc.url : s.url;
+    box.insertAdjacentHTML("beforeend",
+      `<div style="background:var(--panel);border:1px solid #4a3b1e;border-radius:10px;padding:10px 14px;max-width:420px">
+         <div style="color:var(--warn)">★</div>
+         <a href="${esc(url)}" target="_blank" rel="noopener" style="font-weight:600;font-size:13.5px">${label}</a>
+       </div>`);
+  });
+  sec.style.display = "block";
+}).catch(()=>{});
 </script>
 </body>
 </html>
