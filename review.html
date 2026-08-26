@@ -30,8 +30,13 @@
   .actions button { background:#0d1119; color:var(--ink); border:1px solid var(--line); border-radius:7px; padding:5px 11px; font-size:12.5px; cursor:pointer; }
   .actions button:hover { border-color:var(--acc); color:var(--acc); }
   .actions button.on-accept { background:rgba(46,204,113,.15); border-color:var(--ok); color:var(--ok); font-weight:700; }
-  .actions button.on-decline { background:rgba(255,107,107,.12); border-color:var(--warn); color:var(--warn); font-weight:700; }
+  .actions button.on-minor { background:rgba(139,149,167,.18); border-color:var(--mut); color:var(--ink); font-weight:700; }
   .actions button.on-star { background:rgba(255,184,107,.15); border-color:var(--amber); color:var(--amber); font-weight:700; }
+  .wf { background:#10151f; border:1px solid var(--line); border-radius:10px; padding:12px 16px; margin-bottom:14px; font-size:13px; }
+  .wf b { color:var(--acc); }
+  .wf ol { margin:6px 0 0 18px; color:var(--mut); }
+  .wf li { margin-bottom:3px; }
+  .wf .crit { color:var(--ink); }
   .cand.decided-decline { opacity:.55; }
   .toolbar { display:flex; gap:8px; align-items:center; }
   .toolbar button { background:var(--panel); color:var(--acc); border:1px solid var(--line); border-radius:8px; padding:8px 12px; font-size:13px; cursor:pointer; }
@@ -93,7 +98,19 @@
   </div>
 </section>
 
-<div class="wrap" id="list"></div>
+<div class="wrap">
+<div class="wf">
+  <b>Review workflow — how to decide</b> (for HOT · NEEDS HUMAN items, work top to bottom):
+  <ol>
+    <li><span class="crit">Open the source link.</span> Can you reach a <b>primary source</b> from it (lab disclosure, gov/CVE record, vendor advisory, security-firm report)? If the article is only commentary, follow its citations.</li>
+    <li><span class="crit">Scope check.</span> Is an AI model/agent the <b>actor</b>, or is AI infrastructure the <b>target</b>? Both are in-scope. A conventional hack with no AI angle is not.</li>
+    <li><span class="crit">Impact check.</span> Did it touch real systems, users, money, or demonstrate a new containment failure? Zero-days in AI infra (Ray, MLflow, n8n, MCP…) count.</li>
+    <li><span class="crit">Freshness/dedupe.</span> Not a re-syndication of something already in the main log (search it there first).</li>
+    <li><span class="crit">Rate impact:</span> confirmed + significant real-world impact or first-of-kind capability → <b>☆ Huge</b> · verified + in-scope → <b>✓ High</b> · plausible but single-source, retrospective, or narrow → <b>▤ Minor</b> · can't verify → leave pending (it will age out to the archive, never deleted).</li>
+  </ol>
+</div>
+<div id="list"></div>
+</div>
 <footer>
   Auto-ingest gate: verification stays honest — machine-ingested items are marked
   <span class="badge PEND">single-source</span> on the main log and upgraded only after a human
@@ -138,38 +155,33 @@ function render(){
   $("#list").innerHTML = rows.map(c=>{
     const t = tier(c), s = score(c);
     const dec = DECISIONS[c.url] || {};
-    const state = dec.decision ? ` · <b style="color:${dec.decision==="accept"?"var(--ok)":dec.decision==="decline"?"var(--warn)":"var(--amber)"}">${dec.decision.toUpperCase()}${dec.star?" ★":""}</b>` : (dec.star ? ` · <b style="color:var(--amber)">★ STARRED</b>` : "");
-    return `<div class="cand ${dec.decision==="decline"?"decided-decline":""}">
+    const meta = {high:["var(--ok)","HIGH → main log"],minor:["var(--mut)","MINOR → logged, compact view"],huge:["var(--amber)","HUGE → spotlight"]};
+    const state = dec.decision && dec.decision!=="reset" ? ` · <b style="color:${meta[dec.decision][0]}">${dec.star?"★ ":""}${meta[dec.decision][1]}</b>` : (dec.star ? ` · <b style="color:var(--amber)">★ HUGE</b>` : "");
+    return `<div class="cand ${dec.decision==="minor"?"decided-decline":""}">
       <span class="SCORE">score ${s}/4 · seen ${esc(c.first_seen)}</span>
       <span class="badge ${t}">${t==="AUTO"?"AUTO-INGESTS HOURLY":t==="HOT"?"HOT · NEEDS HUMAN":"PENDING"}</span>
       <span class="t">${esc(c.title)}</span>${state}
       <div class="m">${esc(c.source)} · ${esc(c.date)} · <a href="${esc(c.url)}" target="_blank" rel="noopener">${esc(c.url)}</a></div>
       <div class="actions">
-        <button class="${dec.decision==="accept"?"on-accept":""}" onclick="decide('${esc(c.url)}','accept')">✓ Accept → log it</button>
-        <button class="${dec.decision==="decline"?"on-decline":""}" onclick="decide('${esc(c.url)}','decline')">✕ Decline → archive only</button>
-        <button class="${dec.star?"on-star":""}" onclick="star('${esc(c.url)}')">${dec.star?"★ High-impact":"☆ Star high-impact"}</button>
+        <button class="${dec.star?"on-star":""}" onclick="decide('${esc(c.url)}','huge')" title="Verified + major real-world impact or first-of-kind">★ Huge impact</button>
+        <button class="${dec.decision==="high"?"on-accept":""}" onclick="decide('${esc(c.url)}','high')" title="Verified and in-scope → main log">✓ High impact</button>
+        <button class="${dec.decision==="minor"?"on-minor":""}" onclick="decide('${esc(c.url)}','minor')" title="Plausible but narrow/single-source → logged, less visible">▤ Minor</button>
         <button onclick="decide('${esc(c.url)}','reset')">↺ Reset</button>
       </div>
     </div>`;
   }).join("") || "<p class='count'>Queue empty 🎉</p>";
   const counts = {AUTO:0,HOT:0,PEND:0}; DATA.forEach(c=>counts[tier(c)]++);
-  const decs = Object.values(DECISIONS).filter(d=>d.decision).length;
+  const decs = Object.values(DECISIONS).filter(d=>d.decision && d.decision!=="reset").length;
   $("#count").textContent = `${rows.length} shown · ${counts.AUTO} auto / ${counts.HOT} hot / ${counts.PEND} pending of ${DATA.length} · ${decs} decision(s) pending export`;
 }
 
-/* ---- human decision controls ---- */
-const LS_KEY = "aiel_decisions_v1";
+/* ---- human impact-tier controls: huge / high / minor — nothing is ever removed ---- */
+const LS_KEY = "aiel_decisions_v2";
 let DECISIONS = JSON.parse(localStorage.getItem(LS_KEY) || "{}");
 function persist(){ localStorage.setItem(LS_KEY, JSON.stringify(DECISIONS)); }
 function decide(url, d){
-  if (d === "reset") { delete DECISIONS[url]?.decision; if(!DECISIONS[url]?.star) delete DECISIONS[url]; }
-  else { DECISIONS[url] = DECISIONS[url] || {}; DECISIONS[url].decision = d; DECISIONS[url].at = new Date().toISOString(); }
-  persist(); render();
-}
-function star(url){
-  DECISIONS[url] = DECISIONS[url] || {};
-  DECISIONS[url].star = !DECISIONS[url].star;
-  if (!DECISIONS[url].star && !DECISIONS[url].decision) delete DECISIONS[url];
+  if (d === "reset") { if (DECISIONS[url]) { delete DECISIONS[url].decision; if(!DECISIONS[url].star) delete DECISIONS[url]; } }
+  else { DECISIONS[url] = DECISIONS[url] || {}; DECISIONS[url].decision = d; if (d==="huge") DECISIONS[url].star = true; DECISIONS[url].at = new Date().toISOString(); }
   persist(); render();
 }
 $("#export").addEventListener("click", ()=>{
@@ -177,12 +189,12 @@ $("#export").addEventListener("click", ()=>{
   const blob = new Blob([JSON.stringify(out, null, 2)], {type:"application/json"});
   const a = document.createElement("a");
   a.href = URL.createObjectURL(blob); a.download = "human_decisions.json"; a.click();
-  $("#hintbox").textContent = "Saved human_decisions.json → drop it into data/ in the repo (or hand it to your assistant). Hourly job applies it: accepts get logged, declines archived, stars spotlighted. Nothing is deleted.";
+  $("#hintbox").textContent = "Saved human_decisions.json → drop into data/ in the repo (or hand to your assistant). Hourly job applies it: huge/high/minor all get logged (huge also spotlighted), pending items age out to the archive. Nothing is deleted.";
 });
 $("#pushflow").addEventListener("click", ()=>{
-  $("#hintbox").textContent = "Flow: click ✓/✕/★ → Export → put file in data/ (git add data/human_decisions.json && commit && push, or ask your assistant). auto_ingest applies it within the hour and GitHub Pages refreshes.";
+  $("#hintbox").textContent = "Flow: follow the review workflow → click ★/✓/▤ → Export → put file in data/ → hourly cron applies it and GitHub Pages refreshes.";
 });
-window.decide = decide; window.star = star;
+window.decide = decide;
 $("#filter").addEventListener("change", render);
 $("#q").addEventListener("input", render);
 load();

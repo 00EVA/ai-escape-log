@@ -90,6 +90,9 @@
   <input type="text" id="q" placeholder="Search lab, model, keyword…" />
   <select id="cat"><option value="">All categories</option></select>
   <select id="lab"><option value="">All labs</option></select>
+  <label style="font-size:13px;color:var(--mut);display:flex;align-items:center;gap:5px;cursor:pointer">
+    <input type="checkbox" id="minor" checked style="accent-color:var(--acc)"> Show minor impact
+  </label>
   <span class="cat" id="count"></span>
 </section>
 
@@ -201,6 +204,7 @@ function render() {
   let rows = DATA.filter(d => {
     if (cat && d.category !== cat) return false;
     if (lab && d.lab !== lab) return false;
+    if (!$("#minor").checked && (d.importance||"high") === "minor") return false;
     if (q) {
       const hay = [d.lab,d.model,d.title,d.summary,d.source,(d.tags||[]).join(" "),(d.incident_type||"")].join(" ").toLowerCase();
       if (!hay.includes(q)) return false;
@@ -211,13 +215,17 @@ function render() {
   const tb = $("#rows"); tb.innerHTML = "";
   rows.forEach(d => {
     const open = /escape|rogue|exfiltrat|unprecedented|disabled|shut.off/i.test(d.status||"") ? " open" : "";
+    const imp = d.importance || "high";
+    const impHtml = imp === "minor"
+      ? `<span class="tag" style="color:var(--mut)">minor impact</span>`
+      : (imp === "huge" ? `<span class="tag" style="color:var(--warn)">★ huge impact</span>` : "");
     tb.insertAdjacentHTML("beforeend", `
       <tr>
         <td class="date">${esc(d.date)}</td>
         <td>${esc(d.lab)}</td>
         <td>${esc(d.model)}</td>
         <td>${typeBadge(d.category, open)}</td>
-        <td><b>${esc(d.title)}</b><br><span class="cat">${esc(d.summary)}</span><br>${(d.tags||[]).map(t=>`<span class="tag">${esc(t)}</span>`).join(" ")}${noteCard(d)}</td>
+        <td><b>${esc(d.title)}</b> ${impHtml}<br><span class="cat">${esc(d.summary)}</span><br>${(d.tags||[]).map(t=>`<span class="tag">${esc(t)}</span>`).join(" ")}${noteCard(d)}</td>
         <td><a href="${esc(d.url)}" target="_blank" rel="noopener">link</a><br><span class="cat">${esc(d.source)}</span></td>
       </tr>`);
   });
@@ -241,6 +249,7 @@ function stats() {
 $("#q").addEventListener("input", render);
 $("#cat").addEventListener("change", render);
 $("#lab").addEventListener("change", render);
+$("#minor").addEventListener("change", render);
 document.querySelectorAll("th[data-k]").forEach(th => th.addEventListener("click", ()=>{
   const k = th.dataset.k;
   DATA.sort((a,b)=> (""+ (b[k]||"")).localeCompare(""+(a[k]||"")));

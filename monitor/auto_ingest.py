@@ -124,7 +124,7 @@ def hot_score(item):
         return 2 if re.search(r"(?i)(rogue|escape|breach|post-?mortem)", blob) else 0
 
 
-def make_incident(c, cat, ver, note=""):
+def make_incident(c, cat, ver, note="", importance="minor"):
     date = parse_date(c.get("date"))
     slug = re.sub(r"[^a-z0-9]+", "-", (c.get("title") or "").lower())[:48].strip("-")
     return {
@@ -139,6 +139,7 @@ def make_incident(c, cat, ver, note=""):
         "source": c.get("source"),
         "summary": (c.get("snippet") or c.get("title") or "").strip(),
         "status": (note or "auto-ingested"),
+        "importance": importance,
         "tags": ["human-accepted"] if note else [],
         "verification": ver,
     }
@@ -182,34 +183,48 @@ def main():
         def archive_it(reason):
             archive.append({**c, "reason": reason, "archived_at": today})
 
-        # 1. human decision wins
+        # 1. human impact-tier decision wins: huge/high/minor — nothing removed
+        if dec.get("decision") == "minor":
+            cat, ver = classify(c, cands)
+            incs.append(make_incident(c, cat, ver, note="human-rated: minor impact",
+                                      importance="minor"))
+            known_urls.add(url); known_titles.add(norm_title(title)); known_cves |= ids
+            promoted.append(c)
+            continue
         if dec.get("decision") == "decline":
-            archive_it("human-declined")
+            # legacy: treated as minor (nothing is removed from the record)
+            cat, ver = classify(c, cands)
+            incs.append(make_incident(c, cat, ver, note="human-rated: minor impact",
+                                      importance="minor"))
+            known_urls.add(url); known_titles.add(norm_title(title)); known_cves |= ids
+            promoted.append(c)
             continue
         if url in known_urls or norm_title(title) in known_titles or (ids & known_cves):
             archive_it("duplicate")
             continue
-        if dec.get("decision") == "accept":
+        if dec.get("decision") == "accept" or dec.get("decision") == "high":
             cat, ver = classify(c, cands)
-            incs.append(make_incident(c, cat, ver, note="human-accepted"))
+            imp = "huge" if (dec.get("star") or dec.get("decision") == "huge") else "high"
+            incs.append(make_incident(c, cat, ver, note=f"human-rated: {imp} impact",
+                                      importance=imp))
             known_urls.add(url); known_titles.add(norm_title(title)); known_cves |= ids
             promoted.append(c)
-            if dec.get("star"):
+            if imp == "huge":
                 spotlight.append({"url": url, "title": title, "id": incs[-1]["id"]})
                 starred_new.append(title)
             continue
-        # 2. auto gate
+        # 2. auto gate (score 4 -> high; 3 -> minor pending human upgrade)
         if score >= 3 and OFFICIAL.search(url):
             if "cisa" in (c.get("source") or "").lower() and not AI_SPECIFIC.search(blob):
                 archive_it("not-ai-specific-cve")
                 continue
             cat, ver = classify(c, cands)
-            incs.append(make_incident(c, cat, ver))
+            imp = "high" if score >= 4 else "minor"
+            incs.append(make_incident(c, cat, ver,
+                                      note="auto-ingested - pending human rating",
+                                      importance=imp))
             known_urls.add(url); known_titles.add(norm_title(title)); known_cves |= ids
             promoted.append(c)
-            if dec.get("star"):
-                spotlight.append({"url": url, "title": title, "id": incs[-1]["id"]})
-                starred_new.append(title)
             continue
         # 3. prune stale low-signal
         if (c.get("first_seen") or today) < cutoff and score < 3:

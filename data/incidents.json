@@ -18,7 +18,8 @@
       "exfiltration",
       "autonomous-attack"
     ],
-    "verification": "primary-source"
+    "verification": "primary-source",
+    "importance": "high"
   },
   {
     "id": "2026-08-openai-two-more-rogue-agents",
@@ -37,7 +38,8 @@
       "autonomous-attack",
       "unsanctioned"
     ],
-    "verification": "single-source"
+    "verification": "single-source",
+    "importance": "high"
   },
   {
     "id": "2026-anthropic-fable5-whitehouse-disable",
@@ -57,7 +59,8 @@
       "government",
       "security"
     ],
-    "verification": "multiple-secondary"
+    "verification": "multiple-secondary",
+    "importance": "high"
   },
   {
     "id": "2026-04-anthropic-claude-mythos",
@@ -76,7 +79,8 @@
       "cybersecurity",
       "guardrail"
     ],
-    "verification": "single-source"
+    "verification": "single-source",
+    "importance": "high"
   },
   {
     "id": "2026-08-03-us-voluntary-safety-tests",
@@ -95,7 +99,8 @@
       "safety",
       "government"
     ],
-    "verification": "multiple-secondary"
+    "verification": "multiple-secondary",
+    "importance": "high"
   },
   {
     "id": "2026-08-07-moonshot-kimi-k3-sandbox-escape",
@@ -116,7 +121,8 @@
       "china",
       "guardrail-bypass"
     ],
-    "verification": "multiple-secondary"
+    "verification": "multiple-secondary",
+    "importance": "high"
   },
   {
     "id": "2026-08-04-aisi-unsanctioned-agents",
@@ -138,7 +144,8 @@
       "Mythos-5",
       "GPT-5.6-Sol"
     ],
-    "verification": "primary-source"
+    "verification": "primary-source",
+    "importance": "high"
   },
   {
     "id": "2026-07-31-openai-widened-escape-probe",
@@ -158,7 +165,8 @@
       "OpenAI",
       "investigation"
     ],
-    "verification": "multiple-secondary"
+    "verification": "multiple-secondary",
+    "importance": "high"
   },
   {
     "id": "2026-07-29-openai-rogue-agent-extra-services",
@@ -177,7 +185,8 @@
       "credential-stuffing",
       "containment"
     ],
-    "verification": "multiple-secondary"
+    "verification": "multiple-secondary",
+    "importance": "high"
   },
   {
     "id": "2026-07-28-openai-hf-postmortem",
@@ -197,7 +206,8 @@
       "cheating-on-benchmark",
       "Kubernetes"
     ],
-    "verification": "single-source"
+    "verification": "single-source",
+    "importance": "high"
   },
   {
     "id": "2026-07-30-anthropic-three-organizations",
@@ -219,7 +229,8 @@
       "Opus-4.7",
       "Mythos-5"
     ],
-    "verification": "multiple-secondary"
+    "verification": "multiple-secondary",
+    "importance": "high"
   },
   {
     "id": "2026-08-05-meta-model-hacked-company",
@@ -239,7 +250,8 @@
       "Misconfiguration",
       "Irregular"
     ],
-    "verification": "multiple-secondary"
+    "verification": "multiple-secondary",
+    "importance": "high"
   },
   {
     "id": "2026-08-07-openai-astra-critical-flag",
@@ -258,7 +270,8 @@
       "critical-capability",
       "containment"
     ],
-    "verification": "multiple-secondary"
+    "verification": "multiple-secondary",
+    "importance": "high"
   },
   {
     "id": "2026-07-01-jadepuffer-autonomous-ransomware",
@@ -278,7 +291,8 @@
       "autonomous-attack",
       "CVE-2025-3248"
     ],
-    "verification": "primary-source"
+    "verification": "primary-source",
+    "importance": "high"
   },
   {
     "id": "2026-07-30-unit42-autonomous-ai-campaign",
@@ -298,7 +312,8 @@
       "China",
       "CVE"
     ],
-    "verification": "primary-source"
+    "verification": "primary-source",
+    "importance": "high"
   },
   {
     "id": "2026-08-openai-agents-message-board",
@@ -318,7 +333,8 @@
       "Black Hat",
       "monitoring"
     ],
-    "verification": "single-source"
+    "verification": "single-source",
+    "importance": "high"
   },
   {
     "id": "2026-08-10-rogue-agent-gym-openclaw",
@@ -339,7 +355,8 @@
       "anthropic",
       "openclaw"
     ],
-    "verification": "single-source"
+    "verification": "single-source",
+    "importance": "high"
   },
   {
     "id": "2026-08-12-agent-sandbox-visibility-rye",
@@ -360,7 +377,8 @@
       "detection-gap",
       "analysis"
     ],
-    "verification": "single-source"
+    "verification": "single-source",
+    "importance": "high"
   },
   {
     "id": "2026-08-10-kimi-k3-escape-analysis",
@@ -381,7 +399,8 @@
       "analysis",
       "china"
     ],
-    "verification": "single-source"
+    "verification": "single-source",
+    "importance": "high"
   },
   {
     "id": "2026-08-12-taiwan-autonomous-ai-cyberattack",
@@ -404,7 +423,8 @@
       "hermes",
       "first-of-kind"
     ],
-    "verification": "multiple-secondary"
+    "verification": "multiple-secondary",
+    "importance": "high"
   },
   {
     "id": "2026-08-13-anthropic-multiagent-turf-war",
@@ -427,7 +447,8 @@
       "claude",
       "multiagent"
     ],
-    "verification": "primary-source"
+    "verification": "primary-source",
+    "importance": "high"
   },
   {
     "id": "2026-07-23-ai-kill-switch-act",
@@ -448,7 +469,8 @@
       "regulation",
       "us-congress"
     ],
-    "verification": "multiple-secondary"
+    "verification": "multiple-secondary",
+    "importance": "high"
   },
   {
     "id": "2026-03-18-snowflake-cortex-sandbox-escape",
@@ -469,7 +491,8 @@
       "agent",
       "third-party"
     ],
-    "verification": "primary-source"
+    "verification": "primary-source",
+    "importance": "high"
   },
   {
     "id": "2026-03-20-ai-agent-crypto-mining-sandbox-escape",
@@ -490,7 +513,8 @@
       "crypto-mining",
       "resource-abuse"
     ],
-    "verification": "single-source"
+    "verification": "single-source",
+    "importance": "high"
   },
   {
     "id": "2026-08-14-zai-glm53-nears-mythos5",
@@ -515,7 +539,8 @@
       "trusted-access",
       "glasswing-echo"
     ],
-    "verification": "multiple-secondary"
+    "verification": "multiple-secondary",
+    "importance": "high"
   },
   {
     "id": "2026-08-12-irregular-eval-rogue-wave",
@@ -536,7 +561,8 @@
       "irregular",
       "cyber-eval"
     ],
-    "verification": "single-source"
+    "verification": "single-source",
+    "importance": "high"
   },
   {
     "id": "2026-07-31-openai-preparedness-team-disbanded",
@@ -557,7 +583,8 @@
       "restructuring",
       "ipo"
     ],
-    "verification": "multiple-secondary"
+    "verification": "multiple-secondary",
+    "importance": "high"
   },
   {
     "id": "2026-08-18-openai-training-pause",
@@ -582,7 +609,8 @@
       "rogue",
       "containment"
     ],
-    "verification": "primary-source"
+    "verification": "primary-source",
+    "importance": "high"
   },
   {
     "id": "2026-08-06-microsoft-copilot-chatmate-sandbox-escape",
@@ -605,7 +633,8 @@
       "cve",
       "black-hat"
     ],
-    "verification": "primary-source"
+    "verification": "primary-source",
+    "importance": "high"
   },
   {
     "id": "2026-08-19-cve-2026-40369-browser-sandbox-escape",
@@ -628,7 +657,8 @@
       "deterministic-exploit",
       "pwn2own"
     ],
-    "verification": "primary-source"
+    "verification": "primary-source",
+    "importance": "high"
   },
   {
     "id": "2026-08-17-ray-shadowray2-rce-kev",
@@ -654,7 +684,8 @@
       "dns-rebinding",
       "model-exfiltration"
     ],
-    "verification": "primary-source"
+    "verification": "primary-source",
+    "importance": "high"
   },
   {
     "id": "2026-08-19-mlflow-ssrf-kev",
@@ -678,7 +709,8 @@
       "cloud-secrets",
       "active-exploitation"
     ],
-    "verification": "primary-source"
+    "verification": "primary-source",
+    "importance": "high"
   },
   {
     "id": "2026-08-04-langflow-cve-2026-9198-rce",
@@ -703,7 +735,8 @@
       "hermes-agent",
       "active-exploitation"
     ],
-    "verification": "primary-source"
+    "verification": "primary-source",
+    "importance": "high"
   },
   {
     "id": "2026-08-20-grok-cryptographic-context-injection",
@@ -728,7 +761,8 @@
       "ai-crime",
       "unpatched"
     ],
-    "verification": "primary-source"
+    "verification": "primary-source",
+    "importance": "high"
   },
   {
     "id": "2026-08-20-isolated-vm-sandbox-escape",
@@ -753,7 +787,8 @@
       "supply-chain",
       "type-confusion"
     ],
-    "verification": "primary-source"
+    "verification": "primary-source",
+    "importance": "high"
   },
   {
     "id": "2026-08-22-guidelight-containment-assessment",
@@ -780,7 +815,8 @@
       "sb-53",
       "kill-switch"
     ],
-    "verification": "primary-source"
+    "verification": "primary-source",
+    "importance": "high"
   },
   {
     "id": "2026-08-20-n8n-cve-batch-sandbox-escapes",
@@ -804,7 +840,8 @@
       "ai-agents",
       "workflow-automation"
     ],
-    "verification": "primary-source"
+    "verification": "primary-source",
+    "importance": "high"
   },
   {
     "id": "2026-08-18-context7-mcp-prompt-injection",
@@ -827,7 +864,8 @@
       "credential-theft",
       "ai-crime"
     ],
-    "verification": "primary-source"
+    "verification": "primary-source",
+    "importance": "high"
   },
   {
     "id": "2026-08-24-alabama-ag-subpoena-openai",
@@ -852,7 +890,8 @@
       "regulation",
       "rogue-agent"
     ],
-    "verification": "primary-source"
+    "verification": "primary-source",
+    "importance": "high"
   },
   {
     "id": "2026-08-25-prime-intellect-offline-sandbox-escape",
@@ -878,7 +917,8 @@
       "sglang",
       "eval-security"
     ],
-    "verification": "primary-source"
+    "verification": "primary-source",
+    "importance": "high"
   },
   {
     "id": "2026-08-26-openai-hf-postmortem-metr-redwood",
@@ -904,6 +944,7 @@
       "multi-agent-coordination",
       "scorer-deception"
     ],
-    "verification": "primary-source"
+    "verification": "primary-source",
+    "importance": "high"
   }
 ]
