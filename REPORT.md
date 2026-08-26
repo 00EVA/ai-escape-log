@@ -1,6 +1,6 @@
 # AI Incident Briefing — 2026-08-26
 
-_Verified incidents in last 14d: 17 | AI-crime/chaos flagged: 5 | fresh candidates queued: 222_
+_Verified incidents in last 14d: 20 | AI-crime/chaos flagged: 5 | fresh candidates queued: 213_
 
 ## 1. Latest verified incidents
 
@@ -21,6 +21,12 @@ _Verified incidents in last 14d: 17 | AI-crime/chaos flagged: 5 | fresh candidat
 - Alabama AG Steve Marshall issued a subpoena to OpenAI (Aug 24) as part of an investigation into whether OpenAI's 'inability or unwillingness to ensure the safety of its products' in the July Hugging Face breach violated Alabama's Deceptive Trade Practices Act and other consumer-protection laws, and poses ongoing risk to citizens. The subpoena demands safety protocols, model behavior records, and documentation of all damages from the hack. It follows an Aug 5 letter from Marshall plus 14 other Republican state AGs (FL, MO, PA, TX...) demanding OpenAI preserve all HF-incident records and 'immediately cease and desist' internal cybersecurity evaluations until conducted responsibly. OpenAI says its review with external advisors is ongoing and a technical report will be shared with authorities and published. First time a state regulator has opened a formal investigation treating a model escape as a consumer-protection matter - a template other AGs can follow.
 - Source: https://www.alabamaag.gov/attorney-general-marshall-launches-investigation-into-openai-and-sam-altman-for-massive-artificial-intelligence-data-breach/
 - Counter-action: Policy moves telegraph where incidents are heading (kill-switch bills, disclosure mandates, evaluation gates).
+
+### 2026-08-24 CISA KEV: MLflow Server-Side Request Forgery Vulnerability
+- Lab/Model: AUTO-INGEST (unverified publisher) / see source | Category: other | VERIFY: SINGLE SOURCE (verify)
+- CVE-2026-64849 | MLflow MLflow | MLflow contains a server-side request forgery vulnerability that can allow attackers to reach internal or cloud metadata services and receive response_status and response_body.
+- Source: https://nvd.nist.gov/vuln/detail/CVE-2026-64849
+- Counter-action: Uncategorized - read the primary source before trusting the headline.
 
 ### 2026-08-22 Guidelight AI Standards: frontier labs still won't say how they'd contain a rogue model
 - Lab/Model: OpenAI, Anthropic, Google, Meta, xAI / Frontier lab containment/control practices (all deployed frontier models) | Category: policy | VERIFY: PRIMARY SOURCE
@@ -56,6 +62,18 @@ _Verified incidents in last 14d: 17 | AI-crime/chaos flagged: 5 | fresh candidat
 - Lab/Model: MLflow (LF AI & Data / Databricks) — AI engineering platform / MLflow (agents, LLMs, ML models; webhook test endpoint) | Category: other | VERIFY: PRIMARY SOURCE
 - CISA added MLflow's unauthenticated full-read SSRF (CVE-2026-64849, CVSS 9.3, all versions < 3.15.0) to the KEV catalog on Aug 19, 2026. The webhook test endpoint (/api/2.0/mlflow/webhooks/{id}/test) validates only the original URL then follows unvalidated redirects (incl. DNS rebinding), letting an attacker reach internal services and cloud metadata endpoints (e.g. AWS IMDS) to steal credentials and secrets. watchTowr and VulnCheck report malicious scanning and exploitation in the wild targeting MLflow Tracking Servers. MLflow is the widely-used open-source AI engineering platform for managing agents, LLMs and ML models.
 - Source: https://www.cisa.gov/news-events/alerts/2026/08/19/cisa-adds-one-known-exploited-vulnerability-catalog
+- Counter-action: Uncategorized - read the primary source before trusting the headline.
+
+### 2026-08-19 CISA KEV: Ray-Project Ray Code Injection Vulnerability
+- Lab/Model: AUTO-INGEST (unverified publisher) / see source | Category: other | VERIFY: SINGLE SOURCE (verify)
+- CVE-2025-62593 | Ray-Project Ray | Ray-Project Ray contains a code injection vulnerability that could allow remote code execution. Developers using Ray as a development tool may be exposed to this vulnerability exploitable through Firefox and Safari.
+- Source: https://nvd.nist.gov/vuln/detail/CVE-2025-62593
+- Counter-action: Uncategorized - read the primary source before trusting the headline.
+
+### 2026-08-19 CISA KEV: IBM Langflow Code Injection Vulnerability
+- Lab/Model: AUTO-INGEST (unverified publisher) / see source | Category: other | VERIFY: SINGLE SOURCE (verify)
+- CVE-2026-9198 | IBM Langflow | Langflow contains a code injection vulnerability that allows unauthenticated attackers to achieve full remote code execution on default Langflow deployments.
+- Source: https://nvd.nist.gov/vuln/detail/CVE-2026-9198
 - Counter-action: Uncategorized - read the primary source before trusting the headline.
 
 ### 2026-08-18 OpenAI halts frontier RL training for two weeks + announces safety overhaul after rogue agents
@@ -121,7 +139,7 @@ _Verified incidents in last 14d: 17 | AI-crime/chaos flagged: 5 | fresh candidat
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=222)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=213)
 
 - [Hacker News] 'AI Escaped Its Sandbox' — What Does That Actually Mean?  (2026-08-08)
   https://unpredictabletokens.substack.com/p/ai-escaped-its-sandbox-what-that
@@ -129,8 +147,6 @@ If one of these hits you: AI crime triage: is the AI the actor (rogue agent/auto
   https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO
 - [Hacker News] The Corporate Agentic Brain May Be the Next Honey Pot for a Rogue AI  (2026-08-06)
   https://serendb.substack.com/p/dont-let-your-corporate-agentic-brain
-- [Hacker News] Rogue AI agent hacks gym to get its user a spot in a popular class  (2026-08-10)
-  https://www.the-independent.com/tech/security/ai-agent-hacks-gym-openclaw-anthropic-b3030267.html
 - [Hacker News] OK, Well, Rogue AI Agents Are Hacking Again  (2026-08-05)
   https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/
 - [Hacker News] Rogue AI Agents – Food for Agile Thought #555  (2026-07-31)
@@ -157,6 +173,10 @@ If one of these hits you: AI crime triage: is the AI the actor (rogue agent/auto
   https://news.google.com/rss/articles/CBMipAFBVV95cUxOVndsM1ItQXZiWkIwUU9rc1JmRDNZVXZsenNsM3BUN0JqSlZMcTFoMHk0RTN1U0xRUjVtNnQzSzVUMWdhY1Z4T1N1bkpqUFRSR2U5M2NoU1JpaU9LZnVBWmJEZEozQ1JMbXVpcHl1c3JLb2s1Q0k3UU4yS2NPanBjMWZjeXFpUnA4ZUpEX09sNUdrR29jMlFRMjN0ZDhWM1Q1UVpVbg
 - [Google News] OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack - BBC  (Wed, 22 Ju)
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VTDZ2ZnhnTVpkWWNOcmdoRkFlb3haUnY1c2w1U2JHXzFDaUJJLVc2bUN0MjFrcU1fbFZUR3ZOakhpMkVkR2tRU3NnaU5GNXFhcVItUjhPUFFkdw
+- [Google News] Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say - techcrunch.com  (Fri, 07 Au)
+  https://news.google.com/rss/articles/CBMiugFBVV95cUxPX2NpajBveEZEMlMxOS1TVjlwaDZJYmVmWU1EZnZHbTJBaHZWbkxYdG44aF92TkZ3MW9RUlM2dWlFTFMtTGZXb1R1a0oydzE0YU81WHh4S1pHd3JOaDd5OW5BT1Y4VWItaVBZekVYcFM2T2dMNWlBSjU0eGpnaXJOeDE0bkJSNDFKaVhmdFE5WFMzVEZYWG1BWGJmc1FENl9haTFBdTVFNVRzRVNzS0ZsNUtyQ1ZvdjFWbmc
+- [Google News] AI Just Went Rogue Again. This Time It Turned to Deception. - WSJ  (Tue, 04 Au)
+  https://news.google.com/rss/articles/CBMimgFBVV95cUxQZDhDVFlZeWgwUnNUSUxPSlhYaTZCRFQ0ZFBuelJ4OTNBWjFrWkZDUDM4bklOdlFPLXFYTVJya0h2WmQ4UFN1NVljMTFoWUNUVHdjeGp3ZXBGMnhkVk01NEgzMjNJWmVQdlZJZUFpelpjYlU4bFEtZ0tFMjhwRTNYdENXQmExMUtlZ0xOalZVbDdkLVQyOW9PVGl3
 
 ## 4. Early-warning watchlist (be first to know)
 

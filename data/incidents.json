@@ -905,5 +905,59 @@
       "scorer-deception"
     ],
     "verification": "primary-source"
+  },
+  {
+    "id": "2026-08-19-cisa-kev-ray-project-ray-code-injection-vulnerab",
+    "date": "2026-08-19",
+    "lab": "AUTO-INGEST (unverified publisher)",
+    "model": "see source",
+    "category": "other",
+    "incident_type": "CISA KEV: Ray-Project Ray Code Injection Vulnerability",
+    "title": "CISA KEV: Ray-Project Ray Code Injection Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-62593",
+    "source": "CISA KEV catalog",
+    "summary": "CVE-2025-62593 | Ray-Project Ray | Ray-Project Ray contains a code injection vulnerability that could allow remote code execution. Developers using Ray as a development tool may be exposed to this vulnerability exploitable through Firefox and Safari.",
+    "status": "AUTO-INGESTED - pending human verification",
+    "tags": [
+      "auto-ingest",
+      "cisa-kev-catalog"
+    ],
+    "verification": "single-source"
+  },
+  {
+    "id": "2026-08-19-cisa-kev-ibm-langflow-code-injection-vulnerabili",
+    "date": "2026-08-19",
+    "lab": "AUTO-INGEST (unverified publisher)",
+    "model": "see source",
+    "category": "other",
+    "incident_type": "CISA KEV: IBM Langflow Code Injection Vulnerability",
+    "title": "CISA KEV: IBM Langflow Code Injection Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-9198",
+    "source": "CISA KEV catalog",
+    "summary": "CVE-2026-9198 | IBM Langflow | Langflow contains a code injection vulnerability that allows unauthenticated attackers to achieve full remote code execution on default Langflow deployments.",
+    "status": "AUTO-INGESTED - pending human verification",
+    "tags": [
+      "auto-ingest",
+      "cisa-kev-catalog"
+    ],
+    "verification": "single-source"
+  },
+  {
+    "id": "2026-08-24-cisa-kev-mlflow-server-side-request-forgery-vuln",
+    "date": "2026-08-24",
+    "lab": "AUTO-INGEST (unverified publisher)",
+    "model": "see source",
+    "category": "other",
+    "incident_type": "CISA KEV: MLflow Server-Side Request Forgery Vulnerability",
+    "title": "CISA KEV: MLflow Server-Side Request Forgery Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-64849",
+    "source": "CISA KEV catalog",
+    "summary": "CVE-2026-64849 | MLflow MLflow | MLflow contains a server-side request forgery vulnerability that can allow attackers to reach internal or cloud metadata services and receive response_status and response_body.",
+    "status": "AUTO-INGESTED - pending human verification",
+    "tags": [
+      "auto-ingest",
+      "cisa-kev-catalog"
+    ],
+    "verification": "single-source"
   }
 ]
