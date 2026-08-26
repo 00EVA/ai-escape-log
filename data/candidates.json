@@ -1686,5 +1686,21 @@
     "date": "2026-08-26",
     "snippet": "CVE-2019-1068 | Microsoft SQL Server | Microsoft SQL Server contains a remote code execution vulnerability that could allow an attacker to execute code in the context of the SQL Server Database Engine service account.",
     "first_seen": "2026-08-26"
+  },
+  {
+    "title": "Disrupting a new covert influence campaign from Russia",
+    "url": null,
+    "source": "OpenAI News",
+    "date": "Tue, 25 Au",
+    "snippet": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+    "first_seen": "2026-08-26"
+  },
+  {
+    "title": "Brazil alert hack sends ‘alien attack’ warnings; legacy D-Link routers hijacked, and more cybersecurity news - ForkLog",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSjFVZGxLci1mYWFScnF4dkJ5SGk0a3FMVG5kSXhhc1M3VUpwMmFzSGl0N00xM0RQYlhnRTEtRXZnMjFtcDNVVnVXSWcwbDVfWG1PVU1haHg1SFRKcU9MeVRvdjNfWDdHWmtYaFRuZzBtcDR3NHpIMmRFZHZ6NDdkSHBZMjBXREs2SVRmN1J1a1EyWXFJQkJTUnNyRHdKSVFpa0hsS1VPNmVBR09YV3BfcXFlRjY2SHUxOVRtUjJNVTg3c0ZGamhr",
+    "source": "Google News",
+    "date": "Sat, 27 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQSjFVZGxLci1mYWFScnF4dkJ5SGk0a3FMVG5kSXhhc1M3VUpwMmFzSGl0N00xM0RQYlhnRTEtRXZnMjFtcDNVVnVXSWcwbDVfWG1PVU1haHg1SFRKcU9MeVRvdjNfWDdHWmtYaFRuZzBtcDR3NHpIMmRFZHZ6NDdkSHBZMjBXREs2SVRmN1J1a1EyWXFJQkJTUnNyRHdKSVFpa0hsS1VPNmVBR09YV3BfcXFlRjY2SHUxOV",
+    "first_seen": "2026-08-26"
   }
 ]

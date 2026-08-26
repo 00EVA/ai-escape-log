@@ -28,9 +28,26 @@
   .count { color:var(--mut); }
   footer { padding:20px 22px; color:var(--mut); font-size:12px; border-top:1px solid var(--line); }
   a { color:var(--acc); text-decoration:none; } a:hover { text-decoration:underline; }
+  nav.site { display:flex; gap:4px; flex-wrap:wrap; padding:12px 22px; border-bottom:1px solid var(--line); background:#0d1119; position:sticky; top:0; z-index:5; }
+  nav.site a { padding:6px 12px; border-radius:8px; font-size:13.5px; color:var(--mut); }
+  nav.site a:hover { color:var(--ink); background:#151b28; text-decoration:none; }
+  nav.site a.active { color:var(--acc); background:#122019; font-weight:600; }
+  nav.site .spacer { flex:1; }
 </style>
 </head>
 <body>
+<nav class="site">
+  <a href="index.html">Incident Log</a>
+  <a href="review.html" class="active">Candidate Review Queue</a>
+  <a href="https://github.com/00EVA/ai-escape-log/blob/main/REPORT.md" target="_blank" rel="noopener" title="Auto-generated daily briefing">Morning Briefing ↗</a>
+  <a href="https://github.com/00EVA/ai-escape-log/blob/main/incidents.md" target="_blank" rel="noopener" title="Human-readable incident journal">Journal ↗</a>
+  <a href="https://github.com/00EVA/ai-escape-log/blob/main/monitor/prompt.md" target="_blank" rel="noopener" title="How incidents are verified and logged">Methodology ↗</a>
+  <span class="spacer"></span>
+  <a class="gh" href="https://github.com/00EVA/ai-escape-log" target="_blank" rel="noopener">GitHub ↗</a>
+  <a class="gh" href="data/incidents.json" target="_blank" rel="noopener">JSON API</a>
+  <a class="gh" href="data/candidates.json" target="_blank" rel="noopener">Queue JSON</a>
+</nav>
+
 <header>
   <h1>Candidate Review Queue</h1>
   <p class="sub">Everything the 15-minute probe collects lands here before ingestion. The pipeline auto-ingests only items that pass a strict gate; everything else waits for human verification. <a href="index.html">← Main incident log</a></p>

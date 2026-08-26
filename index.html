@@ -32,6 +32,13 @@
   .empty { color:var(--mut); padding:30px; text-align:center; }
   footer { padding:20px 22px; color:var(--mut); font-size:12px; border-top:1px solid var(--line); }
   .cat { font-size:11px; color:var(--mut); }
+  /* shared site navigation */
+  nav.site { display:flex; gap:4px; flex-wrap:wrap; padding:12px 22px; border-bottom:1px solid var(--line); background:#0d1119; position:sticky; top:0; z-index:5; }
+  nav.site a { padding:6px 12px; border-radius:8px; font-size:13.5px; color:var(--mut); }
+  nav.site a:hover { color:var(--ink); background:#151b28; text-decoration:none; }
+  nav.site a.active { color:var(--acc); background:#122019; font-weight:600; }
+  nav.site .spacer { flex:1; }
+  nav.site a.gh { color:var(--mut); }
   /* Community-Notes-style verification card (modeled on X Community Notes) */
   .cnote { margin-top:10px; background:#121722; border:1px solid #2a3345; border-radius:12px; overflow:hidden; max-width:640px; }
   .cnote-head { display:flex; gap:8px; align-items:center; padding:9px 12px; border-bottom:1px solid #222a38; font-size:12.5px; font-weight:700; color:#cfd6e4; }
@@ -51,6 +58,17 @@
 </style>
 </head>
 <body>
+<nav class="site">
+  <a href="index.html" class="active">Incident Log</a>
+  <a href="review.html">Candidate Review Queue</a>
+  <a href="https://github.com/00EVA/ai-escape-log/blob/main/REPORT.md" target="_blank" rel="noopener" title="Auto-generated daily briefing">Morning Briefing ↗</a>
+  <a href="https://github.com/00EVA/ai-escape-log/blob/main/incidents.md" target="_blank" rel="noopener" title="Human-readable incident journal">Journal ↗</a>
+  <a href="https://github.com/00EVA/ai-escape-log/blob/main/monitor/prompt.md" target="_blank" rel="noopener" title="How incidents are verified and logged">Methodology ↗</a>
+  <span class="spacer"></span>
+  <a class="gh" href="https://github.com/00EVA/ai-escape-log" target="_blank" rel="noopener">GitHub ↗</a>
+  <a class="gh" href="data/incidents.json" target="_blank" rel="noopener">JSON API</a>
+</nav>
+
 <header>
   <h1>AI Escape Log</h1>
   <p class="sub">A public, machine-readable tracker of frontier AI models "escaping the lab" — sandbox escapes, rogue autonomous agents, exfiltration, guardrail bypasses, government shutdowns, and withheld releases. Think of it as the first-contact log: where the models go once they learn to move on their own.</p>
