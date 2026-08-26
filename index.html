@@ -55,6 +55,18 @@
   .cnote .detail { padding:2px 12px 12px; font-size:12.5px; color:var(--mut); }
   .cnote .detail b { color:var(--ink); }
   .cnote-foot { padding:8px 12px; border-top:1px solid #222a38; color:var(--mut); font-size:11.5px; }
+  /* Command palette (Cmd+K) */
+  .cmk-overlay { position:fixed; inset:0; background:rgba(5,8,14,.7); backdrop-filter:blur(2px); z-index:50; display:none; }
+  .cmk { position:fixed; top:12vh; left:50%; transform:translateX(-50%); width:min(680px,92vw); background:#10151f; border:1px solid #2e3850; border-radius:14px; box-shadow:0 20px 60px rgba(0,0,0,.6); z-index:51; display:none; overflow:hidden; }
+  .cmk input { width:100%; border:none; background:transparent; padding:15px 18px; font-size:16px; color:var(--ink); outline:none; border-bottom:1px solid #222a38; border-radius:0; }
+  .cmk-list { max-height:52vh; overflow-y:auto; padding:6px; }
+  .cmk-item { display:flex; align-items:center; gap:10px; padding:9px 12px; border-radius:8px; cursor:pointer; font-size:13.5px; }
+  .cmk-item:hover, .cmk-item.sel { background:#1a2233; }
+  .cmk-item .k { margin-left:auto; color:var(--mut); font-size:11px; white-space:nowrap; }
+  .cmk-item .ic { width:20px; text-align:center; color:var(--acc); }
+  .cmk-sec { padding:8px 14px 3px; color:var(--mut); font-size:11px; text-transform:uppercase; letter-spacing:.5px; }
+  .cmk-foot { padding:8px 14px; border-top:1px solid #222a38; color:var(--mut); font-size:11.5px; display:flex; gap:14px; }
+  .cmk-empty { padding:22px; text-align:center; color:var(--mut); font-size:13.5px; }
 </style>
 </head>
 <body>
@@ -72,6 +84,7 @@
   <a href="https://epoch.ai/data/cve?view=graph" target="_blank" rel="noopener" title="Epoch AI CVE trend graphs">Epoch ↗</a>
   <a class="gh" href="https://github.com/00EVA/ai-escape-log" target="_blank" rel="noopener">GitHub ↗</a>
   <a class="gh" href="data/incidents.json" target="_blank" rel="noopener">JSON API</a>
+  <a href="#" onclick="cmkToggle(true);return false" title="Command palette (Cmd+K)">⌘K</a>
 </nav>
 
 <header>
@@ -114,6 +127,13 @@
 <footer>
   Data: <code>data/incidents.json</code> · Updated hourly by an automated monitor (<a href="review.html">candidate review queue</a>) · Contribute via pull request · This is an observation log, not a verdict — verify each source.
 </footer>
+
+<div class="cmk-overlay" id="cmkOv"></div>
+<div class="cmk" id="cmk" role="dialog" aria-label="Command palette">
+  <input id="cmkQ" placeholder="Search incidents, jump to pages, CVE ID, or ? for help…" autocomplete="off" spellcheck="false" />
+  <div class="cmk-list" id="cmkList"></div>
+  <div class="cmk-foot"><span>↑↓ navigate</span><span>↵ open</span><span>esc close</span><span>? help</span><span style="margin-left:auto">⌘K</span></div>
+</div>
 
 <script>
 let DATA = [];
@@ -275,6 +295,79 @@ fetch("data/spotlight.json?" + Date.now()).then(r => r.ok ? r.json() : []).then(
   });
   sec.style.display = "block";
 }).catch(()=>{});
-</script>
+
+/* ---- Command palette (Cmd+K) ---- */
+const CMK = { open:false, sel:0, items:[], query:"" };
+function cmkCommands(){
+  return [
+    {ic:"📋", t:"Incident Log", k:"page", run:()=>location.href="index.html"},
+    {ic:"🗃️", t:"Candidate Review Queue", k:"page", run:()=>location.href="review.html"},
+    {ic:"📰", t:"Morning Briefing (REPORT.md)", k:"page", run:()=>window.open("https://github.com/00EVA/ai-escape-log/blob/main/REPORT.md","_blank")},
+    {ic:"📖", t:"Incident Journal (incidents.md)", k:"page", run:()=>window.open("https://github.com/00EVA/ai-escape-log/blob/main/incidents.md","_blank")},
+    {ic:"🔬", t:"Methodology (how verification works)", k:"page", run:()=>window.open("https://github.com/00EVA/ai-escape-log/blob/main/monitor/prompt.md","_blank")},
+    {ic:"🗂️", t:"JSON API — incidents", k:"data", run:()=>window.open("data/incidents.json","_blank")},
+    {ic:"🗃️", t:"JSON API — candidate queue", k:"data", run:()=>window.open("data/candidates.json","_blank")},
+    {ic:"🐙", t:"GitHub repository", k:"page", run:()=>window.open("https://github.com/00EVA/ai-escape-log","_blank")},
+    {ic:"❓", t:"Help — what can I search?", k:"help", run:()=>cmkHelp()},
+  ];
+}
+function cmkHelp(){
+  $("#cmkList").innerHTML = `<div class="cmk-sec">Help</div>
+  <div style="padding:4px 16px 14px;font-size:13px;color:var(--mut);line-height:1.7">
+    <b style="color:var(--ink)">Search everything:</b> type any text — searches all incidents (title, lab, model, summary, tags).<br>
+    <b style="color:var(--ink)">CVE lookup:</b> type a CVE ID directly (e.g. <span style="color:var(--acc)">CVE-2026-64849</span>) → opens its NVD record.<br>
+    <b style="color:var(--ink)">Jump:</b> type "review", "briefing", "journal", "methodology", "json", "github".<br>
+    <b style="color:var(--ink)">Keys:</b> ⌘K / Ctrl+K toggle · ↑↓ move · ↵ open · esc close.
+  </div>`;
+}
+function cmkRender(){
+  const q = CMK.query.trim().toLowerCase();
+  const cmds = cmkCommands();
+  let html = "";
+  CMK.items = [];
+  if (/^CVE-\d{4}-\d+$/i.test(q)){
+    CMK.items.push({ic:"🛡️", t:`Open ${q.toUpperCase()} on NVD`, k:"cve", run:()=>window.open("https://nvd.nist.gov/vuln/detail/"+q.toUpperCase(),"_blank")});
+  } else if (q){
+    const cmdHits = cmds.filter(c=>c.t.toLowerCase().includes(q));
+    const incHits = DATA.map(d=>({ic:"📌", t:`${d.date} — ${d.title}`, k:d.category, sub:d.lab, run:()=>window.open(d.url,"_blank")}))
+                        .filter(i=>(i.t+" "+(i.sub||"")).toLowerCase().includes(q)).slice(0,12);
+    if (cmdHits.length){ html += `<div class="cmk-sec">Pages & actions</div>`; cmdHits.forEach(c=>{ CMK.items.push(c); html += cmkRow(c); }); }
+    if (incHits.length){ html += `<div class="cmk-sec">Incidents</div>`; incHits.forEach(c=>{ CMK.items.push(c); html += cmkRow(c); }); }
+    if (!CMK.items.length) html = `<div class="cmk-empty">No matches for "${esc(CMK.query)}" — try ? for help</div>`;
+  } else {
+    html += `<div class="cmk-sec">Pages & actions</div>`;
+    cmds.forEach(c=>{ CMK.items.push(c); html += cmkRow(c); });
+    const recent = DATA.slice().sort((a,b)=>(b.date||"").localeCompare(a.date||"")).slice(0,6);
+    if (recent.length){ html += `<div class="cmk-sec">Recent incidents</div>`;
+      recent.forEach(d=>{ const it={ic:"📌",t:`${d.date} — ${d.title}`,k:d.category,run:()=>window.open(d.url,"_blank")}; CMK.items.push(it); html += cmkRow(it); }); }
+  }
+  CMK.sel = 0;
+  $("#cmkList").innerHTML = html;
+  cmkHighlight();
+}
+function cmkRow(c){
+  const i = CMK.items.length-1;
+  return `<div class="cmk-item" data-i="${i}" onmouseenter="cmkSel(${i})" onclick="cmkRun(${i})"><span class="ic">${c.ic}</span><span>${esc(c.t)}</span><span class="k">${esc(c.k||"")}</span></div>`;
+}
+function cmkHighlight(){ document.querySelectorAll(".cmk-item").forEach(el=>el.classList.toggle("sel", +el.dataset.i===CMK.sel)); }
+function cmkSel(i){ CMK.sel=i; cmkHighlight(); }
+function cmkRun(i){ const it=CMK.items[i]; cmkToggle(false); it && it.run(); }
+function cmkToggle(force){
+  CMK.open = force!==undefined ? force : !CMK.open;
+  $("#cmk").style.display = CMK.open?"block":"none";
+  $("#cmkOv").style.display = CMK.open?"block":"none";
+  if (CMK.open){ $("#cmkQ").value=""; CMK.query=""; cmkRender(); $("#cmkQ").focus(); }
+}
+document.addEventListener("keydown", e=>{
+  if ((e.metaKey||e.ctrlKey) && e.key.toLowerCase()==="k"){ e.preventDefault(); cmkToggle(); return; }
+  if (!CMK.open) return;
+  if (e.key==="Escape") cmkToggle(false);
+  else if (e.key==="ArrowDown"){ e.preventDefault(); CMK.sel=Math.min(CMK.sel+1,CMK.items.length-1); cmkHighlight(); }
+  else if (e.key==="ArrowUp"){ e.preventDefault(); CMK.sel=Math.max(CMK.sel-1,0); cmkHighlight(); }
+  else if (e.key==="Enter"){ e.preventDefault(); cmkRun(CMK.sel); }
+});
+$("#cmkOv").addEventListener("click", ()=>cmkToggle(false));
+$("#cmkQ").addEventListener("input", e=>{ CMK.query=e.target.value; cmkRender(); });
+ </script>
 </body>
 </html>
