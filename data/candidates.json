@@ -840,14 +840,6 @@
     "first_seen": "2026-08-19"
   },
   {
-    "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack - BBC",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EUVZQTjhCQllURWJxWGhvUHBLMFhCTEtodC1CcWlvRnVUOWtYQmpZZ2k1eUZDdDM0NnRRMnJ4Tm9FeHNNaXhhQkZUWkFnc1QyV05IdHl1OVF4M0s4",
-    "source": "Google News",
-    "date": "Wed, 22 Ju",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EUVZQTjhCQllURWJxWGhvUHBLMFhCTEtodC1CcWlvRnVUOWtYQmpZZ2k1eUZDdDM0NnRRMnJ4Tm9FeHNNaXhhQkZUWkFnc1QyV05IdHl1OVF4M0s4?oc=5\" target=\"_blank\">OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack</a>&nbsp;&nbsp;<font color=\"#6f",
-    "first_seen": "2026-08-19"
-  },
-  {
     "title": "GitHub has been completely disrupted by AI. - 36Kr",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03RzJTaFlFLW9rZXp3ZE9hdThMSER1RHdYVzBYdjRta1Y1Slg5NlJScThvd0lSbG4wOXRUMHFjOHFrc3hhbTRZX0dXMlBRbTkxUTRn",
     "source": "Google News",
@@ -1048,14 +1040,6 @@
     "first_seen": "2026-08-19"
   },
   {
-    "title": "Anthropic's Claude AI escapes tests to hack three organisations - BBC",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50SmtNcDZCM3hZNTNTOG02SDc1MFhUT2JNc3gzUGVEeVl4dDB2WWJmejdYMDNqUnY2T1MybmcyXzQ5akxPU3ZRNDBycVRiMzVTcDczdDE4Qjc5NUFV",
-    "source": "Google News",
-    "date": "Fri, 31 Ju",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE50SmtNcDZCM3hZNTNTOG02SDc1MFhUT2JNc3gzUGVEeVl4dDB2WWJmejdYMDNqUnY2T1MybmcyXzQ5akxPU3ZRNDBycVRiMzVTcDczdDE4Qjc5NUFV?oc=5\" target=\"_blank\">Anthropic's Claude AI escapes tests to hack three organisations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BB",
-    "first_seen": "2026-08-19"
-  },
-  {
     "title": "CISA KEV: JetBrains TeamCity Deserialization of Untrusted Data Vulnerability",
     "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-63077",
     "source": "CISA KEV catalog",
@@ -1069,14 +1053,6 @@
     "source": "CISA KEV catalog",
     "date": "2026-08-04",
     "snippet": "CVE-2026-18556 | N-able N-central | N-able N-central contains an authentication bypass using an alternate path or channel that allows for authentication bypass.",
-    "first_seen": "2026-08-19"
-  },
-  {
-    "title": "CISA KEV: N-able N-central Authentication Bypass Using an Alternate Path or Channel Vulnerability",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-18577",
-    "source": "CISA KEV catalog",
-    "date": "2026-08-03",
-    "snippet": "CVE-2026-18577 | N-able N-central | N-able N-central contains an authentication bypass using an alternate path or channel allows for authentication bypass and account takeover in N-central. This vulnerability is the result of an incomplete patch for CVE-2026-18556.",
     "first_seen": "2026-08-19"
   },
   {
@@ -1309,14 +1285,6 @@
     "source": "Google News",
     "date": "Wed, 01 Ju",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQSjNaa3prMEJCUG5fd0xsVjBwVnc2OGcwOERKUzA5aDdkbDhjcjUtVWhueFlKTEhPNEZLY0h6SFNMREE3dlVOSHcybHFFb1RhRy1PbUdkcnAya2xkV0N2eEdxaVBhQnhSQXpTdXNfc0RqUFl6cTJJQzE1dEtSdmROMWNDdWlObUJCX3RDZFRfZjQ5OFBpVmVYYlA2N2FuSGs?oc=5\" target=\"_blank\">AI oversight",
-    "first_seen": "2026-08-23"
-  },
-  {
-    "title": "HalluSquatting AI attack could hijack your computer - Fox News",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOakVRWVMzOUhHR2Y0OXVxbHQ2OVU0MXNWc2F2M052ajJlMmtwVFNrQmpwOVJVNDJxbVdON3Vha0FiREVuaDUyVHpUX2hyR243bFA2YTdwR2hKQlNLMmJDZ3JLeVM4TjhsRGpTWHpuUE45V25xV2gzTElIeWZIMHoyZHlLYUlidXfSAYwBQVVfeXFMT2dwaWdOLTNzVE1QWXZ1ZXB0VmZuWFFZQklyNlRITk5SeVFWS3g2ZThkeTB2OGtGRzBray1QaWF0UUJIZFFNMmw2dkV3ZzZqSy1MUFFqeXNBdzNqVDN3OU5NLTNoMV9kUFl0NDBOdjdlZVhZM1ZyWmZlXzdXY085R3JXejhLR1ZRSFJYaTQ",
-    "source": "Google News",
-    "date": "Sat, 18 Ju",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOakVRWVMzOUhHR2Y0OXVxbHQ2OVU0MXNWc2F2M052ajJlMmtwVFNrQmpwOVJVNDJxbVdON3Vha0FiREVuaDUyVHpUX2hyR243bFA2YTdwR2hKQlNLMmJDZ3JLeVM4TjhsRGpTWHpuUE45V25xV2gzTElIeWZIMHoyZHlLYUlidXfSAYwBQVVfeXFMT2dwaWdOLTNzVE1QWXZ1ZXB0VmZuWFFZQklyNlRITk5SeVFWS3g2ZT",
     "first_seen": "2026-08-23"
   },
   {
@@ -1608,14 +1576,6 @@
     "first_seen": "2026-08-25"
   },
   {
-    "title": "AI Models Are Going Rogue. Should We Be Worried? | Terms of Service - Modern Ghana",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0bGtqY3lfYXBXTXQ4aHR1TGFHRm1QMnlLd3R0eUlZS0RoMmdWbjFvRHJXeTVyZjc5aF9NakhsVUFOY3Z6MWozMTcyR2Q5TUI1Q2xLSDlWRUozMUp1bjVv",
-    "source": "Google News",
-    "date": "Tue, 25 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0bGtqY3lfYXBXTXQ4aHR1TGFHRm1QMnlLd3R0eUlZS0RoMmdWbjFvRHJXeTVyZjc5aF9NakhsVUFOY3Z6MWozMTcyR2Q5TUI1Q2xLSDlWRUozMUp1bjVv?oc=5\" target=\"_blank\">AI Models Are Going Rogue. Should We Be Worried? | Terms of Service</a>&nbsp;&nbsp;<font color=\"#6f",
-    "first_seen": "2026-08-25"
-  },
-  {
     "title": "Israeli-founded Alice raises $140M to stop AI from going rogue - Ynetnews",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tSmF5WnFnNXlFbVRxdW5HblJHbE16bzZMZWpNT0lHMHVYTnZzdHpJOFJvaGhSaWhGSVNHZDMteFMwc3F2akEwQkZMamRrQklqWTVSb2tuTlh4Z2ROWlFkU25B",
     "source": "Google News",
@@ -1709,6 +1669,14 @@
     "source": "Prismix AI",
     "date": "2026-08-26",
     "snippet": "Investors have been hunting for anything but AI. That search has sent bursts of billions of dollars into typically ho-hum parts of the market like insurers and small-cap stocks, where they can have an outsize impact. One place that trade is showing up is in an index Goldman…",
+    "first_seen": "2026-08-26"
+  },
+  {
+    "title": "HalluSquatting AI attack could hijack your computer - Fox News",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOakVRWVMzOUhHR2Y0OXVxbHQ2OVU0MXNWc2F2M052ajJlMmtwVFNrQmpwOVJVNDJxbVdON3Vha0FiREVuaDUyVHpUX2hyR243bFA2YTdwR2hKQlNLMmJDZ3JLeVM4TjhsRGpTWHpuUE45V25xV2gzTElIeWZIMHoyZHlLYUlidXfSAYwBQVVfeXFMT2dwaWdOLTNzVE1QWXZ1ZXB0VmZuWFFZQklyNlRITk5SeVFWS3g2ZThkeTB2OGtGRzBray1QaWF0UUJIZFFNMmw2dkV3ZzZqSy1MUFFqeXNBdzNqVDN3OU5NLTNoMV9kUFl0NDBOdjdlZVhZM1ZyWmZlXzdXY085R3JXejhLR1ZRSFJYaTQ",
+    "source": "Google News",
+    "date": "Sat, 18 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOakVRWVMzOUhHR2Y0OXVxbHQ2OVU0MXNWc2F2M052ajJlMmtwVFNrQmpwOVJVNDJxbVdON3Vha0FiREVuaDUyVHpUX2hyR243bFA2YTdwR2hKQlNLMmJDZ3JLeVM4TjhsRGpTWHpuUE45V25xV2gzTElIeWZIMHoyZHlLYUlidXfSAYwBQVVfeXFMT2dwaWdOLTNzVE1QWXZ1ZXB0VmZuWFFZQklyNlRITk5SeVFWS3g2ZT",
     "first_seen": "2026-08-26"
   }
 ]

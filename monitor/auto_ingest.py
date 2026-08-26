@@ -161,6 +161,16 @@ def main():
     spotlight = load(SPOTLIGHT, [])
     dec_map = decisions.get("decisions", decisions) if decisions else {}
 
+    # corroboration index: how many DISTINCT outlets carry the same story
+    # (normalized title). Wide coverage = the incident is spreading.
+    outlet_count = {}
+    for c in cands:
+        tn = norm_title(c.get("title"))
+        if tn:
+            outlet_count.setdefault(tn, set()).add(c.get("source") or "")
+    def spread(item):
+        return len({s for s in outlet_count.get(norm_title(item.get("title")), set()) if s})
+
     known_urls = {i.get("url") for i in incs} | {a.get("url") for a in archive}
     known_titles = {norm_title(i.get("title")) for i in incs}
     known_cves = set()
@@ -213,16 +223,28 @@ def main():
                 spotlight.append({"url": url, "title": title, "id": incs[-1]["id"]})
                 starred_new.append(title)
             continue
-        # 2. auto gate (score 4 -> high; 3 -> minor pending human upgrade)
+        # 2. auto gate. Significance = who published x keyword heat x SPREAD
+        #    (distinct outlets covering the same story). Escalates automatically:
+        #      KEV/AI-vendor hit, or spread >= 3, or score 4 + spread 2  -> high
+        #      otherwise trusted official + score >= 3                   -> minor
         if score >= 3 and OFFICIAL.search(url):
             if "cisa" in (c.get("source") or "").lower() and not AI_SPECIFIC.search(blob):
                 archive_it("not-ai-specific-cve")
                 continue
+            sp = spread(c)
+            kev_hit = "kev" in blob.lower() or "known exploited" in blob.lower()
+            if kev_hit and any(v in blob.lower() for v in ("ray", "mlflow", "langflow", "vllm",
+                                                           "ollama", "n8n", "mastra", "context7",
+                                                           "litellm", "isolated-vm")):
+                imp, note = "high", "auto-promoted: KEV-confirmed AI-infra exploitation"
+            elif sp >= 3:
+                imp, note = "high", f"auto-promoted: {sp} independent outlets covering"
+            elif score >= 4 and sp >= 2:
+                imp, note = "high", f"auto-promoted: official source + {sp} outlets corroborating"
+            else:
+                imp, note = "minor", "auto-ingested - pending human rating"
             cat, ver = classify(c, cands)
-            imp = "high" if score >= 4 else "minor"
-            incs.append(make_incident(c, cat, ver,
-                                      note="auto-ingested - pending human rating",
-                                      importance=imp))
+            incs.append(make_incident(c, cat, ver, note=note, importance=imp))
             known_urls.add(url); known_titles.add(norm_title(title)); known_cves |= ids
             promoted.append(c)
             continue
