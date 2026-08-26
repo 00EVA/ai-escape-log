@@ -46,6 +46,65 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
 SEEN = os.path.join(ROOT, "seen_urls.json")
 CAND = os.path.join(ROOT, "data", "candidates.json")
+HOTLIST = os.path.join(ROOT, "HOTLIST.md")
+
+HOT_SIGNALS = re.compile(
+    r"(?i)("
+    r"openai|hugging\s?face|anthropic|metr\b|rogue|sandbox\s*escapes?|containment|"
+    r"post-?mortem|unsanctioned|escaped?\s+(its?|the)\s|"
+    r"gpt-5|claude|gemini|copilot|grok|kimi\s?k3|deepseek|"
+    r"prompt\s?injection|zero-?day|actively\s?exploited|"
+    r"data\s?exfiltrat|agent\s?hack"
+    r")"
+)
+
+AI_KEV_VENDORS = ("ray", "mlflow", "langflow", "ollama", "vllm", "n8n",
+                  "mastra", "context7", "litellm", "activepieces", "isolated-vm")
+
+PRIMARY_SOURCES = ("OpenAI News", "Anthropic News", "Hugging Face Blog",
+                   "METR Blog", "CISA Alerts", "CISA KEV catalog")
+
+def hot_score(item):
+    """Score a candidate 0-4. 3+ = hot enough to alert on immediately."""
+    blob = f"{item.get('title','')} {item.get('snippet','')}".lower()
+    url = item.get("url", "").lower()
+    score = 0
+    if HOT_SIGNALS.search(f"{blob} {url}"):
+        score += 1
+    if any(v in blob or v in url for v in AI_KEV_VENDORS):
+        score += 1
+    if re.search(r"(?i)(rogue|escape|breach|post-?mortem|actively\s?exploited|\bkev\b)", blob):
+        score += 1
+    if item.get("source") in PRIMARY_SOURCES:
+        score += 1
+    return score
+
+def notify_hot(hot_items):
+    """Append hot items to HOTLIST.md and ping macOS Notification Center."""
+    if not hot_items:
+        return
+    stamp = datetime.datetime.now().strftime("%F %T")
+    lines = [f"## {stamp}"]
+    for it in hot_items:
+        it2 = it["item"]
+        lines.append(f"- [score {it['score']}] **{it2['title']}** ({it2['source']}, {it2['date']})")
+        lines.append(f"  {it2['url']}")
+    try:
+        with open(HOTLIST, "a") as f:
+            f.write("\n".join(lines) + "\n\n")
+    except OSError:
+        pass
+    try:
+        import subprocess
+        first = hot_items[0]["item"]
+        msg = first["title"][:120].replace('"', "'")
+        subprocess.run(["osascript", "-e",
+                        f'display notification "{msg}" with title '
+                        f'"AI Escape Log: {len(hot_items)} hot signal(s)"'],
+                       timeout=10, check=False)
+    except Exception:
+        pass
+
 
 SIGNAL = re.compile(
     r"(escap(ed|e)|rogue|went rogue|lost control|broke out|exfiltrat|sandbox|"
@@ -73,6 +132,14 @@ REDDITS = ["singularity", "LocalLLaMA", "artificial", "technology",
 REDDIT_QUERY = "AI escaped sandbox OR rogue OR containment"
 
 FEEDS = [
+    # --- primary sources: labs/teachers publish here FIRST, before aggregators ---
+    ("OpenAI News", "https://openai.com/news/rss.xml"),
+    ("Anthropic News", "https://www.anthropic.com/rss.xml"),
+    ("Hugging Face Blog", "https://huggingface.co/blog/feed.xml"),
+    ("METR Blog", "https://metr.org/blog/feed.xml"),
+    ("CISA Alerts", "https://www.cisa.gov/cybersecurity-advisories/all.xml"),
+    ("Simon Willison", "https://simonwillison.net/atom/everything/"),
+    # --- aggregators / press ---
     ("The Register", "https://www.theregister.com/headlines.atom"),
     ("Ars Technica", "https://arstechnica.com/feed/"),
     ("The Verge", "https://www.theverge.com/rss/index.xml"),
@@ -577,6 +644,17 @@ def main():
     for it in found + cve_found:
         print(f"  - {it['source']} | {it['date']} | {it['title']}")
         print(f"    {it['url']}")
+
+    # Hot-signal alerter: score everything new, ping on 3+ so the user hears
+    # about big primary-source developments without having to ask.
+    hot = [{"score": hot_score(it), "item": it} for it in found + cve_found]
+    hot = [h for h in hot if h["score"] >= 3]
+    hot.sort(key=lambda h: -h["score"])
+    if hot:
+        notify_hot(hot)
+        print(f"[news_probe] HOT: {len(hot)} signal(s) scored 3+ -> HOTLIST.md + notification")
+        for h in hot:
+            print(f"    [hot {h['score']}] {h['item']['title']}")
 
 
 if __name__ == "__main__":
