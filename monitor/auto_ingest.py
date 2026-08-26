@@ -62,6 +62,20 @@ def trusted(url):
     h = host_of(url)
     return any(h == d or h.endswith("." + d) for d in TRUSTED_HOSTS)
 
+def cve_ids(text):
+    return set(re.findall(r"CVE-\d{4}-\d{4,7}", (text or "").upper()))
+
+def already_logged(item, incidents):
+    """Dedup beyond URL: match CVE IDs (NVD candidate vs CISA-alert incident etc.)."""
+    ids = cve_ids(f"{item.get('url','')} {item.get('title','')}")
+    if not ids:
+        return False
+    for inc in incidents:
+        blob = f"{inc.get('id','')} {inc.get('url','')} {inc.get('title','')} {inc.get('summary','')}"
+        if ids & cve_ids(blob):
+            return True
+    return False
+
 def slugify(text, n=48):
     s = re.sub(r"[^a-z0-9]+", "-", (text or "").lower()).strip("-")
     return s[:n].rstrip("-")
@@ -101,7 +115,7 @@ def main():
         if not url:
             continue  # malformed candidate
         score = np.hot_score(c)
-        if url in known_urls or url in seen:
+        if url in known_urls or url in seen or already_logged(c, incidents):
             continue  # already handled; drop silently
         if score >= MIN_SCORE and trusted(url):
             title = c.get("title") or url

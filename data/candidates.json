@@ -968,14 +968,6 @@
     "first_seen": "2026-08-19"
   },
   {
-    "title": "CVE-2026-40369 Exploit Code Drops Three Months After Patch — and AI Agents Inherit the Sandbox Escape - forkast.news",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNjdTVWVGUGp5T1RCS2NoaDREZHFWSzdLMEozVDFTU2pNMGU1Yk5ZU1hlQTVxbzFQNFZ3NVV1bUVXbElNUG55dkdCb2g1bDFVNFRzbTB3QzRZRVJ0bDZsN09vVEhLdUlOOHpZX2lJMWFCel96QjhJNnpuNlBtT1A0QWE4dWtNZExQR082VS13X0xrTjlPSWlmN2pnSWpROUh4YlpuZm1KSHI3MjB2MUc0cE1hWUJBdGIyeVZfc3l3",
-    "source": "Google News",
-    "date": "Wed, 19 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQNjdTVWVGUGp5T1RCS2NoaDREZHFWSzdLMEozVDFTU2pNMGU1Yk5ZU1hlQTVxbzFQNFZ3NVV1bUVXbElNUG55dkdCb2g1bDFVNFRzbTB3QzRZRVJ0bDZsN09vVEhLdUlOOHpZX2lJMWFCel96QjhJNnpuNlBtT1A0QWE4dWtNZExQR082VS13X0xrTjlPSWlmN2pnSWpROUh4YlpuZm1KSHI3MjB2MUc0cE1hWUJBdGIyeV",
-    "first_seen": "2026-08-19"
-  },
-  {
     "title": "CISA KEV: Microsoft Internet Key Exchange (IKE) Service Extensions Double Free Vulnerability",
     "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33824",
     "source": "CISA KEV catalog",
@@ -1077,14 +1069,6 @@
     "source": "CISA KEV catalog",
     "date": "2026-08-04",
     "snippet": "CVE-2026-18556 | N-able N-central | N-able N-central contains an authentication bypass using an alternate path or channel that allows for authentication bypass.",
-    "first_seen": "2026-08-19"
-  },
-  {
-    "title": "CISA KEV: Apache Tomcat Missing Encryption of Sensitive Data Vulnerability",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-34486",
-    "source": "CISA KEV catalog",
-    "date": "2026-08-04",
-    "snippet": "CVE-2026-34486 | Apache Tomcat | Apache Tomcat contains a missing encryption of sensitive data vulnerability that allows the bypass of the EncryptInterceptor. This vulnerability can be chained with CVE‑2025‑24813.",
     "first_seen": "2026-08-19"
   },
   {

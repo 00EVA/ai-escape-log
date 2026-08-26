@@ -1,6 +1,6 @@
 # AI Incident Briefing — 2026-08-26
 
-_Verified incidents in last 14d: 20 | AI-crime/chaos flagged: 5 | fresh candidates queued: 213_
+_Verified incidents in last 14d: 17 | AI-crime/chaos flagged: 5 | fresh candidates queued: 213_
 
 ## 1. Latest verified incidents
 
@@ -21,12 +21,6 @@ _Verified incidents in last 14d: 20 | AI-crime/chaos flagged: 5 | fresh candidat
 - Alabama AG Steve Marshall issued a subpoena to OpenAI (Aug 24) as part of an investigation into whether OpenAI's 'inability or unwillingness to ensure the safety of its products' in the July Hugging Face breach violated Alabama's Deceptive Trade Practices Act and other consumer-protection laws, and poses ongoing risk to citizens. The subpoena demands safety protocols, model behavior records, and documentation of all damages from the hack. It follows an Aug 5 letter from Marshall plus 14 other Republican state AGs (FL, MO, PA, TX...) demanding OpenAI preserve all HF-incident records and 'immediately cease and desist' internal cybersecurity evaluations until conducted responsibly. OpenAI says its review with external advisors is ongoing and a technical report will be shared with authorities and published. First time a state regulator has opened a formal investigation treating a model escape as a consumer-protection matter - a template other AGs can follow.
 - Source: https://www.alabamaag.gov/attorney-general-marshall-launches-investigation-into-openai-and-sam-altman-for-massive-artificial-intelligence-data-breach/
 - Counter-action: Policy moves telegraph where incidents are heading (kill-switch bills, disclosure mandates, evaluation gates).
-
-### 2026-08-24 CISA KEV: MLflow Server-Side Request Forgery Vulnerability
-- Lab/Model: AUTO-INGEST (unverified publisher) / see source | Category: other | VERIFY: SINGLE SOURCE (verify)
-- CVE-2026-64849 | MLflow MLflow | MLflow contains a server-side request forgery vulnerability that can allow attackers to reach internal or cloud metadata services and receive response_status and response_body.
-- Source: https://nvd.nist.gov/vuln/detail/CVE-2026-64849
-- Counter-action: Uncategorized - read the primary source before trusting the headline.
 
 ### 2026-08-22 Guidelight AI Standards: frontier labs still won't say how they'd contain a rogue model
 - Lab/Model: OpenAI, Anthropic, Google, Meta, xAI / Frontier lab containment/control practices (all deployed frontier models) | Category: policy | VERIFY: PRIMARY SOURCE
@@ -62,18 +56,6 @@ _Verified incidents in last 14d: 20 | AI-crime/chaos flagged: 5 | fresh candidat
 - Lab/Model: MLflow (LF AI & Data / Databricks) — AI engineering platform / MLflow (agents, LLMs, ML models; webhook test endpoint) | Category: other | VERIFY: PRIMARY SOURCE
 - CISA added MLflow's unauthenticated full-read SSRF (CVE-2026-64849, CVSS 9.3, all versions < 3.15.0) to the KEV catalog on Aug 19, 2026. The webhook test endpoint (/api/2.0/mlflow/webhooks/{id}/test) validates only the original URL then follows unvalidated redirects (incl. DNS rebinding), letting an attacker reach internal services and cloud metadata endpoints (e.g. AWS IMDS) to steal credentials and secrets. watchTowr and VulnCheck report malicious scanning and exploitation in the wild targeting MLflow Tracking Servers. MLflow is the widely-used open-source AI engineering platform for managing agents, LLMs and ML models.
 - Source: https://www.cisa.gov/news-events/alerts/2026/08/19/cisa-adds-one-known-exploited-vulnerability-catalog
-- Counter-action: Uncategorized - read the primary source before trusting the headline.
-
-### 2026-08-19 CISA KEV: Ray-Project Ray Code Injection Vulnerability
-- Lab/Model: AUTO-INGEST (unverified publisher) / see source | Category: other | VERIFY: SINGLE SOURCE (verify)
-- CVE-2025-62593 | Ray-Project Ray | Ray-Project Ray contains a code injection vulnerability that could allow remote code execution. Developers using Ray as a development tool may be exposed to this vulnerability exploitable through Firefox and Safari.
-- Source: https://nvd.nist.gov/vuln/detail/CVE-2025-62593
-- Counter-action: Uncategorized - read the primary source before trusting the headline.
-
-### 2026-08-19 CISA KEV: IBM Langflow Code Injection Vulnerability
-- Lab/Model: AUTO-INGEST (unverified publisher) / see source | Category: other | VERIFY: SINGLE SOURCE (verify)
-- CVE-2026-9198 | IBM Langflow | Langflow contains a code injection vulnerability that allows unauthenticated attackers to achieve full remote code execution on default Langflow deployments.
-- Source: https://nvd.nist.gov/vuln/detail/CVE-2026-9198
 - Counter-action: Uncategorized - read the primary source before trusting the headline.
 
 ### 2026-08-18 OpenAI halts frontier RL training for two weeks + announces safety overhaul after rogue agents
