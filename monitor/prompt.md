@@ -109,9 +109,12 @@ OpenRouter is the largest neutral model portal - nearly every lab routes through
 
 ### CVE / vulnerability sources (probe pulls CISA KEV + NVD; verify these references)
 Vulnerability records are a primary source when a sandbox escape / agent compromise is a CVE. The probe already pulls:
+- **CVE.org** (canonical CVE record home): https://www.cve.org/ — official CVE assignment/record lookup (https://www.cve.org/CVERecord?id=CVE-YYYY-XXXXX). Epoch AI's CVE visualizations: https://epoch.ai/data/cve?view=graph (trend graphs of CVE counts, useful for capability-vs-exploitation context).
+- **NVD 2.0 API**: https://services.nvd.nist.gov/rest/json/cves/2.0 - keyword-search fresh CVEs (LLM prompt injection, agent framework RCE, sandbox escape, copilot). NOTE: keywordSearch terms must be UNQUOTED (quoted phrases return 0 results). Process reference: https://nvd.nist.gov/general/cve-process
+- **OffSec CVE blog**: https://www.offsec.com/blog/cve-2026-72898-2/ — OffSec (Kali/Exploit-db) writeups on actively exploited CVEs; check the blog index for AI-infra CVEs: https://www.offsec.com/blog/
 - **CISA KEV catalog** (known exploited vulnerabilities): https://www.cisa.gov/known-exploited-vulnerabilities-catalog (official JSON feed https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json) - exploits confirmed in the wild; filter for AI/agent infrastructure.
-- **NVD 2.0 API**: https://services.nvd.nist.gov/rest/json/cves/2.0 - keyword-search fresh CVEs (LLM prompt injection, agent framework RCE, sandbox escape, copilot). Reference: https://nvd.nist.gov/general/cve-process
-- CVE record home (by ID): https://www.cve.org/CVERecord?id=CVE-YYYY-XXXXX (and https://www.cve.org/) - canonical CVE assignment. Background: https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures, https://www.redhat.com/en/topics/security/what-is-cve
+- **OpenCVE** (CVE tracking dashboard with alerts): https://app.opencve.io/cve/ — free CVE portal with vendor/product watchlists and per-CVE context (EPSS, KEV status, references) — useful for human review of queued CVE candidates.
+- Background: https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures, https://www.redhat.com/en/topics/security/what-is-cve
 - When an escape/vuln is a CVE, use the NVD/KEV record as the `verification: primary-source` URL and link the CVE ID in the summary/tags (e.g. CVE-2026-32193, CVE-2026-40369).
 
 ### AI crime / chaos / havoc (probe pulls these; log ANY AI-as-actor crime)

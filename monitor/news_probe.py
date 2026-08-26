@@ -138,6 +138,7 @@ FEEDS = [
     ("Hugging Face Blog", "https://huggingface.co/blog/feed.xml"),
     ("METR Blog", "https://metr.org/blog/feed.xml"),
     ("CISA Alerts", "https://www.cisa.gov/cybersecurity-advisories/all.xml"),
+    ("OffSec Blog", "https://www.offsec.com/feed/"),
     ("Simon Willison", "https://simonwillison.net/atom/everything/"),
     # --- aggregators / press ---
     ("The Register", "https://www.theregister.com/headlines.atom"),
