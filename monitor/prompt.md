@@ -214,3 +214,26 @@ Reddit subs to check directly if the probe is blocked: r/singularity, r/OpenAI, 
 8. Report back: how many new items (with titles+URLs) or "clean".
 
 Do not summarize old incidents. Do not editorialize. Stay factual and concise.
+
+9. Community-Notes presentation (index.html):
+   Every incident row renders a verification card modeled on X/Twitter Community
+   Notes (help.x.com/en/using-x/community-notes). Status is derived from the
+   `verification` field, do NOT invent other statuses:
+     - primary-source     -> green  "Currently rated helpful"
+                             tags: Provides important context / Cites high-quality sources
+     - multiple-secondary -> teal   "Rated helpful"
+                             tags: Provides important context
+     - single-source/none -> amber  "Context needs review"
+                             tags: Needs more verification
+   The card always shows the AI-contributor disclaimer ("Proposed by an
+   experimental AI note writer ... AIs can make mistakes — verify accuracy"),
+   a "Note details" expander (status rationale, tags, author = Escape Log
+   Verifier), and a footer crediting the open-source verification-gate with the
+   note ID. Keep that structure if you restyle the frontend.
+
+10. Publishing automation:
+   - Cron `0 */2 * * *` -> monitor/news_probe.py (collect candidates only)
+   - Cron `0 6 * * *`   -> monitor/auto_publish.sh (rebuild csv/db/REPORT.md and
+     push if changed; refreshes GitHub Pages data daily without a session).
+   - Verification, logging new incidents, and incidents.md updates remain manual
+     (anti-misinformation gate).
