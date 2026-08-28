@@ -256,7 +256,8 @@ def main():
         remaining.append(c)
 
     if args.dry_run:
-        print(f"[ingest:dry] promote {len(promoted)}, prune {len(pruned)}, "
+        print(f"[{datetime.datetime.now():%Y-%m-%d %H:%M:%S}] "
+              f"[ingest:dry] promote {len(promoted)}, prune {len(pruned)}, "
               f"keep {len(remaining)}, archive total {len(archive)}")
         for c in promoted[:10]:
             cat, ver = classify(c, cands)
@@ -265,7 +266,7 @@ def main():
 
     changed = promoted or pruned or len(remaining) != len(cands) or starred_new
     if not changed:
-        print("[ingest] nothing to do")
+        print(f"[{datetime.datetime.now():%Y-%m-%d %H:%M:%S}] [ingest] nothing to do")
         return
 
     json.dump(incs, open(INC, "w"), indent=2, ensure_ascii=False)
@@ -290,7 +291,8 @@ def main():
         pushed = "pushed" if p.returncode == 0 else f"PUSH FAILED: {p.stderr.strip()}"
     else:
         pushed = f"commit skipped: {c.stderr.strip()[:120]}"
-    print(f"[ingest] +{len(promoted)} incidents (-{len(pruned)} expired) "
+    print(f"[{datetime.datetime.now():%Y-%m-%d %H:%M:%S}] "
+          f"[ingest] +{len(promoted)} incidents (-{len(pruned)} expired) "
           f"-> total {len(incs)}, queue {len(remaining)} | {pushed}")
     for c in promoted[:12]:
         cat, ver = classify(c, cands)

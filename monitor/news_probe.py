@@ -682,7 +682,8 @@ def main():
     if found or cve_found:
         candidates.extend(found + cve_found)
         save_json(CAND, candidates)
-    print(f"[news_probe] {len(found)}+{len(cve_found)} new candidate(s)"
+    print(f"[{datetime.datetime.now():%Y-%m-%d %H:%M:%S}] [news_probe] "
+          f"{len(found)}+{len(cve_found)} new candidate(s)"
           f" -> data/candidates.json (total queued: {len(candidates)})")
     for it in found + cve_found:
         print(f"  - {it['source']} | {it['date']} | {it['title']}")

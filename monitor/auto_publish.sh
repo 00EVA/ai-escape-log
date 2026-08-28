@@ -7,7 +7,7 @@ set -u
 cd /Users/tony/AIincidents || exit 1
 LOG=/Users/tony/Library/Logs/ai_escape_monitor.log
 {
-  echo "[auto_publish] $(date '+%F %T') start"
+  echo "[$(date '+%F %T')] [auto_publish] start"
   git pull --ff-only origin main >/dev/null 2>&1 || echo "[auto_publish] pull skipped/failed (continuing)"
   python3 build_csv.py || exit 1
   python3 db.py || exit 1
