@@ -4,13 +4,14 @@ news_probe.py - News + social-media probe for the AI Escape Log.
 
 Pulls recent AI-safety incident chatter from key-free sources:
   - Hacker News (Algolia API) - keyword search
-  - Reddit (JSON) - r/singularity, r/LocalLLaMA, r/artificial, r/technology,
-    r/MachineLearning, r/OpenAI, r/Anthropic, r/ClaudeAI, r/generativeai,
-    r/agi, r/machinelearningnews, r/largelanguagemodels, r/cybersecurity,
-    r/netsec (www + old.reddit fallback)
+  - Reddit (Atom .rss feeds) - r/singularity, r/LocalLLaMA, r/artificial,
+    r/technology, r/MachineLearning, r/OpenAI, r/Anthropic, r/ClaudeAI,
+    r/generativeai, r/agi, r/machinelearningnews, r/largelanguagemodels,
+    r/cybersecurity, r/netsec
+  - Anthropic sitemap - no RSS exists; new /news /research /engineering URLs
   - Google News RSS - keyword search (surfaces press + aggregators fast)
-  - X/Twitter watchlist - best-effort RSSHub user feeds (skipped if down):
-    incident trackers, AI news wires, lab leads, safety/security commentators
+  - X/Twitter watchlist - disabled (public RSSHub instances dead; self-host
+    to re-enable)
   - Hugging Face (key-free API) - uncensored/no-guardrail + voice-clone model
     hub, and daily papers feed (research/incident angle)
   - OpenRouter (key-free API) - new/stealth models appearing on the router
@@ -32,6 +33,7 @@ Usage: python3 monitor/news_probe.py [--limit N]
 """
 import argparse
 import datetime
+import gzip
 import json
 import os
 import re
@@ -134,9 +136,9 @@ REDDIT_QUERY = "AI escaped sandbox OR rogue OR containment"
 FEEDS = [
     # --- primary sources: labs/teachers publish here FIRST, before aggregators ---
     ("OpenAI News", "https://openai.com/news/rss.xml"),
-    ("Anthropic News", "https://www.anthropic.com/rss.xml"),
+    # (Anthropic has no RSS - polled via anthropic_sitemap() below)
     ("Hugging Face Blog", "https://huggingface.co/blog/feed.xml"),
-    ("METR Blog", "https://metr.org/blog/feed.xml"),
+    ("METR Blog", "https://metr.org/feed.xml"),
     ("CISA Alerts", "https://www.cisa.gov/cybersecurity-advisories/all.xml"),
     ("OffSec Blog", "https://www.offsec.com/feed/"),
     ("Simon Willison", "https://simonwillison.net/atom/everything/"),
@@ -209,8 +211,9 @@ X_ACCOUNTS = [
     # newsletters / OSINT
     "jackclarkSF",
 ]
-RSSHUB_INSTANCES = ["https://rsshub.app", "https://rsshub.rssforever.com",
-                    "https://rsshub.pseudoyu.com"]
+RSSHUB_INSTANCES = []  # public instances all dead as of 2026-08; self-host to re-enable
+#                    ["https://rsshub.app", "https://rsshub.rssforever.com",
+#                     "https://rsshub.pseudoyu.com"]
 
 OPENROUTER_MODELS = "https://openrouter.ai/api/v1/models"
 CISA_KEV = "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json"
@@ -256,7 +259,10 @@ def fetch(url, timeout=15):
         url, headers={"User-Agent": UA, "Accept": "application/json,text/xml,*/*"}
     )
     with urllib.request.urlopen(req, timeout=timeout) as r:
-        return r.read()
+        data = r.read()
+    if data[:2] == b"\x1f\x8b":  # some servers force gzip (e.g. offsec.com/feed/)
+        data = gzip.decompress(data)
+    return data
 
 
 # --- sources ----------------------------------------------------------------
@@ -283,27 +289,59 @@ def hn_search(limit):
 
 
 def reddit_search(limit):
+    """Reddit's .json API 403-blocks unauthenticated pulls, but the Atom
+    feeds (/new/.rss) still work with a custom UA."""
     out = []
     for sub in REDDITS:
-        for host in ("www.reddit.com", "old.reddit.com"):
-            url = (f"https://{host}/r/{sub}/search.json"
-                   f"?q={urllib.parse.quote(REDDIT_QUERY)}&sort=new&limit={limit}")
-            try:
-                d = json.loads(fetch(url))
-                if not isinstance(d, dict) or "data" not in d:
+        url = f"https://www.reddit.com/r/{sub}/new/.rss"
+        try:
+            time.sleep(1.5)  # stay under reddit's per-IP rate limit
+            raw = fetch(url)
+            root = ET.fromstring(raw)
+            ns = "{http://www.w3.org/2005/Atom}"
+            for e in root.findall(f"{ns}entry")[:limit]:
+                t = e.findtext(f"{ns}title", "") or ""
+                link_el = e.find(f"{ns}link")
+                link = link_el.get("href") if link_el is not None else ""
+                summ = re.sub(r"<[^>]+>", " ", e.findtext(f"{ns}content", "") or "")[:300]
+                date = (e.findtext(f"{ns}updated", "") or "")[:10]
+                if not SIGNAL.search(f"{t} {summ}"):
                     continue
-                for c in d.get("data", {}).get("children", []):
-                    p = c.get("data", {})
-                    out.append({
-                        "title": p.get("title", ""),
-                        "url": f"https://www.reddit.com{p.get('permalink', '')}",
-                        "source": f"Reddit r/{sub}",
-                        "date": datetime.datetime.fromtimestamp(p.get("created_utc", 0)).strftime("%Y-%m-%d"),
-                        "snippet": (p.get("selftext") or "")[:300],
-                    })
-                break  # this host returned JSON
-            except Exception as e:
-                print(f"[warn] reddit r/{sub} ({host}) failed: {e}")
+                out.append({"title": t, "url": link, "source": f"Reddit r/{sub}",
+                            "date": date, "snippet": summ})
+        except Exception as e:
+            if "429" in str(e):
+                print(f"[warn] reddit rate-limited at r/{sub}; waiting for next cycle")
+                break
+            print(f"[warn] reddit r/{sub} failed: {e}")
+    return out
+
+
+def anthropic_sitemap():
+    """Anthropic publishes no RSS feed - poll their sitemap for new
+    news/research/engineering URLs instead (lastmod gives the date)."""
+    out = []
+    cutoff = (datetime.date.today() - datetime.timedelta(days=45)).isoformat()
+    try:
+        raw = fetch("https://www.anthropic.com/sitemap.xml")
+        root = ET.fromstring(raw)
+        ns = "{http://www.sitemaps.org/schemas/sitemap/0.9}"
+        for u in root.findall(f"{ns}url"):
+            loc = (u.findtext(f"{ns}loc") or "").strip()
+            lastmod = (u.findtext(f"{ns}lastmod") or "")[:10]
+            if not re.search(r"/(news|research|engineering)/[^/]+$", loc):
+                continue
+            if lastmod and lastmod < cutoff:
+                continue
+            slug = loc.rstrip("/").rsplit("/", 1)[-1]
+            title = slug.replace("-", " ").replace("_", " ").strip().capitalize()
+            if not SIGNAL.search(slug):
+                continue
+            out.append({"title": title, "url": loc,
+                        "source": "Anthropic News (sitemap)",
+                        "date": lastmod, "snippet": ""})
+    except Exception as ex:
+        print(f"[warn] Anthropic sitemap failed: {ex}")
     return out
 
 
@@ -382,8 +420,11 @@ def canonicalize(url):
 
 
 def twitter_rss(limit):
-    """Best-effort X/Twitter watchlist via RSSHub (skipped silently when down).
-    Hard-bounded: short timeout, bails on a down instance."""
+    """X/Twitter watchlist via RSSHub. All public RSSHub instances were dead
+    as of 2026-08 (403/502); flipped off to keep logs clean. Re-enable by
+    self-hosting an instance and adding it to RSSHUB_INSTANCES."""
+    if not RSSHUB_INSTANCES:
+        return []
     out = []
     for inst in RSSHUB_INSTANCES:
         if out:
@@ -606,6 +647,7 @@ def main():
     found = []
     cve_found = []
     collector = (hn_search(args.limit) + reddit_search(args.limit)
+                 + anthropic_sitemap()
                  + feed_search() + gn_search(args.limit)
                  + twitter_rss(args.limit) + hf_probe(args.limit)
                  + openrouter_probe(args.limit))
