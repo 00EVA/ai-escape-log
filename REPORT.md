@@ -1,6 +1,6 @@
-# AI Incident Briefing — 2026-08-28
+# AI Incident Briefing — 2026-08-29
 
-_Verified incidents in last 14d: 13 | AI-crime/chaos flagged: 4 | fresh candidates queued: 262_
+_Verified incidents in last 14d: 12 | AI-crime/chaos flagged: 4 | fresh candidates queued: 262_
 
 ## 1. Latest verified incidents
 
@@ -75,12 +75,6 @@ _Verified incidents in last 14d: 13 | AI-crime/chaos flagged: 4 | fresh candidat
 - CISA added Ray's DNS-rebinding code-injection RCE (CVE-2025-62593, CVSS 9.4, all versions < 2.52.0) to the KEV catalog on Aug 17, 2026, with a 48-hour federal patch deadline (Aug 20). Exploitation is confirmed in the wild: the ShadowRay 2.0 / RondoDox campaign (Oligo Security, from Nov 2025) hijacks unauthenticated Ray Job APIs via browser-based DNS rebinding to turn AI compute clusters into a self-propagating GPU-cryptomining botnet — exfiltrating trained models, source code and cloud credentials (240 GB in one cluster), and stealing GPU cycles. An estimated 200,000 Ray deployments are internet-exposed. Ray is the backbone of ML training/serving for thousands of orgs.
 - Source: https://www.cisa.gov/news-events/alerts/2026/08/17/cisa-adds-one-known-exploited-vulnerability-catalog
 - Counter-action: Uncategorized - read the primary source before trusting the headline.
-
-### 2026-08-14 Z.ai's open-source GLM-5.3 nears Anthropic's Mythos 5 in cyber-defense tests
-- Lab/Model: Z.ai / Zhipu AI (China) / GLM-5.3 (open-weight, same base model as GLM-5.2) | Category: withheld-release | VERIFY: 2+ SECONDARY
-- Z.ai (Zhipu) claims its open-source GLM-5.3 scored 84.5% on CyberGym (reviewing code, finding/confirming software flaws) — slightly above the 83.8% it reports for Anthropic's Mythos 5 (not independently verified) — while trailing on converting flaws into working attacks (ExploitBench 54.4% vs 78.0%) and on attack-development throughput (105 vs 181 tasks in two hours). Z.ai plans public release in about two weeks after safety assessments, gating the most sensitive cybersecurity functions behind a 'trusted access' program, and is launching an 'Open Source Shield' audit initiative. Analysts note this is the first time a Chinese lab has publicly justified a delayed open release of model weights on safety grounds.
-- Source: https://www.reuters.com/technology/chinas-zai-says-new-model-nears-anthropics-mythos-5-cyber-defence-tests-2026-08-14
-- Counter-action: A lab holding back a model is a 'capability escaped the release process' signal - track it, don't dismiss it.
 
 ## 2. AI crime / chaos / havoc watch
 
