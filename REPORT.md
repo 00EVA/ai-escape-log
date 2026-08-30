@@ -1,4 +1,4 @@
-# AI Incident Briefing — 2026-08-29
+# AI Incident Briefing — 2026-08-30
 
 _Verified incidents in last 14d: 12 | AI-crime/chaos flagged: 4 | fresh candidates queued: 265_
 
