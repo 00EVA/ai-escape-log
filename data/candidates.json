@@ -2118,5 +2118,61 @@
     "date": "2026-08-29",
     "snippet": "Clues are emerging that Elon Musk intends to bypass the power supply chain for AI data centers in a way others assumed was impossible, by making highly complex components himself. It’s a move no one else has been bold enough to attempt.",
     "first_seen": "2026-08-29"
+  },
+  {
+    "title": "b10698",
+    "url": "https://prismix.dev/news/270cc07eb6de",
+    "source": "Prismix AI",
+    "date": "2026-08-30",
+    "snippet": "rpc: fix apple rdma error spew on teardown ( #27908 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/43970664 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS…",
+    "first_seen": "2026-08-30"
+  },
+  {
+    "title": "b10697",
+    "url": "https://prismix.dev/news/961dab61e14a",
+    "source": "Prismix AI",
+    "date": "2026-08-30",
+    "snippet": "metal: add fa-vec tunings for M3 Ultra ( #27999 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/43968762 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework…",
+    "first_seen": "2026-08-30"
+  },
+  {
+    "title": "Uncensored Multi-Model Releases, LongCat-Flash-Lite-Sparse with MTPs and LSAs, Qwen3.8-27B with MTPs, Qwen3.5-122B-A10B with MTPs, Qwen3-Coder-Next and Laguna-S2.1 with Vision, All Available in GGUF Format! Bonus: Links to my llama.cpp Fork for LongCat-Flash-Lite Support and…",
+    "url": "https://prismix.dev/news/7609a2976376",
+    "source": "Prismix AI",
+    "date": "2026-08-30",
+    "snippet": "Been working really hard for the past month to bring to the community all these models, the hardest was for sure LongCat-Flash-Lite-Sparse who required TONS of work, first I needed to have Heretic support created for it from scratch and had to create support for it on llama.cpp…",
+    "first_seen": "2026-08-30"
+  },
+  {
+    "title": "b10696",
+    "url": "https://prismix.dev/news/55f0fbaeb92f",
+    "source": "Prismix AI",
+    "date": "2026-08-30",
+    "snippet": "metal : Add fa-vec tuning for M3 Pro ( #27963 ) Related issue: #27668 Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/43966636 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel…",
+    "first_seen": "2026-08-30"
+  },
+  {
+    "title": "Law enforcement shuts down botnet made of tens of thousands of hacked routers - TechCrunch",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSWhMc2hpSkhqeGxqWGpIWmpHWkdtSkxVYjhiSzlLRFVETmNxeGc2ZTNRNWJrNEp3bTA3SEdzWXBmWV8yRjZUbk5nTUl1RnlZOXFZdlo5RFBvTjZEMTlqbU9VaFl4ay1yU0FkdlJDcHY3N3VEb2I5VDh0YUhUZk85Y1RQV1pJUER0d3lkQkNpeE1UVlRsRFpzU3RDMDNHWVN3bzIzWWZjY09LX2lSU3VjWUlR",
+    "source": "Google News",
+    "date": "Thu, 12 Ma",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQSWhMc2hpSkhqeGxqWGpIWmpHWkdtSkxVYjhiSzlLRFVETmNxeGc2ZTNRNWJrNEp3bTA3SEdzWXBmWV8yRjZUbk5nTUl1RnlZOXFZdlo5RFBvTjZEMTlqbU9VaFl4ay1yU0FkdlJDcHY3N3VEb2I5VDh0YUhUZk85Y1RQV1pJUER0d3lkQkNpeE1UVlRsRFpzU3RDMDNHWVN3bzIzWWZjY09LX2lSU3VjWUlR?oc=5\" tar",
+    "first_seen": "2026-08-30"
+  },
+  {
+    "title": "Claude Outage Tops 8,000 Reports: Agentic Pipeline Failures Mount Before Anthropic IPO - Tech Times",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVmRfZFVzc0RVWEVoNFNkRDViT0dCRmRiMFNlZGRuemFfejhESVpvS1NBc3dWWTJHT2ZiWFU4TEgyVmpQaGlPcnlObUR6MExZcGtrdzFEMzJzS3J2RE5FSnVCY2ZRdnJzc1N3Y2hkYzU3T3J4SzliaWlHRGpyMXFOMHd4dldkUVR4dldyT3VERDd0LUNpRTZ6R2poYTg2ODBZMDV1aE5CZ1FQTnE0MnBDTkFKaEFCOVB6UW9LTnJSZDdiZWZNTW11NWo2Sy1rX2RHeGtpQm53",
+    "source": "Google News",
+    "date": "Tue, 23 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVmRfZFVzc0RVWEVoNFNkRDViT0dCRmRiMFNlZGRuemFfejhESVpvS1NBc3dWWTJHT2ZiWFU4TEgyVmpQaGlPcnlObUR6MExZcGtrdzFEMzJzS3J2RE5FSnVCY2ZRdnJzc1N3Y2hkYzU3T3J4SzliaWlHRGpyMXFOMHd4dldkUVR4dldyT3VERDd0LUNpRTZ6R2poYTg2ODBZMDV1aE5CZ1FQTnE0MnBDTkFKaEFCOVB6UW",
+    "first_seen": "2026-08-30"
+  },
+  {
+    "title": "How Microsoft’s GitHub just told everyone that AI agents are 'behind' recent outages: We hear the pain yo - The Times of India",
+    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNeXF1SWFRcHBqckE3YVl4WEloMy1LZmxEYzlRajk4Q1NXQzBjbERPdlo3M2U2SmhYdjdpeHgyaE9zVWk5R2NCeW9kdTBZSFJxXzdKWXhlRFBxZTNyWmVsZlh3RmV6YnNldlVobjZ4X1RFUE51a2ZacVAzTVBwU2tRelh2Ukg4WnJvVGFKUG1Oc0pDckhqb2JPOGZfQWJ4VVRrLWRIQU1GcUREbE5WS0tvb2ttU0tZN2s0RlFjYk0xSkhkN0VVR0V1VC1ZU3Vqay1oYUVkTVZDd2VSS0Fzamh1cV92aVlxNUpvSWQ1Q0FFMFN5VFdCck1paUJXbDZnOWduZVFzM1Qxc19laWhpX0h4ZXdyLXdoVnlp0gGeAkFVX3lxTFBGOEEwZUYyV2NtVFlZRWxqOFJHX1ZqWEJ6MXh6OTZGLWF2TWJsZGxvdXJEYmJpNUttalkwTkduc1VPS0FTWk5YRjY3N2NRQS1UX0VXb00xenJ0UnJlRlJrOVZuRTYxdHcwbzJoSHphUUR0c2lxWnpKRzU5dkpOM2lWMkdFS212c084VlhMdl9RMmNORUVuVTNqOWF6NDhwRHgzanlncUJCSFNybGprWmNndzlURGxrS01wc2psUFlYU202ZG1RbU50V0NlX1hSVlJlQ2laZHVXOUxaeTc1LS1ROWJCUmlMa2ZYQzlXdnh3WS1KUUNCelVvTTlRcE1IR2FlcVdVVnBuSHZTRkNpLUc3X2Q2VTFuM0lRSVVDbkE",
+    "source": "Google News",
+    "date": "Fri, 01 Ma",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxNeXF1SWFRcHBqckE3YVl4WEloMy1LZmxEYzlRajk4Q1NXQzBjbERPdlo3M2U2SmhYdjdpeHgyaE9zVWk5R2NCeW9kdTBZSFJxXzdKWXhlRFBxZTNyWmVsZlh3RmV6YnNldlVobjZ4X1RFUE51a2ZacVAzTVBwU2tRelh2Ukg4WnJvVGFKUG1Oc0pDckhqb2JPOGZfQWJ4VVRrLWRIQU1GcUREbE5WS0tvb2ttU0tZN2s0Rl",
+    "first_seen": "2026-08-30"
   }
 ]
