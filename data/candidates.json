@@ -2094,5 +2094,29 @@
     "date": "Fri, 28 Au",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcXhBSUpPdmY4QzRXNWdmVm10bU40X0t4R0V3WU1mdFRVZGphdURwZU94bTMzaWh6V0s5aTQtZHc1dXk3ZVJnTGgwQkNzalNvMFkwVUwyOXIwaWVlbGJGUzQ3em1RUW05ZlBDWHJYTU5ZcXFyeld3STZlVm5sbkVOa1NEbFdOLVVDRmphNjVrMW1sWktxWldDb0tQVHJkUTBXeEdFb21RRmxwSWlNbS03T3gyT1VpUF9vZl",
     "first_seen": "2026-08-28"
+  },
+  {
+    "title": "Alt-right troll Milo Yiannopoulos has been deported",
+    "url": "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice",
+    "source": "The Verge",
+    "date": "2026-08-29",
+    "snippet": "Alt-right troll Milo Yiannopoulos was arrested by ICE on Thursday, and today the Department of Homeland Security confirmed to Reuters and the Washington Post that he had been deported to the UK. Yiannopoulos came to the US legally in 2019, but overstayed his visa. After he failed to appear in court ",
+    "first_seen": "2026-08-29"
+  },
+  {
+    "title": "b10688",
+    "url": "https://prismix.dev/news/ddd3ddbec5b2",
+    "source": "Prismix AI",
+    "date": "2026-08-30",
+    "snippet": "metal : add fa-vec tunings for M2 ( #27940 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/43902029 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework…",
+    "first_seen": "2026-08-29"
+  },
+  {
+    "title": "Exclusive: SpaceX Lays Groundwork For Turbine-Blade Factory to Solve Data Center Power Crunch",
+    "url": "https://prismix.dev/news/d38e3c6ccd18",
+    "source": "Prismix AI",
+    "date": "2026-08-29",
+    "snippet": "Clues are emerging that Elon Musk intends to bypass the power supply chain for AI data centers in a way others assumed was impossible, by making highly complex components himself. It’s a move no one else has been bold enough to attempt.",
+    "first_seen": "2026-08-29"
   }
 ]
