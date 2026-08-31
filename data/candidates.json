@@ -2174,5 +2174,37 @@
     "date": "Fri, 01 Ma",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxNeXF1SWFRcHBqckE3YVl4WEloMy1LZmxEYzlRajk4Q1NXQzBjbERPdlo3M2U2SmhYdjdpeHgyaE9zVWk5R2NCeW9kdTBZSFJxXzdKWXhlRFBxZTNyWmVsZlh3RmV6YnNldlVobjZ4X1RFUE51a2ZacVAzTVBwU2tRelh2Ukg4WnJvVGFKUG1Oc0pDckhqb2JPOGZfQWJ4VVRrLWRIQU1GcUREbE5WS0tvb2ttU0tZN2s0Rl",
     "first_seen": "2026-08-30"
+  },
+  {
+    "title": "b10711",
+    "url": "https://prismix.dev/news/43bfbb653250",
+    "source": "Prismix AI",
+    "date": "2026-08-31",
+    "snippet": "hexagon: fix CPY fence bug ( #28033 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/44046740 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework Linux:…",
+    "first_seen": "2026-08-30"
+  },
+  {
+    "title": "b10710",
+    "url": "https://prismix.dev/news/17edb947e211",
+    "source": "Prismix AI",
+    "date": "2026-08-31",
+    "snippet": "metal : add remaining Q4_1/Q5_0/Q5_1 fa-vec tunings for M2 ( #28017 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/44044108 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel…",
+    "first_seen": "2026-08-30"
+  },
+  {
+    "title": "AI Escaped a Sandbox. That is Not What Should Worry You - Check Point Blog",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVS11S1l5WEhVOFNIeTEzb0tfQmp3c1RUNmlNaHNxZzZmQ2lOc0RjVVVSYTM3OGctWFlVXzVlMmdHYW9pMTRWVVd3QUJySVdQRi1PVG1vZUVSZnlYNEVsamdFbmdSUTkxM2s1Wjh3VXdxYW5mYWx6QmVNQ0R1RGJjeFhIek03RjUwb2tTRjBiZV94Nnc0Zll3",
+    "source": "Google News",
+    "date": "Thu, 30 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQVS11S1l5WEhVOFNIeTEzb0tfQmp3c1RUNmlNaHNxZzZmQ2lOc0RjVVVSYTM3OGctWFlVXzVlMmdHYW9pMTRWVVd3QUJySVdQRi1PVG1vZUVSZnlYNEVsamdFbmdSUTkxM2s1Wjh3VXdxYW5mYWx6QmVNQ0R1RGJjeFhIek03RjUwb2tTRjBiZV94Nnc0Zll3?oc=5\" target=\"_blank\">AI Escaped a Sandbox. T",
+    "first_seen": "2026-08-30"
+  },
+  {
+    "title": "StepGuard: Learning Step-Level Guardrails with Scalable Supervision and Safety-Utility Balancing",
+    "url": "https://huggingface.co/papers/2608.24777",
+    "source": "Hugging Face papers",
+    "date": "2026-08-25",
+    "snippet": "LLM-based agents can interact with external environments through tool invocation, but this capability also introduces security risks such as file modification, information leakage, and unauthorized actions. Existing guardrails often evaluate completed trajectories, leaving pre-execution monitoring o",
+    "first_seen": "2026-08-30"
   }
 ]
