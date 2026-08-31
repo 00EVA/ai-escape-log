@@ -2246,5 +2246,13 @@
     "date": "2026-08-31",
     "snippet": "CVE-2026-81578 | PaperCut NG/MF | PaperCut NG/MF contains a missing authentication for critical function vulnerability which allows an unauthenticated remote attacker to modify certain system configurations. This vulnerability can be chained with CVE-2026-82078.",
     "first_seen": "2026-08-31"
+  },
+  {
+    "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+    "url": "https://prismix.dev/news/5e194712572c",
+    "source": "Prismix AI",
+    "date": "2026-08-31",
+    "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the…",
+    "first_seen": "2026-08-31"
   }
 ]
