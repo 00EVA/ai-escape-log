@@ -2278,5 +2278,13 @@
     "date": "Mon, 31 Au",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQSE9hTXBoWmFpN2lXTnlNSWRMYmpJYnV0cWhZcWxVWEVWQmdENkFFVE1QdXh2LXNHRnJwWVlwQk1wQVhNUWFlb29oN0NpaTVNaWhXcUpGVDdVbzFtMFliZ3h1TkRmUDE3R1J1bVhMMmJiM0UtSTNzZmwzLU5nVUtOUkNHaW03aFdzT2ZMZGN4a3lvczRmdGtmaUowVUU5ODFhcUhlcg?oc=5\" target=\"_blank\">Artif",
     "first_seen": "2026-08-31"
+  },
+  {
+    "title": "Conservative Hybrid Graph Networks for Process Systems with Learned Routing",
+    "url": "https://prismix.dev/news/002402ef2159",
+    "source": "Prismix AI",
+    "date": "2026-09-01",
+    "snippet": "arXiv:2608.28896v1 Announce Type: new Abstract: Industrial process networks do not maintain a single effective topology while operating: streams are throttled or bypassed, and units move between idle, transition, and active regimes. Models of such systems are typically trained…",
+    "first_seen": "2026-08-31"
   }
 ]
