@@ -2286,5 +2286,29 @@
     "date": "2026-09-01",
     "snippet": "arXiv:2608.28896v1 Announce Type: new Abstract: Industrial process networks do not maintain a single effective topology while operating: streams are throttled or bypassed, and units move between idle, transition, and active regimes. Models of such systems are typically trained…",
     "first_seen": "2026-08-31"
+  },
+  {
+    "title": "b10733",
+    "url": "https://prismix.dev/news/3c40fc475b05",
+    "source": "Prismix AI",
+    "date": "2026-09-01",
+    "snippet": "ci: Bump ggml-org/ccache-action to v1.2.24 ( #28083 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/44375174 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS…",
+    "first_seen": "2026-09-01"
+  },
+  {
+    "title": "An OpenAI test model escaped and broke into a real company’s servers - CNN",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRm5fQ0ZTczFOZlp1elllbE0wSFRFeVRmYUNNTnQwdk5yQXpNX0pUX0l5cFZzc0xUbFpqRDVxNHNqT1h2dVVadVJudWxka25fQnA2V3NQTmltYkhRUG5VenZvYXdsR3FCSmtBR3J1b1ZHV1VZVGw1Mm50TUY4LUwxSGJn",
+    "source": "Google News",
+    "date": "Wed, 22 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNRm5fQ0ZTczFOZlp1elllbE0wSFRFeVRmYUNNTnQwdk5yQXpNX0pUX0l5cFZzc0xUbFpqRDVxNHNqT1h2dVVadVJudWxka25fQnA2V3NQTmltYkhRUG5VenZvYXdsR3FCSmtBR3J1b1ZHV1VZVGw1Mm50TUY4LUwxSGJn?oc=5\" target=\"_blank\">An OpenAI test model escaped and broke into a real ",
+    "first_seen": "2026-09-01"
+  },
+  {
+    "title": "orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
+    "url": "https://huggingface.co/orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
+    "source": "Hugging Face uncensored",
+    "date": "2026-08-26",
+    "snippet": "downloads=64325 likes=162 tags=gguf abliterated uncensored qwen qwen3.8 qwen4 flash-next moe llama.cpp vision-language mmproj function-calling reasoning ai-red-team red-teaming image-text-to-text en zh base_model:Qwen/Qwen3.8-Flash",
+    "first_seen": "2026-09-01"
   }
 ]
