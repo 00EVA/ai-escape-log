@@ -2326,5 +2326,29 @@
     "date": "Wed, 13 Au",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZldwNEZqemtYVUFzMkR4SF9yVmNEbDdaRWRTalZnb0JLOV9jb1FCUVZmWVpRQnFPLWZzVjloa2xhTGY3emNRdjVHOHJJUmFCYW1UblJpbzg3d2w5UkFuY1Q5bUpFNTVoaGVRWUJldUF5cWhMZ1V6emtqTnV5NlVMel9MdktxeG96amZwMTZUT1pqVmQ2TEMwLUVYMHFxY3l0NHVmWk4zZ2s?oc=5\" target=\"_blank\">",
     "first_seen": "2026-09-01"
+  },
+  {
+    "title": "b10749",
+    "url": "https://prismix.dev/news/d82b796d0a0e",
+    "source": "Prismix AI",
+    "date": "2026-09-01",
+    "snippet": "context : autoscale n_ctx_train when yarn scaling specified ( #28030 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/44499127 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel…",
+    "first_seen": "2026-09-01"
+  },
+  {
+    "title": "b10742",
+    "url": "https://prismix.dev/news/6aefbd894ec2",
+    "source": "Prismix AI",
+    "date": "2026-09-01",
+    "snippet": "metal : add fa-vec tunings for A18 Pro (MacBook Neo) ( #28152 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/44474754 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64)…",
+    "first_seen": "2026-09-01"
+  },
+  {
+    "title": "AI Agents Escaped Their Sandboxes. Now Hosting Providers Have a Bigger Problem - HostingAdvice.com",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcDdYZEJUYUhueVlZVjA1SXZvWnI5eWZZR1E2akdGTkVoRTlGOGYxRVpPSVo0NXhYRGxuVzdHVXBXbHRyZjNUTGJFUTBkeHRYNFZnQ1VuRkJhWjZmVGZibUVVRnJtSXd3LW5uVXFCSU1wUjhtSHlld0VhWjM0R0pKZkg1eGxSMVnSAYwBQVVfeXFMUHdCZ1dNb3ZfcUlfT1FLTWt6UlZFeThiRWg1X2ZNOTlSVlFHME9QTGU5U1lWQ3Jsc0lIcEtWejVqNnJBSVp0NENUT2QwUkRtYkQ4Ym9OOUh5ajNWcjhhaWROYXZCUEs5QWhsRVdMN2ZzenQwSUYtWTdYTDdNRTlvWV93YThQQU8ybnRTRE8",
+    "source": "Google News",
+    "date": "Tue, 01 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOcDdYZEJUYUhueVlZVjA1SXZvWnI5eWZZR1E2akdGTkVoRTlGOGYxRVpPSVo0NXhYRGxuVzdHVXBXbHRyZjNUTGJFUTBkeHRYNFZnQ1VuRkJhWjZmVGZibUVVRnJtSXd3LW5uVXFCSU1wUjhtSHlld0VhWjM0R0pKZkg1eGxSMVnSAYwBQVVfeXFMUHdCZ1dNb3ZfcUlfT1FLTWt6UlZFeThiRWg1X2ZNOTlSVlFHME9QTG",
+    "first_seen": "2026-09-01"
   }
 ]
