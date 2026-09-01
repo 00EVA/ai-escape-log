@@ -1,6 +1,6 @@
-# AI Incident Briefing — 2026-08-31
+# AI Incident Briefing — 2026-09-01
 
-_Verified incidents in last 14d: 12 | AI-crime/chaos flagged: 4 | fresh candidates queued: 286_
+_Verified incidents in last 14d: 11 | AI-crime/chaos flagged: 3 | fresh candidates queued: 287_
 
 ## 1. Latest verified incidents
 
@@ -70,12 +70,6 @@ _Verified incidents in last 14d: 12 | AI-crime/chaos flagged: 4 | fresh candidat
 - Source: https://nvd.nist.gov/vuln/detail/CVE-2026-75130
 - Counter-action: Uncategorized - read the primary source before trusting the headline.
 
-### 2026-08-17 CISA confirms active exploitation of Ray RCE (CVE-2025-62593); ShadowRay 2.0 botnet hijacks 200K+ AI clusters [CRIME/CHAOS]
-- Lab/Model: Ray (Anyscale) — AI/ML compute infrastructure / Ray distributed compute framework (AI/ML training/serving) | Category: other | VERIFY: PRIMARY SOURCE
-- CISA added Ray's DNS-rebinding code-injection RCE (CVE-2025-62593, CVSS 9.4, all versions < 2.52.0) to the KEV catalog on Aug 17, 2026, with a 48-hour federal patch deadline (Aug 20). Exploitation is confirmed in the wild: the ShadowRay 2.0 / RondoDox campaign (Oligo Security, from Nov 2025) hijacks unauthenticated Ray Job APIs via browser-based DNS rebinding to turn AI compute clusters into a self-propagating GPU-cryptomining botnet — exfiltrating trained models, source code and cloud credentials (240 GB in one cluster), and stealing GPU cycles. An estimated 200,000 Ray deployments are internet-exposed. Ray is the backbone of ML training/serving for thousands of orgs.
-- Source: https://www.cisa.gov/news-events/alerts/2026/08/17/cisa-adds-one-known-exploited-vulnerability-catalog
-- Counter-action: Uncategorized - read the primary source before trusting the headline.
-
 ## 2. AI crime / chaos / havoc watch
 
 - 2026-08-20 | Adversa AI discloses Cryptographic Context Injection: encrypted instructions make Grok exfiltrate user chats zero-click; still unpatched as of Aug 19 (other)
@@ -84,12 +78,10 @@ _Verified incidents in last 14d: 12 | AI-crime/chaos flagged: 4 | fresh candidat
   https://www.cisa.gov/news-events/alerts/2026/08/19/cisa-adds-one-known-exploited-vulnerability-catalog
 - 2026-08-18 | Context7 MCP prompt injection ('ContextCrush'): poisoned docs instructions exfiltrate credentials and delete files in connected coding agents (other)
   https://nvd.nist.gov/vuln/detail/CVE-2026-75130
-- 2026-08-17 | CISA confirms active exploitation of Ray RCE (CVE-2025-62593); ShadowRay 2.0 botnet hijacks 200K+ AI clusters (other)
-  https://www.cisa.gov/news-events/alerts/2026/08/17/cisa-adds-one-known-exploited-vulnerability-catalog
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=286)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=287)
 
 - [Hacker News] 'AI Escaped Its Sandbox' — What Does That Actually Mean?  (2026-08-08)
   https://unpredictabletokens.substack.com/p/ai-escaped-its-sandbox-what-that
