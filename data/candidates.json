@@ -2350,5 +2350,53 @@
     "date": "Tue, 01 Se",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOcDdYZEJUYUhueVlZVjA1SXZvWnI5eWZZR1E2akdGTkVoRTlGOGYxRVpPSVo0NXhYRGxuVzdHVXBXbHRyZjNUTGJFUTBkeHRYNFZnQ1VuRkJhWjZmVGZibUVVRnJtSXd3LW5uVXFCSU1wUjhtSHlld0VhWjM0R0pKZkg1eGxSMVnSAYwBQVVfeXFMUHdCZ1dNb3ZfcUlfT1FLTWt6UlZFeThiRWg1X2ZNOTlSVlFHME9QTG",
     "first_seen": "2026-09-01"
+  },
+  {
+    "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+    "source": "The Verge",
+    "date": "2026-09-01",
+    "snippet": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post. In July, an unreleased OpenAI model broke out of its res",
+    "first_seen": "2026-09-01"
+  },
+  {
+    "title": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+    "source": "The Verge",
+    "date": "2026-09-01",
+    "snippet": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility for a massive cybersecurit",
+    "first_seen": "2026-09-01"
+  },
+  {
+    "title": "Four safeguards to stop your AI agents from going rogue - SiliconANGLE",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZXNtLUdSbF96dEZJbUl5YnFQM3ZIRUF3T1kzM3RCM1JHSGJjUUJ2amdVdUFCdXpnT1Q3eDB1X0xXR18wZDFISGc2aEZFWklmWXNNN1pKUTRZWmExNGxYYmRGSFdMNWtfdnVaWWV0LUZNaDBnUUVwblNwcjNWN1UzeVotVUVXQVJja0paaUtCSGpPdHhqSTVF",
+    "source": "Google News",
+    "date": "Sun, 30 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQZXNtLUdSbF96dEZJbUl5YnFQM3ZIRUF3T1kzM3RCM1JHSGJjUUJ2amdVdUFCdXpnT1Q3eDB1X0xXR18wZDFISGc2aEZFWklmWXNNN1pKUTRZWmExNGxYYmRGSFdMNWtfdnVaWWV0LUZNaDBnUUVwblNwcjNWN1UzeVotVUVXQVJja0paaUtCSGpPdHhqSTVF?oc=5\" target=\"_blank\">Four safeguards to stop",
+    "first_seen": "2026-09-01"
+  },
+  {
+    "title": "AWS outages caused by AI coding bot blunder, report claims - Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNENuYnlrZXlPSGFLTEs1WFdhSzU2M25vRTVtSHNweEowWEZHc0Rnd1Y5ZFM5V21TdGtyTWNHaE83NVVhMEdlQVhHRnNHc2Z2Z1BlS0NiQ0g1VTNYZ3VZMExnSmlZLXk5enNFVjE2YTRiMmlrMDhyLTFaNXVYZ2tlVHZ4TEF1ZkQwUmR3Nkhya1VIRG5JZHhFcldIdlJqUG9zWUM4dzVNSVZMQ2ZhdHdLUlhZNEtidUg5Z0Z4SHg0MTR4NkJJeEFzMEcyTXhVNTVCY1dSdEpJOFhtNDVDSGhaWlo5dzh0c0o2TUdwMl9VaVU0Q1YwWWk3Snp5MnAtMmNHSGxWUkZLVQ",
+    "source": "Google News",
+    "date": "Fri, 20 Fe",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxPNENuYnlrZXlPSGFLTEs1WFdhSzU2M25vRTVtSHNweEowWEZHc0Rnd1Y5ZFM5V21TdGtyTWNHaE83NVVhMEdlQVhHRnNHc2Z2Z1BlS0NiQ0g1VTNYZ3VZMExnSmlZLXk5enNFVjE2YTRiMmlrMDhyLTFaNXVYZ2tlVHZ4TEF1ZkQwUmR3Nkhya1VIRG5JZHhFcldIdlJqUG9zWUM4dzVNSVZMQ2ZhdHdLUlhZNEtidUg5Z0",
+    "first_seen": "2026-09-01"
+  },
+  {
+    "title": "AWS December Disruption Linked to AI Agent, Reports Claim - digit.fyi",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSHFfZW1fRm96ZkdZMTNOSG5VRlE0dHNLeTFCRlAwT0xERUJyQ0NPSEt1V0YyUjM3dlZoN21EUDNfU0RHZHB1N0s2M3BkMXRVcFVfbzZsaXNRaFBhY3VUeEVabEhJRXdqVXRKTUp3dHJfYzlhLVhlbmVRMGhVdHNNNmhRZHJCQQ",
+    "source": "Google News",
+    "date": "Fri, 20 Fe",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOSHFfZW1fRm96ZkdZMTNOSG5VRlE0dHNLeTFCRlAwT0xERUJyQ0NPSEt1V0YyUjM3dlZoN21EUDNfU0RHZHB1N0s2M3BkMXRVcFVfbzZsaXNRaFBhY3VUeEVabEhJRXdqVXRKTUp3dHJfYzlhLVhlbmVRMGhVdHNNNmhRZHJCQQ?oc=5\" target=\"_blank\">AWS December Disruption Linked to AI Agent, R",
+    "first_seen": "2026-09-01"
+  },
+  {
+    "title": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
+    "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-GGUF",
+    "source": "Hugging Face uncensored",
+    "date": "2026-08-16",
+    "snippet": "downloads=254529 likes=638 tags=gguf abliterated qwen qwen3 qwen3.8 llama.cpp uncensored ai-red-team red-teaming vision-language mmproj mtp function-calling reasoning image-text-to-text en zh base_model:Qwen/Qwen3.8-27B base_model:q",
+    "first_seen": "2026-09-01"
   }
 ]
