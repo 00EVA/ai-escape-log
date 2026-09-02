@@ -2398,5 +2398,53 @@
     "date": "2026-08-16",
     "snippet": "downloads=254529 likes=638 tags=gguf abliterated qwen qwen3 qwen3.8 llama.cpp uncensored ai-red-team red-teaming vision-language mmproj mtp function-calling reasoning image-text-to-text en zh base_model:Qwen/Qwen3.8-27B base_model:q",
     "first_seen": "2026-09-01"
+  },
+  {
+    "title": "Rare post from the genius Ilya Sutskever, this time on security against rogue AI models",
+    "url": "https://www.reddit.com/r/singularity/comments/1w5243k/rare_post_from_the_genius_ilya_sutskever_this/",
+    "source": "Reddit r/singularity",
+    "date": "2026-09-02",
+    "snippet": "&#32; submitted by &#32;   /u/borowcy       [link]   &#32;   [comments]  ",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "title": "b10756",
+    "url": "https://prismix.dev/news/6101251c1d11",
+    "source": "Prismix AI",
+    "date": "2026-09-02",
+    "snippet": "vulkan : only request VK_KHR_shader_bfloat16 extension if supported ( #28155 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/44637403 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS…",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "title": "Did OpenAI’s rogue agents form a ‘civilization’? The AI industry can’t agree - NBC News",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON21GSDIwakY2Y1ptVnFPR2JWRC1jSFAtRkpXN0JSdzVzR2xVcXhKZWFQQ1Z6MjVyOTR4UksxbmlzRUE1U0ZLRGJTT0tMeHNneEZjTzgtZlFobmFhbGRUUlRzV2tuQVluRURjZV9YdlVCTGltTXIwNTNzTFlsQlFYLTJHUWRJejZoaGdLb2tidnJIUlYzaDlma185ZUIxSng3NTJWSkQ5SG9RaGUxM2RkNUFKSQ",
+    "source": "Google News",
+    "date": "Wed, 02 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxON21GSDIwakY2Y1ptVnFPR2JWRC1jSFAtRkpXN0JSdzVzR2xVcXhKZWFQQ1Z6MjVyOTR4UksxbmlzRUE1U0ZLRGJTT0tMeHNneEZjTzgtZlFobmFhbGRUUlRzV2tuQVluRURjZV9YdlVCTGltTXIwNTNzTFlsQlFYLTJHUWRJejZoaGdLb2tidnJIUlYzaDlma185ZUIxSng3NTJWSkQ5SG9RaGUxM2RkNUFKSQ?oc=5\" t",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "title": "AI gone wrong, again: 50-year-old woman arrested for crimes in a state she had never been to - wionews.com",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcnluSFc2NG4wazBYVDdUQ29DSUcyWElFbU5EM1pKRlRiaHB1RUxYUHA2VXBWSHBSbzJ2Qk9GaDR6cnpMWFBOV28tcjhra2M2RGNrbTdXT25mRFlZUXdXSjRoMzhDbGlpUzR6dk9saEsyajUyZDFWLXV0NmNFc0ZFQjNKRlJxSFRxVlNRZ01tZndFc2lhdWxrdWJ4VjV5U1huMk0zZmlnQk1EeUFFeDlwWWF0dG9sRmdNc1VObUt2SVFlTDFzUnVGYktIUFA5ZFVWTmNZ",
+    "source": "Google News",
+    "date": "Tue, 31 Ma",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcnluSFc2NG4wazBYVDdUQ29DSUcyWElFbU5EM1pKRlRiaHB1RUxYUHA2VXBWSHBSbzJ2Qk9GaDR6cnpMWFBOV28tcjhra2M2RGNrbTdXT25mRFlZUXdXSjRoMzhDbGlpUzR6dk9saEsyajUyZDFWLXV0NmNFc0ZFQjNKRlJxSFRxVlNRZ01tZndFc2lhdWxrdWJ4VjV5U1huMk0zZmlnQk1EeUFFeDlwWWF0dG9sRmdNc1",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "title": "Report: AI Ransomware Can Now Run Much of an Attack Without Human Help - Campus Technology",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUXEwbUdTdmxhcURWOThFZVJTUHEyNndVWDRGRVhvSFY3QWNEeGFvSzZhcm5MY3VvMUMtaG9VYlgtQjAyOThHZGlscFZqRHFtMkdJYlUwWXJWSk1iZXE5RnNWUXdqc21qVzVDWTdIcGN1UTR1R28weVJIYWZTQ3RsY3VsMmZ1bmVTUTI3RThMdURMbkpGdmpoTXRSMGpDdmlteDU1MHFuN2E0YThpTWZRTVhmSUgwa3dqdlFRdE1OWEI",
+    "source": "Google News",
+    "date": "Mon, 31 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUXEwbUdTdmxhcURWOThFZVJTUHEyNndVWDRGRVhvSFY3QWNEeGFvSzZhcm5MY3VvMUMtaG9VYlgtQjAyOThHZGlscFZqRHFtMkdJYlUwWXJWSk1iZXE5RnNWUXdqc21qVzVDWTdIcGN1UTR1R28weVJIYWZTQ3RsY3VsMmZ1bmVTUTI3RThMdURMbkpGdmpoTXRSMGpDdmlteDU1MHFuN2E0YThpTWZRTVhmSUgwa3dqdl",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "title": "OpenAI blamed a hacking event on its AI models going rogue. Here's what to know - PBS",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdmtXVWZDNVhWc0xxT0EtS0N3TlM0NUM0MWVVZ0gtUzFFODVfTVBrUlF4el9MRENLMVJmUHpzMnZLUHRXRDRDanNwSDlldHZKUTl0XzhxWEpFZmFkWjUzTF9lUXJwcEY2LUttc3lBMEZXMkhUTTgxQzlJM0JuMEE3T3hQdmNmb0JVVEtQQWg5OGhsX0FadC03Ny1CTDhMWFBFNzVqVUEzTTZYNFFXQng5U0JtYUY",
+    "source": "Google News",
+    "date": "Thu, 23 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQdmtXVWZDNVhWc0xxT0EtS0N3TlM0NUM0MWVVZ0gtUzFFODVfTVBrUlF4el9MRENLMVJmUHpzMnZLUHRXRDRDanNwSDlldHZKUTl0XzhxWEpFZmFkWjUzTF9lUXJwcEY2LUttc3lBMEZXMkhUTTgxQzlJM0JuMEE3T3hQdmNmb0JVVEtQQWg5OGhsX0FadC03Ny1CTDhMWFBFNzVqVUEzTTZYNFFXQng5U0JtYUY?oc=5\" ",
+    "first_seen": "2026-09-02"
   }
 ]
