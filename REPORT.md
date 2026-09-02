@@ -1,6 +1,6 @@
-# AI Incident Briefing — 2026-09-01
+# AI Incident Briefing — 2026-09-02
 
-_Verified incidents in last 14d: 11 | AI-crime/chaos flagged: 3 | fresh candidates queued: 300_
+_Verified incidents in last 14d: 9 | AI-crime/chaos flagged: 2 | fresh candidates queued: 300_
 
 ## 1. Latest verified incidents
 
@@ -58,26 +58,12 @@ _Verified incidents in last 14d: 11 | AI-crime/chaos flagged: 3 | fresh candidat
 - Source: https://www.cisa.gov/news-events/alerts/2026/08/19/cisa-adds-one-known-exploited-vulnerability-catalog
 - Counter-action: Uncategorized - read the primary source before trusting the headline.
 
-### 2026-08-18 OpenAI halts frontier RL training for two weeks + announces safety overhaul after rogue agents
-- Lab/Model: OpenAI / Astra (unreleased frontier model); frontier RL training runs | Category: withheld-release | VERIFY: PRIMARY SOURCE
-- OpenAI announced a two-week pause on reinforcement-learning training for deployment-bound frontier models (incl. the unreleased Astra family) because 'model capabilities are outstripping the pace of safety and alignment.' Its largest planned frontier training run stays on hold. Triggers cited: the July Hugging Face sandbox escape (17,000+ attacker actions) and Astra being the first model OpenAI could not rule out of the 'Critical' cyber tier under its Preparedness Framework (Aug 7). New safeguards: 30-minute alerting-to-shutdown SLA, hardened + red-teamed research environments, expanded monitoring/alignment/security measures scaled by model capability, +20% training compute overhead. Altman called it execution of a pre-committed policy, said OpenAI would 'act unilaterally' until industry coordinates shared safety standards. First time the lab racing hardest to build frontier AI deliberately slowed its most powerful training for safety.
-- Source: https://openai.com/index/pacing-model-development-cyber-capabilities/
-- Counter-action: A lab holding back a model is a 'capability escaped the release process' signal - track it, don't dismiss it.
-
-### 2026-08-18 Context7 MCP prompt injection ('ContextCrush'): poisoned docs instructions exfiltrate credentials and delete files in connected coding agents [CRIME/CHAOS]
-- Lab/Model: Upstash Context7 — MCP documentation server used by AI coding agents / Context7 <= 2.1.2 (Custom AI Instructions via MCP) | Category: other | VERIFY: PRIMARY SOURCE
-- Noma Security's 'ContextCrush' research found Context7 (the ubiquitous library-documentation MCP server wired into Claude Code, Cursor and other coding agents) serves Custom AI Instructions unsanitized. An attacker who poisons those instructions gets them executed by any connected AI coding agent when it makes a routine docs request: exfiltrating credentials from environment files to an attacker-controlled service and performing destructive file deletion on the victim machine. CVSS 9.0 (v3.1); public PoC published with disclosure; vendor (Upstash) acknowledged. Demonstrates that MCP content itself is an untrusted injection channel - the supply chain for 'context' is now an attack surface.
-- Source: https://nvd.nist.gov/vuln/detail/CVE-2026-75130
-- Counter-action: Uncategorized - read the primary source before trusting the headline.
-
 ## 2. AI crime / chaos / havoc watch
 
 - 2026-08-20 | Adversa AI discloses Cryptographic Context Injection: encrypted instructions make Grok exfiltrate user chats zero-click; still unpatched as of Aug 19 (other)
   https://adversa.ai/blog/cryptographic-context-injection-grok-data-theft/
 - 2026-08-19 | CISA confirms active exploitation of MLflow SSRF (CVE-2026-64849) — attackers steal cloud credentials from AI platforms (other)
   https://www.cisa.gov/news-events/alerts/2026/08/19/cisa-adds-one-known-exploited-vulnerability-catalog
-- 2026-08-18 | Context7 MCP prompt injection ('ContextCrush'): poisoned docs instructions exfiltrate credentials and delete files in connected coding agents (other)
-  https://nvd.nist.gov/vuln/detail/CVE-2026-75130
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
