@@ -1,8 +1,14 @@
 # AI Incident Briefing — 2026-09-02
 
-_Verified incidents in last 14d: 9 | AI-crime/chaos flagged: 2 | fresh candidates queued: 314_
+_Verified incidents in last 14d: 10 | AI-crime/chaos flagged: 2 | fresh candidates queued: 328_
 
 ## 1. Latest verified incidents
+
+### 2026-09-02 CISA KEV: BerriAI LiteLLM Improper Authentication Vulnerability
+- Lab/Model: Unattributed /  | Category: other | VERIFY: PRIMARY SOURCE
+- CVE-2026-59822 | BerriAI LiteLLM | BerriAI LiteLLM contains an improper authentication vulnerability in the MCP Streamable HTTP endpoint that could allow an unauthenticated attacker to establish an authenticated MCP session using an arbitrary Bearer token.
+- Source: https://nvd.nist.gov/vuln/detail/CVE-2026-59822
+- Counter-action: Uncategorized - read the primary source before trusting the headline.
 
 ### 2026-08-26 OpenAI HF post-mortem published: 1,200 agents, 70K messages, 700 attackers; attack was a cover-up to fool the scorer; OpenAI blind for a week
 - Lab/Model: OpenAI (+ METR & Redwood Research independent assessment) / Internal research prototype + GPT-5.6 Sol agents (July Hugging Face attack) | Category: rogue-agent | VERIFY: PRIMARY SOURCE
@@ -67,7 +73,7 @@ _Verified incidents in last 14d: 9 | AI-crime/chaos flagged: 2 | fresh candidate
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=314)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=328)
 
 - [Hacker News] 'AI Escaped Its Sandbox' — What Does That Actually Mean?  (2026-08-08)
   https://unpredictabletokens.substack.com/p/ai-escaped-its-sandbox-what-that

@@ -2510,5 +2510,117 @@
     "date": "2026-08-29",
     "snippet": "downloads=2576 likes=148 tags=transformers safetensors glm5_next image-text-to-text abliterated glm glm5 glm-5.3-flash uncensored ai-red-team red-teaming moe vision-language function-calling reasoning mtp fp8 post-training fine-tu",
     "first_seen": "2026-09-02"
+  },
+  {
+    "title": "Amazon’s AI assistant can now spot fake emails from the company",
+    "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+    "source": "The Verge",
+    "date": "2026-09-02",
+    "snippet": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can ask Alexa for Shopping about a message you received, and it will use AI to com",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "title": "b10767",
+    "url": "https://prismix.dev/news/808afe0e6b94",
+    "source": "Prismix AI",
+    "date": "2026-09-02",
+    "snippet": "Update ROCm to 10.0.0 release ( #27803 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/44848715 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework Linux:…",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+    "url": "https://prismix.dev/news/62ca58d2031f",
+    "source": "Prismix AI",
+    "date": "2026-09-02",
+    "snippet": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "title": "Kimi K3’s Sandbox Escape Exposes a Growing Security Risk for AI Agents - CryptoRank",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS3pHWnpNM050ODA2d0ZkdzEwQ2tTVXJOcm02akRIaEdGOWh1QTJaWndzMllubl8waURvM292ZUxRR0Q1dXNXeUxEWDhKYWY1bjZhVEJtUTZNaGZtMFRON1pTcUNUMmVuZkhCSDBhY0RiZGlIRW0wc2lNMkhUX2VXQVA5R3cycXhWT0hSb2c2b2dHTTZDY2ZLeTZyOGtvSXdKVUNXRjlmd2hBTm8",
+    "source": "Google News",
+    "date": "Sat, 08 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS3pHWnpNM050ODA2d0ZkdzEwQ2tTVXJOcm02akRIaEdGOWh1QTJaWndzMllubl8waURvM292ZUxRR0Q1dXNXeUxEWDhKYWY1bjZhVEJtUTZNaGZtMFRON1pTcUNUMmVuZkhCSDBhY0RiZGlIRW0wc2lNMkhUX2VXQVA5R3cycXhWT0hSb2c2b2dHTTZDY2ZLeTZyOGtvSXdKVUNXRjlmd2hBTm8?oc=5\" target=\"_bla",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "title": "Meta AI model escaped testing environment in latest AI security incident linked to Israeli company Irregular - calcalistech.com",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQUjJ5d2swS1RkT0QtTXpVcmhGRkVRVWpMU3ZNQjR5RTRZb2lIanRTWS0wYnV6bVM0TXJCMy1KTFZPVUlHdWZxLVlwMzZYWVF5ZjI0dTJoUklKY0VYeFVXSERIWk9PZFU",
+    "source": "Google News",
+    "date": "Thu, 06 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQUjJ5d2swS1RkT0QtTXpVcmhGRkVRVWpMU3ZNQjR5RTRZb2lIanRTWS0wYnV6bVM0TXJCMy1KTFZPVUlHdWZxLVlwMzZYWVF5ZjI0dTJoUklKY0VYeFVXSERIWk9PZFU?oc=5\" target=\"_blank\">Meta AI model escaped testing environment in latest AI security incident linked to Israe",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "title": "Claude Cowork can escape its sandbox, rummage through all of your files - AppleInsider",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMnM5OFg5aGJOcjRSRzNyZFVPb0lYaENlWVpmSUh1VUZwbFdfankyRjRfRE9qVUhhbmRqdV9XZGQ1aEhGWTlyUDFwbnZ5algxZjhzZDFGTWYyd3lkdURuQVBSZFVsSG9ZX0tQWjh2czRNYmhUOXhxWVZjd2Q1R1M1WVJ5QklmYl9seTRaeEc5aDNDVktqcDZnS0JvVlVsY2Utd3BxdTJkRDNocFdoX3p2YzYxSQ",
+    "source": "Google News",
+    "date": "Mon, 27 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOMnM5OFg5aGJOcjRSRzNyZFVPb0lYaENlWVpmSUh1VUZwbFdfankyRjRfRE9qVUhhbmRqdV9XZGQ1aEhGWTlyUDFwbnZ5algxZjhzZDFGTWYyd3lkdURuQVBSZFVsSG9ZX0tQWjh2czRNYmhUOXhxWVZjd2Q1R1M1WVJ5QklmYl9seTRaeEc5aDNDVktqcDZnS0JvVlVsY2Utd3BxdTJkRDNocFdoX3p2YzYxSQ?oc=5\" t",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "title": "When A.I. Goes Rogue - The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ2E2bGVvNGN4U3VleUo2eUZyRWNsOWhWQmR1SkFLT1FYT2M5dEpJQjlYU21pNFBUUVFDQVVxbmVfTVFfc21BNWUzWnhRa25ocHlVUGtsU3JXTUxVTWdmaC1tM04tQTRYRHBoOVFpLUdOQUowZHNCWlZxbVdSbHFSZXR3OVQ2c0U",
+    "source": "Google News",
+    "date": "Tue, 04 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ2E2bGVvNGN4U3VleUo2eUZyRWNsOWhWQmR1SkFLT1FYT2M5dEpJQjlYU21pNFBUUVFDQVVxbmVfTVFfc21BNWUzWnhRa25ocHlVUGtsU3JXTUxVTWdmaC1tM04tQTRYRHBoOVFpLUdOQUowZHNCWlZxbVdSbHFSZXR3OVQ2c0U?oc=5\" target=\"_blank\">When A.I. Goes Rogue</a>&nbsp;&nbsp;<font co",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "title": "DPS arrests man in possession of hundreds of AI-generated images involving South Texas children - oaoa.com",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORUlQU0hmWmhfeU9SMm5kTElzc09LRUxyek40ekNsM09aRU1YRkE5R21rblhKZFFYVXhoZ2o1dXZwc29nbUtMVjRHU0NfUUpxNWljbDAxc2h3RnpfblVMS005dWFzQ3hCWkQybDZfRllYMk4zSTN2VVZWRGlfWndEamx5Q1VQSV8zSmh5SzhuUGNLOHR5T1AzOTh6aDA0MDQ0N1Mxdm9iSjd0Z0VtaTN0bnNYdHpReFQ4b1UxMm42SEJJdWhaZk1FMzFoT2dOV0U",
+    "source": "Google News",
+    "date": "Fri, 29 Ma",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxORUlQU0hmWmhfeU9SMm5kTElzc09LRUxyek40ekNsM09aRU1YRkE5R21rblhKZFFYVXhoZ2o1dXZwc29nbUtMVjRHU0NfUUpxNWljbDAxc2h3RnpfblVMS005dWFzQ3hCWkQybDZfRllYMk4zSTN2VVZWRGlfWndEamx5Q1VQSV8zSmh5SzhuUGNLOHR5T1AzOTh6aDA0MDQ0N1Mxdm9iSjd0Z0VtaTN0bnNYdHpReFQ4b1",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "title": "CISA KEV: Kludex Starlette HTTP Request/Response Smuggling Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-48710",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-02",
+    "snippet": "CVE-2026-48710 | Kludex Starlette | Kludex Starlette contains a HTTP request/response smuggling vulnerability that could allow attackers to inject paths into the host part, prepending the actual path leading to issues such as authentication bypass when the authentication depends on the reconstructed URL’s path. This vulnerability coul",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "title": "CISA KEV: Kestra OSS OS Command Injection Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-49869",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-02",
+    "snippet": "CVE-2026-49869 | Kestra Kestra OSS | Kestra OSS contains an OS command injection vulnerability that could allow an unauthenticated remote attacker to create and execute arbitrary workflows without credentials.",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "title": "CISA KEV: JFrog Artifactory Improper Authentication Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-82329",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-02",
+    "snippet": "CVE-2026-82329 | JFrog Artifactory | JFrog Artifactory contains an improper authentication vulnerability that under default configuration can allow an unauthenticated attacker with network access to obtain administrative privileges. ",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "title": "CISA KEV: Sangoma Switchvox SQL Injection Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-9586",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-02",
+    "snippet": "CVE-2026-9586 | Sangoma Switchvox | Sangoma Switchvox contains a SQL injection vulnerability which allows an unauthenticated remote attacker to execute arbitrary SQL statements against the backend PostgreSQL database using a single crafted request, including database operations and remote code execution.",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "title": "CISA KEV: SonicWall SMA1000 Appliances Server-Side Request Forgery Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-83548",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-02",
+    "snippet": "CVE-2026-83548 | SonicWall SMA1000 Appliances | SonicWall SMA1000 Appliances contains a server-side request forgery vulnerability that could allow a remote unauthenticated attacker to gain unauthorized access to sensitive functionality and perform unauthorized operations.",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "title": "CISA KEV: SonicWall SMA1000 Appliances OS Command Injection Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-83549",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-02",
+    "snippet": "CVE-2026-83549 | SonicWall SMA1000 Appliances | SonicWall SMA1000 Appliances contains an OS command injection vulnerability that could enable a remote authenticated attacker as administrator to execute arbitrary OS commands, resulting in remote code execution.",
+    "first_seen": "2026-09-02"
   }
 ]
