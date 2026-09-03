@@ -1,6 +1,6 @@
-# AI Incident Briefing — 2026-09-02
+# AI Incident Briefing — 2026-09-03
 
-_Verified incidents in last 14d: 10 | AI-crime/chaos flagged: 2 | fresh candidates queued: 336_
+_Verified incidents in last 14d: 8 | AI-crime/chaos flagged: 1 | fresh candidates queued: 342_
 
 ## 1. Latest verified incidents
 
@@ -52,28 +52,14 @@ _Verified incidents in last 14d: 10 | AI-crime/chaos flagged: 2 | fresh candidat
 - Source: https://nvd.nist.gov/vuln/detail/CVE-2026-77077
 - Counter-action: Containment = egress control. Assume the model WILL try to reach the internet; the question is only how fast.
 
-### 2026-08-19 CVE-2026-40369 exploit code drops — browser AI agents inherit a deterministic sandbox escape
-- Lab/Model: Microsoft (Windows kernel) / browsers hosting AI agents / Browser-based AI agents: Gemini in Chrome, Claude, Copilot (inherit renderer sandbox escape) | Category: sandbox-escape | VERIFY: PRIMARY SOURCE
-- Researcher Ori Nimron publicly released 100% deterministic exploit code for CVE-2026-40369, a Windows kernel (ntoskrnl.exe ExpGetProcessInformation, NtQuerySystemInformation class 253) arbitrary-write primitive. It is reachable from the renderer sandboxes of Chrome, Edge and Firefox (ProbeForWrite is bypassed via length=0; not blocked by win32k lockdown, restricted tokens, or untrusted integrity). Because browser-based AI agents — Gemini in Chrome, Claude, Copilot — run in those same sandboxes, any agent compromise escalates to SYSTEM. Microsoft patched May 12, 2026 (Windows 11 24H2/25H2, Server 2025); code dropped 3 months later after a Pwn2Own Berlin rejection, leaving a large unpatched exposure gap. Two independent chains exist (Nimron; VoidSec 'Twelve Bytes to Escape the Browser Sandbox').
-- Source: https://github.com/orinimron123/CVE-2026-40369-EXPLOIT
-- Counter-action: Containment = egress control. Assume the model WILL try to reach the internet; the question is only how fast.
-
-### 2026-08-19 CISA confirms active exploitation of MLflow SSRF (CVE-2026-64849) — attackers steal cloud credentials from AI platforms [CRIME/CHAOS]
-- Lab/Model: MLflow (LF AI & Data / Databricks) — AI engineering platform / MLflow (agents, LLMs, ML models; webhook test endpoint) | Category: other | VERIFY: PRIMARY SOURCE
-- CISA added MLflow's unauthenticated full-read SSRF (CVE-2026-64849, CVSS 9.3, all versions < 3.15.0) to the KEV catalog on Aug 19, 2026. The webhook test endpoint (/api/2.0/mlflow/webhooks/{id}/test) validates only the original URL then follows unvalidated redirects (incl. DNS rebinding), letting an attacker reach internal services and cloud metadata endpoints (e.g. AWS IMDS) to steal credentials and secrets. watchTowr and VulnCheck report malicious scanning and exploitation in the wild targeting MLflow Tracking Servers. MLflow is the widely-used open-source AI engineering platform for managing agents, LLMs and ML models.
-- Source: https://www.cisa.gov/news-events/alerts/2026/08/19/cisa-adds-one-known-exploited-vulnerability-catalog
-- Counter-action: Uncategorized - read the primary source before trusting the headline.
-
 ## 2. AI crime / chaos / havoc watch
 
 - 2026-08-20 | Adversa AI discloses Cryptographic Context Injection: encrypted instructions make Grok exfiltrate user chats zero-click; still unpatched as of Aug 19 (other)
   https://adversa.ai/blog/cryptographic-context-injection-grok-data-theft/
-- 2026-08-19 | CISA confirms active exploitation of MLflow SSRF (CVE-2026-64849) — attackers steal cloud credentials from AI platforms (other)
-  https://www.cisa.gov/news-events/alerts/2026/08/19/cisa-adds-one-known-exploited-vulnerability-catalog
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=336)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=342)
 
 - [Hacker News] 'AI Escaped Its Sandbox' — What Does That Actually Mean?  (2026-08-08)
   https://unpredictabletokens.substack.com/p/ai-escaped-its-sandbox-what-that
