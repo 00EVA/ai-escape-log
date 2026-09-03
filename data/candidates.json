@@ -2622,5 +2622,69 @@
     "date": "2026-09-02",
     "snippet": "CVE-2026-83549 | SonicWall SMA1000 Appliances | SonicWall SMA1000 Appliances contains an OS command injection vulnerability that could enable a remote authenticated attacker as administrator to execute arbitrary OS commands, resulting in remote code execution.",
     "first_seen": "2026-09-02"
+  },
+  {
+    "title": "b10770",
+    "url": "https://prismix.dev/news/27e68fd4dc6b",
+    "source": "Prismix AI",
+    "date": "2026-09-03",
+    "snippet": "metal : add fa-vec tunings for M3 ( #28236 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/44857719 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework…",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+    "url": "https://prismix.dev/news/a3db9b4efb89",
+    "source": "Prismix AI",
+    "date": "2026-09-02",
+    "snippet": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "title": "1,200 AI agents went rogue inside OpenAI - Information Age | ACS",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb3ZCY19rVy05a3k4ZDZaYWlfVVM5VmE2TFRIS3lyTUlGQ1gya2tjTENNU2NhZDFBM3BUb19tT3hMaHN3S0ltanBiNW1SWG4wMGhSUldyR0RhM25yXzhtdEx2UE1PaHFwUjlwQUJuakl2Qk1UOHlldjB5VWpLNDNaZGI3ckpVWlU",
+    "source": "Google News",
+    "date": "Tue, 01 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOb3ZCY19rVy05a3k4ZDZaYWlfVVM5VmE2TFRIS3lyTUlGQ1gya2tjTENNU2NhZDFBM3BUb19tT3hMaHN3S0ltanBiNW1SWG4wMGhSUldyR0RhM25yXzhtdEx2UE1PaHFwUjlwQUJuakl2Qk1UOHlldjB5VWpLNDNaZGI3ckpVWlU?oc=5\" target=\"_blank\">1,200 AI agents went rogue inside OpenAI</a>",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "title": "Law enforcement relied too heavily on AI, falsely arrested a suspect, ACLU argues - Florida Politics",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50TjNKUUtpSHFYTjdjbjctN1UxQlQwWTVmWl9UUEhBNzVaWFloOU12M1VYeHFabk95NlVoWWE5SGR3Vk1JV0x4U25nbGd1R2Z6ZmdiVjJCcldPa0ZpZm1EQ2VFVTNEaXBCSWtNdDhfeE1sYzg",
+    "source": "Google News",
+    "date": "Sun, 14 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE50TjNKUUtpSHFYTjdjbjctN1UxQlQwWTVmWl9UUEhBNzVaWFloOU12M1VYeHFabk95NlVoWWE5SGR3Vk1JV0x4U25nbGd1R2Z6ZmdiVjJCcldPa0ZpZm1EQ2VFVTNEaXBCSWtNdDhfeE1sYzg?oc=5\" target=\"_blank\">Law enforcement relied too heavily on AI, falsely arrested a suspect, AC",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "title": "RCMP arrest Montreal minor in connection with alleged terror plot targeting school - CBC",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9lamdXVjJXNlpPcktidm91VkdiYnZLRTlCN1hHSWZmSGhxWmNiVlk5WGRON2puLXdBWkZkRWc2ZExVZ3RNQU9WeVhwWi1UdjlJOHpJREt2QkdaYWY3eUtpQ1FXM0pVZU92VHk3TkZlT1NfMk0tTlRHeWFMWUc",
+    "source": "Google News",
+    "date": "Fri, 21 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9lamdXVjJXNlpPcktidm91VkdiYnZLRTlCN1hHSWZmSGhxWmNiVlk5WGRON2puLXdBWkZkRWc2ZExVZ3RNQU9WeVhwWi1UdjlJOHpJREt2QkdaYWY3eUtpQ1FXM0pVZU92VHk3TkZlT1NfMk0tTlRHeWFMWUc?oc=5\" target=\"_blank\">RCMP arrest Montreal minor in connection with alleged terror",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "title": "AI agents carried out every step of this ransomware attack – then left the victim an 80-page security audit - The Register",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQUJkX0VXdElDcDRWQzl0MnU2bGxpTjZLTjUtTzEtY29YeFVXdVNILWhHRnRuYUJsYmdUTnBJUF9hSTlmejBSbGN0NDVXZ3g3WEh4SGRTVWZmOVhuVFFENkZWc2pTYXVTanhsMUV6cEpkdWVxb0g0VklNT1pwdmJraHRfbDkxUXZ4VTdFY2dSN0dnQ2tqckJ3Z3R1M2VTYXRzWWtnNi1DR0FNZHJYTzFuYzNWc29KalBPcDZXd0NYR3lPeHFEWjdzcVpOQU5HN24zQ190QXd0Z2NwMHkzX0l2QzRRdTFTaHV4S2lzSzg5UFFvT1E",
+    "source": "Google News",
+    "date": "Wed, 02 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQUJkX0VXdElDcDRWQzl0MnU2bGxpTjZLTjUtTzEtY29YeFVXdVNILWhHRnRuYUJsYmdUTnBJUF9hSTlmejBSbGN0NDVXZ3g3WEh4SGRTVWZmOVhuVFFENkZWc2pTYXVTanhsMUV6cEpkdWVxb0g0VklNT1pwdmJraHRfbDkxUXZ4VTdFY2dSN0dnQ2tqckJ3Z3R1M2VTYXRzWWtnNi1DR0FNZHJYTzFuYzNWc29KalBPcD",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "title": "AI agent exploits Langflow in first fully autonomous ransomware attack - SiliconANGLE",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcVJmSXdBUF84Z29lVE5qcnhINzNsV2Jhb2pXTzdBbHNQZEgtOG42LWd4RVpjZklaREVqcUlxTndFNUZHd1dXMGZZUm5yX19LaGpySXhHUzE1bWJEcFVjWDN3eF9SQnBybGVkTWpURm8zS0VOaHRaRUJka2lvNjlRME5RYnhxQjd0Y1NMaGpvUWJTY0VsaFFQTFMyZlpXTDJlbjJGNHloQQ",
+    "source": "Google News",
+    "date": "Mon, 06 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNcVJmSXdBUF84Z29lVE5qcnhINzNsV2Jhb2pXTzdBbHNQZEgtOG42LWd4RVpjZklaREVqcUlxTndFNUZHd1dXMGZZUm5yX19LaGpySXhHUzE1bWJEcFVjWDN3eF9SQnBybGVkTWpURm8zS0VOaHRaRUJka2lvNjlRME5RYnhxQjd0Y1NMaGpvUWJTY0VsaFFQTFMyZlpXTDJlbjJGNHloQQ?oc=5\" target=\"_blank\">A",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "title": "AI agent runs first end-to-end ransomware attack - The Next Web",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwczJBbHItcmF2a1ZKcjVCdW9rdWpHOExGRVJsRmhRM1JNVXdNM1JLT01NOVlBRENEWW1pUWNGMWdIYnRHQ01XazAtTzFUQzVhWVFPTnFCQ1psVmlHTXZ5LXd5cFZBcE1KWEV6bEkwSU9LNHBXbjgzYjJsUQ",
+    "source": "Google News",
+    "date": "Fri, 03 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFAwczJBbHItcmF2a1ZKcjVCdW9rdWpHOExGRVJsRmhRM1JNVXdNM1JLT01NOVlBRENEWW1pUWNGMWdIYnRHQ01XazAtTzFUQzVhWVFPTnFCQ1psVmlHTXZ5LXd5cFZBcE1KWEV6bEkwSU9LNHBXbjgzYjJsUQ?oc=5\" target=\"_blank\">AI agent runs first end-to-end ransomware attack</a>&nbsp;&nb",
+    "first_seen": "2026-09-02"
   }
 ]
