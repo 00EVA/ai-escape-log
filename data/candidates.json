@@ -2830,5 +2830,61 @@
     "date": "2026-09-03",
     "snippet": "mtmd: propagate const to preproc class ( #28310 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/44990064 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework…",
     "first_seen": "2026-09-03"
+  },
+  {
+    "title": "b10790",
+    "url": "https://prismix.dev/news/711caed30728",
+    "source": "Prismix AI",
+    "date": "2026-09-03",
+    "snippet": "tune MMVQ to MMQ crossover for SM87 ( #28285 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/45087167 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework…",
+    "first_seen": "2026-09-03"
+  },
+  {
+    "title": "Inside Meta’s Efforts to Ensure Its Upcoming ‘Hatch’ AI Agent Won’t Go Rogue",
+    "url": "https://prismix.dev/news/a4f10d30b2e8",
+    "source": "Prismix AI",
+    "date": "2026-09-03",
+    "snippet": "Meta Platforms CEO Mark Zuckerberg has said AI agents will soon be able to help with everything from health to relationships to finances. First, the company needs to make them safe. That’s been the focus of an extensive effort as Meta prepares to release what it hopes to be a…",
+    "first_seen": "2026-09-03"
+  },
+  {
+    "title": "Abliteration.ai is making a business out of removing AI guardrails",
+    "url": "https://prismix.dev/news/6ab8f88b9ec4",
+    "source": "Prismix AI",
+    "date": "2026-09-03",
+    "snippet": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+    "first_seen": "2026-09-03"
+  },
+  {
+    "title": "OpenAI Sandbox Escape Forced a Training Pause - StartupHub.ai",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdVVxbjRGSkM3V284V3ZTMGxvTlEzMDROVEl2RDdWckZiVWRyT2otUmdPOER5RlRKaVhwblFSUEtGSHZodTJUdW1kZ3FnMVF2S0d4bml2U1VCdnd2TDI0a0g2QTNsMVc1WHBSWFJQVV9SR2pqdlctY2NmYzJlU1ZNWW5WdmFJb0ZfcTc5U1lWS3lYd1BleHpYQ3RCU0lHOFVBWVlkNHA5YXpwZWh3",
+    "source": "Google News",
+    "date": "Wed, 02 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPdVVxbjRGSkM3V284V3ZTMGxvTlEzMDROVEl2RDdWckZiVWRyT2otUmdPOER5RlRKaVhwblFSUEtGSHZodTJUdW1kZ3FnMVF2S0d4bml2U1VCdnd2TDI0a0g2QTNsMVc1WHBSWFJQVV9SR2pqdlctY2NmYzJlU1ZNWW5WdmFJb0ZfcTc5U1lWS3lYd1BleHpYQ3RCU0lHOFVBWVlkNHA5YXpwZWh3?oc=5\" target=\"_bl",
+    "first_seen": "2026-09-03"
+  },
+  {
+    "title": "New data: ICE arrests surge as agency chases Trump quota - Axios",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWkk0bGNJNFJTakxON0FiZC04cVFaYmdXNkxOeldmVFpwMGFUam1XbkE0ZEoxS3VZYUtIYTNRaWx2dHdaSzlBYXR4bEd3cnUtVXVJYWJVWE5nV0FaQXZxOGFnTUd1YjNfYXVodVpOTThQV1N2RVN2bzJlcHlJQ3Z3Rw",
+    "source": "Google News",
+    "date": "Thu, 04 De",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOWkk0bGNJNFJTakxON0FiZC04cVFaYmdXNkxOeldmVFpwMGFUam1XbkE0ZEoxS3VZYUtIYTNRaWx2dHdaSzlBYXR4bEd3cnUtVXVJYWJVWE5nV0FaQXZxOGFnTUd1YjNfYXVodVpOTThQV1N2RVN2bzJlcHlJQ3Z3Rw?oc=5\" target=\"_blank\">New data: ICE arrests surge as agency chases Trump qu",
+    "first_seen": "2026-09-03"
+  },
+  {
+    "title": "AI Deepfake Scams Are Draining the Remittances Latino Families Send Home — Here's How to Fight Back - Latin Times",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYndaSWg3cVBOMnZXc1NVUEMycXA5cFZwdFdtcHM0Vl9makV1VVdZUEQ2bnhaM2V4VWY5eDFMY05CaEJIQlNSeDRqTnJlRm05MGJQaUxOb1Q1bmltWnRPLWRDWElRaFV5NDlwNENuTE54SEdhTGtEWnFLbUNoZk1XMzJNZDd2YXVTb29qLU8tLVdTMDAzaDc5VlFQcXNMNGZveFpjWno0emhWRUdiRTg1M0d2Z2t2Y0UzM0RLVmhWUUk",
+    "source": "Google News",
+    "date": "Sat, 29 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYndaSWg3cVBOMnZXc1NVUEMycXA5cFZwdFdtcHM0Vl9makV1VVdZUEQ2bnhaM2V4VWY5eDFMY05CaEJIQlNSeDRqTnJlRm05MGJQaUxOb1Q1bmltWnRPLWRDWElRaFV5NDlwNENuTE54SEdhTGtEWnFLbUNoZk1XMzJNZDd2YXVTb29qLU8tLVdTMDAzaDc5VlFQcXNMNGZveFpjWno0emhWRUdiRTg1M0d2Z2t2Y0UzM0",
+    "first_seen": "2026-09-03"
+  },
+  {
+    "title": "Sality botnet dismantled after 8 years of stealing Bitcoin and Ethereum via wallet address hijacking. - Pluang",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNUo2QmpBZE5DTUxZWVdJNWY1UTJxeEcwazVpeXU0NXFzV0ZLdmZwYU1aUllqeTN2V2VabktXRkNIM2JzbU1QMFJqQ1dxbnNwemQybG5CLWNNR19jdVFSRzJuLVFxb2FKNnNXNUh5QldSbEN1N3pPdDViVHlBc21jUFNJS2doYlR0c0U1WHpaZHdKM0pPR1NwVHRqNzZSZkFOS21EdkI0WUw",
+    "source": "Google News",
+    "date": "Wed, 02 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNUo2QmpBZE5DTUxZWVdJNWY1UTJxeEcwazVpeXU0NXFzV0ZLdmZwYU1aUllqeTN2V2VabktXRkNIM2JzbU1QMFJqQ1dxbnNwemQybG5CLWNNR19jdVFSRzJuLVFxb2FKNnNXNUh5QldSbEN1N3pPdDViVHlBc21jUFNJS2doYlR0c0U1WHpaZHdKM0pPR1NwVHRqNzZSZkFOS21EdkI0WUw?oc=5\" target=\"_blank\">",
+    "first_seen": "2026-09-03"
   }
 ]
