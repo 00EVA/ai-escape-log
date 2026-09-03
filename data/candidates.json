@@ -2782,5 +2782,29 @@
     "date": "Wed, 17 Ju",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5rRVNfVWRYeFkyTk9oaGVJT1lsRU4xeEI4al8tbEJJNzgwYXkzNFR3X2JlcG0yWEpRUTV6Wk5IdEQwZVU3eWJfTWdvUFBwUXcycUo5OVE2MTFNeTVfOW83MkVRc2tPZUhjZHEyVXB4QlI?oc=5\" target=\"_blank\">Character AI Outage Drives Search Spike As Platform Goes Down Globally</a>&n",
     "first_seen": "2026-09-03"
+  },
+  {
+    "title": "b10780",
+    "url": "https://prismix.dev/news/e29a8544e81f",
+    "source": "Prismix AI",
+    "date": "2026-09-03",
+    "snippet": "sycl : enhance the api to support peer-to-peer copy ( #27550 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/44948405 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS…",
+    "first_seen": "2026-09-03"
+  },
+  {
+    "title": "b10778",
+    "url": "https://prismix.dev/news/5e6f225ede5d",
+    "source": "Prismix AI",
+    "date": "2026-09-03",
+    "snippet": "misc : prevent RAM peaking at model loading stage ( #27483 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/44939788 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS…",
+    "first_seen": "2026-09-03"
+  },
+  {
+    "title": "AI facial recognition led to wrongful arrest of Tenn. woman in state she says she’s never visited - News Channel 5 Nashville",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOajd3TVU3bUE5bzRZc0VtaE02OWowRXM4aVh0SVJqR1VUQUZ5S2JMOS1kR2s1dTdOck1waFc4aElKbmtRNlVyZVFCVTdtNjJnMkg4dERmaXlCZWpDeU5LcG92c3VBd0k5eEFJZndvMzUwUjlzemVvSm8yOFAwZWdTeEVvOXpubHJZYXFwMjdUMnhaVkZWaGNzQ3QwdnE3UjFYbk9GY0dvUzFWbW5iQ3loMUM0OVpoMWNGQkNCUWNJRFAzZUtZTXg2QQ",
+    "source": "Google News",
+    "date": "Sun, 29 Ma",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOajd3TVU3bUE5bzRZc0VtaE02OWowRXM4aVh0SVJqR1VUQUZ5S2JMOS1kR2s1dTdOck1waFc4aElKbmtRNlVyZVFCVTdtNjJnMkg4dERmaXlCZWpDeU5LcG92c3VBd0k5eEFJZndvMzUwUjlzemVvSm8yOFAwZWdTeEVvOXpubHJZYXFwMjdUMnhaVkZWaGNzQ3QwdnE3UjFYbk9GY0dvUzFWbW5iQ3loMUM0OVpoMWNGQk",
+    "first_seen": "2026-09-03"
   }
 ]
