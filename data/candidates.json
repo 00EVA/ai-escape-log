@@ -2950,5 +2950,29 @@
     "date": "Tue, 21 Ju",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOWGF1TU12c0lBby0xOWkwb3VudWxHZXgxVHJ2REdXZV8tQW11RmZYMEVNVnVrMW1SY1NMTzA1aDN0ZFp1cjVTYlk0S0lVcnZES0tiOVgzV3ZaaDFKSllERVhWTFlaV0pyWk9UMGxkTHRhUmFNTzJkYXJnbjNOZmg4UHIyeWk4Q0NRUHQwZjNnclZLTXc?oc=5\" target=\"_blank\">OpenAI says its AI technolog",
     "first_seen": "2026-09-03"
+  },
+  {
+    "title": "HalluSquatting AI attack could hijack your computer - Fox News",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOakVRWVMzOUhHR2Y0OXVxbHQ2OVU0MXNWc2F2M052ajJlMmtwVFNrQmpwOVJVNDJxbVdON3Vha0FiREVuaDUyVHpUX2hyR243bFA2YTdwR2hKQlNLMmJDZ3JLeVM4TjhsRGpTWHpuUE45V25xV2gzTElIeWZIMHoyZHlLYUlidXfSAYwBQVVfeXFMT2dwaWdOLTNzVE1QWXZ1ZXB0VmZuWFFZQklyNlRITk5SeVFWS3g2ZThkeTB2OGtGRzBray1QaWF0UUJIZFFNMmw2dkV3ZzZqSy1MUFFqeXNBdzNqVDN3OU5NLTNoMV9kUFl0NDBOdjdlZVhZM1ZyWmZlXzdXY085R3JXejhLR1ZRSFJYaTQ",
+    "source": "Google News",
+    "date": "Sat, 18 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOakVRWVMzOUhHR2Y0OXVxbHQ2OVU0MXNWc2F2M052ajJlMmtwVFNrQmpwOVJVNDJxbVdON3Vha0FiREVuaDUyVHpUX2hyR243bFA2YTdwR2hKQlNLMmJDZ3JLeVM4TjhsRGpTWHpuUE45V25xV2gzTElIeWZIMHoyZHlLYUlidXfSAYwBQVVfeXFMT2dwaWdOLTNzVE1QWXZ1ZXB0VmZuWFFZQklyNlRITk5SeVFWS3g2ZT",
+    "first_seen": "2026-09-03"
+  },
+  {
+    "title": "RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers - thehackernews.com",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jRU5KU1huRTRfX3U0M3RpYlU0UGJCbTlaeUNWQUpIOWJaNWpxZENzVE1zMkc3NEdvTjdOeUV1SnRlVWV1THBJcVdHVEFiemJMRy1SUW5Ubk5RNDdKR19fYVZORlh3a18xWTAtVGNvMXA3UzZkLWU5VFZUVW8",
+    "source": "Google News",
+    "date": "Thu, 01 Ja",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9jRU5KU1huRTRfX3U0M3RpYlU0UGJCbTlaeUNWQUpIOWJaNWpxZENzVE1zMkc3NEdvTjdOeUV1SnRlVWV1THBJcVdHVEFiemJMRy1SUW5Ubk5RNDdKR19fYVZORlh3a18xWTAtVGNvMXA3UzZkLWU5VFZUVW8?oc=5\" target=\"_blank\">RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack",
+    "first_seen": "2026-09-03"
+  },
+  {
+    "title": "CISA KEV: BerriAI LiteLLM Improper Authentication Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-59822",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-02",
+    "snippet": "CVE-2026-59822 | BerriAI LiteLLM | BerriAI LiteLLM contains an improper authentication vulnerability in the MCP Streamable HTTP endpoint that could allow an unauthenticated attacker to establish an authenticated MCP session using an arbitrary Bearer token.",
+    "first_seen": "2026-09-03"
   }
 ]
