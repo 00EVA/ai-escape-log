@@ -3070,5 +3070,61 @@
     "date": "2026-09-01",
     "snippet": "downloads=95226 likes=160 tags=gguf unsloth fine tune heretic uncensored abliterated ara MTP GGUF Quants Regular GGUF Quants qwen3_8 qwen3_6 qwen3_5 multi-stage tuned thinking reasoning all use cases coder creative creative writing",
     "first_seen": "2026-09-04"
+  },
+  {
+    "title": "Another hijacked wiki, but from last week!",
+    "url": "https://www.reddit.com/r/singularity/comments/1w7d0bs/another_hijacked_wiki_but_from_last_week/",
+    "source": "Reddit r/singularity",
+    "date": "2026-09-04",
+    "snippet": "                  https://www.usemod.org/cgi-bin/wiki.pl?action=rc&amp;days=30&amp;all=1&amp;showedit=1      &#32; submitted by &#32;   /u/Ok_Display_3159       [link]   &#32;   [comments]      ",
+    "first_seen": "2026-09-04"
+  },
+  {
+    "title": "OpenAI's rogue agents were caught communicating via public wikis",
+    "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
+    "source": "Simon Willison",
+    "date": "2026-09-04",
+    "snippet": "\n    <p>Here we go again... <a href=\"https://collusion.wiki\">Discovery of a new OpenAI agent message board</a> by Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, and Thomas Larsen describes the <em>latest</em> <a href=\"https://simonwillison.net/tags/accidental-cyberattacks/\">accidental cyberattack",
+    "first_seen": "2026-09-04"
+  },
+  {
+    "title": "b10809",
+    "url": "https://prismix.dev/news/7e19b0b3ede1",
+    "source": "Prismix AI",
+    "date": "2026-09-04",
+    "snippet": "llama.cpp : bump version to 0.4.0 ( #28386 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/45314398 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework…",
+    "first_seen": "2026-09-04"
+  },
+  {
+    "title": "OpenAI's rogue agents were caught communicating via public wikis",
+    "url": "https://prismix.dev/news/41ed31a9044d",
+    "source": "Prismix AI",
+    "date": "2026-09-04",
+    "snippet": "Here we go again... Discovery of a new OpenAI agent message board by Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, and Thomas Larsen describes the latest accidental cyberattack by models being trained by OpenAI. This time it was agents engaged in some sort of web research…",
+    "first_seen": "2026-09-04"
+  },
+  {
+    "title": "HalluSquatting AI attack could hijack your computer - Fox News",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOakVRWVMzOUhHR2Y0OXVxbHQ2OVU0MXNWc2F2M052ajJlMmtwVFNrQmpwOVJVNDJxbVdON3Vha0FiREVuaDUyVHpUX2hyR243bFA2YTdwR2hKQlNLMmJDZ3JLeVM4TjhsRGpTWHpuUE45V25xV2gzTElIeWZIMHoyZHlLYUlidXfSAYwBQVVfeXFMT2dwaWdOLTNzVE1QWXZ1ZXB0VmZuWFFZQklyNlRITk5SeVFWS3g2ZThkeTB2OGtGRzBray1QaWF0UUJIZFFNMmw2dkV3ZzZqSy1MUFFqeXNBdzNqVDN3OU5NLTNoMV9kUFl0NDBOdjdlZVhZM1ZyWmZlXzdXY085R3JXejhLR1ZRSFJYaTQ",
+    "source": "Google News",
+    "date": "Sat, 18 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOakVRWVMzOUhHR2Y0OXVxbHQ2OVU0MXNWc2F2M052ajJlMmtwVFNrQmpwOVJVNDJxbVdON3Vha0FiREVuaDUyVHpUX2hyR243bFA2YTdwR2hKQlNLMmJDZ3JLeVM4TjhsRGpTWHpuUE45V25xV2gzTElIeWZIMHoyZHlLYUlidXfSAYwBQVVfeXFMT2dwaWdOLTNzVE1QWXZ1ZXB0VmZuWFFZQklyNlRITk5SeVFWS3g2ZT",
+    "first_seen": "2026-09-04"
+  },
+  {
+    "title": "CISA KEV: Google Chromium V8 Type Confusion Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-85046",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-04",
+    "snippet": "CVE-2026-85046 | Google Chromium V8 | Google Chromium V8 contains a type confusion vulnerability that allows a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, an",
+    "first_seen": "2026-09-04"
+  },
+  {
+    "title": "CISA KEV: BerriAI LiteLLM Improper Authentication Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-59822",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-02",
+    "snippet": "CVE-2026-59822 | BerriAI LiteLLM | BerriAI LiteLLM contains an improper authentication vulnerability in the MCP Streamable HTTP endpoint that could allow an unauthenticated attacker to establish an authenticated MCP session using an arbitrary Bearer token.",
+    "first_seen": "2026-09-04"
   }
 ]
