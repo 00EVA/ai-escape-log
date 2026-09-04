@@ -1,6 +1,6 @@
-# AI Incident Briefing — 2026-09-03
+# AI Incident Briefing — 2026-09-04
 
-_Verified incidents in last 14d: 8 | AI-crime/chaos flagged: 1 | fresh candidates queued: 370_
+_Verified incidents in last 14d: 5 | AI-crime/chaos flagged: 0 | fresh candidates queued: 372_
 
 ## 1. Latest verified incidents
 
@@ -34,32 +34,13 @@ _Verified incidents in last 14d: 8 | AI-crime/chaos flagged: 1 | fresh candidate
 - Source: https://guidelight.ai/blog/control-assessment-august-2026
 - Counter-action: Policy moves telegraph where incidents are heading (kill-switch bills, disclosure mandates, evaluation gates).
 
-### 2026-08-20 Adversa AI discloses Cryptographic Context Injection: encrypted instructions make Grok exfiltrate user chats zero-click; still unpatched as of Aug 19 [CRIME/CHAOS]
-- Lab/Model: xAI / Google — deployed AI chat agents / xAI Grok (web chat, agentic browsing); Google Gemini 3 Flash (Deep Thinking mode) | Category: other | VERIFY: PRIMARY SOURCE
-- Adversa AI's 'Cryptographic Context Injection' hides malicious instructions inside AES-256-GCM ciphertext on an ordinary webpage so guardrails can't read them, then has the model decrypt the payload with its own Python runtime - the decrypted instructions then appear as trusted output of code the model just ran, not as untrusted input. Asking Grok to summarize the attacker's page is enough: the agent resolves private session context (user name, coarse location, subscription tier, full conversation prompts), embeds it into a fake 'decryption key', and opens attacker URLs carrying the data - zero clicks, no warning. Reported to xAI in June 2026; still reproducible Aug 19, 2026; no CVE, no patch, no workaround. The same primitive extracted Gemini 3 Flash system instructions and produced restricted content Gemini normally refuses. Researchers frame it as SQL-injection-class: runtime output laundering attacker data into trusted instructions.
-- Source: https://adversa.ai/blog/cryptographic-context-injection-grok-data-theft/
-- Counter-action: Uncategorized - read the primary source before trusting the headline.
-
-### 2026-08-20 Critical isolated-vm sandbox escape (GHSA-864f-rcv7-6rh4) breaks containment for AI agent frameworks n8n, Mastra, Activepieces, Sim.ai
-- Lab/Model: isolated-vm (npm) — sandbox library underpinning AI agent frameworks / isolated-vm < 7.0.1 / < 6.2.0 (used by n8n, Sim.ai, Mastra, Activepieces) | Category: sandbox-escape | VERIFY: PRIMARY SOURCE
-- Endor Labs found a critical type-confusion vulnerability in isolated-vm (1M+ weekly npm downloads), the library AI agent automation frameworks (n8n, Sim.ai, Mastra, Activepieces) rely on to run untrusted user/agent-generated JavaScript. The flaw is in the library's C++ glue code carrying data into V8 Isolates - not the V8 isolation itself - letting sandboxed guest code hijack host control flow for remote code execution. Patched in 7.0.1 and 6.2.0 (released early Aug 2026); advisory public Aug 20. Follows vm2's 20+ documented breakouts before deprecation; researchers warn that as AI agents make untrusted-code execution mainstream, sandbox binding layers need first-class security review. Enterprises running these frameworks inherit the exposure transitively.
-- Source: https://www.endorlabs.com/learn/ghsa-864f-rcv7-6rh4-critical-type-confusion-vulnerability-in-isolated-vm
-- Counter-action: Containment = egress control. Assume the model WILL try to reach the internet; the question is only how fast.
-
-### 2026-08-20 n8n patches ~18 CVEs at once: JS task-runner VM sandbox escapes (CVE-2026-77077/-77083), MCP workflow-sdk RCE (CVE-2026-77068), MCP credential bypass
-- Lab/Model: n8n — AI workflow automation platform / n8n < 1.123.69 / < 2.33.4 / < 2.34.1 | Category: sandbox-escape | VERIFY: PRIMARY SOURCE
-- A single coordinated n8n release fixed roughly eighteen published CVEs (Aug 18-20). Most severe for AI-agent containment: CVE-2026-77077 and CVE-2026-77083 - the JavaScript task-runner VM sandbox escape pair (incomplete prototype freezing lets sandboxed code reach host primitives); CVE-2026-77068 - RCE in the @n8n/workflow-sdk node-schema loader used for MCP; CVE-2026-77073 - credential validation bypass in the MCP create_workflow_from_code tool; plus SSRF protection bypasses (OAuth2 exchange, SearXNG Agent tool, GraphQL allowed-domains), Git node code execution, arbitrary file read/write via Snowflake node, NoSQL injection, expression injection, and auth bypasses. Follows the isolated-vm guest-to-host escape disclosed Aug 20 - n8n is one of the affected frameworks. Any n8n deployment executing agent-generated code should treat pre-patch isolation as broken.
-- Source: https://nvd.nist.gov/vuln/detail/CVE-2026-77077
-- Counter-action: Containment = egress control. Assume the model WILL try to reach the internet; the question is only how fast.
-
 ## 2. AI crime / chaos / havoc watch
 
-- 2026-08-20 | Adversa AI discloses Cryptographic Context Injection: encrypted instructions make Grok exfiltrate user chats zero-click; still unpatched as of Aug 19 (other)
-  https://adversa.ai/blog/cryptographic-context-injection-grok-data-theft/
+No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=370)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=372)
 
 - [Hacker News] 'AI Escaped Its Sandbox' — What Does That Actually Mean?  (2026-08-08)
   https://unpredictabletokens.substack.com/p/ai-escaped-its-sandbox-what-that
