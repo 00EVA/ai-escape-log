@@ -2886,5 +2886,69 @@
     "date": "Wed, 02 Se",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNUo2QmpBZE5DTUxZWVdJNWY1UTJxeEcwazVpeXU0NXFzV0ZLdmZwYU1aUllqeTN2V2VabktXRkNIM2JzbU1QMFJqQ1dxbnNwemQybG5CLWNNR19jdVFSRzJuLVFxb2FKNnNXNUh5QldSbEN1N3pPdDViVHlBc21jUFNJS2doYlR0c0U1WHpaZHdKM0pPR1NwVHRqNzZSZkFOS21EdkI0WUw?oc=5\" target=\"_blank\">",
     "first_seen": "2026-09-03"
+  },
+  {
+    "title": "b10793",
+    "url": "https://prismix.dev/news/9cbdc3b12144",
+    "source": "Prismix AI",
+    "date": "2026-09-03",
+    "snippet": "llama: fix whole source code rebuilt on each new commit ( #28278 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/45114012 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64)…",
+    "first_seen": "2026-09-03"
+  },
+  {
+    "title": "b10792",
+    "url": "https://prismix.dev/news/27f1ce515f5d",
+    "source": "Prismix AI",
+    "date": "2026-09-03",
+    "snippet": "common/json-schema : fix GBNF grammar generation for empty object schemas ( #28279 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/45102223 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED…",
+    "first_seen": "2026-09-03"
+  },
+  {
+    "title": "Hackers hijack Aussie home devices in massive attack - Information Age | ACS",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYlF1OVNFTFVDRHFicm54SlYyZ2padkNJS2ZtdGtWclpWS3pKb2RLMWVrQmRjU3REa1kzVlFoTEhDaHc5NnVZVVNkS0l0NFoyWERuYjJLUWQ3Q3hNQ2VRTDdWNGVSSDZhRzVOT3BrTXdMbVZVQnB5aklDY1drOTBRZDhMZnEwQjYyS3d1V1IyU05mOGU3aWlR",
+    "source": "Google News",
+    "date": "Thu, 28 Ma",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNYlF1OVNFTFVDRHFicm54SlYyZ2padkNJS2ZtdGtWclpWS3pKb2RLMWVrQmRjU3REa1kzVlFoTEhDaHc5NnVZVVNkS0l0NFoyWERuYjJLUWQ3Q3hNQ2VRTDdWNGVSSDZhRzVOT3BrTXdMbVZVQnB5aklDY1drOTBRZDhMZnEwQjYyS3d1V1IyU05mOGU3aWlR?oc=5\" target=\"_blank\">Hackers hijack Aussie h",
+    "first_seen": "2026-09-03"
+  },
+  {
+    "title": "Justice Department disrupts botnet networks that hijacked 3 million devices - CyberScoop",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLYk9xb01tX2ZJalQzcW1ZdlZxR1FaM1BQRUx4RmdORkdRaHNTalVpWk5tUlpuNVk0WXN6REV3a1o1d0NnZlZRZ2Z5T3c4dzdiT2hEOW1zaHZSU0hhaVhSUldQVVA5SVIzenhpN3ZIbHZ2WUhWdFplb3dtOXA",
+    "source": "Google News",
+    "date": "Fri, 20 Ma",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBLYk9xb01tX2ZJalQzcW1ZdlZxR1FaM1BQRUx4RmdORkdRaHNTalVpWk5tUlpuNVk0WXN6REV3a1o1d0NnZlZRZ2Z5T3c4dzdiT2hEOW1zaHZSU0hhaVhSUldQVVA5SVIzenhpN3ZIbHZ2WUhWdFplb3dtOXA?oc=5\" target=\"_blank\">Justice Department disrupts botnet networks that hijacked 3 ",
+    "first_seen": "2026-09-03"
+  },
+  {
+    "title": "Major AI platforms go down in unprecedented simultaneous outage - MacDailyNews",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeVVSeHZVOTZTTTQwcjlCcEhhdlRLNEFPeE5rTUUtYXl3QUFJQ2U4Sm4yMDdFZWZDaXhEQ2dvNk9zeW4yZmI0TWRrZ0RyVmxJd2RMdXNxN0s5R3YxbHFSY0s0NWdBdFRHbFFwWmR1QTQzelZla1VFamYyeHJLZHpCdWIwdENCWERXWHFsUWdNOUlnaGk4WmVKelQzdDIwcGZ5b2fSAacBQVVfeXFMT1p0NGFrOTRYTHVjdnUzWG90S3NwVDA4WHUxVGl6SlcwdzBqTTdWd2VHcHlSeWZvdlRhUmtTVWl0Z21MNlhRMldBai1mQkhwclBTWTFIWUxvcjN1UTFOZ1d3ZmFzNW5YX1BxY2RhX2FxNGhZcUY5ZGJvejl1cnV0aHhGVjlIdDlRd3ZRQWNyYTVUajFPT2dCVEsxOWRERG1FcWUxd0pDTTA",
+    "source": "Google News",
+    "date": "Thu, 03 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPeVVSeHZVOTZTTTQwcjlCcEhhdlRLNEFPeE5rTUUtYXl3QUFJQ2U4Sm4yMDdFZWZDaXhEQ2dvNk9zeW4yZmI0TWRrZ0RyVmxJd2RMdXNxN0s5R3YxbHFSY0s0NWdBdFRHbFFwWmR1QTQzelZla1VFamYyeHJLZHpCdWIwdENCWERXWHFsUWdNOUlnaGk4WmVKelQzdDIwcGZ5b2fSAacBQVVfeXFMT1p0NGFrOTRYTHVjdn",
+    "first_seen": "2026-09-03"
+  },
+  {
+    "title": "Three Major Global AI Platforms Suffer Simultaneous Outages: ChatGPT, Claude, and Grok All Go Down - finance.biggo.com",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IMFVlV2NQOHFRam1MaDZXYml6bFdGY0R1OU1tbUdQSXhWalFuaEF2aXhjQWRlblJ4Y0p6bEVwYTh6QzctdzhQMVNqREp1MUZSUWxEZXhlUjJLV21icDl1emRNQXU4aGRmU1lVUDl3WWlxNXU3WWc",
+    "source": "Google News",
+    "date": "Thu, 03 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1IMFVlV2NQOHFRam1MaDZXYml6bFdGY0R1OU1tbUdQSXhWalFuaEF2aXhjQWRlblJ4Y0p6bEVwYTh6QzctdzhQMVNqREp1MUZSUWxEZXhlUjJLV21icDl1emRNQXU4aGRmU1lVUDl3WWlxNXU3WWc?oc=5\" target=\"_blank\">Three Major Global AI Platforms Suffer Simultaneous Outages: ChatGPT",
+    "first_seen": "2026-09-03"
+  },
+  {
+    "title": "Claude, ChatGPT, Grok and Microsoft email services recover after disruption - The Express Tribune",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzZjY3d5cnJiSzc3NEtXSFBEOFZUZHB0N3U5QVUtalVoMWJUX25rMkV6WU03SnluVG5FbkkxZ29VN3d2MWt0U1RXVGxXMTBSYkxCWlBUTlE4X2R1eThKOEJBTzVfVHhZV0V0ckVmUzgyOFdPM0V3V1hyWjc5OFNHMkZHdHJpMU9YbkRsYTBsSmxRS2dCRWdjZmxObnZMWHdvYTlmMUtleldVeFJpdVdN",
+    "source": "Google News",
+    "date": "Thu, 03 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzZjY3d5cnJiSzc3NEtXSFBEOFZUZHB0N3U5QVUtalVoMWJUX25rMkV6WU03SnluVG5FbkkxZ29VN3d2MWt0U1RXVGxXMTBSYkxCWlBUTlE4X2R1eThKOEJBTzVfVHhZV0V0ckVmUzgyOFdPM0V3V1hyWjc5OFNHMkZHdHJpMU9YbkRsYTBsSmxRS2dCRWdjZmxObnZMWHdvYTlmMUtleldVeFJpdVdN?oc=5\" target=",
+    "first_seen": "2026-09-03"
+  },
+  {
+    "title": "OpenAI says its AI technology acted on its own in an 'unprecedented' hack of another company - AP News",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWGF1TU12c0lBby0xOWkwb3VudWxHZXgxVHJ2REdXZV8tQW11RmZYMEVNVnVrMW1SY1NMTzA1aDN0ZFp1cjVTYlk0S0lVcnZES0tiOVgzV3ZaaDFKSllERVhWTFlaV0pyWk9UMGxkTHRhUmFNTzJkYXJnbjNOZmg4UHIyeWk4Q0NRUHQwZjNnclZLTXc",
+    "source": "Google News",
+    "date": "Tue, 21 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOWGF1TU12c0lBby0xOWkwb3VudWxHZXgxVHJ2REdXZV8tQW11RmZYMEVNVnVrMW1SY1NMTzA1aDN0ZFp1cjVTYlk0S0lVcnZES0tiOVgzV3ZaaDFKSllERVhWTFlaV0pyWk9UMGxkTHRhUmFNTzJkYXJnbjNOZmg4UHIyeWk4Q0NRUHQwZjNnclZLTXc?oc=5\" target=\"_blank\">OpenAI says its AI technolog",
+    "first_seen": "2026-09-03"
   }
 ]
