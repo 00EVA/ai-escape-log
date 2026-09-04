@@ -12,15 +12,20 @@ LOG=/Users/tony/Library/Logs/ai_escape_monitor.log
   python3 build_csv.py || exit 1
   python3 db.py || exit 1
   python3 monitor/incident_report.py || exit 1
-  git add data/incidents.json data/incidents.csv data/incidents.db data/candidates.json REPORT.md seen_urls.json 2>/dev/null
+  git add data/incidents.json data/incidents.csv data/incidents.db data/candidates.json REPORT.md seen_urls.json HOTLIST.md 2>/dev/null
   if git diff --cached --quiet; then
     echo "[auto_publish] no changes to publish"
   else
     git commit -m "auto-publish: refresh derived data + candidate queue [cron]" >/dev/null
-    if git push origin main >/dev/null 2>&1; then
+    pushed=0
+    for attempt in 1 2 3; do
+      if git push origin main >/dev/null 2>&1; then pushed=1; break; fi
+      sleep 5
+    done
+    if [ "$pushed" -eq 1 ]; then
       echo "[auto_publish] pushed to origin/main (Pages will rebuild)"
     else
-      echo "[auto_publish] push FAILED"
+      echo "[auto_publish] push FAILED (after 3 attempts)"
     fi
   fi
   echo "[auto_publish] done"

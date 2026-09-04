@@ -85,6 +85,15 @@ def notify_hot(hot_items):
     """Append hot items to HOTLIST.md and ping macOS Notification Center."""
     if not hot_items:
         return
+    try:
+        with open(HOTLIST) as f:
+            already_hot = f.read()
+    except OSError:
+        already_hot = ""
+    # Dedup: skip URLs already alerted, or every 2h probe cycle re-pings the same story.
+    hot_items = [h for h in hot_items if h["item"].get("url", "") not in already_hot]
+    if not hot_items:
+        return
     stamp = datetime.datetime.now().strftime("%F %T")
     lines = [f"## {stamp}"]
     for it in hot_items:
