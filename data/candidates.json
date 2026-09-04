@@ -3104,14 +3104,6 @@
     "first_seen": "2026-09-04"
   },
   {
-    "title": "HalluSquatting AI attack could hijack your computer - Fox News",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOakVRWVMzOUhHR2Y0OXVxbHQ2OVU0MXNWc2F2M052ajJlMmtwVFNrQmpwOVJVNDJxbVdON3Vha0FiREVuaDUyVHpUX2hyR243bFA2YTdwR2hKQlNLMmJDZ3JLeVM4TjhsRGpTWHpuUE45V25xV2gzTElIeWZIMHoyZHlLYUlidXfSAYwBQVVfeXFMT2dwaWdOLTNzVE1QWXZ1ZXB0VmZuWFFZQklyNlRITk5SeVFWS3g2ZThkeTB2OGtGRzBray1QaWF0UUJIZFFNMmw2dkV3ZzZqSy1MUFFqeXNBdzNqVDN3OU5NLTNoMV9kUFl0NDBOdjdlZVhZM1ZyWmZlXzdXY085R3JXejhLR1ZRSFJYaTQ",
-    "source": "Google News",
-    "date": "Sat, 18 Ju",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOakVRWVMzOUhHR2Y0OXVxbHQ2OVU0MXNWc2F2M052ajJlMmtwVFNrQmpwOVJVNDJxbVdON3Vha0FiREVuaDUyVHpUX2hyR243bFA2YTdwR2hKQlNLMmJDZ3JLeVM4TjhsRGpTWHpuUE45V25xV2gzTElIeWZIMHoyZHlLYUlidXfSAYwBQVVfeXFMT2dwaWdOLTNzVE1QWXZ1ZXB0VmZuWFFZQklyNlRITk5SeVFWS3g2ZT",
-    "first_seen": "2026-09-04"
-  },
-  {
     "title": "CISA KEV: Google Chromium V8 Type Confusion Vulnerability",
     "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-85046",
     "source": "CISA KEV catalog",
@@ -3120,11 +3112,19 @@
     "first_seen": "2026-09-04"
   },
   {
-    "title": "CISA KEV: BerriAI LiteLLM Improper Authentication Vulnerability",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-59822",
-    "source": "CISA KEV catalog",
-    "date": "2026-09-02",
-    "snippet": "CVE-2026-59822 | BerriAI LiteLLM | BerriAI LiteLLM contains an improper authentication vulnerability in the MCP Streamable HTTP endpoint that could allow an unauthenticated attacker to establish an authenticated MCP session using an arbitrary Bearer token.",
+    "title": "Food and Ag-ISAC warns AI, ransomware, nation-state threats intensifying cyber risks across food and agriculture - industrialcyber.co",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVWlicjBqbk9janZyVy1ZZlRiM1RIUDVxbUhSNmc3TE1EZk5EZlNrX0tSQVJIMk5SZ3dBNFdlS19laWFKclQxQ21MM0tOd0pFWHczT3lIUk5pZXZWSHZwbE8yN1p0N3B3cVVHakFMdW9IV3lKeDBvT1JqdnZ2R3dhTjNHbld3bHRZQThtOUVxNUp1a3hjd0J2dlAtNHZOX3E4SmFiQnpjWmhGTWRmOXNZY2FDU3BPakFsUmhVUVdWLVU2cEU1NnFmQU04eFY2RS1tSG82VURnanQwZEdYckdweW5FOFVycG1hOWwzTEw1UjE4Y2Zj",
+    "source": "Google News",
+    "date": "Thu, 03 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVWlicjBqbk9janZyVy1ZZlRiM1RIUDVxbUhSNmc3TE1EZk5EZlNrX0tSQVJIMk5SZ3dBNFdlS19laWFKclQxQ21MM0tOd0pFWHczT3lIUk5pZXZWSHZwbE8yN1p0N3B3cVVHakFMdW9IV3lKeDBvT1JqdnZ2R3dhTjNHbld3bHRZQThtOUVxNUp1a3hjd0J2dlAtNHZOX3E4SmFiQnpjWmhGTWRmOXNZY2FDU3BPakFsUm",
+    "first_seen": "2026-09-04"
+  },
+  {
+    "title": "AI services return after morning outage hit Claude, ChatGPT - NewsNation",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxNGNJMTVOR1pRc0wwb2hDTjQzVFVEaGxKOFNCTnFqa243ZWRIY280YmJWYklveXNWOWtLbDAwbDRLSGxqTUZkV0h6VExQdXRhNnBRbEZHei1fZjZzOWhSaDJjcUx6YUFjRm9OdWJhZnRDdEpiLWxz0gF8QVVfeXFMTUE0MFJtU2hfUUFnU0lrQWlMM19mRUxsekNGRkZ6Y2kzaEMwUHBXS1AxYV83Rm01bXZXTFpLTXpESld4UEhqMmZBN0plRk1lVWxvWHhfZlVMQ29xRWE3NEpDbFktU3E5ZHdyalNsVEY5N3QzUmtLdFlYUUZBMQ",
+    "source": "Google News",
+    "date": "Thu, 03 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBxNGNJMTVOR1pRc0wwb2hDTjQzVFVEaGxKOFNCTnFqa243ZWRIY280YmJWYklveXNWOWtLbDAwbDRLSGxqTUZkV0h6VExQdXRhNnBRbEZHei1fZjZzOWhSaDJjcUx6YUFjRm9OdWJhZnRDdEpiLWxz0gF8QVVfeXFMTUE0MFJtU2hfUUFnU0lrQWlMM19mRUxsekNGRkZ6Y2kzaEMwUHBXS1AxYV83Rm01bXZXTFpLTXpESl",
     "first_seen": "2026-09-04"
   }
 ]
