@@ -3126,5 +3126,21 @@
     "date": "Thu, 03 Se",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBxNGNJMTVOR1pRc0wwb2hDTjQzVFVEaGxKOFNCTnFqa243ZWRIY280YmJWYklveXNWOWtLbDAwbDRLSGxqTUZkV0h6VExQdXRhNnBRbEZHei1fZjZzOWhSaDJjcUx6YUFjRm9OdWJhZnRDdEpiLWxz0gF8QVVfeXFMTUE0MFJtU2hfUUFnU0lrQWlMM19mRUxsekNGRkZ6Y2kzaEMwUHBXS1AxYV83Rm01bXZXTFpLTXpESl",
     "first_seen": "2026-09-04"
+  },
+  {
+    "title": "OpenAI&#8217;s rogue agents keep escaping, with no formal process to investigate them",
+    "url": "https://prismix.dev/news/c7bac135042a",
+    "source": "Prismix AI",
+    "date": "2026-09-04",
+    "snippet": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+    "first_seen": "2026-09-04"
+  },
+  {
+    "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+    "url": "https://prismix.dev/news/742cf6e98ade",
+    "source": "Prismix AI",
+    "date": "2026-09-04",
+    "snippet": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+    "first_seen": "2026-09-04"
   }
 ]
