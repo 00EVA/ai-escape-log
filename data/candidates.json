@@ -3150,5 +3150,53 @@
     "date": "2026-09-04",
     "snippet": "Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046 Comments URL: https://news.ycombinator.com/item?id=49570669 Points: 236 # Comments: 135",
     "first_seen": "2026-09-04"
+  },
+  {
+    "title": "OpenAI admits to German wiki ‘incident’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+    "source": "The Verge",
+    "date": "2026-09-05",
+    "snippet": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our age",
+    "first_seen": "2026-09-05"
+  },
+  {
+    "title": "b10819",
+    "url": "https://prismix.dev/news/ec766709b278",
+    "source": "Prismix AI",
+    "date": "2026-09-05",
+    "snippet": "metal : fix memory leak in early return ( #28399 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/45438612 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework…",
+    "first_seen": "2026-09-05"
+  },
+  {
+    "title": "OpenAI agents discussed ways to escape their sandbox on public wiki - Ars Technica",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORXlVSkZWdHVoV181TUNMTnNpd04wQlhNdXVtNk11RWJydkROS0lqaWJ0Y1BKUURJVnh1ZmVKSVN0RUNKOHdiVU5Jc2hTUzg4QnI0SUEwWWk5Y1NJMXI0THhVaG9CaWJpRV8tZVlmUEhwUjlmLU9KTm5LQmljLXlHMUc4NUVMNG1yRzNqY3JkNWdoRDhZTFpET3RqSkFYUjBSbDVqY1F0czJHaFVaR1E",
+    "source": "Google News",
+    "date": "Fri, 04 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxORXlVSkZWdHVoV181TUNMTnNpd04wQlhNdXVtNk11RWJydkROS0lqaWJ0Y1BKUURJVnh1ZmVKSVN0RUNKOHdiVU5Jc2hTUzg4QnI0SUEwWWk5Y1NJMXI0THhVaG9CaWJpRV8tZVlmUEhwUjlmLU9KTm5LQmljLXlHMUc4NUVMNG1yRzNqY3JkNWdoRDhZTFpET3RqSkFYUjBSbDVqY1F0czJHaFVaR1E?oc=5\" target=\"",
+    "first_seen": "2026-09-05"
+  },
+  {
+    "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them - TechCrunch",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcWFrb0RLWTRnN3AxdElBaGZSRkN3SEZFZzNWQnExc1hPdDJNUXdoNWR5R05BMGxOSTBhTE5sM3ZRUGJKVUpPUmFzdVhNa1gxYklHM3Jfc1g2clhFV3lBU1JpbUFSbEdqeEN4YUE4cENiVndaNXhnd2k0TDRPLTBVa29sVVFkaEdpTWJucVp3OWZTV1NyUkhyOHNMSlVBcEY3V1BINzF1T1QyMHg4ZFFMNVZ3",
+    "source": "Google News",
+    "date": "Fri, 04 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPcWFrb0RLWTRnN3AxdElBaGZSRkN3SEZFZzNWQnExc1hPdDJNUXdoNWR5R05BMGxOSTBhTE5sM3ZRUGJKVUpPUmFzdVhNa1gxYklHM3Jfc1g2clhFV3lBU1JpbUFSbEdqeEN4YUE4cENiVndaNXhnd2k0TDRPLTBVa29sVVFkaEdpTWJucVp3OWZTV1NyUkhyOHNMSlVBcEY3V1BINzF1T1QyMHg4ZFFMNVZ3?oc=5\" tar",
+    "first_seen": "2026-09-05"
+  },
+  {
+    "title": "Developer sabotaged ex-employer with kill switch activated when he was let go - The Register",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWDEyS3NBQzBNVXdkWkJGZlRUZFVTaUxvdE9OOTR1b1FSMmN0Y1QxM3QtZ1FTNzlCSThyMEE0aFRac2EtRHZZMkJ0REtVd1NzM0cxSFpyazN0ODhQOWVSR1Y2RmFLVUJSVkZSMVlYTG9pczZoSkFKV2xmUTd3RTRPd0dwSy1TNU90eW5oR3JwWHh5RTY5Nm8zRzhMTVg5aGV4MG5TQUJLS0Y0VTRIdEZIOEN5NA",
+    "source": "Google News",
+    "date": "Sat, 08 Ma",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOWDEyS3NBQzBNVXdkWkJGZlRUZFVTaUxvdE9OOTR1b1FSMmN0Y1QxM3QtZ1FTNzlCSThyMEE0aFRac2EtRHZZMkJ0REtVd1NzM0cxSFpyazN0ODhQOWVSR1Y2RmFLVUJSVkZSMVlYTG9pczZoSkFKV2xmUTd3RTRPd0dwSy1TNU90eW5oR3JwWHh5RTY5Nm8zRzhMTVg5aGV4MG5TQUJLS0Y0VTRIdEZIOEN5NA?oc=5\" t",
+    "first_seen": "2026-09-05"
+  },
+  {
+    "title": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk",
+    "source": "Google News",
+    "date": "Fri, 04 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUF",
+    "first_seen": "2026-09-05"
   }
 ]
