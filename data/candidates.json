@@ -3238,5 +3238,45 @@
     "date": "Wed, 11 Fe",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPOE1HR2pJM1FNRzYtS3RuYlVIMVVGMW1lREhtakFHSGxRUkpNR3RrVFJEQm53RzR2WFJDNWpfUFNxcHF0cVAzcXlpQ1dUeG11UC1WLTJGSTFCU3hrQzc1WEQxZGt6OUxJU3ZkTHBzOGhBaHVHSHFEcTduY2pFdDZLWnJoaw?oc=5\" target=\"_blank\">How ICE Went Rogue: Analysis of the Legal Authori",
     "first_seen": "2026-09-05"
+  },
+  {
+    "title": "b10826",
+    "url": "https://prismix.dev/news/11f7ccb1d25a",
+    "source": "Prismix AI",
+    "date": "2026-09-06",
+    "snippet": "cuda: fixes races in mmid and mmf ( #28475 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/45586039 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework…",
+    "first_seen": "2026-09-06"
+  },
+  {
+    "title": "b10825",
+    "url": "https://prismix.dev/news/133af4e5e9cf",
+    "source": "Prismix AI",
+    "date": "2026-09-06",
+    "snippet": "grammar : fix max repetition threshold ( #28469 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/45568343 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework…",
+    "first_seen": "2026-09-06"
+  },
+  {
+    "title": "8 uncensored Qwen 3.8 27B variants, one base, 167 GPU hours - Abliterlitics",
+    "url": "https://prismix.dev/news/6ec8e65aa66e",
+    "source": "Prismix AI",
+    "date": "2026-09-06",
+    "snippet": "This comparison was requested by a few people, and certainly we were all eager to see the final results. The comparison had taken 11 days and the GPU was crunching numbers for ~167 hours. We've been comparing different abliterated models from huggingface to see if they really…",
+    "first_seen": "2026-09-06"
+  },
+  {
+    "title": "QBittorrent breaks out of sandbox to commit crimes",
+    "url": "https://prismix.dev/news/db2851b15f07",
+    "source": "Prismix AI",
+    "date": "2026-09-06",
+    "snippet": "Article URL: https://beige.party/@intransitivelie/117057396732763183 Comments URL: https://news.ycombinator.com/item?id=49586171 Points: 425 # Comments: 76",
+    "first_seen": "2026-09-06"
+  },
+  {
+    "title": "b10823",
+    "url": "https://prismix.dev/news/b0c41f0fb825",
+    "source": "Prismix AI",
+    "date": "2026-09-06",
+    "snippet": "common: add --log-jsonl ( #28437 ) common: add --log-jsonl rename unknown to none Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/45560949 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED…",
+    "first_seen": "2026-09-06"
   }
 ]
