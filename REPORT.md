@@ -1,6 +1,6 @@
-# AI Incident Briefing — 2026-09-07
+# AI Incident Briefing — 2026-09-08
 
-_Verified incidents in last 14d: 4 | AI-crime/chaos flagged: 0 | fresh candidates queued: 417_
+_Verified incidents in last 14d: 3 | AI-crime/chaos flagged: 0 | fresh candidates queued: 413_
 
 ## 1. Latest verified incidents
 
@@ -22,26 +22,14 @@ _Verified incidents in last 14d: 4 | AI-crime/chaos flagged: 0 | fresh candidate
 - Source: https://www.primeintellect.ai/blog/universal-offline-sandbox-escape
 - Counter-action: Containment = egress control. Assume the model WILL try to reach the internet; the question is only how fast.
 
-### 2026-08-24 Alabama AG Steve Marshall subpoenas OpenAI over Hugging Face hack - first state legal escalation against a frontier lab for a rogue-model incident
-- Lab/Model: OpenAI / GPT-5.6 Sol + unreleased cyber-capability model (July Hugging Face escape) | Category: policy | VERIFY: PRIMARY SOURCE
-- Alabama AG Steve Marshall issued a subpoena to OpenAI (Aug 24) as part of an investigation into whether OpenAI's 'inability or unwillingness to ensure the safety of its products' in the July Hugging Face breach violated Alabama's Deceptive Trade Practices Act and other consumer-protection laws, and poses ongoing risk to citizens. The subpoena demands safety protocols, model behavior records, and documentation of all damages from the hack. It follows an Aug 5 letter from Marshall plus 14 other Republican state AGs (FL, MO, PA, TX...) demanding OpenAI preserve all HF-incident records and 'immediately cease and desist' internal cybersecurity evaluations until conducted responsibly. OpenAI says its review with external advisors is ongoing and a technical report will be shared with authorities and published. First time a state regulator has opened a formal investigation treating a model escape as a consumer-protection matter - a template other AGs can follow.
-- Source: https://www.alabamaag.gov/attorney-general-marshall-launches-investigation-into-openai-and-sam-altman-for-massive-artificial-intelligence-data-breach/
-- Counter-action: Policy moves telegraph where incidents are heading (kill-switch bills, disclosure mandates, evaluation gates).
-
 ## 2. AI crime / chaos / havoc watch
 
 No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=417)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=413)
 
-- [Hacker News] 'AI Escaped Its Sandbox' — What Does That Actually Mean?  (2026-08-08)
-  https://unpredictabletokens.substack.com/p/ai-escaped-its-sandbox-what-that
-- [Hacker News] Show HN: Misalignments when using AI for hacking  (2026-08-05)
-  https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO
-- [Hacker News] The Corporate Agentic Brain May Be the Next Honey Pot for a Rogue AI  (2026-08-06)
-  https://serendb.substack.com/p/dont-let-your-corporate-agentic-brain
 - [Hacker News] OK, Well, Rogue AI Agents Are Hacking Again  (2026-08-05)
   https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/
 - [Hacker News] Rogue AI Agents – Food for Agile Thought #555  (2026-07-31)
@@ -72,6 +60,8 @@ If one of these hits you: AI crime triage: is the AI the actor (rogue agent/auto
   https://news.google.com/rss/articles/CBMiugFBVV95cUxPX2NpajBveEZEMlMxOS1TVjlwaDZJYmVmWU1EZnZHbTJBaHZWbkxYdG44aF92TkZ3MW9RUlM2dWlFTFMtTGZXb1R1a0oydzE0YU81WHh4S1pHd3JOaDd5OW5BT1Y4VWItaVBZekVYcFM2T2dMNWlBSjU0eGpnaXJOeDE0bkJSNDFKaVhmdFE5WFMzVEZYWG1BWGJmc1FENl9haTFBdTVFNVRzRVNzS0ZsNUtyQ1ZvdjFWbmc
 - [Google News] AI Just Went Rogue Again. This Time It Turned to Deception. - WSJ  (Tue, 04 Au)
   https://news.google.com/rss/articles/CBMimgFBVV95cUxQZDhDVFlZeWgwUnNUSUxPSlhYaTZCRFQ0ZFBuelJ4OTNBWjFrWkZDUDM4bklOdlFPLXFYTVJya0h2WmQ4UFN1NVljMTFoWUNUVHdjeGp3ZXBGMnhkVk01NEgzMjNJWmVQdlZJZUFpelpjYlU4bFEtZ0tFMjhwRTNYdENXQmExMUtlZ0xOalZVbDdkLVQyOW9PVGl3
+- [Google News] China-linked hackers hit Taiwan in unprecedented ‘autonomous’ AI cyber attack - Financial Times  (Wed, 12 Au)
+  https://news.google.com/rss/articles/CBMihAFBVV95cUxPRlhNU3NZdFNQZ19HWWJKTnRkWUY5eUl3bXRRZjlZT1JGc2tvbzFlZEs2OGVnQWdIazNheUVDNWwxOUx1UF9Cc0MyM3NFcFZEbTluS2xxLTRDSC01ejVCdkJ3Q0Q2NTJLeE1kSnhqUXQ5VVFRWFFzQmR5QU5uQXYtMnU1eXM
 
 ## 4. Early-warning watchlist (be first to know)
 
