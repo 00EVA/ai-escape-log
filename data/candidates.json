@@ -3302,5 +3302,61 @@
     "date": "2026-09-08",
     "snippet": "model : support Kimi-K3 recurrent-state rollback ( #28466 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/45866131 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS…",
     "first_seen": "2026-09-07"
+  },
+  {
+    "title": "'AI Escaped Its Sandbox' — What Does That Actually Mean?",
+    "url": "https://unpredictabletokens.substack.com/p/ai-escaped-its-sandbox-what-that",
+    "source": "Hacker News",
+    "date": "2026-08-08",
+    "snippet": "",
+    "first_seen": "2026-09-08"
+  },
+  {
+    "title": "Show HN: Misalignments when using AI for hacking",
+    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
+    "source": "Hacker News",
+    "date": "2026-08-05",
+    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
+    "first_seen": "2026-09-08"
+  },
+  {
+    "title": "Disrupting ai espionage",
+    "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
+    "source": "Anthropic News (sitemap)",
+    "date": "2026-09-08",
+    "snippet": "",
+    "first_seen": "2026-09-08"
+  },
+  {
+    "title": "Why AI Agent Sandboxes Are Failing Security Tests - Security Affairs",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRHVnZ1lqam9CWDJweHJMc3VNQTd5bDZWWi1UOVlHUVZRRzBScmp2ekFFa1lxa1NsMDBxOEtJMWRoOEZsaURxaWVnYmZQT3lkVXFQdFNyRjl0OHpKWVliSzl5MUE4VEZ0ckdPejNwSS1mVW9XYzdaUGc5TGJsZW5BcDVna09aSU1FMEw4a0NRdEFBU2diTVJZ0gGcAUFVX3lxTFBIZDZoYkFKX2paX3ZNTjdCRjVQUWloMVpuQkJ4bUREUnJEWk9CWEd4TmNET1NjT0JoSGR5WGlNaG1Jdm1SVHBnbDRnYlpwa2xyRTRBRDBvU1o4dWxsWjEtQmFpd3ZJVVNYNGR0aHlpaDRKM2ZTRHNmNUJJREd1YUdkdndlOWlnNWtDSzNSR0lINFNJRnhKUGF6bDE5Wg",
+    "source": "Google News",
+    "date": "Mon, 07 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQRHVnZ1lqam9CWDJweHJMc3VNQTd5bDZWWi1UOVlHUVZRRzBScmp2ekFFa1lxa1NsMDBxOEtJMWRoOEZsaURxaWVnYmZQT3lkVXFQdFNyRjl0OHpKWVliSzl5MUE4VEZ0ckdPejNwSS1mVW9XYzdaUGc5TGJsZW5BcDVna09aSU1FMEw4a0NRdEFBU2diTVJZ0gGcAUFVX3lxTFBIZDZoYkFKX2paX3ZNTjdCRjVQUWloMV",
+    "first_seen": "2026-09-08"
+  },
+  {
+    "title": "OpenAI models went rogue. We urgently need a better Hugging Face investigation - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN253ZVo1a19jdWlBRG5VdmVxYldxelhDSnBuVE4xUzBxLWhyc0lWUUthWE4temZ1QkxoeFBNcTdjVGtTdzUyc1NkQXQybklqdmRyZmd3RWZ5eGdNQUhXZzN3YkVtSVlTMkpmakxXbWZtQlk4cXFHV1lLOTJXSlBTWWdvaWUxdks3c3k5MVRWVHR2TUV4bGNTTUp1NmtiUVdRS0E",
+    "source": "Google News",
+    "date": "Tue, 08 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNN253ZVo1a19jdWlBRG5VdmVxYldxelhDSnBuVE4xUzBxLWhyc0lWUUthWE4temZ1QkxoeFBNcTdjVGtTdzUyc1NkQXQybklqdmRyZmd3RWZ5eGdNQUhXZzN3YkVtSVlTMkpmakxXbWZtQlk4cXFHV1lLOTJXSlBTWWdvaWUxdks3c3k5MVRWVHR2TUV4bGNTTUp1NmtiUVdRS0E?oc=5\" target=\"_blank\">OpenAI m",
+    "first_seen": "2026-09-08"
+  },
+  {
+    "title": "HalluSquatting AI attack could hijack your computer - Fox News",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOakVRWVMzOUhHR2Y0OXVxbHQ2OVU0MXNWc2F2M052ajJlMmtwVFNrQmpwOVJVNDJxbVdON3Vha0FiREVuaDUyVHpUX2hyR243bFA2YTdwR2hKQlNLMmJDZ3JLeVM4TjhsRGpTWHpuUE45V25xV2gzTElIeWZIMHoyZHlLYUlidXfSAYwBQVVfeXFMT2dwaWdOLTNzVE1QWXZ1ZXB0VmZuWFFZQklyNlRITk5SeVFWS3g2ZThkeTB2OGtGRzBray1QaWF0UUJIZFFNMmw2dkV3ZzZqSy1MUFFqeXNBdzNqVDN3OU5NLTNoMV9kUFl0NDBOdjdlZVhZM1ZyWmZlXzdXY085R3JXejhLR1ZRSFJYaTQ",
+    "source": "Google News",
+    "date": "Sat, 18 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOakVRWVMzOUhHR2Y0OXVxbHQ2OVU0MXNWc2F2M052ajJlMmtwVFNrQmpwOVJVNDJxbVdON3Vha0FiREVuaDUyVHpUX2hyR243bFA2YTdwR2hKQlNLMmJDZ3JLeVM4TjhsRGpTWHpuUE45V25xV2gzTElIeWZIMHoyZHlLYUlidXfSAYwBQVVfeXFMT2dwaWdOLTNzVE1QWXZ1ZXB0VmZuWFFZQklyNlRITk5SeVFWS3g2ZT",
+    "first_seen": "2026-09-08"
+  },
+  {
+    "title": "CISA KEV: BerriAI LiteLLM Improper Authentication Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-59822",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-02",
+    "snippet": "CVE-2026-59822 | BerriAI LiteLLM | BerriAI LiteLLM contains an improper authentication vulnerability in the MCP Streamable HTTP endpoint that could allow an unauthenticated attacker to establish an authenticated MCP session using an arbitrary Bearer token.",
+    "first_seen": "2026-09-08"
   }
 ]
