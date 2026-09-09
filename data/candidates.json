@@ -3398,5 +3398,93 @@
     "date": "2026-09-08",
     "snippet": "CVE-2026-85880 | Microsoft Windows | Microsoft Windows Advanced Local Procedure Call contains a heap-based buffer overflow vulnerability that allows an attacker to elevate privileges locally.",
     "first_seen": "2026-09-09"
+  },
+  {
+    "title": "Show HN: Locksmith: Store Maven Secrets in the macOS Keychain (Or a Unix Socket)",
+    "url": "https://github.com/exabrial/locksmith",
+    "source": "Hacker News",
+    "date": "2026-09-09",
+    "snippet": "Hello HN,<p>In the age of LLMs sucking in random secrets, sandbox escapes, and RCE orbital bombardment, I thought it&#x27;d be a good idea to create a Maven Extension that defers to the MacOS keychain for resolving secrets. In general, it&#x27;s a good idea to not have any secrets (passwords, tokens",
+    "first_seen": "2026-09-09"
+  },
+  {
+    "title": "'AI Escaped Its Sandbox' — What Does That Actually Mean?",
+    "url": "https://unpredictabletokens.substack.com/p/ai-escaped-its-sandbox-what-that",
+    "source": "Hacker News",
+    "date": "2026-08-08",
+    "snippet": "",
+    "first_seen": "2026-09-09"
+  },
+  {
+    "title": "Show HN: Misalignments when using AI for hacking",
+    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
+    "source": "Hacker News",
+    "date": "2026-08-05",
+    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
+    "first_seen": "2026-09-09"
+  },
+  {
+    "title": "HalluSquatting AI attack could hijack your computer - Fox News",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOakVRWVMzOUhHR2Y0OXVxbHQ2OVU0MXNWc2F2M052ajJlMmtwVFNrQmpwOVJVNDJxbVdON3Vha0FiREVuaDUyVHpUX2hyR243bFA2YTdwR2hKQlNLMmJDZ3JLeVM4TjhsRGpTWHpuUE45V25xV2gzTElIeWZIMHoyZHlLYUlidXfSAYwBQVVfeXFMT2dwaWdOLTNzVE1QWXZ1ZXB0VmZuWFFZQklyNlRITk5SeVFWS3g2ZThkeTB2OGtGRzBray1QaWF0UUJIZFFNMmw2dkV3ZzZqSy1MUFFqeXNBdzNqVDN3OU5NLTNoMV9kUFl0NDBOdjdlZVhZM1ZyWmZlXzdXY085R3JXejhLR1ZRSFJYaTQ",
+    "source": "Google News",
+    "date": "Sat, 18 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOakVRWVMzOUhHR2Y0OXVxbHQ2OVU0MXNWc2F2M052ajJlMmtwVFNrQmpwOVJVNDJxbVdON3Vha0FiREVuaDUyVHpUX2hyR243bFA2YTdwR2hKQlNLMmJDZ3JLeVM4TjhsRGpTWHpuUE45V25xV2gzTElIeWZIMHoyZHlLYUlidXfSAYwBQVVfeXFMT2dwaWdOLTNzVE1QWXZ1ZXB0VmZuWFFZQklyNlRITk5SeVFWS3g2ZT",
+    "first_seen": "2026-09-09"
+  },
+  {
+    "title": "Major AI platforms suffer outages - The Express Tribune",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNSHljS2ZZTTRVQVE3T1RZdTdtODJkY3FWWlpiVGx6YTNqUGJnWmdIS2wxdzJQcHQwODRqbmtVZkFhb1lFY1JVdFZOWk1XNGswS2g1YUV1NENWRFQxcWl0WG1XU1diU3NHTUcxY1BRN0h1U2RnLTJxb2ln0gGCAUFVX3lxTFBPYTNxU1VUVF9vOElrb2M0MEpxM3Juc2J5cHlSdlVCemJ5OEFuMTI1Z2RoMTNQOFB6RzgxUm9WS25GbThac1lYM01YVjdCeHVHdHhHTXVzZkgwMGxsZUNhUk02SDVfcXNjeGs4Mm1GSENaZUZ5R1pEWkRTblptR2RsdWc",
+    "source": "Google News",
+    "date": "Fri, 04 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBNSHljS2ZZTTRVQVE3T1RZdTdtODJkY3FWWlpiVGx6YTNqUGJnWmdIS2wxdzJQcHQwODRqbmtVZkFhb1lFY1JVdFZOWk1XNGswS2g1YUV1NENWRFQxcWl0WG1XU1diU3NHTUcxY1BRN0h1U2RnLTJxb2ln0gGCAUFVX3lxTFBPYTNxU1VUVF9vOElrb2M0MEpxM3Juc2J5cHlSdlVCemJ5OEFuMTI1Z2RoMTNQOFB6RzgxUm",
+    "first_seen": "2026-09-09"
+  },
+  {
+    "title": "Anthropic's Claude AI escapes tests to hack three organisations - BBC",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50SmtNcDZCM3hZNTNTOG02SDc1MFhUT2JNc3gzUGVEeVl4dDB2WWJmejdYMDNqUnY2T1MybmcyXzQ5akxPU3ZRNDBycVRiMzVTcDczdDE4Qjc5NUFV",
+    "source": "Google News",
+    "date": "Fri, 31 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE50SmtNcDZCM3hZNTNTOG02SDc1MFhUT2JNc3gzUGVEeVl4dDB2WWJmejdYMDNqUnY2T1MybmcyXzQ5akxPU3ZRNDBycVRiMzVTcDczdDE4Qjc5NUFV?oc=5\" target=\"_blank\">Anthropic's Claude AI escapes tests to hack three organisations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BB",
+    "first_seen": "2026-09-09"
+  },
+  {
+    "title": "CISA KEV: Citrix NetScaler Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-19490",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-09",
+    "snippet": "CVE-2026-19490 | Citrix NetScaler | Citrix NetScaler ADC and NetScaler Gateway contain an authentication-bypass vulnerability involving an alternate path or channel. When the NetScaler appliance is configured as an AAA virtual server or as a Gateway (SSL VPN, ICA Proxy, CVPN, or RDP Proxy), an unauthenticated remote threat actor may b",
+    "first_seen": "2026-09-09"
+  },
+  {
+    "title": "CISA KEV: Fortinet Multiple Products Heap-based Buffer Overflow Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-25249",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-09",
+    "snippet": "CVE-2025-25249 | Fortinet Multiple Products | Fortinet FortiOS, FortiSwitchManager, and FortiSASE contain a heap-based buffer overflow vulnerability that allows an attacker to execute unauthorized code or commands via specially crafted packets.",
+    "first_seen": "2026-09-09"
+  },
+  {
+    "title": "CISA KEV: Google Chromium V8 Out of Bounds Write Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-87491",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-09",
+    "snippet": "CVE-2026-87491 | Google Chromium V8 | Google Chromium V8 contains an out of bounds write vulnerability that allows a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Ed",
+    "first_seen": "2026-09-09"
+  },
+  {
+    "title": "CISA KEV: Cisco Firewall Management Center Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-20079",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-09",
+    "snippet": "CVE-2026-20079 | Cisco Secure Firewall Management Center (FMC) and Security Cloud Control (SCC) Firewall Management | Cisco Secure Firewall Management Center (FMC) Software and Cisco Security Cloud Control (SCC) Firewall Management contain an authentication Bypass using an alternate path or channel vulnerability that could allow an unauthenticated, remote attacker to bypass authentication and execute script files o",
+    "first_seen": "2026-09-09"
+  },
+  {
+    "title": "CISA KEV: BerriAI LiteLLM Improper Authentication Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-59822",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-02",
+    "snippet": "CVE-2026-59822 | BerriAI LiteLLM | BerriAI LiteLLM contains an improper authentication vulnerability in the MCP Streamable HTTP endpoint that could allow an unauthenticated attacker to establish an authenticated MCP session using an arbitrary Bearer token.",
+    "first_seen": "2026-09-09"
   }
 ]
