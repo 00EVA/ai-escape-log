@@ -3326,5 +3326,77 @@
     "date": "Tue, 08 Se",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNN253ZVo1a19jdWlBRG5VdmVxYldxelhDSnBuVE4xUzBxLWhyc0lWUUthWE4temZ1QkxoeFBNcTdjVGtTdzUyc1NkQXQybklqdmRyZmd3RWZ5eGdNQUhXZzN3YkVtSVlTMkpmakxXbWZtQlk4cXFHV1lLOTJXSlBTWWdvaWUxdks3c3k5MVRWVHR2TUV4bGNTTUp1NmtiUVdRS0E?oc=5\" target=\"_blank\">OpenAI m",
     "first_seen": "2026-09-08"
+  },
+  {
+    "title": "OpenAI's German Wiki Hack Is Less About \"Rogue AI\" Than Failed Agent Containment",
+    "url": "https://securityboulevard.com/2026/09/openais-german-wiki-hack-is-less-about-rogue-ai-than-failed-agent-containment/",
+    "source": "Hacker News",
+    "date": "2026-09-08",
+    "snippet": "",
+    "first_seen": "2026-09-09"
+  },
+  {
+    "title": "b10868",
+    "url": "https://prismix.dev/news/d44d6f6cd5fb",
+    "source": "Prismix AI",
+    "date": "2026-09-09",
+    "snippet": "Add IQ type handling for MoE ( #28476 ) Co-authored-by: cwriter cwriter@localhost Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/46124981 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED…",
+    "first_seen": "2026-09-09"
+  },
+  {
+    "title": "CVE-2026-82533: DeepSeek Harness Vulnerability Lets AI Agents Escape Their Own Sandbox - ox.security",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1ptSVFXeUQzc1gtNzhzQmpsbGJSdHd1RndnSm0zMWRkcWV5dHNVZk5pWUFzaUZyQzlPZ25GMHhRemY4cVBUUkFhU1JoeUo4Z0RWVlZVNHhnRV9mYWlBNlJXNjZUcC1Dd2dnQ0tmZVMxTkdHMEhhazFuazBQRTlWeUsxWHZwSU0zZE1UZTNn",
+    "source": "Google News",
+    "date": "Tue, 08 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1ptSVFXeUQzc1gtNzhzQmpsbGJSdHd1RndnSm0zMWRkcWV5dHNVZk5pWUFzaUZyQzlPZ25GMHhRemY4cVBUUkFhU1JoeUo4Z0RWVlZVNHhnRV9mYWlBNlJXNjZUcC1Dd2dnQ0tmZVMxTkdHMEhhazFuazBQRTlWeUsxWHZwSU0zZE1UZTNn?oc=5\" target=\"_blank\">CVE-2026-82533: DeepSeek Harness Vu",
+    "first_seen": "2026-09-09"
+  },
+  {
+    "title": "OpenAI releases new AI agent – after admitting one went rogue - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3V0NZQmphR3B4eVV6dWM3Rm9Xb0RBUDhNZ2trT2RONml2Q0dsV0VQRlN3ZGQyVTlHSWJ0SGphX1h4MldQSnp1R05DQWVjV0JXbUVPR05XcEViTWtMaWprUWdYX1QwaEdUek9mdlJvR1dnZ1RBWWJPcHc2ek55ZlU",
+    "source": "Google News",
+    "date": "Tue, 08 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFA3V0NZQmphR3B4eVV6dWM3Rm9Xb0RBUDhNZ2trT2RONml2Q0dsV0VQRlN3ZGQyVTlHSWJ0SGphX1h4MldQSnp1R05DQWVjV0JXbUVPR05XcEViTWtMaWprUWdYX1QwaEdUek9mdlJvR1dnZ1RBWWJPcHc2ek55ZlU?oc=5\" target=\"_blank\">OpenAI releases new AI agent – after admitting one went ",
+    "first_seen": "2026-09-09"
+  },
+  {
+    "title": "All the Major AI Chatbots Are Experiencing Outages Right Now - Gizmodo",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSktsb3pHOUx0OWFva1BzbXotUTlTZkJROHplVFRKS1FuSXVRckN6SUVOdnZVVGg0VExIMXhfM1Iwd1ltOThPSU1BWmJCWW1jQnprdXFLd29hcDV1ZjRZNkNWQ05ERFNXZGlnVXpXc1o5Y2RaNTdSZ0syUUE4TmJhWVBicENoU2lHTlE4UW1kaE1ZRFZUZmc",
+    "source": "Google News",
+    "date": "Thu, 03 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNSktsb3pHOUx0OWFva1BzbXotUTlTZkJROHplVFRKS1FuSXVRckN6SUVOdnZVVGg0VExIMXhfM1Iwd1ltOThPSU1BWmJCWW1jQnprdXFLd29hcDV1ZjRZNkNWQ05ERFNXZGlnVXpXc1o5Y2RaNTdSZ0syUUE4TmJhWVBicENoU2lHTlE4UW1kaE1ZRFZUZmc?oc=5\" target=\"_blank\">All the Major AI Chatbot",
+    "first_seen": "2026-09-09"
+  },
+  {
+    "title": "CISA KEV: Adobe Commerce and Magento Improper Neutralization of Special Elements Used in a Template Engine Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-75650",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-08",
+    "snippet": "CVE-2026-75650 | Adobe Commerce and Magento | Adobe Commerce and Magento Open Source contain an improper neutralization of special elements used in a template engine vulnerability that could allow an attacker to execute arbitrary code.",
+    "first_seen": "2026-09-09"
+  },
+  {
+    "title": "CISA KEV: Microsoft Windows Link Following Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-81963",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-08",
+    "snippet": "CVE-2026-81963 | Microsoft Windows | Microsoft Windows Update Stack contains a link following vulnerability that allows a local attacker to escalate privileges locally up to SYSTEM.",
+    "first_seen": "2026-09-09"
+  },
+  {
+    "title": "CISA KEV: N-able N-central Static Code Injection Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-86218",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-08",
+    "snippet": "CVE-2026-86218 | N-able N-central | N-able N-central contains a static code injection vulnerability that could allow for pre-authentication remote code execution.",
+    "first_seen": "2026-09-09"
+  },
+  {
+    "title": "CISA KEV: Microsoft Windows Heap-Based Buffer Overflow Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-85880",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-08",
+    "snippet": "CVE-2026-85880 | Microsoft Windows | Microsoft Windows Advanced Local Procedure Call contains a heap-based buffer overflow vulnerability that allows an attacker to elevate privileges locally.",
+    "first_seen": "2026-09-09"
   }
 ]
