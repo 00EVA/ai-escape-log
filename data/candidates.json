@@ -3464,35 +3464,11 @@
     "first_seen": "2026-09-09"
   },
   {
-    "title": "'AI Escaped Its Sandbox' — What Does That Actually Mean?",
-    "url": "https://unpredictabletokens.substack.com/p/ai-escaped-its-sandbox-what-that",
-    "source": "Hacker News",
-    "date": "2026-08-08",
-    "snippet": "",
-    "first_seen": "2026-09-10"
-  },
-  {
-    "title": "Show HN: Misalignments when using AI for hacking",
-    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
-    "source": "Hacker News",
-    "date": "2026-08-05",
-    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
-    "first_seen": "2026-09-10"
-  },
-  {
     "title": "AI is accelerating elder fraud. Their kids are reckoning with the fallout - USA Today",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSEVrMjRZS1p2bE1UazVYZXBEOWsxMWtFY0JPb0YtZXpJcndCS3hjUmVTdGdEZF9ONWtWdDJScWhCYVdXM3J0RVREYWZJMkNnb2RoWW5McVg3bnRZQ2tqbTJzaU9NaV9jcWp4aVBDRmNOVGZyVFFZa3BtZ09xejQwTGY0dFRBSEI5NFRYRnBqb2ttYjViNGxhc2plaHBSYmNCX0hraDJhdFI0VmFZNHQyOE0tNmxmVm9XaU5OdzFB",
     "source": "Google News",
     "date": "Wed, 19 Au",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPSEVrMjRZS1p2bE1UazVYZXBEOWsxMWtFY0JPb0YtZXpJcndCS3hjUmVTdGdEZF9ONWtWdDJScWhCYVdXM3J0RVREYWZJMkNnb2RoWW5McVg3bnRZQ2tqbTJzaU9NaV9jcWp4aVBDRmNOVGZyVFFZa3BtZ09xejQwTGY0dFRBSEI5NFRYRnBqb2ttYjViNGxhc2plaHBSYmNCX0hraDJhdFI0VmFZNHQyOE0tNmxmVm9XaU",
-    "first_seen": "2026-09-10"
-  },
-  {
-    "title": "HalluSquatting AI attack could hijack your computer - Fox News",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOakVRWVMzOUhHR2Y0OXVxbHQ2OVU0MXNWc2F2M052ajJlMmtwVFNrQmpwOVJVNDJxbVdON3Vha0FiREVuaDUyVHpUX2hyR243bFA2YTdwR2hKQlNLMmJDZ3JLeVM4TjhsRGpTWHpuUE45V25xV2gzTElIeWZIMHoyZHlLYUlidXfSAYwBQVVfeXFMT2dwaWdOLTNzVE1QWXZ1ZXB0VmZuWFFZQklyNlRITk5SeVFWS3g2ZThkeTB2OGtGRzBray1QaWF0UUJIZFFNMmw2dkV3ZzZqSy1MUFFqeXNBdzNqVDN3OU5NLTNoMV9kUFl0NDBOdjdlZVhZM1ZyWmZlXzdXY085R3JXejhLR1ZRSFJYaTQ",
-    "source": "Google News",
-    "date": "Sat, 18 Ju",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOakVRWVMzOUhHR2Y0OXVxbHQ2OVU0MXNWc2F2M052ajJlMmtwVFNrQmpwOVJVNDJxbVdON3Vha0FiREVuaDUyVHpUX2hyR243bFA2YTdwR2hKQlNLMmJDZ3JLeVM4TjhsRGpTWHpuUE45V25xV2gzTElIeWZIMHoyZHlLYUlidXfSAYwBQVVfeXFMT2dwaWdOLTNzVE1QWXZ1ZXB0VmZuWFFZQklyNlRITk5SeVFWS3g2ZT",
     "first_seen": "2026-09-10"
   },
   {
@@ -3504,11 +3480,11 @@
     "first_seen": "2026-09-10"
   },
   {
-    "title": "CISA KEV: BerriAI LiteLLM Improper Authentication Vulnerability",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-59822",
-    "source": "CISA KEV catalog",
-    "date": "2026-09-02",
-    "snippet": "CVE-2026-59822 | BerriAI LiteLLM | BerriAI LiteLLM contains an improper authentication vulnerability in the MCP Streamable HTTP endpoint that could allow an unauthenticated attacker to establish an authenticated MCP session using an arbitrary Bearer token.",
+    "title": "CEO of AI firm Hugging Face calls last month's hack by OpenAI model \"very weird and unprecedented\" - CBS News",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yaGFxS0d4QWgzRW02N01rMS1pT2haVWkxSDk1VkpLRFFOSEhrNTVrejY1eTF3VmgxRXVfWHE5dllWSGRlU0lqRXlvTnU1c3luLU5FRkNkZ21ybVB4TEtvYXdBQWVLVVB2c1RzcFl1aVB3dXBh",
+    "source": "Google News",
+    "date": "Sun, 02 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9yaGFxS0d4QWgzRW02N01rMS1pT2haVWkxSDk1VkpLRFFOSEhrNTVrejY1eTF3VmgxRXVfWHE5dllWSGRlU0lqRXlvTnU1c3luLU5FRkNkZ21ybVB4TEtvYXdBQWVLVVB2c1RzcFl1aVB3dXBh?oc=5\" target=\"_blank\">CEO of AI firm Hugging Face calls last month's hack by OpenAI model \"ve",
     "first_seen": "2026-09-10"
   }
 ]
