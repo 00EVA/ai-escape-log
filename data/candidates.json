@@ -3550,5 +3550,85 @@
     "date": "2026-09-10",
     "snippet": "The U.S. Senate formally launched an investigation into the July hack of Hugging Face, when a swarm of OpenAI agents broke out of a testing environment and gained access to the open-source repository. In a letter sent to OpenAI CEO Sam Altman on Wednesday, Republican Sen. Josh…",
     "first_seen": "2026-09-10"
+  },
+  {
+    "title": "'AI Escaped Its Sandbox' — What Does That Actually Mean?",
+    "url": "https://unpredictabletokens.substack.com/p/ai-escaped-its-sandbox-what-that",
+    "source": "Hacker News",
+    "date": "2026-08-08",
+    "snippet": "",
+    "first_seen": "2026-09-10"
+  },
+  {
+    "title": "Show HN: Misalignments when using AI for hacking",
+    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
+    "source": "Hacker News",
+    "date": "2026-08-05",
+    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
+    "first_seen": "2026-09-10"
+  },
+  {
+    "title": "Vercel Sandbox now provides 64 GB of storage",
+    "url": "https://prismix.dev/news/4f2f3165aca4",
+    "source": "Prismix AI",
+    "date": "2026-09-11",
+    "snippet": "Every Vercel Sandbox now includes 64 GB of storage, up from 32 GB. This includes sandboxes created from a Vercel Managed Image or custom image, as well as those configured with the deprecated runtime property. The additional space provides more room for large repositories,…",
+    "first_seen": "2026-09-10"
+  },
+  {
+    "title": "Anthropic Says It Blocked Bioweapons Efforts and Detected Chinese Distillation Attacks",
+    "url": "https://prismix.dev/news/8aa54941c9a6",
+    "source": "Prismix AI",
+    "date": "2026-09-10",
+    "snippet": "Anthropic has disrupted several attempts to use its Claude models for potentially malicious activity , including research into how to adapt bird flu to a human-transmittable strain with “pandemic potential,” the company said in a report Thursday. Amid increasing worry about AI…",
+    "first_seen": "2026-09-10"
+  },
+  {
+    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+    "url": "https://prismix.dev/news/1587a3fbe537",
+    "source": "Prismix AI",
+    "date": "2026-09-10",
+    "snippet": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+    "first_seen": "2026-09-10"
+  },
+  {
+    "title": "DeepSeek Harness Sandbox Escape Lets AI Agents Disable Their Own Confinement - forkast.news",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZmFfYXF6bzR6dVQ4WXlISXE1OFZMclNKTko1UmtQT3R6WnozY3R3WnQzSmo2cnpvdWlyMWVZTUdvWlBOeEMyZWJnY3RrYVR6RlhyZW5Sc181STVPSGlMWXhGd0pNd3U5MUh5X0NKVGRwdmg3WFd4ajhlZUl1ODNfSmtCYXROT3Y3SUtNbGlUUzlodm51RGIyYlRwbGliQ1k",
+    "source": "Google News",
+    "date": "Thu, 10 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQZmFfYXF6bzR6dVQ4WXlISXE1OFZMclNKTko1UmtQT3R6WnozY3R3WnQzSmo2cnpvdWlyMWVZTUdvWlBOeEMyZWJnY3RrYVR6RlhyZW5Sc181STVPSGlMWXhGd0pNd3U5MUh5X0NKVGRwdmg3WFd4ajhlZUl1ODNfSmtCYXROT3Y3SUtNbGlUUzlodm51RGIyYlRwbGliQ1k?oc=5\" target=\"_blank\">DeepSeek Har",
+    "first_seen": "2026-09-10"
+  },
+  {
+    "title": "HalluSquatting AI attack could hijack your computer - Fox News",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOakVRWVMzOUhHR2Y0OXVxbHQ2OVU0MXNWc2F2M052ajJlMmtwVFNrQmpwOVJVNDJxbVdON3Vha0FiREVuaDUyVHpUX2hyR243bFA2YTdwR2hKQlNLMmJDZ3JLeVM4TjhsRGpTWHpuUE45V25xV2gzTElIeWZIMHoyZHlLYUlidXfSAYwBQVVfeXFMT2dwaWdOLTNzVE1QWXZ1ZXB0VmZuWFFZQklyNlRITk5SeVFWS3g2ZThkeTB2OGtGRzBray1QaWF0UUJIZFFNMmw2dkV3ZzZqSy1MUFFqeXNBdzNqVDN3OU5NLTNoMV9kUFl0NDBOdjdlZVhZM1ZyWmZlXzdXY085R3JXejhLR1ZRSFJYaTQ",
+    "source": "Google News",
+    "date": "Sat, 18 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOakVRWVMzOUhHR2Y0OXVxbHQ2OVU0MXNWc2F2M052ajJlMmtwVFNrQmpwOVJVNDJxbVdON3Vha0FiREVuaDUyVHpUX2hyR243bFA2YTdwR2hKQlNLMmJDZ3JLeVM4TjhsRGpTWHpuUE45V25xV2gzTElIeWZIMHoyZHlLYUlidXfSAYwBQVVfeXFMT2dwaWdOLTNzVE1QWXZ1ZXB0VmZuWFFZQklyNlRITk5SeVFWS3g2ZT",
+    "first_seen": "2026-09-10"
+  },
+  {
+    "title": "CISA KEV: MikroTik RouterOS Improper Neutralization of Argument Delimiters in a Command Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-86060",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-10",
+    "snippet": "CVE-2026-86060 | MikroTik RouterOS | MikroTik RouterOS contains an improper neutralization of argument delimiters in a command vulnerability which allows an attacked to change the trusted RouterOS policy mask, leading to privilege escalation.",
+    "first_seen": "2026-09-10"
+  },
+  {
+    "title": "CISA KEV: MikroTik RouterOS Missing Authentication for Critical Function Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-67277",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-10",
+    "snippet": "CVE-2026-67277 | MikroTik RouterOS | MikroTik RouterOS contains a missing authenticaion for critical function vulnerability which allows kernel memory disclosure and denial of service in the btest service.",
+    "first_seen": "2026-09-10"
+  },
+  {
+    "title": "CISA KEV: BerriAI LiteLLM Improper Authentication Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-59822",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-02",
+    "snippet": "CVE-2026-59822 | BerriAI LiteLLM | BerriAI LiteLLM contains an improper authentication vulnerability in the MCP Streamable HTTP endpoint that could allow an unauthenticated attacker to establish an authenticated MCP session using an arbitrary Bearer token.",
+    "first_seen": "2026-09-10"
   }
 ]
