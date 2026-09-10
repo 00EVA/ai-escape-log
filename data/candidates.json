@@ -3486,5 +3486,21 @@
     "date": "2026-09-02",
     "snippet": "CVE-2026-59822 | BerriAI LiteLLM | BerriAI LiteLLM contains an improper authentication vulnerability in the MCP Streamable HTTP endpoint that could allow an unauthenticated attacker to establish an authenticated MCP session using an arbitrary Bearer token.",
     "first_seen": "2026-09-09"
+  },
+  {
+    "title": "OpenAI's rogue AI agents used more sites",
+    "url": "https://qz.com/openai-agents-unauthorized-websites-communications-researchers-090926",
+    "source": "Hacker News",
+    "date": "2026-09-09",
+    "snippet": "",
+    "first_seen": "2026-09-09"
+  },
+  {
+    "title": "OpenAI agent goes rogue in ‘unprecedented cyber incident,’ hacks into rival AI startup during security test - New York Post",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRS1LM0x0ZlhvUEpUdnNWbGhLbzdmNVJVNnRxUGQ2S1ROd1lYR1U3YnFubEhORnRfQ2ZvNmVpMHB0SUpRczg3eWZLWXVjS1VyQi0tU1dMRDJycnRzQWZfdm1NWmN4UG1EUHRfLVN1cG4wUWM4MTRVLUoxMlJ6MFNSTGVNeHVHZXZqQl9JYTFHVXNQb1cwdFNsNWoxb2EyS0k2am5ld0JIQU1feHMzVWdoc3F3",
+    "source": "Google News",
+    "date": "Wed, 22 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNRS1LM0x0ZlhvUEpUdnNWbGhLbzdmNVJVNnRxUGQ2S1ROd1lYR1U3YnFubEhORnRfQ2ZvNmVpMHB0SUpRczg3eWZLWXVjS1VyQi0tU1dMRDJycnRzQWZfdm1NWmN4UG1EUHRfLVN1cG4wUWM4MTRVLUoxMlJ6MFNSTGVNeHVHZXZqQl9JYTFHVXNQb1cwdFNsNWoxb2EyS0k2am5ld0JIQU1feHMzVWdoc3F3?oc=5\" tar",
+    "first_seen": "2026-09-09"
   }
 ]
