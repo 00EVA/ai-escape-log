@@ -3614,5 +3614,45 @@
     "date": "Fri, 11 Se",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwJBVV95cUxQVWFCdDNhVWFhSy1ub0ZaRG5TNWtqQkQ1MzE5M3l0TnU4Qzk4UHJGeW1PNzRNMlRiS3dtN3RpLW1ZbmhScmZiUDBuVzJrNG9iSHhqR0JxREVCUXJ4V1daRk1QNzVSSHFlMlRKaFhSVkFrQUZkbjJSZnZISzNSLVF1WlBGTTE0Z3I2d0t6czJ5by13RUR2ZUVQS3B5cWt6YXNoTW5iY05GX1ZEY0Q5U29fRGxiakNTZ2I4Vk",
     "first_seen": "2026-09-11"
+  },
+  {
+    "title": "Quoting Boris Cherny",
+    "url": "https://simonwillison.net/2026/Sep/11/boris-cherny/",
+    "source": "Simon Willison",
+    "date": "2026-09-11",
+    "snippet": "\n    <blockquote cite=\"https://twitter.com/bcherny/status/2098217573276131577\"><p>Production code written by Claude should have a higher bar than if it was written by a human. At Anthropic, we have many guardrails in place to make sure this is happening: lots of lint rules, lots of tests, Claude-dri",
+    "first_seen": "2026-09-11"
+  },
+  {
+    "title": "Quoting Boris Cherny",
+    "url": "https://prismix.dev/news/a747e4567740",
+    "source": "Prismix AI",
+    "date": "2026-09-11",
+    "snippet": "Production code written by Claude should have a higher bar than if it was written by a human. At Anthropic, we have many guardrails in place to make sure this is happening: lots of lint rules, lots of tests, Claude-driven end to end tests, Claude-powered fuzzers running daily,…",
+    "first_seen": "2026-09-11"
+  },
+  {
+    "title": "CISA KEV: ConnectWise ScreenConnect Improper Privilege Management and Missing Authorization Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-84869",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-11",
+    "snippet": "CVE-2026-84869 | ConnectWise ScreenConnect | ConnectWise ScreenConnect contains both an improper privilege management and missing authorization vulnerability that may allow an attacker to file transfer and execution through an active remote sessions without authorization or host confirmation.",
+    "first_seen": "2026-09-11"
+  },
+  {
+    "title": "CISA KEV: JFrog Artifactory Incorrect Authorization Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-42016",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-11",
+    "snippet": "CVE-2026-42016 | JFrog Artifactory | JFrog Artifactory contains an incorrect authorization vulnerability that allows leads to privilege escalation attack due to a validation check of the token signature/issuer and not the token’s scope.",
+    "first_seen": "2026-09-11"
+  },
+  {
+    "title": "CISA KEV: JFrog Artifactory Improper Authentication Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-42018",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-11",
+    "snippet": "CVE-2026-42018 | JFrog Artifactory | JFrog Artifactory contains an improper authentication vulnerability that could return an internal anonymous-user token to an unauthenticated caller when anonymous access is disabled, potentially exposing sensitive resources.",
+    "first_seen": "2026-09-11"
   }
 ]
