@@ -3654,5 +3654,37 @@
     "date": "2026-09-11",
     "snippet": "CVE-2026-42018 | JFrog Artifactory | JFrog Artifactory contains an improper authentication vulnerability that could return an internal anonymous-user token to an unauthenticated caller when anonymous access is disabled, potentially exposing sensitive resources.",
     "first_seen": "2026-09-11"
+  },
+  {
+    "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+    "url": "https://prismix.dev/news/1e600384ae13",
+    "source": "Prismix AI",
+    "date": "2026-09-11",
+    "snippet": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
+    "first_seen": "2026-09-11"
+  },
+  {
+    "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+    "url": "https://prismix.dev/news/e976e1144298",
+    "source": "Prismix AI",
+    "date": "2026-09-11",
+    "snippet": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
+    "first_seen": "2026-09-11"
+  },
+  {
+    "title": "This AI-Developed Computer Worm Could Have Hijacked a Billion Accounts - PCMag",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSl9YSG9yYWIwREsyZXBPZF9iNFVBenZWaC15MWdTc1A3UUVYd055U0NkZXdxYTlVUDVHVVItQ2I2Mm9GaGF2SlN6bUtMMENLdjRDUVNKS2RrVlN6d2hYUlZnMloyOHRRckItWUZ5MU1xb2VXTXEwV3hxbEdTcnQzc0hMNktUcmhCZ2QxNUdIaVliZl9JdmJZYUJlNDJmZw",
+    "source": "Google News",
+    "date": "Tue, 08 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNSl9YSG9yYWIwREsyZXBPZF9iNFVBenZWaC15MWdTc1A3UUVYd055U0NkZXdxYTlVUDVHVVItQ2I2Mm9GaGF2SlN6bUtMMENLdjRDUVNKS2RrVlN6d2hYUlZnMloyOHRRckItWUZ5MU1xb2VXTXEwV3hxbEdTcnQzc0hMNktUcmhCZ2QxNUdIaVliZl9JdmJZYUJlNDJmZw?oc=5\" target=\"_blank\">This AI-Devel",
+    "first_seen": "2026-09-11"
+  },
+  {
+    "title": "CISA KEV: GitLab Community Edition and Enterprise Edition Path Traversal Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-85706",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-11",
+    "snippet": "CVE-2026-85706 | GitLab Community Edition and Enterprise Edition | GitLab Community Edition and Enterprise Edition contains a path traversal vulnerability that allows an unauthenticated user to read arbitrary files due to an improper path confinement and missing authentication enforcement in the repository commits API.",
+    "first_seen": "2026-09-11"
   }
 ]
