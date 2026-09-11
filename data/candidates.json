@@ -3598,5 +3598,21 @@
     "date": "2026-09-10",
     "snippet": "CVE-2026-67277 | MikroTik RouterOS | MikroTik RouterOS contains a missing authenticaion for critical function vulnerability which allows kernel memory disclosure and denial of service in the btest service.",
     "first_seen": "2026-09-10"
+  },
+  {
+    "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+    "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+    "source": "Hacker News",
+    "date": "2026-09-11",
+    "snippet": "",
+    "first_seen": "2026-09-11"
+  },
+  {
+    "title": "From OpenAI to Anthropic: How fake personas, hacked servers and 13-hour outages exposed AI risks - The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQVWFCdDNhVWFhSy1ub0ZaRG5TNWtqQkQ1MzE5M3l0TnU4Qzk4UHJGeW1PNzRNMlRiS3dtN3RpLW1ZbmhScmZiUDBuVzJrNG9iSHhqR0JxREVCUXJ4V1daRk1QNzVSSHFlMlRKaFhSVkFrQUZkbjJSZnZISzNSLVF1WlBGTTE0Z3I2d0t6czJ5by13RUR2ZUVQS3B5cWt6YXNoTW5iY05GX1ZEY0Q5U29fRGxiakNTZ2I4VkhLM0VvZ3M2ZjBUSU5RX3V3djJxTGVsSE5GYnVjYUFvRi1yN1JIUFpBdHZVa18xR1dOS0ZTbDFCOThJVEt1Nkk2NDhIcHdMdU5uVi1UdXFGQ3RYWW1qM2VMSTdwcmlRRWEyRWQxRGZpQkZ1R1BVeENMNA",
+    "source": "Google News",
+    "date": "Fri, 11 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwJBVV95cUxQVWFCdDNhVWFhSy1ub0ZaRG5TNWtqQkQ1MzE5M3l0TnU4Qzk4UHJGeW1PNzRNMlRiS3dtN3RpLW1ZbmhScmZiUDBuVzJrNG9iSHhqR0JxREVCUXJ4V1daRk1QNzVSSHFlMlRKaFhSVkFrQUZkbjJSZnZISzNSLVF1WlBGTTE0Z3I2d0t6czJ5by13RUR2ZUVQS3B5cWt6YXNoTW5iY05GX1ZEY0Q5U29fRGxiakNTZ2I4Vk",
+    "first_seen": "2026-09-11"
   }
 ]
