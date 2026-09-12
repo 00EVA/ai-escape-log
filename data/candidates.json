@@ -3694,5 +3694,45 @@
     "date": "Sat, 12 Se",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOMUk3ME1uQjByTk5nX1NSMVlzVURMWVZNWFFRUUVNSGg5a3V6cUhUOHRJeGtWblZxcGF1Zkx6bk9qS2FvRHRUU1ZKZ2hXbDlzUmRBcW8wQ2pNdEtwNDdzcXF4NkU1MjY0Q2ZXV0F3NkhjZzdnbVVRa1VrMTJNT1dJQTRn?oc=5\" target=\"_blank\">GPT-5.6 Sol Escapes Sandbox And Targets Hugging Fac",
     "first_seen": "2026-09-12"
+  },
+  {
+    "title": "b10931",
+    "url": "https://prismix.dev/news/db835e343fe1",
+    "source": "Prismix AI",
+    "date": "2026-09-12",
+    "snippet": "ui : add cache ( #28802 ) Signed-off-by: Adrien Gallouët angt@huggingface.co Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/47065031 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS…",
+    "first_seen": "2026-09-12"
+  },
+  {
+    "title": "OpenAI, Anthropic And Meta Traced Rogue AI To Israeli Startup Irregular - yellow.com",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWHFfNnkyeWozbnZpMzh6WmFnRlQ3bFF1LXgtLWRKdk9oaTVlVGF4NUVRSDlPbXg0UjllNU54blJ0d05hWmJYZUR2Y0JWYWFfUlluSWFyWVFyN2tfNGZoaS04M3hnS2tNQll4RGdUNWZtSEhUNjUwYkpoYXVheG92VGVTT3FXeWdBeUtVMGg3UDU0MENadjlEVVBnSFBjY1VpVDM2REpkWm5WaHNBQkF5bHFFQ3VZVWdWQzAxalFxR0QwQWxLOEFlZDEyQm5UNE9NbVVJWS1wa2hVdURTTzRYREliaw",
+    "source": "Google News",
+    "date": "Sat, 12 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWHFfNnkyeWozbnZpMzh6WmFnRlQ3bFF1LXgtLWRKdk9oaTVlVGF4NUVRSDlPbXg0UjllNU54blJ0d05hWmJYZUR2Y0JWYWFfUlluSWFyWVFyN2tfNGZoaS04M3hnS2tNQll4RGdUNWZtSEhUNjUwYkpoYXVheG92VGVTT3FXeWdBeUtVMGg3UDU0MENadjlEVVBnSFBjY1VpVDM2REpkWm5WaHNBQkF5bHFFQ3VZVWdWQz",
+    "first_seen": "2026-09-12"
+  },
+  {
+    "title": "OpenAI admits its agent went rogue, triggering a major hack - Scientific American",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0YwYWZvNkJGYV9qdkVxSDlyRGFFZ2RMU29ycnRFRnVRdTM3RmwtR0pNZHphOGpmUmI0UFdWNkh5NnJDc2VMOEVka0xmS2hoQXo1aEd3d3JWOF9rd2FBOHRRWjJtOW1fN2dpZGh1N05wMkhvVVZJd001akZVRUpjZHAtSGdvZEZXQ1V6MU90TmtMMXR5MnV1TXFZM0R6dTBqcEJFUXJlYkRLTno0cFpIUWRMcw",
+    "source": "Google News",
+    "date": "Wed, 22 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0YwYWZvNkJGYV9qdkVxSDlyRGFFZ2RMU29ycnRFRnVRdTM3RmwtR0pNZHphOGpmUmI0UFdWNkh5NnJDc2VMOEVka0xmS2hoQXo1aEd3d3JWOF9rd2FBOHRRWjJtOW1fN2dpZGh1N05wMkhvVVZJd001akZVRUpjZHAtSGdvZEZXQ1V6MU90TmtMMXR5MnV1TXFZM0R6dTBqcEJFUXJlYkRLTno0cFpIUWRMcw?oc=5\" t",
+    "first_seen": "2026-09-12"
+  },
+  {
+    "title": "OpenAI AI models went rogue during testing, triggering 'unprecedented' breach at startup - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT3oyVDNzekNWY3BJUUZLVGNsb3Z3VUhXc3pfSmtEZG96bzk2RFQ4MTZBWDdQVHlyZTlDOWhEN1o3dzVuekVuWUh2cWFPMy1SU0sxWnl3WkVSbFpKTzBqOU54WjlwM0Jfd185OWsxT1BLbGpHcmlaNHdCalhub0x2cVVBai11dVhPdEVsZERZWHo3anRQMi0yUGZEN0VVOEZHcEJuZ1pxMHp2U2dkSWNhYmhOOXR0aGJjVXVTdHE3MGw1aEgw",
+    "source": "Google News",
+    "date": "Wed, 22 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQT3oyVDNzekNWY3BJUUZLVGNsb3Z3VUhXc3pfSmtEZG96bzk2RFQ4MTZBWDdQVHlyZTlDOWhEN1o3dzVuekVuWUh2cWFPMy1SU0sxWnl3WkVSbFpKTzBqOU54WjlwM0Jfd185OWsxT1BLbGpHcmlaNHdCalhub0x2cVVBai11dVhPdEVsZERZWHo3anRQMi0yUGZEN0VVOEZHcEJuZ1pxMHp2U2dkSWNhYmhOOXR0aGJjVX",
+    "first_seen": "2026-09-12"
+  },
+  {
+    "title": "OpenAI reveals another rogue AI attack - Politico",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbXZXNlk4VC1HcDRMVVZkUDBBcW5KQmJPZWpPWHFPdXZWV1d2MDlqeWNBcWRLUFZFN2dPWFZxV2xDSW55anpnM2RZcHVDeXVUeDZ0ZlBBdGtndVBrM3YyZkt1VUxTaVdLcHhtN1J2YVlqMno0TjI2blBhZTV0WE1QZlBaZkxiU19BSGdyLUsxN0ZNdw",
+    "source": "Google News",
+    "date": "Sat, 12 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPbXZXNlk4VC1HcDRMVVZkUDBBcW5KQmJPZWpPWHFPdXZWV1d2MDlqeWNBcWRLUFZFN2dPWFZxV2xDSW55anpnM2RZcHVDeXVUeDZ0ZlBBdGtndVBrM3YyZkt1VUxTaVdLcHhtN1J2YVlqMno0TjI2blBhZTV0WE1QZlBaZkxiU19BSGdyLUsxN0ZNdw?oc=5\" target=\"_blank\">OpenAI reveals another rogue ",
+    "first_seen": "2026-09-12"
   }
 ]
