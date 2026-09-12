@@ -1,6 +1,6 @@
 # AI Incident Briefing — 2026-09-12
 
-_Verified incidents in last 14d: 1 | AI-crime/chaos flagged: 0 | fresh candidates queued: 461_
+_Verified incidents in last 14d: 1 | AI-crime/chaos flagged: 0 | fresh candidates queued: 456_
 
 ## 1. Latest verified incidents
 
@@ -16,18 +16,8 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=461)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=456)
 
-- [Hacker News] OK, Well, Rogue AI Agents Are Hacking Again  (2026-08-05)
-  https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/
-- [Hacker News] Rogue AI Agents – Food for Agile Thought #555  (2026-07-31)
-  https://age-of-product.com/food-agile-thought-555-rogue-ai-agents/
-- [Hacker News] OpenAI's rogue agent didn't stop at Hugging Face – here's what we know  (2026-07-30)
-  https://www.zdnet.com/article/openais-rogue-ai-models-attacked-other-companies-besides-hugging-face/
-- [Hacker News] OpenAI cyberattack caused by rogue AI agent worse than initially reported  (2026-07-30)
-  https://www.tag24.com/en/tech/openai-reveals-cyberattack-caused-by-rogue-ai-agent-was-worse-than-initially-reported-3520116
-- [Hacker News] 'Skynet Day' is now shorthand for OpenAI's agent going rogue  (2026-07-27)
-  https://fortune.com/2026/07/26/james-cameron-terminator-skynet-day-openai-ai-agent-hack-hugging-face/
 - [Hacker News] Rogue AI Agents Aren't Evil. They're Just Eager to Please  (2026-08-13)
   https://www.wired.com/story/rogue-ai-is-just-misunderstood/
 - [Google News] OpenAI Models escape sandbox, hack Hugging Face: Why AI coordination should worry us - Aloha State Daily  (Thu, 13 Au)
