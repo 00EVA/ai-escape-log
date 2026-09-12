@@ -3646,5 +3646,53 @@
     "date": "2026-09-11",
     "snippet": "CVE-2026-85706 | GitLab Community Edition and Enterprise Edition | GitLab Community Edition and Enterprise Edition contains a path traversal vulnerability that allows an unauthenticated user to read arbitrary files due to an improper path confinement and missing authentication enforcement in the repository commits API.",
     "first_seen": "2026-09-11"
+  },
+  {
+    "title": "b10930",
+    "url": "https://prismix.dev/news/e83711ca2934",
+    "source": "Prismix AI",
+    "date": "2026-09-12",
+    "snippet": "server : allow model downloads at model limit fix issue #26809 ( #28530 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/47055500 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS…",
+    "first_seen": "2026-09-12"
+  },
+  {
+    "title": "b10929",
+    "url": "https://prismix.dev/news/18377bd4f5f7",
+    "source": "Prismix AI",
+    "date": "2026-09-12",
+    "snippet": "ggml-cuda: hip add specific config table for AMD GCN ( #27841 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/47052867 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64)…",
+    "first_seen": "2026-09-12"
+  },
+  {
+    "title": "b10927",
+    "url": "https://prismix.dev/news/ddaa61f5e234",
+    "source": "Prismix AI",
+    "date": "2026-09-12",
+    "snippet": "vendor : update cpp-httplib to 0.56.0 ( #28787 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/47045738 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework…",
+    "first_seen": "2026-09-12"
+  },
+  {
+    "title": "b10926",
+    "url": "https://prismix.dev/news/6f06bdd12f8a",
+    "source": "Prismix AI",
+    "date": "2026-09-12",
+    "snippet": "syscl : Handle (fail gracefully) unsupported tq1_0 quants ( #28681 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/47043623 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel…",
+    "first_seen": "2026-09-12"
+  },
+  {
+    "title": "b10923",
+    "url": "https://prismix.dev/news/3b35dce54624",
+    "source": "Prismix AI",
+    "date": "2026-09-12",
+    "snippet": "opencl: fix several bugs where the backend aborts ( #27630 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/47037447 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS…",
+    "first_seen": "2026-09-12"
+  },
+  {
+    "title": "GPT-5.6 Sol Escapes Sandbox And Targets Hugging Face For Answers - yellow.com",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMUk3ME1uQjByTk5nX1NSMVlzVURMWVZNWFFRUUVNSGg5a3V6cUhUOHRJeGtWblZxcGF1Zkx6bk9qS2FvRHRUU1ZKZ2hXbDlzUmRBcW8wQ2pNdEtwNDdzcXF4NkU1MjY0Q2ZXV0F3NkhjZzdnbVVRa1VrMTJNT1dJQTRn",
+    "source": "Google News",
+    "date": "Sat, 12 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOMUk3ME1uQjByTk5nX1NSMVlzVURMWVZNWFFRUUVNSGg5a3V6cUhUOHRJeGtWblZxcGF1Zkx6bk9qS2FvRHRUU1ZKZ2hXbDlzUmRBcW8wQ2pNdEtwNDdzcXF4NkU1MjY0Q2ZXV0F3NkhjZzdnbVVRa1VrMTJNT1dJQTRn?oc=5\" target=\"_blank\">GPT-5.6 Sol Escapes Sandbox And Targets Hugging Fac",
+    "first_seen": "2026-09-12"
   }
 ]
