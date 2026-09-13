@@ -3774,5 +3774,13 @@
     "date": "2026-09-12",
     "snippet": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems d",
     "first_seen": "2026-09-12"
+  },
+  {
+    "title": "b10933",
+    "url": "https://prismix.dev/news/d61798cda7b6",
+    "source": "Prismix AI",
+    "date": "2026-09-12",
+    "snippet": "jinja : support dot property integer literals ( #28817 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/47107718 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS…",
+    "first_seen": "2026-09-12"
   }
 ]
