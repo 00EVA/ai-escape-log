@@ -3838,5 +3838,13 @@
     "date": "2026-09-02",
     "snippet": "CVE-2026-59822 | BerriAI LiteLLM | BerriAI LiteLLM contains an improper authentication vulnerability in the MCP Streamable HTTP endpoint that could allow an unauthenticated attacker to establish an authenticated MCP session using an arbitrary Bearer token.",
     "first_seen": "2026-09-14"
+  },
+  {
+    "title": "Qwen3.8-27B-TWIN-TURBO-Fable-Cold-Fusion-709-L-Uncensored-NVFP4 - most accurate tool calling",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfw9gb/qwen3827btwinturbofablecoldfusion709luncensorednvf/",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-09-14",
+    "snippet": "   Just wanted to share something I&#39;ve been really impressed with lately.   This week i grabbed this Qwen3.8-27B build and wanted to share my some experience which i assume would be very useful to others.    https://huggingface.co/esatapedico/Qwen3.8-27B-TWIN-TURBO-Fable-Cold-Fusion-709-L-Uncens",
+    "first_seen": "2026-09-14"
   }
 ]
