@@ -3782,5 +3782,13 @@
     "date": "2026-09-12",
     "snippet": "jinja : support dot property integer literals ( #28817 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/47107718 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS…",
     "first_seen": "2026-09-12"
+  },
+  {
+    "title": "Waymo pulls over, calls cops on riders with a ghost gun",
+    "url": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun",
+    "source": "The Verge",
+    "date": "2026-09-13",
+    "snippet": "Two people were arrested in San Fransico while riding around in a Waymo robotaxi after the cab pulled over and called the cops on them. The riders were juveniles in possession of a loaded AR-style ghost gun and were taken to a juvenile hall. While the police report did not specify who was operating ",
+    "first_seen": "2026-09-13"
   }
 ]
