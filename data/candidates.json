@@ -3592,22 +3592,6 @@
     "first_seen": "2026-09-15"
   },
   {
-    "title": "'AI Escaped Its Sandbox' — What Does That Actually Mean?",
-    "url": "https://unpredictabletokens.substack.com/p/ai-escaped-its-sandbox-what-that",
-    "source": "Hacker News",
-    "date": "2026-08-08",
-    "snippet": "",
-    "first_seen": "2026-09-15"
-  },
-  {
-    "title": "Show HN: Misalignments when using AI for hacking",
-    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
-    "source": "Hacker News",
-    "date": "2026-08-05",
-    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
-    "first_seen": "2026-09-15"
-  },
-  {
     "title": "Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
     "url": "https://prismix.dev/news/d24be3d71151",
     "source": "Prismix AI",
@@ -3640,19 +3624,67 @@
     "first_seen": "2026-09-15"
   },
   {
-    "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment - WIRED",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ",
-    "source": "Google News",
-    "date": "Thu, 06 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ?oc=5\" target=\"_blank\">One of China’s Most Powerful AI Models Has Also Escaped Containme",
-    "first_seen": "2026-09-15"
-  },
-  {
     "title": "Local man arrested by federal agents, accused of buying gun with intent to commit terroristic act - wpxi.com",
     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMXhHbUpoMEZJRy1Wd3FUSElSODg5Tk5aRVF3RUVmeDNENnZKaHo4czlIMnZtcjUzMHZsVnFFZ1RqYzc2UjZqdVdyWkJtWmMwMVZ0b0tPUlZHVmVBcktNM2Nqbld2S003YVlvRW43VVM3c2pEcUg3aXRPZU14Z3BIcVpTM0czaVpJam1Qa2xBREJieVFKaHk1UE9Ta0FQcDhXQ1hYYU5qbXBMUXZZaWE0c2tsV2dEUFpPeDJoaWozNmdXMFZTZUhaeVNwMnQyaUozN0VTcDdmdFpPUTJtdVdfa3R6RGnSAfgBQVVfeXFMT1RMTEJDT2c0UThDVnA2d1VvTjBDSHlEMXlZeFBuNjZLQXltRDNwdGloVEtGeE1XUDJ4TUxoOUxzR0VTYU12NlByb0hqTmJiRkFrc3BkcHFuY3RFWnphYUhnMy1sVnRQLWxyYUVhQ2N1dFVZdm1MaGFfa1dVLW9wd2p5bmlYX1lXdXhURkNzd2h2b0g2djN2cnA1UGZCZW52c3ZDYVFfZTAwdUJmWm5fTU1IM3dBNjNnSFo5enpnYXZpNUJCZDZtUGpPdXlGc1FtaVZSUXBTTFFpaTBIcUdLa0p6VEpZdFY5WEhFQjNybzBpNzBHUUU1V1E",
     "source": "Google News",
     "date": "Tue, 15 Se",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMXhHbUpoMEZJRy1Wd3FUSElSODg5Tk5aRVF3RUVmeDNENnZKaHo4czlIMnZtcjUzMHZsVnFFZ1RqYzc2UjZqdVdyWkJtWmMwMVZ0b0tPUlZHVmVBcktNM2Nqbld2S003YVlvRW43VVM3c2pEcUg3aXRPZU14Z3BIcVpTM0czaVpJam1Qa2xBREJieVFKaHk1UE9Ta0FQcDhXQ1hYYU5qbXBMUXZZaWE0c2tsV2dEUFpPeD",
+    "first_seen": "2026-09-15"
+  },
+  {
+    "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+    "url": "https://prismix.dev/news/bbd5c8ed9218",
+    "source": "Prismix AI",
+    "date": "2026-09-15",
+    "snippet": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics. Register before September 25 to save up to $200 on your pass.",
+    "first_seen": "2026-09-15"
+  },
+  {
+    "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
+    "url": "https://prismix.dev/news/4c476703f70e",
+    "source": "Prismix AI",
+    "date": "2026-09-15",
+    "snippet": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.",
+    "first_seen": "2026-09-15"
+  },
+  {
+    "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+    "url": "https://prismix.dev/news/2b82b6d196ef",
+    "source": "Prismix AI",
+    "date": "2026-09-15",
+    "snippet": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
+    "first_seen": "2026-09-15"
+  },
+  {
+    "title": "Opinion | How to keep AI from going rogue? Start with a 30-day stand-down. - The Washington Post",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYTNnVHpCOUVUZDhXclZSUXZuY1liVUlMaFV6NHg5cU44X0FVY3lVMkZlcWtNUjNCbS13S2E5dkZCejlxV1lmdUpPUGJYbnBwUl9LZ29rZm1UQUhwNHdsd2RnbURGYk1ncVEteU5STUpieHl4V0M3ZGZMY19vRE8ySHZRV2NhM25aX2JEcms3NlRVUDNZMUpTUXMxRmkzMEFKcDFuT0praXFqdlFjTUE",
+    "source": "Google News",
+    "date": "Tue, 15 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNYTNnVHpCOUVUZDhXclZSUXZuY1liVUlMaFV6NHg5cU44X0FVY3lVMkZlcWtNUjNCbS13S2E5dkZCejlxV1lmdUpPUGJYbnBwUl9LZ29rZm1UQUhwNHdsd2RnbURGYk1ncVEteU5STUpieHl4V0M3ZGZMY19vRE8ySHZRV2NhM25aX2JEcms3NlRVUDNZMUpTUXMxRmkzMEFKcDFuT0praXFqdlFjTUE?oc=5\" target=\"",
+    "first_seen": "2026-09-15"
+  },
+  {
+    "title": "Can AI actually go rogue - jstribune.com",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83OU9DSHdNUHZDNURRUEFWeFo2RE1YNTFqZXlVRTZsaEYzengwMHBad1VUUlJYeXAtWEI0NjVXek1LZUp0bzFSQzdtRlhzOF8xT2FfX0VsendPbWZxaGJLdQ",
+    "source": "Google News",
+    "date": "Wed, 09 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE83OU9DSHdNUHZDNURRUEFWeFo2RE1YNTFqZXlVRTZsaEYzengwMHBad1VUUlJYeXAtWEI0NjVXek1LZUp0bzFSQzdtRlhzOF8xT2FfX0VsendPbWZxaGJLdQ?oc=5\" target=\"_blank\">Can AI actually go rogue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jstribune.com</font>",
+    "first_seen": "2026-09-15"
+  },
+  {
+    "title": "Rogue AI didn’t breach Hugging Face, human decisions did - Bulletin of the Atomic Scientists",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSW9hYXBVa3JCRUhZT081VVlZUEMzZHIzSFpveDlYdWdlQmJaWEI2WmhCeU05Yy1lOEtvRWJGbVZMM1g1SlEwMURZdndyTHFndk1PYk93ZjVWVGxlOUZObTE3VWY4R1VQaV95YUkyWWVqTVlSaTFVdGdfeVd1QTdFVXlabml6QURIR2pBWFVsY1A",
+    "source": "Google News",
+    "date": "Fri, 11 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQSW9hYXBVa3JCRUhZT081VVlZUEMzZHIzSFpveDlYdWdlQmJaWEI2WmhCeU05Yy1lOEtvRWJGbVZMM1g1SlEwMURZdndyTHFndk1PYk93ZjVWVGxlOUZObTE3VWY4R1VQaV95YUkyWWVqTVlSaTFVdGdfeVd1QTdFVXlabml6QURIR2pBWFVsY1A?oc=5\" target=\"_blank\">Rogue AI didn’t breach Hugging F",
+    "first_seen": "2026-09-15"
+  },
+  {
+    "title": "Anthropic Reveals Four Times AI Went Rogue and Attacked Real World Systems - Newsweek",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVDBHUzhhTGJmcUEza1BQQlVkd3QzS2daa25mcHk2Ulk2Ynp2NjNYakQtRWNITUprUkw5RGtZSEZEMmJ5d1cyUEdkWHVjWmc1cWQ2a0dVWklHcVNldVY0enRSSGZiNS05N29HRkctTWlfeDJsdFQxRlI0bmZFd2tDMGJBcl84YWxjbGZEOHNsajI4MWlo",
+    "source": "Google News",
+    "date": "Thu, 10 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOVDBHUzhhTGJmcUEza1BQQlVkd3QzS2daa25mcHk2Ulk2Ynp2NjNYakQtRWNITUprUkw5RGtZSEZEMmJ5d1cyUEdkWHVjWmc1cWQ2a0dVWklHcVNldVY0enRSSGZiNS05N29HRkctTWlfeDJsdFQxRlI0bmZFd2tDMGJBcl84YWxjbGZEOHNsajI4MWlo?oc=5\" target=\"_blank\">Anthropic Reveals Four Time",
     "first_seen": "2026-09-15"
   }
 ]
