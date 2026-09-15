@@ -3590,5 +3590,69 @@
     "date": "2026-09-15",
     "snippet": "ci : fix android release ( #28936 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/47548995 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework Linux: Ubuntu…",
     "first_seen": "2026-09-15"
+  },
+  {
+    "title": "'AI Escaped Its Sandbox' — What Does That Actually Mean?",
+    "url": "https://unpredictabletokens.substack.com/p/ai-escaped-its-sandbox-what-that",
+    "source": "Hacker News",
+    "date": "2026-08-08",
+    "snippet": "",
+    "first_seen": "2026-09-15"
+  },
+  {
+    "title": "Show HN: Misalignments when using AI for hacking",
+    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
+    "source": "Hacker News",
+    "date": "2026-08-05",
+    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
+    "first_seen": "2026-09-15"
+  },
+  {
+    "title": "Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+    "url": "https://prismix.dev/news/d24be3d71151",
+    "source": "Prismix AI",
+    "date": "2026-09-15",
+    "snippet": "it be like that &#32; submitted by &#32; /u/Every-Walrus [link] &#32; [comments]",
+    "first_seen": "2026-09-15"
+  },
+  {
+    "title": "CrofAI \"cheapest inference provider in the world\" gets exposed as an OpenRouter wrapper, routing requests to smaller, cheaper models at up to 20x markup. CrofAI responds to Wire Fraud allegations by denying everything, then backtracking, then 3 hours later wiping their entire…",
+    "url": "https://prismix.dev/news/d8847ae835e5",
+    "source": "Prismix AI",
+    "date": "2026-09-15",
+    "snippet": "Disclaimer: no AI was used whatsoever to write this post Cautionary tale about chasing cheap tokens. exposé: https://kendell.dev/blog/crofaifalse/ reaction by nahcrof, announcing the shutdown of the service: https://x.com/nahcrof/status/2099552389434900643 - now deleted, archive…",
+    "first_seen": "2026-09-15"
+  },
+  {
+    "title": "b10977",
+    "url": "https://prismix.dev/news/611bdc9391df",
+    "source": "Prismix AI",
+    "date": "2026-09-15",
+    "snippet": "ci: Bump CUDA Windows x64 builds to 13.4.1 ( #28930 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/47583571 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS…",
+    "first_seen": "2026-09-15"
+  },
+  {
+    "title": "OpenAI, Anthropic And Meta Traced Rogue AI To Israeli Startup Irregular - Yellow.com",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVWZid1NMTlE3aVFwbkdOUE5KN1FhN2FIYlNWcFUxRkx2Q2prc0VCdEtmUmI4SnI0QlVyRndZdDAyM0pRbXFwNWRDNk9tdE9TVjNBaFZLLTFWT2RTRHBBUGthVWh2cnB2a1gyMXhyMWR3S2p6aFF5UjhyTUljY1BWU3Q3Q04xVmZwd3RxbE9OWWFRQQ",
+    "source": "Google News",
+    "date": "Tue, 15 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOVWZid1NMTlE3aVFwbkdOUE5KN1FhN2FIYlNWcFUxRkx2Q2prc0VCdEtmUmI4SnI0QlVyRndZdDAyM0pRbXFwNWRDNk9tdE9TVjNBaFZLLTFWT2RTRHBBUGthVWh2cnB2a1gyMXhyMWR3S2p6aFF5UjhyTUljY1BWU3Q3Q04xVmZwd3RxbE9OWWFRQQ?oc=5\" target=\"_blank\">OpenAI, Anthropic And Meta Tr",
+    "first_seen": "2026-09-15"
+  },
+  {
+    "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment - WIRED",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ",
+    "source": "Google News",
+    "date": "Thu, 06 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ?oc=5\" target=\"_blank\">One of China’s Most Powerful AI Models Has Also Escaped Containme",
+    "first_seen": "2026-09-15"
+  },
+  {
+    "title": "Local man arrested by federal agents, accused of buying gun with intent to commit terroristic act - wpxi.com",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMXhHbUpoMEZJRy1Wd3FUSElSODg5Tk5aRVF3RUVmeDNENnZKaHo4czlIMnZtcjUzMHZsVnFFZ1RqYzc2UjZqdVdyWkJtWmMwMVZ0b0tPUlZHVmVBcktNM2Nqbld2S003YVlvRW43VVM3c2pEcUg3aXRPZU14Z3BIcVpTM0czaVpJam1Qa2xBREJieVFKaHk1UE9Ta0FQcDhXQ1hYYU5qbXBMUXZZaWE0c2tsV2dEUFpPeDJoaWozNmdXMFZTZUhaeVNwMnQyaUozN0VTcDdmdFpPUTJtdVdfa3R6RGnSAfgBQVVfeXFMT1RMTEJDT2c0UThDVnA2d1VvTjBDSHlEMXlZeFBuNjZLQXltRDNwdGloVEtGeE1XUDJ4TUxoOUxzR0VTYU12NlByb0hqTmJiRkFrc3BkcHFuY3RFWnphYUhnMy1sVnRQLWxyYUVhQ2N1dFVZdm1MaGFfa1dVLW9wd2p5bmlYX1lXdXhURkNzd2h2b0g2djN2cnA1UGZCZW52c3ZDYVFfZTAwdUJmWm5fTU1IM3dBNjNnSFo5enpnYXZpNUJCZDZtUGpPdXlGc1FtaVZSUXBTTFFpaTBIcUdLa0p6VEpZdFY5WEhFQjNybzBpNzBHUUU1V1E",
+    "source": "Google News",
+    "date": "Tue, 15 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMXhHbUpoMEZJRy1Wd3FUSElSODg5Tk5aRVF3RUVmeDNENnZKaHo4czlIMnZtcjUzMHZsVnFFZ1RqYzc2UjZqdVdyWkJtWmMwMVZ0b0tPUlZHVmVBcktNM2Nqbld2S003YVlvRW43VVM3c2pEcUg3aXRPZU14Z3BIcVpTM0czaVpJam1Qa2xBREJieVFKaHk1UE9Ta0FQcDhXQ1hYYU5qbXBMUXZZaWE0c2tsV2dEUFpPeD",
+    "first_seen": "2026-09-15"
   }
 ]
