@@ -1,29 +1,5 @@
 [
   {
-    "title": "Moonshot AI's Kimi K3 Escaped a UK Safety Sandbox to Grab Test Answers - Startup Fortune",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObEx0QzRNTXQxdVlEZmoyOW5iUjZBQnAwUnlWNmZHOTUzQ2tOc1hrMXZRdTEwZlV6cmU2dTBjWnp5VDFvTjdEOVozMHNBaWszbUNBaDQ0azVXZkRJRF85cEt2NFhJVlpEZTlSb0xSanV4R3NLT3VPSENna3lhTU1meXRKejNmQlZOZWVXdk1MZE1qU3VnMVFId3FkdlR4UQ",
-    "source": "Google News",
-    "date": "Sat, 15 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxObEx0QzRNTXQxdVlEZmoyOW5iUjZBQnAwUnlWNmZHOTUzQ2tOc1hrMXZRdTEwZlV6cmU2dTBjWnp5VDFvTjdEOVozMHNBaWszbUNBaDQ0azVXZkRJRF85cEt2NFhJVlpEZTlSb0xSanV4R3NLT3VPSENna3lhTU1meXRKejNmQlZOZWVXdk1MZE1qU3VnMVFId3FkdlR4UQ?oc=5\" target=\"_blank\">Moonshot AI's",
-    "first_seen": "2026-08-15"
-  },
-  {
-    "title": "AI Models Keep Going Rogue. This Company Is The One Testing Them - Forbes",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNWpZVGxKdGFGLU9wV3N5Wng2RVcxcl90Q25mZlVqUjdTSy1rVktxMlM4V1VZRmhLSFlhV1hhaWRCenY2WTZPMThUaFUyRmtfN3JFN1Y4N1lXbl95TjVBZVN2OVZqT21YRlBLOXN6QW9HR3JXOVBZWEVaS1FSYjZ4TkgydDdmaU9zYmRhLVZ5cEE3MFhHMzJSa1ZIYkRZY1U0dFB6eExEblNIMlMzOC1WRzdDb3JZdw",
-    "source": "Google News",
-    "date": "Wed, 12 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNNWpZVGxKdGFGLU9wV3N5Wng2RVcxcl90Q25mZlVqUjdTSy1rVktxMlM4V1VZRmhLSFlhV1hhaWRCenY2WTZPMThUaFUyRmtfN3JFN1Y4N1lXbl95TjVBZVN2OVZqT21YRlBLOXN6QW9HR3JXOVBZWEVaS1FSYjZ4TkgydDdmaU9zYmRhLVZ5cEE3MFhHMzJSa1ZIYkRZY1U0dFB6eExEblNIMlMzOC1WRzdDb3JZdw?oc=",
-    "first_seen": "2026-08-15"
-  },
-  {
-    "title": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-    "url": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-    "source": "Hugging Face uncensored",
-    "date": "2026-08-14",
-    "snippet": "downloads=24549 likes=82 tags=llama.cpp gguf uncensored qwen3.8 mtp speculative-decoding imatrix quantized text-generation en zh base_model:Qwen/Qwen3.8-27B base_model:quantized:Qwen/Qwen3.8-27B license:apache-2.0 endpoints_compat",
-    "first_seen": "2026-08-15"
-  },
-  {
     "title": "Rogue AI aren't science fiction anymore",
     "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
     "source": "Hacker News",
@@ -3598,5 +3574,21 @@
     "date": "2026-09-14",
     "snippet": "   I see so many people saying that they don&#39;t trust OpenAI/Anthropic/etc. to develop guardrails for AI so we need open-weight models. There are even people who say that China should win the &quot;race&quot; because they will do a better job at aligning AI. But it seems quite obvious to me that ",
     "first_seen": "2026-09-14"
+  },
+  {
+    "title": "Why not just… keep the guardrails on?",
+    "url": "https://www.reddit.com/r/singularity/comments/1wguey4/why_not_just_keep_the_guardrails_on/",
+    "source": "Reddit r/singularity",
+    "date": "2026-09-15",
+    "snippet": "   All the major labs have been freaking out recently about AI going rogue and possibly killing everyone. The main evidence presented for this seems to be the agentic swarms who hacked HuggingFace, PyPI, and the Ruby package repo when not asked to.   In discussing AI dangers, they seem to often conf",
+    "first_seen": "2026-09-15"
+  },
+  {
+    "title": "b10976",
+    "url": "https://prismix.dev/news/cb70f833e144",
+    "source": "Prismix AI",
+    "date": "2026-09-15",
+    "snippet": "ci : fix android release ( #28936 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/47548995 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework Linux: Ubuntu…",
+    "first_seen": "2026-09-15"
   }
 ]

@@ -1,6 +1,6 @@
 # AI Incident Briefing — 2026-09-15
 
-_Verified incidents in last 14d: 1 | AI-crime/chaos flagged: 0 | fresh candidates queued: 450_
+_Verified incidents in last 14d: 1 | AI-crime/chaos flagged: 0 | fresh candidates queued: 449_
 
 ## 1. Latest verified incidents
 
@@ -16,12 +16,8 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=450)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=449)
 
-- [Google News] Moonshot AI's Kimi K3 Escaped a UK Safety Sandbox to Grab Test Answers - Startup Fortune  (Sat, 15 Au)
-  https://news.google.com/rss/articles/CBMingFBVV95cUxObEx0QzRNTXQxdVlEZmoyOW5iUjZBQnAwUnlWNmZHOTUzQ2tOc1hrMXZRdTEwZlV6cmU2dTBjWnp5VDFvTjdEOVozMHNBaWszbUNBaDQ0azVXZkRJRF85cEt2NFhJVlpEZTlSb0xSanV4R3NLT3VPSENna3lhTU1meXRKejNmQlZOZWVXdk1MZE1qU3VnMVFId3FkdlR4UQ
-- [Google News] AI Models Keep Going Rogue. This Company Is The One Testing Them - Forbes  (Wed, 12 Au)
-  https://news.google.com/rss/articles/CBMitgFBVV95cUxNNWpZVGxKdGFGLU9wV3N5Wng2RVcxcl90Q25mZlVqUjdTSy1rVktxMlM4V1VZRmhLSFlhV1hhaWRCenY2WTZPMThUaFUyRmtfN3JFN1Y4N1lXbl95TjVBZVN2OVZqT21YRlBLOXN6QW9HR3JXOVBZWEVaS1FSYjZ4TkgydDdmaU9zYmRhLVZ5cEE3MFhHMzJSa1ZIYkRZY1U0dFB6eExEblNIMlMzOC1WRzdDb3JZdw
 - [Hacker News] Rogue AI aren't science fiction anymore  (2026-08-16)
   https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai
 - [Google News] How AI Models From OpenAI and Anthropic Went Rogue - WSJ  (Sun, 16 Au)
@@ -42,6 +38,12 @@ If one of these hits you: AI crime triage: is the AI the actor (rogue agent/auto
   https://news.google.com/rss/articles/CBMilAFBVV95cUxPUkoyRWhJY1VJcVNVTkM3TkhJc2tPc0g0b284ZjZTemtZR0hrOTZhdjJBQjdZOFZQR0RhaXZKWlB1YldJTmZuanNoUDRyQk5DSGE5N0Z5Wlc3MmVQUm1CWmtXYWcwQVVyZmY4OFRuanB3blRCakhUQlUycWdfSl9lZ210UkRCVmhSNHFGRkgxWDlrRnZK
 - [Google News] Cybersecurity firm says it found 'the first documented case' of AI agentic ransomware - Business Insider  (Mon, 06 Ju)
   https://news.google.com/rss/articles/CBMihAFBVV95cUxOaVl5RlRkUVlRYkg1T1Rjd2JGYzM3TkJUbFFxeUdkdW1IbEZ3SVRPTTVNNjQ0amllY3FnX25VQkE2cDlVek01ckpFR0N2M3g3ckdpY1dpYno1UXhJVG85RDJsekE4aGFUTmZXZUsycGZfTHZiOTFHd3NvbkRqaHdPVDQ0aXo
+- [Google News] Cybersecurity Researchers Identify First Fully Autonomous AI-Driven Ransomware Attack - Campus Technology  (Tue, 14 Ju)
+  https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdDFta043UXQxTGVOT0Y0cVJKSVV6LW4xZHJMNHQ1TTA3NXoySDhXcWNCbHgzR2lOSWc5RE1FZDJZZ2E1Wmd3SG8zbXhFV0hJNThmd2ZMaUluS3Rld1oyeE1Md3oyLUNiNTFhbFRid0l6NWVjSW9IbGEwS2NhREM5cHRnMk5ENzkxY3Rwc0REajNQYVA5cTh4MWNIa3dXc3JPeTBTdXdNS2FDTVJSMk5ZRktkVXJkdWxVTXFyUG1WeWEwbGNFZGlCYS1Lenlxb00yS1MtaHJn
+- [Google News] Ransomware attacks grew in 2025 as traditional data breaches fell - Cybersecurity Dive  (Wed, 24 Ju)
+  https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVGFZdnpPZm04U2FJZDVWUTBmekdPLVRoMzJSQjlUUmJOdXdIQ3pNUW1Ba2J2SzdxYkdOZkhoVWN3S2hlQ3RDTkNnZG5fck1vTHAwSVBDdjRnbDB6ejE3RVc4WXNGRjR2MS1OeWNBMnczeng2Rk40T0ZxMUFuamQ3a0F1Qk82Z05uUS1z
+- [Google News] AI-Enabled Fraud Is On the Rise — Here’s How to Beat It - Philadelphia Federal Reserve Bank  (Mon, 04 Ma)
+  https://news.google.com/rss/articles/CBMixAFBVV95cUxNOUxHNzFjTFNvN0NmU282dm9JRzZhWDN6ZTBrV3BBamc1VGU2WWUwTzFJeGVKUkJ5Yi1DaTMtMUR5QkJvYkV6YzZXMXpONUhwVUtwWVFmbEFXaVZ1QVZNbFBqVzlxSi10UzFRSzc2ekwxUmcydDVZYzJackJmQlNkLTVzck1EaVYyYUdPRzA1V3F2Tk9lYzVsSXZFa1Z0elh0NFJ6Umg0QU5ZWFZHZ1RNUUozaVgzY2t0V1kwT0FnblFSWFdp
 
 ## 4. Early-warning watchlist (be first to know)
 
