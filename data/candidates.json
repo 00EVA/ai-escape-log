@@ -3792,22 +3792,6 @@
     "first_seen": "2026-09-16"
   },
   {
-    "title": "'AI Escaped Its Sandbox' — What Does That Actually Mean?",
-    "url": "https://unpredictabletokens.substack.com/p/ai-escaped-its-sandbox-what-that",
-    "source": "Hacker News",
-    "date": "2026-08-08",
-    "snippet": "",
-    "first_seen": "2026-09-16"
-  },
-  {
-    "title": "Show HN: Misalignments when using AI for hacking",
-    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
-    "source": "Hacker News",
-    "date": "2026-08-05",
-    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
-    "first_seen": "2026-09-16"
-  },
-  {
     "title": "EXCLUSIVE: OpenAI's rogue agents probed Hugging Face for weaknesses two months before major hack",
     "url": "https://www.reddit.com/r/singularity/comments/1wi2uv5/exclusive_openais_rogue_agents_probed_hugging/",
     "source": "Reddit r/singularity",
@@ -3837,22 +3821,6 @@
     "source": "Prismix AI",
     "date": "2026-09-16",
     "snippet": "CUDA/HIP: improve access patterns in im2col ( #28013 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/47937267 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS…",
-    "first_seen": "2026-09-16"
-  },
-  {
-    "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment - WIRED",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ",
-    "source": "Google News",
-    "date": "Thu, 06 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ?oc=5\" target=\"_blank\">One of China’s Most Powerful AI Models Has Also Escaped Containme",
-    "first_seen": "2026-09-16"
-  },
-  {
-    "title": "An OpenAI test model escaped and broke into a real company’s servers - CNN",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg",
-    "source": "Google News",
-    "date": "Wed, 22 Ju",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg?oc=5\" target=\"_blank\">An OpenAI test model escaped and broke into a real company’s",
     "first_seen": "2026-09-16"
   }
 ]
