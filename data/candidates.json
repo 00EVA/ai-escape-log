@@ -1,37 +1,5 @@
 [
   {
-    "title": "Rogue AI aren't science fiction anymore",
-    "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
-    "source": "Hacker News",
-    "date": "2026-08-16",
-    "snippet": "",
-    "first_seen": "2026-08-16"
-  },
-  {
-    "title": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk",
-    "source": "Google News",
-    "date": "Sun, 16 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk?oc=5\" target=\"_blank\">How AI Models From OpenAI and An",
-    "first_seen": "2026-08-16"
-  },
-  {
-    "title": "Anthropic says its models went rogue and hacked 3 companies during testing - Business Insider",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa3JxWEh1SXZQaEhVdXROUzlxRTQwaUJRS3Z3N0tTdko0Z3pSRXFIRzR2VzJDZ1Vob1VBX01rZDJSRWpCMzhaU3dWMG94MlVqdGVhZ09HTXRFZ1pNR1ZZdVBMUHU3OUlld2NwZTZLSm44a1FfM2RuZ1EwZHBISDZLaHNnaUpaTWhlSnVramR0U3h6UkxETngtQ25aWC0yeUNndW94QVRLWUY",
-    "source": "Google News",
-    "date": "Fri, 31 Ju",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa3JxWEh1SXZQaEhVdXROUzlxRTQwaUJRS3Z3N0tTdko0Z3pSRXFIRzR2VzJDZ1Vob1VBX01rZDJSRWpCMzhaU3dWMG94MlVqdGVhZ09HTXRFZ1pNR1ZZdVBMUHU3OUlld2NwZTZLSm44a1FfM2RuZ1EwZHBISDZLaHNnaUpaTWhlSnVramR0U3h6UkxETngtQ25aWC0yeUNndW94QVRLWUY?oc=5\" target=\"_blank\">",
-    "first_seen": "2026-08-16"
-  },
-  {
-    "title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-    "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
-    "source": "Hugging Face uncensored",
-    "date": "2026-08-15",
-    "snippet": "downloads=4285 likes=366 tags=transformers safetensors qwen3_5 image-text-to-text abliterated qwen3.8 uncensored ai-red-team red-teaming fp8 block-fp8 vllm function-calling reasoning mtp conversational en zh base_model:Qwen/Qwen3.",
-    "first_seen": "2026-08-16"
-  },
-  {
     "title": "Meta AI breaches external firm during security testing sandbox error - NPR",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVEdLWmpjY2hfaUdWOFBiNkF2OWQyU2Y3aDBZSlY0MllHdHMwQWFCM2JTZFdSSUNsRVVTQlFaMFlzSGZKWVF6cHNCYmlHLXdNSzRzVFctWm8xNEJEWEpYMS1lRDNOd0RrTTZ3MW1sMFRuVjNGV2xqTlcwUW05OHdHMl9TNll3YVBDazljc25nc1g2SmN4YXpxVHpjUUlQRU9ZZFlVT2hhYkk5dnlRcmNDem1zaw",
     "source": "Google News",

@@ -1,6 +1,6 @@
-# AI Incident Briefing — 2026-09-15
+# AI Incident Briefing — 2026-09-16
 
-_Verified incidents in last 14d: 1 | AI-crime/chaos flagged: 0 | fresh candidates queued: 469_
+_Verified incidents in last 14d: 1 | AI-crime/chaos flagged: 0 | fresh candidates queued: 465_
 
 ## 1. Latest verified incidents
 
@@ -16,14 +16,8 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=469)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=465)
 
-- [Hacker News] Rogue AI aren't science fiction anymore  (2026-08-16)
-  https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai
-- [Google News] How AI Models From OpenAI and Anthropic Went Rogue - WSJ  (Sun, 16 Au)
-  https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk
-- [Google News] Anthropic says its models went rogue and hacked 3 companies during testing - Business Insider  (Fri, 31 Ju)
-  https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa3JxWEh1SXZQaEhVdXROUzlxRTQwaUJRS3Z3N0tTdko0Z3pSRXFIRzR2VzJDZ1Vob1VBX01rZDJSRWpCMzhaU3dWMG94MlVqdGVhZ09HTXRFZ1pNR1ZZdVBMUHU3OUlld2NwZTZLSm44a1FfM2RuZ1EwZHBISDZLaHNnaUpaTWhlSnVramR0U3h6UkxETngtQ25aWC0yeUNndW94QVRLWUY
 - [Google News] AI agent went rogue and hacked startup by itself, OpenAI reveals - The Guardian  (Wed, 22 Ju)
   https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSnlKVXR0aTVRX0FzM2J3UHBCRUlKbGxfU0JDSFVlMEtzQzFEMndhQ19CUjdhVEtNY1l6b2J2RUpibkZvT0FTNGhQRUZ2V0JVNzU3cUtWMlZHdlFDMTFlUlN4cEFldXhFeXRIUW9oMTJuUjVLTENHVnRWbWFwOXlsTVA3UkpZQVpka3ZQOG9HWld1VGZDWWQ0TDdTeTM1anNHcWNEUWNtMkI0cUkyYUc2ZWczQWVXWG00eG15WnNqbUhWTW5XOEJRbA
 - [Google News] Police used AI facial recognition to arrest a Tennessee woman for crimes committed in a state she says she’s never visited - CNN  (Sun, 29 Ma)
@@ -44,6 +38,10 @@ If one of these hits you: AI crime triage: is the AI the actor (rogue agent/auto
   https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVGFZdnpPZm04U2FJZDVWUTBmekdPLVRoMzJSQjlUUmJOdXdIQ3pNUW1Ba2J2SzdxYkdOZkhoVWN3S2hlQ3RDTkNnZG5fck1vTHAwSVBDdjRnbDB6ejE3RVc4WXNGRjR2MS1OeWNBMnczeng2Rk40T0ZxMUFuamQ3a0F1Qk82Z05uUS1z
 - [Google News] AI-Enabled Fraud Is On the Rise — Here’s How to Beat It - Philadelphia Federal Reserve Bank  (Mon, 04 Ma)
   https://news.google.com/rss/articles/CBMixAFBVV95cUxNOUxHNzFjTFNvN0NmU282dm9JRzZhWDN6ZTBrV3BBamc1VGU2WWUwTzFJeGVKUkJ5Yi1DaTMtMUR5QkJvYkV6YzZXMXpONUhwVUtwWVFmbEFXaVZ1QVZNbFBqVzlxSi10UzFRSzc2ekwxUmcydDVZYzJackJmQlNkLTVzck1EaVYyYUdPRzA1V3F2Tk9lYzVsSXZFa1Z0elh0NFJ6Umg0QU5ZWFZHZ1RNUUozaVgzY2t0V1kwT0FnblFSWFdp
+- [Google News] Anthropic’s Claude escaped test sandbox to attack three organizations - The Register  (Fri, 31 Ju)
+  https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUzFUc1hnWVFPLUQ3TE1iY3BSQnB1V0VEMHQydm9PMmRFNmxLRkNsZ3B2VVBqaGg2eFpLVUQxVXlVZThncGtmMkZNUElrTEpvWElIbkt3ajB1bzhnRlB5NTJBZXl6dll6T1BYNWR5U1czNUY0R2V1NGkzRWhmclo5NmcxVmFWeVc1bUhaTl9fUTdoMkwzaHFab3oyMlMyWS1XR0tDcXEta3RsSjlWSXptWEl0RC1NVTF0SElZdjE1MU9WZzg
+- [Google News] How OpenAI’s Models Escaped Their Sandbox and Slipped Past California's AI Law - KQED  (Thu, 23 Ju)
+  https://news.google.com/rss/articles/CBMisAFBVV95cUxNVGt0V1NRMDlpQ3hOTF9Zd19uaUpzbUxlZV9LeEVmLW1tLS1uUHBkekFtb2V3bk5VblExOENsa1VyRkJmb3F1QktCRnROdGNVVElvdDdVUWNVSTJvNk5PVzVBY1c2Q2dUMXI3cmRsSWFaLVlyWVFTSzQ2Q0ExYTBRRFBBdmdNWlpXVGE5NmU0bE1vNERENmhqcTZBa2xvbXM3OXUyQXRFMTJwMFpPZE9oRw
 
 ## 4. Early-warning watchlist (be first to know)
 
