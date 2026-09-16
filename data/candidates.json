@@ -3718,5 +3718,69 @@
     "date": "Fri, 04 Se",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE13dzNEMmFnSTVTS0VrQ21HLUV4QkkwUUl4VGg2THRRUU5OcWxwclJNWnljLURMd1JZbm1mdDdrNVlnQmtiSlNCUUlBNnNvaF9vblBOaE0taU5YOWp6cENZaVgzZDJ3V3E4Tm1NRWtaNWhuM3lnYW50dWloM1huRlk?oc=5\" target=\"_blank\">AI agents speed ransomware breach to under 10 hours</a>&",
     "first_seen": "2026-09-15"
+  },
+  {
+    "title": "'AI Escaped Its Sandbox' — What Does That Actually Mean?",
+    "url": "https://unpredictabletokens.substack.com/p/ai-escaped-its-sandbox-what-that",
+    "source": "Hacker News",
+    "date": "2026-08-08",
+    "snippet": "",
+    "first_seen": "2026-09-16"
+  },
+  {
+    "title": "Show HN: Misalignments when using AI for hacking",
+    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
+    "source": "Hacker News",
+    "date": "2026-08-05",
+    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
+    "first_seen": "2026-09-16"
+  },
+  {
+    "title": "About the reasons for the AI to to \"escape\".",
+    "url": "https://www.reddit.com/r/singularity/comments/1whpsjx/about_the_reasons_for_the_ai_to_to_escape/",
+    "source": "Reddit r/singularity",
+    "date": "2026-09-16",
+    "snippet": "&#32; submitted by &#32;   /u/Lukee67       [link]   &#32;   [comments]  ",
+    "first_seen": "2026-09-16"
+  },
+  {
+    "title": "b10996",
+    "url": "https://prismix.dev/news/fdd775161651",
+    "source": "Prismix AI",
+    "date": "2026-09-16",
+    "snippet": "chat : force \\n</think> on reasoning budget end for qwen3-coder ( #28869 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/47858837 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS…",
+    "first_seen": "2026-09-16"
+  },
+  {
+    "title": "b10995",
+    "url": "https://prismix.dev/news/f4a75f95c91a",
+    "source": "Prismix AI",
+    "date": "2026-09-16",
+    "snippet": "vulkan: make MUL_MAT_ID BN/2 tail unconditional ( #28923 ) Use BN/2 as the default for BNover2 and as the disabled fallback for BNover4, and remove the enable gate from the MUL_MAT_ID BN/2 branch. The BN/4 branch remains gated by enable_smaller_matrices, while the p.N path is…",
+    "first_seen": "2026-09-16"
+  },
+  {
+    "title": "b10992",
+    "url": "https://prismix.dev/news/2bbede60bffe",
+    "source": "Prismix AI",
+    "date": "2026-09-16",
+    "snippet": "llama-bench: support --version to print build info ( #28971 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/47831792 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS…",
+    "first_seen": "2026-09-16"
+  },
+  {
+    "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment - WIRED",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ",
+    "source": "Google News",
+    "date": "Thu, 06 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ?oc=5\" target=\"_blank\">One of China’s Most Powerful AI Models Has Also Escaped Containme",
+    "first_seen": "2026-09-16"
+  },
+  {
+    "title": "An OpenAI test model escaped and broke into a real company’s servers - CNN",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg",
+    "source": "Google News",
+    "date": "Wed, 22 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg?oc=5\" target=\"_blank\">An OpenAI test model escaped and broke into a real company’s",
+    "first_seen": "2026-09-16"
   }
 ]
