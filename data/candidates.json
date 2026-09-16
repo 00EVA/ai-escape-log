@@ -3702,5 +3702,37 @@
     "date": "Thu, 10 Se",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNVG4yck9faGFDVTdWZ0VjQ3lqTUNsWnNfYkY5ZGswZ0E4eFgxRldlS1JSdzRZOXZoOTFSLVMxTEdBYm1IWXpEajI0bWJfcTduSERqNVA3ODRBWTl1UHJwVlUtZFpIbm9qUlFSQUU2blAxTm5jeW9xWGJVWWVzZlhiTHhR?oc=5\" target=\"_blank\">Who's to blame when AI goes rogue?</a>&nbsp;&nbsp;<",
     "first_seen": "2026-09-15"
+  },
+  {
+    "title": "b10990",
+    "url": "https://prismix.dev/news/b655660d0bda",
+    "source": "Prismix AI",
+    "date": "2026-09-15",
+    "snippet": "hex-cpy: use dma if src and dst are contiguous ( #28906 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/47770889 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS…",
+    "first_seen": "2026-09-15"
+  },
+  {
+    "title": "b10989",
+    "url": "https://prismix.dev/news/205dbc662f8d",
+    "source": "Prismix AI",
+    "date": "2026-09-15",
+    "snippet": "HIP: Enable AllReduce for ROCm ( #27825 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/47762387 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework Linux:…",
+    "first_seen": "2026-09-15"
+  },
+  {
+    "title": "censorship has begun on HuggingFace",
+    "url": "https://prismix.dev/news/7b4ebc2c00ec",
+    "source": "Prismix AI",
+    "date": "2026-09-15",
+    "snippet": "example: https://huggingface.co/audnai/penclaw-GLM-5.3-abliterated-for-offensive-cyber . edit: good context for why this was done here https://www.reddit.com/r/LocalLLaMA/comments/1whbvpx/comment/pa16gx3/ in my opinion the disabled messages should be more specific. &#32;…",
+    "first_seen": "2026-09-15"
+  },
+  {
+    "title": "OpenAI’s rogue AI agents used universities, wikis, and text‑sharing sites as hidden message boards - Fortune",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMWpZUXYtTkdUNnRWRmtiVmQ5YnlaNHBzTTZQSUljem1mLWU5eVJTQTVIRWRYME5XRC1pT2lzUzNQYThXUjZMdlZ0c1NSRk8waUp1X0VuOEF0LTFtUTdaTjJkTzNWaTBkR0lHZHpvZXpVUDVhS2dNQUVJTnUxRHZ6Q3RvRlhCdw",
+    "source": "Google News",
+    "date": "Wed, 09 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPMWpZUXYtTkdUNnRWRmtiVmQ5YnlaNHBzTTZQSUljem1mLWU5eVJTQTVIRWRYME5XRC1pT2lzUzNQYThXUjZMdlZ0c1NSRk8waUp1X0VuOEF0LTFtUTdaTjJkTzNWaTBkR0lHZHpvZXpVUDVhS2dNQUVJTnUxRHZ6Q3RvRlhCdw?oc=5\" target=\"_blank\">OpenAI’s rogue AI agents used universities, w",
+    "first_seen": "2026-09-15"
   }
 ]
