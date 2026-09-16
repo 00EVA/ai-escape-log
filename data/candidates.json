@@ -3750,5 +3750,45 @@
     "date": "2026-09-16",
     "snippet": "llama-bench: support --version to print build info ( #28971 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/47831792 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS…",
     "first_seen": "2026-09-16"
+  },
+  {
+    "title": "The sexy AI-powered dating app scams are here",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+    "source": "The Verge",
+    "date": "2026-09-16",
+    "snippet": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, she's a 41-year-old Sagittarius with red hair, blue eyes, and piercings. She likes music, horror movie",
+    "first_seen": "2026-09-16"
+  },
+  {
+    "title": "b10999",
+    "url": "https://prismix.dev/news/cb3df35f7521",
+    "source": "Prismix AI",
+    "date": "2026-09-16",
+    "snippet": "Change max context length for auto-fitting with unified KV ( #28849 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/47906437 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel…",
+    "first_seen": "2026-09-16"
+  },
+  {
+    "title": "b10998",
+    "url": "https://prismix.dev/news/9e5ebcce083c",
+    "source": "Prismix AI",
+    "date": "2026-09-16",
+    "snippet": "qwen4exp: add hc ops ( #28901 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/47897353 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework Linux: Ubuntu x64…",
+    "first_seen": "2026-09-16"
+  },
+  {
+    "title": "EXPLAINER – Human misuse or rogue machines? How advanced AI could threaten society - Anadolu Ajansı",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRTVqZTNjbmF6QVlkUXhKTlRQaXllVFlmVnB3UjZxaHo1ek8tUWI3Q19LSV83RDZ5eW1lbDAtVl9FVEU3RkNHeFNwS2dUbng2R05fYUw3UHhxQld6NzJ1VlpaV19aTUg2Z3lGeUVNQS0yVF92OXF5QnA3bVJvLXZ0dzhvMlVMSmNralN2bTJKazdGN3cyMExJNVFWcmphT1ktMEpLVm9WVm41M0Q1RFBhOU5yTUx1Wmkxdm94M3ln",
+    "source": "Google News",
+    "date": "Wed, 16 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPRTVqZTNjbmF6QVlkUXhKTlRQaXllVFlmVnB3UjZxaHo1ek8tUWI3Q19LSV83RDZ5eW1lbDAtVl9FVEU3RkNHeFNwS2dUbng2R05fYUw3UHhxQld6NzJ1VlpaV19aTUg2Z3lGeUVNQS0yVF92OXF5QnA3bVJvLXZ0dzhvMlVMSmNralN2bTJKazdGN3cyMExJNVFWcmphT1ktMEpLVm9WVm41M0Q1RFBhOU5yTUx1Wmkxdm",
+    "first_seen": "2026-09-16"
+  },
+  {
+    "title": "CISA KEV: Google Pixel Improper Authorization Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-58704",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-16",
+    "snippet": "CVE-2026-58704 | Google Pixel | Google Pixel devices contain an improper authorization vulnerability in the cellular modem. A logic error may allow an attacker to bypass permission checks and escalate privileges.",
+    "first_seen": "2026-09-16"
   }
 ]
