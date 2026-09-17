@@ -3782,5 +3782,45 @@
     "date": "Wed, 16 Se",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxObzAwZzhDZklkS3pKcEU5SXVDUkZqTFdJVmJiWEhGX2hVdDJvRjg3UkhSZTdNT3NiNzYyNDJPbHpNNDNWTGVVMHFMV05SQnByb0FGdVRUdUcyRmREUndwNHlMcnlBTV9sUlNuaGZwTXZ3Y0Z0bXdoWGc0NTZnYVQ4UnV0VUI3aEdLUy1uaG1R?oc=5\" target=\"_blank\">Tennessee woman sues Fargo, city de",
     "first_seen": "2026-09-17"
+  },
+  {
+    "title": "Whoever's doing OpenAI's system security is just incompetent in the worst way",
+    "url": "https://news.ycombinator.com/item?id=49743813",
+    "source": "Hacker News",
+    "date": "2026-09-17",
+    "snippet": "We&#x27;re at what, 50 years of computing, and these people don&#x27;t seem to know how to air gap a system?<p>It is pretty simple to prevent a rogue AI from hacking a third party. Make the system air gapped completely. You want a cache of internet or artifacts, you bring those into the air gapped d",
+    "first_seen": "2026-09-17"
+  },
+  {
+    "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+    "url": "https://www.reddit.com/r/singularity/comments/1wj7mce/how_a_small_israeli_startup_was_linked_to_rogue/",
+    "source": "Reddit r/singularity",
+    "date": "2026-09-17",
+    "snippet": "                 Interesting detail behind the recent stories about OpenAI, Anthropic and Meta models “going rogue” during cyber evaluations.   All three incidents were linked to the same third-party testing company, Irregular. According to Irregular, they resulted from the same evaluation-environme",
+    "first_seen": "2026-09-17"
+  },
+  {
+    "title": "The AI Superintelligence Slowdown",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+    "source": "The Verge",
+    "date": "2026-09-17",
+    "snippet": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’",
+    "first_seen": "2026-09-17"
+  },
+  {
+    "title": "The fix for rogue AI agents could be more AI",
+    "url": "https://prismix.dev/news/b6fa6fac1a59",
+    "source": "Prismix AI",
+    "date": "2026-09-17",
+    "snippet": "Y Combinator has funded 106 companies related to AI observability in recent years",
+    "first_seen": "2026-09-17"
+  },
+  {
+    "title": "OpenAI’s 2 Models Escaped Sandbox via Real Zero-Day [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaRTgxQk1rdzJjSmI4ODhWYWVjQ09wVE1TRkc4RDhOTVdyOHVFUndtbW9sM3dfajhLczZpVTJGZktvNG9zMDVHeTZucDZ4Nlp4RE13enFRbHZXQVF3d2VzckxUbTBkanhqT09Od3dfa3BsZw",
+    "source": "Google News",
+    "date": "Thu, 17 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBaRTgxQk1rdzJjSmI4ODhWYWVjQ09wVE1TRkc4RDhOTVdyOHVFUndtbW9sM3dfajhLczZpVTJGZktvNG9zMDVHeTZucDZ4Nlp4RE13enFRbHZXQVF3d2VzckxUbTBkanhqT09Od3dfa3BsZw?oc=5\" target=\"_blank\">OpenAI’s 2 Models Escaped Sandbox via Real Zero-Day [2026]</a>&nbsp;&nbsp",
+    "first_seen": "2026-09-17"
   }
 ]
