@@ -3854,5 +3854,29 @@
     "date": "2026-09-16",
     "snippet": "CVE-2026-87886 | Acronis Backup | Acronis Backup plugin for cPanel & WHM and extension for Plesk contains an incorrect default permissions vulnerability that could allow for privilege escalation.",
     "first_seen": "2026-09-16"
+  },
+  {
+    "title": "datasette 0.65.5",
+    "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
+    "source": "Simon Willison",
+    "date": "2026-09-16",
+    "snippet": "\n    \n        <p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/0.65.5\">datasette 0.65.5</a></p>\n        <p>Security fix for an issue where a trailing newline in a requested table name could bypass table permissions and expose private rows, reported by <a href=\"h",
+    "first_seen": "2026-09-16"
+  },
+  {
+    "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+    "url": "https://prismix.dev/news/0b10385b1288",
+    "source": "Prismix AI",
+    "date": "2026-09-16",
+    "snippet": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+    "first_seen": "2026-09-16"
+  },
+  {
+    "title": "Can a new institute in Cambridge save the world from rogue AI? - The Boston Globe",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ0dCUFFsSDNvZVUta05QeWY5cUgxRGFUbjNHVkpkamxmRGthSGdhYS1WaHZUQ3FmN2VwT0x1bXVtQjN5WHBYVzN6clY1OXh6RExocFBqOGVjanZPMUVfX3pTbFRpTG9ZQlFFM2E4Q2ZBU2ZweVhQa1EyMWk5b0g0TW5zNWlKbzV1RzJxamx1Yzh3MmpaNkFZQ0dSSnQtU1UzT3NWbU9JUy0tNzlYUlVob3B4NjA",
+    "source": "Google News",
+    "date": "Wed, 16 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ0dCUFFsSDNvZVUta05QeWY5cUgxRGFUbjNHVkpkamxmRGthSGdhYS1WaHZUQ3FmN2VwT0x1bXVtQjN5WHBYVzN6clY1OXh6RExocFBqOGVjanZPMUVfX3pTbFRpTG9ZQlFFM2E4Q2ZBU2ZweVhQa1EyMWk5b0g0TW5zNWlKbzV1RzJxamx1Yzh3MmpaNkFZQ0dSSnQtU1UzT3NWbU9JUy0tNzlYUlVob3B4NjA?oc=5\" ",
+    "first_seen": "2026-09-16"
   }
 ]
