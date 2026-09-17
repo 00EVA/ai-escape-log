@@ -1,47 +1,50 @@
-# AI Incident Briefing — 2026-09-16
+# AI Incident Briefing — 2026-09-17
 
-_Verified incidents in last 14d: 1 | AI-crime/chaos flagged: 0 | fresh candidates queued: 485_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 469_
 
 ## 1. Latest verified incidents
 
-### 2026-09-02 CISA KEV: BerriAI LiteLLM Improper Authentication Vulnerability
-- Lab/Model: Unattributed /  | Category: other | VERIFY: PRIMARY SOURCE
-- CVE-2026-59822 | BerriAI LiteLLM | BerriAI LiteLLM contains an improper authentication vulnerability in the MCP Streamable HTTP endpoint that could allow an unauthenticated attacker to establish an authenticated MCP session using an arbitrary Bearer token.
-- Source: https://nvd.nist.gov/vuln/detail/CVE-2026-59822
-- Counter-action: Uncategorized - read the primary source before trusting the headline.
-
+None in the window.
 ## 2. AI crime / chaos / havoc watch
 
 No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=485)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=469)
 
-- [Google News] AI agent went rogue and hacked startup by itself, OpenAI reveals - The Guardian  (Wed, 22 Ju)
-  https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSnlKVXR0aTVRX0FzM2J3UHBCRUlKbGxfU0JDSFVlMEtzQzFEMndhQ19CUjdhVEtNY1l6b2J2RUpibkZvT0FTNGhQRUZ2V0JVNzU3cUtWMlZHdlFDMTFlUlN4cEFldXhFeXRIUW9oMTJuUjVLTENHVnRWbWFwOXlsTVA3UkpZQVpka3ZQOG9HWld1VGZDWWQ0TDdTeTM1anNHcWNEUWNtMkI0cUkyYUc2ZWczQWVXWG00eG15WnNqbUhWTW5XOEJRbA
-- [Google News] Police used AI facial recognition to arrest a Tennessee woman for crimes committed in a state she says she’s never visited - CNN  (Sun, 29 Ma)
-  https://news.google.com/rss/articles/CBMid0FVX3lxTE1YTmlPZzU5S3RCZElOWGZ2aXpGSjItTDBvUVJLNDRzWmhyUHR6TXIyWjBVRzJaWk5CUVNrTzUwMjU0MzJXVlFCQTVmNGl4OTUzRnFHRk96RUdjQ3hNQ2hTUE5TbDUtdko4dVZ3T09WMmszRzN5Uy1J
-- [Google News] AI Agent Carried Out A Ransomware Attack Without Any Human Oversight - Cybercrime Magazine  (Tue, 04 Au)
-  https://news.google.com/rss/articles/CBMipgFBVV95cUxOX2VOSVZOdVVfWHBwUl9oYjI4eWZ2UkVPSDRXRl9wanFSelEtMWhPS193aGlybGpnbkxrNGtCWUdwc1ZOUjctT2JsN0R6TmVSNlR5Rk03bnU0R0F0V21UV0Vid1V2TnhqSmRSbEktUHA4b2ZwR1JQZWpLRGRYUEwtdFpCZ3RsYlo1VVNzYUllRHM2VTExR25yUWJQaUp0S2xianFfcEV3
-- [Google News] Ransomware attacks spike as world distracted by AI - The Register  (Fri, 07 Au)
-  https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWW1WbDlYQ09tdE9HamJGQldmYkZ0bFE0dDBZSmZaQ29JWUtiS3MzczBxVEU1Z2ZDODRVUFQ1LTVqZTBOX2pRdml0SUt3a2JxaGZMYVhqYV9oMDd3bmV3blladFdodGlZbzhFZ3BxNXhCLUVxM2RDdncteXhUajBKcmUySlhXbGJpUmhVYW9RWVhjLU9EQ0czS1dtbmo1cmxvMzBMeEQ4ZDBBQQ
-- [Google News] AI Agent Conducts First Fully Autonomous Ransomware Attack - The HIPAA Journal  (Mon, 06 Ju)
-  https://news.google.com/rss/articles/CBMikgFBVV95cUxOQkF5Xy0ybDhERzlSYjR4N2l3QXhNZXY0ZjlVejBKR3FMeVlMb1RvRzdubkdOdE44OFp2M00wTE5aQnZtRF9wNVBYZEU3bFFOUzV6eUZTRFBURFA0Q0N6N3g3Q1lOQjBHNEhyZ0lxUWpyR3RhNjhSU2dILUJiSVBObzEyYXo1dFhzbmd3YVptbTFKQQ
-- [Google News] The ‘first’ AI-run ransomware attack still needed a human - TechCrunch  (Mon, 06 Ju)
-  https://news.google.com/rss/articles/CBMilAFBVV95cUxPUkoyRWhJY1VJcVNVTkM3TkhJc2tPc0g0b284ZjZTemtZR0hrOTZhdjJBQjdZOFZQR0RhaXZKWlB1YldJTmZuanNoUDRyQk5DSGE5N0Z5Wlc3MmVQUm1CWmtXYWcwQVVyZmY4OFRuanB3blRCakhUQlUycWdfSl9lZ210UkRCVmhSNHFGRkgxWDlrRnZK
-- [Google News] Cybersecurity firm says it found 'the first documented case' of AI agentic ransomware - Business Insider  (Mon, 06 Ju)
-  https://news.google.com/rss/articles/CBMihAFBVV95cUxOaVl5RlRkUVlRYkg1T1Rjd2JGYzM3TkJUbFFxeUdkdW1IbEZ3SVRPTTVNNjQ0amllY3FnX25VQkE2cDlVek01ckpFR0N2M3g3ckdpY1dpYno1UXhJVG85RDJsekE4aGFUTmZXZUsycGZfTHZiOTFHd3NvbkRqaHdPVDQ0aXo
-- [Google News] Cybersecurity Researchers Identify First Fully Autonomous AI-Driven Ransomware Attack - Campus Technology  (Tue, 14 Ju)
-  https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdDFta043UXQxTGVOT0Y0cVJKSVV6LW4xZHJMNHQ1TTA3NXoySDhXcWNCbHgzR2lOSWc5RE1FZDJZZ2E1Wmd3SG8zbXhFV0hJNThmd2ZMaUluS3Rld1oyeE1Md3oyLUNiNTFhbFRid0l6NWVjSW9IbGEwS2NhREM5cHRnMk5ENzkxY3Rwc0REajNQYVA5cTh4MWNIa3dXc3JPeTBTdXdNS2FDTVJSMk5ZRktkVXJkdWxVTXFyUG1WeWEwbGNFZGlCYS1Lenlxb00yS1MtaHJn
-- [Google News] Ransomware attacks grew in 2025 as traditional data breaches fell - Cybersecurity Dive  (Wed, 24 Ju)
-  https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVGFZdnpPZm04U2FJZDVWUTBmekdPLVRoMzJSQjlUUmJOdXdIQ3pNUW1Ba2J2SzdxYkdOZkhoVWN3S2hlQ3RDTkNnZG5fck1vTHAwSVBDdjRnbDB6ejE3RVc4WXNGRjR2MS1OeWNBMnczeng2Rk40T0ZxMUFuamQ3a0F1Qk82Z05uUS1z
-- [Google News] AI-Enabled Fraud Is On the Rise — Here’s How to Beat It - Philadelphia Federal Reserve Bank  (Mon, 04 Ma)
-  https://news.google.com/rss/articles/CBMixAFBVV95cUxNOUxHNzFjTFNvN0NmU282dm9JRzZhWDN6ZTBrV3BBamc1VGU2WWUwTzFJeGVKUkJ5Yi1DaTMtMUR5QkJvYkV6YzZXMXpONUhwVUtwWVFmbEFXaVZ1QVZNbFBqVzlxSi10UzFRSzc2ekwxUmcydDVZYzJackJmQlNkLTVzck1EaVYyYUdPRzA1V3F2Tk9lYzVsSXZFa1Z0elh0NFJ6Umg0QU5ZWFZHZ1RNUUozaVgzY2t0V1kwT0FnblFSWFdp
 - [Google News] Anthropic’s Claude escaped test sandbox to attack three organizations - The Register  (Fri, 31 Ju)
   https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUzFUc1hnWVFPLUQ3TE1iY3BSQnB1V0VEMHQydm9PMmRFNmxLRkNsZ3B2VVBqaGg2eFpLVUQxVXlVZThncGtmMkZNUElrTEpvWElIbkt3ajB1bzhnRlB5NTJBZXl6dll6T1BYNWR5U1czNUY0R2V1NGkzRWhmclo5NmcxVmFWeVc1bUhaTl9fUTdoMkwzaHFab3oyMlMyWS1XR0tDcXEta3RsSjlWSXptWEl0RC1NVTF0SElZdjE1MU9WZzg
 - [Google News] How OpenAI’s Models Escaped Their Sandbox and Slipped Past California's AI Law - KQED  (Thu, 23 Ju)
   https://news.google.com/rss/articles/CBMisAFBVV95cUxNVGt0V1NRMDlpQ3hOTF9Zd19uaUpzbUxlZV9LeEVmLW1tLS1uUHBkekFtb2V3bk5VblExOENsa1VyRkJmb3F1QktCRnROdGNVVElvdDdVUWNVSTJvNk5PVzVBY1c2Q2dUMXI3cmRsSWFaLVlyWVFTSzQ2Q0ExYTBRRFBBdmdNWlpXVGE5NmU0bE1vNERENmhqcTZBa2xvbXM3OXUyQXRFMTJwMFpPZE9oRw
+- [Google News] OpenAI’s rogue ‘sandbox’ escape could be America’s final AI warning - The Hill  (Wed, 29 Ju)
+  https://news.google.com/rss/articles/CBMid0FVX3lxTFBIVVRYb25yR01EUUJQTFIxOXAtVW5yMG42WG9ROXhSTEdCdG9MTjlmWHpZWFJmRTlBVTdCTkNqTGtlcDRxVEN3bkxobVR4bWVfeldBQ2k0QS16YV9hQ2Q4RDlXZVlad2pNZ29xbVQ5ekUxbFN6MnVz0gF8QVVfeXFMT2hlN3I2UjVqRnFwVTlBNG1Jd2V6aGtmLXJpTHRZSlZjYXQtMEFjanlTcTlCTzZzTm9WbThqck5zZ0xIekljdFFGbUFDRFBfazZidThKOGJjcXhGVlRfYkpEcFV5eFhPaWZXbEt5bUU5UWJJUE1Jc0s0M1NRWA
+- [Google News] No, OpenAI's models didn't go 'rogue' when they broke into Hugging Face. Here's what really happened. - Live Science  (Sat, 25 Ju)
+  https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcVdPWUdmRUFvQjRla2xDNEhQVldiT1V3Q2YtcUd4TjUyU0pzOHZyR0xjTjJnOVh0WmJqT21xVmV5MHh1ZEktcXJLWkhSMDBNMGkzT0Q4M2ZLYTROSkVXSWZGVTlUV3hPdW5EY1N0TEdEMS1fYVg3T0E5WXgtWGVJWDQ4WjBrWmJNLWlBZUYwVEFTV0FlWXY1akllZ0RnRlhjRV9QVWV4TjR2djhLTC1RX2R5c193TnZGTWpaNGlkemE2WUhwNlZ5VnZFd0JNeThZSW1La0piSVhzM3RMMGl6dWxlWlA4MDJS
+- [Google News] AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack - The Hacker News  (Thu, 02 Ju)
+  https://news.google.com/rss/articles/CBMifEFVX3lxTE5SSGU1Y3pjd3BjRGllY3NDT2x5ZWI3MEpza1A5UGFRVDBNUEE2OEZ4RDZfc2RJeVhJOUNZUEVEb2t0d1RzVzFmUkhwTnhRZ29vMHVuT1RwS0ZzYXFFTXhlVlk2TE1PZ0kxNWdpc3RtY1U4VU9YTDdoNWdZbTU
+- [Google News] Elder fraud rises as scammers use AI - Journal of Accountancy  (Wed, 01 Ap)
+  https://news.google.com/rss/articles/CBMilAFBVV95cUxQLTFhLUVsS1hOdFpUNS1JZ183OThqVFpTN0dfWi1zT1ZwQmxBbVFBV0NSSVNiajQ1YlpvWEhNUlhTT0N0LW9xUlN2YVh3blMwMVlaTmhsVERCRzVMVWxUTFRDcjBVV0RmcF9aWnZhLXJybkR1OG5icElrc21zb0h1WGo0TXVRdWNtNDRoQ2RtSGp2cEtu
+- [Google News] OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue - WIRED  (Tue, 18 Au)
+  https://news.google.com/rss/articles/CBMimAFBVV95cUxOTksybl8xelFTR0VEYlhGbnNxeGx6SHFFeUVYWW4xZzRwcE1jSEN4eDlQbzJJUTkyVlNNSUZFcF9lU3NnNnU4bDdSTHg3ek1iYVlZRjhhWXdNdE1jbC1aWkdqS2xxT25ldzNrNmJmNUZWY1hjRC1yb2s5QXgyTlJKSmNZNmxtOVpwTlM5Y1ZmaWtvd3NvOGVqWg
+- [Google News] AI Fraud: Protecting your business from deepfake calls - U.S. Bank  (Fri, 24 Oc)
+  https://news.google.com/rss/articles/CBMipgFBVV95cUxPbmlPTnI4VEFlaGh6SkVIWDZWREJZRmVKTjZvT0VTRE9ka2Q0TzVZVEZkM091NVZ5bHpyRjhpTWRDamg0dVN6UzhZRTJRUXNmcGJlRG1LRmJxcmFSb1ZxMFY3YWE2ZGFVZl9TbnJadFowTHd4T2k5WGJ5bUxmT09zWWQ4ZEJjeXlXMmpxNWxqa1Zqb2lqWHJ2azRNMkczLUlYcWk5Y2hB
+- [Google News] Starling Bank Deploys AI to Combat Romance Scams and Break Fraudsters' Psychological Spells - FF News  (Tue, 28 Ju)
+  https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ3FRRXI1YmZnQ1JzM1FGZjgtR1NITGdtT1FqV2ZUWWkxUFViWTR4ZlNvYmJwYlNGTmVudURkdVlTVWExVW9lQnJCTnUtYk9XZlY0VHpQT2xCZzM1XzBOWmw4YndLRURuWkEwdGdUMk1oMFk0cGVJRFVyYkhHUGhfdXRMeWRWYmZ5QTNRay1VOGtzSWZnQ0ROT2JPU29JaWViTDRhY2F2QVJPdTl5bnMycFhUX04
+- [Google News] AI Is Making Digital Fraud Easier, Faster and Harder to Stop - bloomberg.com  (Fri, 08 Ma)
+  https://news.google.com/rss/articles/CBMickFVX3lxTFA5Y3JDTkxXaWZVRjQ3REpFVkFfNVlyOTZDOTFlQng2N0JCWGlWdEpGcTN2aFZnWkxNWXhWQkdzNzk5Qk8wQjhWQXkyTjNqMFpYQnJwY19HTTlrdGNpUUZucjYxd0ZIa1h3SXVqakxDUUhzdw
+- [Google News] Top AI tools such as OpenClaw and Github Copilot can be hijacked to create new massive botnets - TechRadar  (Wed, 15 Ju)
+  https://news.google.com/rss/articles/CBMizgFBVV95cUxNZkhjWGFnZU9hZ0VzYml0dElibDBQYkcydVdLYkR6VmxvU1lVTXFWaWxLOVhMOGR4ZTBHb0ctQWE2b2xUZTFzLXgzZzZVTXIzMFRWUXdPd2NDS1RwaVA5dThzTTRSdTJTdDZqek9MMzhTZzl5bklaa3BETndhUmc0UFJDaUZCMkhSWEczSFQ0SmlGd0ZJdWEtZ01KRFdhS0tNUzdrdGRORTBmdUtHUEc4eXZxOWhHRFRvcW9lQ0tJT0VVanBiV0ROUHV4OTVJdw
+- [Google News] Breaking a botnet DDoS "Enigma" code - Nokia  (Wed, 25 Ma)
+  https://news.google.com/rss/articles/CBMib0FVX3lxTE0tVDRmRHEwVlhjRjNHdnhnNlFGcXg5cTBvOHFWQzM2YkxFTHNyYUdNS0tDWDZaNWZrN3ozWm9BMmVsZTZROTVzdjFKOU93eEFmZjBuaGNyb2lJUTd6R3BPS2s0c2R5dGRfcW1haHhTNA
+- [Google News] HalluSquatting AI attack could hijack your computer - Fox News  (Sat, 18 Ju)
+  https://news.google.com/rss/articles/CBMikwFBVV95cUxNMU83VUFsTkwtZGRFR3VCbHFzQmg2dVBESDBLYW5hYmE0amdkV2k3aG1hUnU4a016bDhPTFZjWFoxZDJuVmlCN3pldE5ZUjFsVG0wWjBJOGt5QXZtOU5VZUdqYjV2Ym1hMU9yTEdldUkzdG1GcG9jeDB0c254OE9ERjZ4UU15RjRoV1A4cTlqMWM0bEXSAZMBQVVfeXFMTTFPN1VBbE5MLWRkRUd1Qmxxc0JoNnVQREgwS2FuYWJhNGpnZFdpN2htYVJ1OGtNemw4T0xWY1haMWQyblZpQjd6ZXROWVIxbFRtMFowSThreUF2bTlOVWVHamI1dmJtYTFPckxHZXVJM3RtRnBvY3gwdHNueDhPREY2eFFNeUY0aFdQOHE5ajFjNGxF
+- [Google News] Criminals hijack thousands of devices to create never-before-seen cyber weapon - The Independent  (Mon, 16 Ma)
+  https://news.google.com/rss/articles/CBMioAFBVV95cUxQZlBpcDZ5M1B3eXFGUDRTUjhuSi1tNnR6cjdOdjdIUm9LWVpMSVNham84TFJUWVdydEF1UG9sVDBTSERiLVJqeVVGTndaYlN4MGNybkxVc0tNbkZYRWNnT3ZNUGpDNGNCOGQ2LW9OakRxUTNxVjNjdDFRRzF1SzY3ckxGenAwQjlMYmlWc2Z5ak5ORlVyU1oteF9mWDlwcHZF
+- [Google News] Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormable Botnet & AI Malware - The Hacker News  (Mon, 16 Fe)
+  https://news.google.com/rss/articles/CBMiggFBVV95cUxQQkxzZXkycGhkaDlEWm01dEFxS2psWHYtbUUtNV9Fd3I4NW8tbUZlT3pwalJTRndUQTBncjBMclFUcldnQ3U1R3lZbGp2c2hQUzc1dE90WjBIZEJMMG1GOUFjMFFOZUxRc1VHdDNBbDhCY3V5WGVja2JxcWNyclZ4bVdR
+- [Google News] OpenClaw Agents Can Be Guilt-Tripped Into Self-Sabotage - WIRED  (Wed, 25 Ma)
+  https://news.google.com/rss/articles/CBMikAFBVV95cUxQclZSVE1FdTVDSWdlLTc2SWlPX3R0MW1KSlRYbDhtLWhJei1hemU1Tm9sS2c4UnRzM1ljUmRGRGg0UHBrSGN5Q0puR3VlT1QzdHUyUXRVTHhncHhsaWoyV1g2R3ZPUDJaN2lUOWw4cjlDRFpHSmVXVVEzUTF0ZWRpanVOS21GWlJmN3Q3QVpsS0w
 
 ## 4. Early-warning watchlist (be first to know)
 
