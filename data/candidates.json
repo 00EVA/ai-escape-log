@@ -3824,62 +3824,6 @@
     "first_seen": "2026-09-17"
   },
   {
-    "title": "'AI Escaped Its Sandbox' — What Does That Actually Mean?",
-    "url": "https://unpredictabletokens.substack.com/p/ai-escaped-its-sandbox-what-that",
-    "source": "Hacker News",
-    "date": "2026-08-08",
-    "snippet": "",
-    "first_seen": "2026-09-17"
-  },
-  {
-    "title": "Show HN: Misalignments when using AI for hacking",
-    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
-    "source": "Hacker News",
-    "date": "2026-08-05",
-    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
-    "first_seen": "2026-09-17"
-  },
-  {
-    "title": "An OpenAI test model escaped and broke into a real company’s servers - CNN",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg",
-    "source": "Google News",
-    "date": "Wed, 22 Ju",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg?oc=5\" target=\"_blank\">An OpenAI test model escaped and broke into a real company’s",
-    "first_seen": "2026-09-17"
-  },
-  {
-    "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment - WIRED",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ",
-    "source": "Google News",
-    "date": "Thu, 06 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ?oc=5\" target=\"_blank\">One of China’s Most Powerful AI Models Has Also Escaped Containme",
-    "first_seen": "2026-09-17"
-  },
-  {
-    "title": "DPS Arrests Man in Possession of Hundreds of AI-Generated Images Involving South Texas Children - DPS (.gov)",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGtoWGxKYU0tNEFGSzVuMTFBTzRPSDRMNjJDeUFXeVpTU3JvLUlmNUhLSFhmRmhHdGdqM2NsM1FaTTVhS1ZnY2tPbHJ0QUxWcmcySHJpeEtxUXBxbzdHR0duQ3lRQmFtNTJvdW84TUMxTzMtSmQ4Y0xLZ3FoTHVFY0NLWFpIb0VQTm5Fc044UXdDTU9EblFyekdYLWFCODFrUVJDRi1JN1hoYzhYbUNMc3FwRHpSQjli",
-    "source": "Google News",
-    "date": "Fri, 29 Ma",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGtoWGxKYU0tNEFGSzVuMTFBTzRPSDRMNjJDeUFXeVpTU3JvLUlmNUhLSFhmRmhHdGdqM2NsM1FaTTVhS1ZnY2tPbHJ0QUxWcmcySHJpeEtxUXBxbzdHR0duQ3lRQmFtNTJvdW84TUMxTzMtSmQ4Y0xLZ3FoTHVFY0NLWFpIb0VQTm5Fc044UXdDTU9EblFyekdYLWFCODFrUVJDRi1JN1hoYzhYbUNMc3FwRHpSQjli?o",
-    "first_seen": "2026-09-17"
-  },
-  {
-    "title": "More than a Dozen Wrongful Arrests Due to Police Reliance on Facial Recognition Technology - American Civil Liberties Union",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNWdzOTZDa2dNSlNzRWd6MzMzV0ZLcndZN2RTLXVpZnJQYlJQeEN0TU0taDl0QVc5aDd4Wk10RXY1Smw5Zm9GRlkyTUtQeVRZLTB2Si1aamd0aWFDSlZrU1RwREpVa01VcEFCNW4xRGhROFIxZGJ4WU9XU0I4ZUQ3RHQtamV1Zkhadkg2UEhIek01Y1FhOFZCeE5nM0lwX010a3FCLTA4N0tJNS1jdXpSeUx6bXBudFRqVWF1aVhlcDloNERHS1dzRFNweFV2UUJf",
-    "source": "Google News",
-    "date": "Tue, 14 Ap",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNWdzOTZDa2dNSlNzRWd6MzMzV0ZLcndZN2RTLXVpZnJQYlJQeEN0TU0taDl0QVc5aDd4Wk10RXY1Smw5Zm9GRlkyTUtQeVRZLTB2Si1aamd0aWFDSlZrU1RwREpVa01VcEFCNW4xRGhROFIxZGJ4WU9XU0I4ZUQ3RHQtamV1Zkhadkg2UEhIek01Y1FhOFZCeE5nM0lwX010a3FCLTA4N0tJNS1jdXpSeUx6bXBudFRqVW",
-    "first_seen": "2026-09-17"
-  },
-  {
-    "title": "Lee County man files lawsuit after AI leads to wrongful arrest - Gulf Coast News and Weather",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVjBWYmVfZ1RkOHViTGo3bzk2REdTSTk5ZDg4Y2t3SkxSSEktbDJpTXZpcHZqcEJSYmlNZW9rLTRsVGo4SWl6VVBFZTRsZWU0NnBfV2FoUUlnaU1KUURfaHFCSEJ4Y0hHa0xwYWUzSUtFSVR0M0NycktUdGxVT3Vpdm5tbmlwUXlXbVlBWE1mQl8",
-    "source": "Google News",
-    "date": "Thu, 11 Ju",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNVjBWYmVfZ1RkOHViTGo3bzk2REdTSTk5ZDg4Y2t3SkxSSEktbDJpTXZpcHZqcEJSYmlNZW9rLTRsVGo4SWl6VVBFZTRsZWU0NnBfV2FoUUlnaU1KUURfaHFCSEJ4Y0hHa0xwYWUzSUtFSVR0M0NycktUdGxVT3Vpdm5tbmlwUXlXbVlBWE1mQl8?oc=5\" target=\"_blank\">Lee County man files lawsuit aft",
-    "first_seen": "2026-09-17"
-  },
-  {
     "title": "David Rush: ex-US government official arrested after $40m in gold bars found in home - BBC",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TWDY2UW9EMzVpSzI0cWVYMmJqdXRrOVpYaURYWnVGVnRVRzBjTFFJQmRXY2R3eldNSzVYdk1CX1RPQXJCWDFyUHJYOU5hck9WMzNGRDhUNkQ0UQ",
     "source": "Google News",
@@ -3904,30 +3848,6 @@
     "first_seen": "2026-09-17"
   },
   {
-    "title": "Police used AI facial recognition to arrest a Tennessee woman for crimes committed in a state she says she’s never visited - CNN",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YTmlPZzU5S3RCZElOWGZ2aXpGSjItTDBvUVJLNDRzWmhyUHR6TXIyWjBVRzJaWk5CUVNrTzUwMjU0MzJXVlFCQTVmNGl4OTUzRnFHRk96RUdjQ3hNQ2hTUE5TbDUtdko4dVZ3T09WMmszRzN5Uy1J",
-    "source": "Google News",
-    "date": "Sun, 29 Ma",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1YTmlPZzU5S3RCZElOWGZ2aXpGSjItTDBvUVJLNDRzWmhyUHR6TXIyWjBVRzJaWk5CUVNrTzUwMjU0MzJXVlFCQTVmNGl4OTUzRnFHRk96RUdjQ3hNQ2hTUE5TbDUtdko4dVZ3T09WMmszRzN5Uy1J?oc=5\" target=\"_blank\">Police used AI facial recognition to arrest a Tennessee woman for c",
-    "first_seen": "2026-09-17"
-  },
-  {
-    "title": "Cybersecurity firm says it found 'the first documented case' of AI agentic ransomware - Business Insider",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaVl5RlRkUVlRYkg1T1Rjd2JGYzM3TkJUbFFxeUdkdW1IbEZ3SVRPTTVNNjQ0amllY3FnX25VQkE2cDlVek01ckpFR0N2M3g3ckdpY1dpYno1UXhJVG85RDJsekE4aGFUTmZXZUsycGZfTHZiOTFHd3NvbkRqaHdPVDQ0aXo",
-    "source": "Google News",
-    "date": "Mon, 06 Ju",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOaVl5RlRkUVlRYkg1T1Rjd2JGYzM3TkJUbFFxeUdkdW1IbEZ3SVRPTTVNNjQ0amllY3FnX25VQkE2cDlVek01ckpFR0N2M3g3ckdpY1dpYno1UXhJVG85RDJsekE4aGFUTmZXZUsycGZfTHZiOTFHd3NvbkRqaHdPVDQ0aXo?oc=5\" target=\"_blank\">Cybersecurity firm says it found 'the first docu",
-    "first_seen": "2026-09-17"
-  },
-  {
-    "title": "Cybersecurity Researchers Identify First Fully Autonomous AI-Driven Ransomware Attack - Campus Technology",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdDFta043UXQxTGVOT0Y0cVJKSVV6LW4xZHJMNHQ1TTA3NXoySDhXcWNCbHgzR2lOSWc5RE1FZDJZZ2E1Wmd3SG8zbXhFV0hJNThmd2ZMaUluS3Rld1oyeE1Md3oyLUNiNTFhbFRid0l6NWVjSW9IbGEwS2NhREM5cHRnMk5ENzkxY3Rwc0REajNQYVA5cTh4MWNIa3dXc3JPeTBTdXdNS2FDTVJSMk5ZRktkVXJkdWxVTXFyUG1WeWEwbGNFZGlCYS1Lenlxb00yS1MtaHJn",
-    "source": "Google News",
-    "date": "Tue, 14 Ju",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdDFta043UXQxTGVOT0Y0cVJKSVV6LW4xZHJMNHQ1TTA3NXoySDhXcWNCbHgzR2lOSWc5RE1FZDJZZ2E1Wmd3SG8zbXhFV0hJNThmd2ZMaUluS3Rld1oyeE1Md3oyLUNiNTFhbFRid0l6NWVjSW9IbGEwS2NhREM5cHRnMk5ENzkxY3Rwc0REajNQYVA5cTh4MWNIa3dXc3JPeTBTdXdNS2FDTVJSMk5ZRktkVXJkdWxVTX",
-    "first_seen": "2026-09-17"
-  },
-  {
     "title": "86-year-old Ontario woman loses $900K to an PM Mark Carney AI deepfake scam — and she's speaking out about it - Yahoo! Finance Canada",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZkVuZ0NjbFcyNzV1ZlZsZkdrLS0waXVLSjFLZ2NuQ1RERVdmV0FnUWJHeVMtZFM0RFdsQWpGTDA1amlTOWdlYmF4djROZFp4QXBpX1RmM19iUmNhLUswT3hrRi1sVVJvU05mWDJLVFZsaDl5aXZfeGRuc1ZTVDNiVg",
     "source": "Google News",
@@ -3949,6 +3869,30 @@
     "source": "Google News",
     "date": "Wed, 16 Se",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE41ekNKQVo4aDBMU3M3ZVdNQnMzN1ZWdlZBWGlHcFAwYTBJWkhxRThNYnE2Z2dNTUM4NlJHeTVhb3pNdw?oc=5\" target=\"_blank\">AI-Powered Threat Actors, Poison Pills & Cyber Sabotage with John Hultquist</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YouTube</font>",
+    "first_seen": "2026-09-17"
+  },
+  {
+    "title": "Another Rogue AI Agent? Test Of Alibaba's Qwen Goes Off-Script - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ0pwYWFjUzRHY01qUm9FSy1SS3NhZkJBZVBtZUVndVRtMTNFT3FJcVoya3BqNEphYnFiOFdzLUNpXzlJc0pwMEdOeEFQUlJmSFVjRXc2Q3pPZTc2bTM0WDZ6UktacTFRSUJVQ294RGtxNExuanZrWmkxUXdhVkJYQlhWU0sweTBpMWlQTndFWmU3OUNBak5vR1BiRWFkRWhtSFJKNzNqYVo3N2N4LXMyWG4zQllKMmh3SFE",
+    "source": "Google News",
+    "date": "Wed, 16 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ0pwYWFjUzRHY01qUm9FSy1SS3NhZkJBZVBtZUVndVRtMTNFT3FJcVoya3BqNEphYnFiOFdzLUNpXzlJc0pwMEdOeEFQUlJmSFVjRXc2Q3pPZTc2bTM0WDZ6UktacTFRSUJVQ294RGtxNExuanZrWmkxUXdhVkJYQlhWU0sweTBpMWlQTndFWmU3OUNBak5vR1BiRWFkRWhtSFJKNzNqYVo3N2N4LXMyWG4zQllKMmh3SF",
+    "first_seen": "2026-09-17"
+  },
+  {
+    "title": "CBA deploys AI agents to fight back against deepfake scams - mpamag.com",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZndaYk5vNEdGVzZFcGdJNDVmWTYwQTNSOXRSZExpWmJRY0xWZTJrdS1qbnEySnN6bFQ5TUY4QmNnbzlGX0NUazBfSS1PaHA3WS1hYnhfNTd5WGo5Q1g2bGtsZmliVVFVYkpaNERlSFRwZlFTbU5pLWI3SmNBNDJSbVVXR2FERnd2NGY4TWpPRXZHb2lXVEtvdTZuT0Y1aUlJaFhyUFpDZw",
+    "source": "Google News",
+    "date": "Fri, 18 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQZndaYk5vNEdGVzZFcGdJNDVmWTYwQTNSOXRSZExpWmJRY0xWZTJrdS1qbnEySnN6bFQ5TUY4QmNnbzlGX0NUazBfSS1PaHA3WS1hYnhfNTd5WGo5Q1g2bGtsZmliVVFVYkpaNERlSFRwZlFTbU5pLWI3SmNBNDJSbVVXR2FERnd2NGY4TWpPRXZHb2lXVEtvdTZuT0Y1aUlJaFhyUFpDZw?oc=5\" target=\"_blank\">C",
+    "first_seen": "2026-09-17"
+  },
+  {
+    "title": "Coordinated cyberattack disrupts water utilities in 30+ Minnesota communities - StateScoop",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNEhlbnNYZ0o3UTBqT1IxZUhpZUY0RENBVGExb3hUQ1RGbm9USURMQzRHSXZZR01iZE43cFpqbGZOS1c0RzlrLXZCNjV1REtlTVNtSW9VSVRnQ0luT3hmQjFHS1lQUWxud0RxYU5sN0t5Ny1XTGtGYjFvLUhLYlVjZFRsSTNnMWludnN4c0tNQTR1NEZyLWR2dC1CM0xDRjJmUFE",
+    "source": "Google News",
+    "date": "Tue, 28 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNNEhlbnNYZ0o3UTBqT1IxZUhpZUY0RENBVGExb3hUQ1RGbm9USURMQzRHSXZZR01iZE43cFpqbGZOS1c0RzlrLXZCNjV1REtlTVNtSW9VSVRnQ0luT3hmQjFHS1lQUWxud0RxYU5sN0t5Ny1XTGtGYjFvLUhLYlVjZFRsSTNnMWludnN4c0tNQTR1NEZyLWR2dC1CM0xDRjJmUFE?oc=5\" target=\"_blank\">Coordina",
     "first_seen": "2026-09-17"
   }
 ]
