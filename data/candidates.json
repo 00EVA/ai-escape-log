@@ -3662,5 +3662,77 @@
     "date": "2026-09-18",
     "snippet": "CVE-2026-53266 | Linux Kernel | Linux Kernel contains an out-of-bounds write vulnerability in the ebtables SNAT target which allows an ARP sender hardware address rewrite to write directly into a nonlinear socket-buffer fragment backed by a splice-imported file page. The impacted product(s) could be end-of-life (EoL) and/or end-of",
     "first_seen": "2026-09-18"
+  },
+  {
+    "title": "'AI Escaped Its Sandbox' — What Does That Actually Mean?",
+    "url": "https://unpredictabletokens.substack.com/p/ai-escaped-its-sandbox-what-that",
+    "source": "Hacker News",
+    "date": "2026-08-08",
+    "snippet": "",
+    "first_seen": "2026-09-18"
+  },
+  {
+    "title": "Show HN: Misalignments when using AI for hacking",
+    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
+    "source": "Hacker News",
+    "date": "2026-08-05",
+    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
+    "first_seen": "2026-09-18"
+  },
+  {
+    "title": "This hits different now that we're actually tracking the countdown",
+    "url": "https://www.reddit.com/r/singularity/comments/1wjwo3x/this_hits_different_now_that_were_actually/",
+    "source": "Reddit r/singularity",
+    "date": "2026-09-18",
+    "snippet": "              &#32; submitted by &#32;   /u/RogueSploit       [link]   &#32;   [comments]      ",
+    "first_seen": "2026-09-18"
+  },
+  {
+    "title": "An OpenAI test model escaped and broke into a real company’s servers - CNN",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg",
+    "source": "Google News",
+    "date": "Wed, 22 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg?oc=5\" target=\"_blank\">An OpenAI test model escaped and broke into a real company’s",
+    "first_seen": "2026-09-18"
+  },
+  {
+    "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment - WIRED",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ",
+    "source": "Google News",
+    "date": "Thu, 06 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ?oc=5\" target=\"_blank\">One of China’s Most Powerful AI Models Has Also Escaped Containme",
+    "first_seen": "2026-09-18"
+  },
+  {
+    "title": "OpenAI’s rogue ‘sandbox’ escape could be America’s final AI warning - The Hill",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIVVRYb25yR01EUUJQTFIxOXAtVW5yMG42WG9ROXhSTEdCdG9MTjlmWHpZWFJmRTlBVTdCTkNqTGtlcDRxVEN3bkxobVR4bWVfeldBQ2k0QS16YV9hQ2Q4RDlXZVlad2pNZ29xbVQ5ekUxbFN6MnVz0gF8QVVfeXFMT2hlN3I2UjVqRnFwVTlBNG1Jd2V6aGtmLXJpTHRZSlZjYXQtMEFjanlTcTlCTzZzTm9WbThqck5zZ0xIekljdFFGbUFDRFBfazZidThKOGJjcXhGVlRfYkpEcFV5eFhPaWZXbEt5bUU5UWJJUE1Jc0s0M1NRWA",
+    "source": "Google News",
+    "date": "Wed, 29 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBIVVRYb25yR01EUUJQTFIxOXAtVW5yMG42WG9ROXhSTEdCdG9MTjlmWHpZWFJmRTlBVTdCTkNqTGtlcDRxVEN3bkxobVR4bWVfeldBQ2k0QS16YV9hQ2Q4RDlXZVlad2pNZ29xbVQ5ekUxbFN6MnVz0gF8QVVfeXFMT2hlN3I2UjVqRnFwVTlBNG1Jd2V6aGtmLXJpTHRZSlZjYXQtMEFjanlTcTlCTzZzTm9WbThqck5zZ0",
+    "first_seen": "2026-09-18"
+  },
+  {
+    "title": "ChatGPT maker OpenAI reveals 6 times its AI models went rogue during testing - GB News",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CU1Ruc1J1dFpVSkFfYk1vRHVnbXN4aTBxa2ZaanExWEl4SnNmaUM5aWlUNF9iTVltM2tuM0R1ZDhYX25OWkdlbmFWeWRQVWkyQ2U2N0FQcTRSTXpiUl9Ra0hVUC1tUmFJUjNHVA",
+    "source": "Google News",
+    "date": "Fri, 18 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9CU1Ruc1J1dFpVSkFfYk1vRHVnbXN4aTBxa2ZaanExWEl4SnNmaUM5aWlUNF9iTVltM2tuM0R1ZDhYX25OWkdlbmFWeWRQVWkyQ2U2N0FQcTRSTXpiUl9Ra0hVUC1tUmFJUjNHVA?oc=5\" target=\"_blank\">ChatGPT maker OpenAI reveals 6 times its AI models went rogue during testing</a>&",
+    "first_seen": "2026-09-18"
+  },
+  {
+    "title": "Anthropic says its models went rogue and hacked 3 companies during testing - Business Insider",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa3JxWEh1SXZQaEhVdXROUzlxRTQwaUJRS3Z3N0tTdko0Z3pSRXFIRzR2VzJDZ1Vob1VBX01rZDJSRWpCMzhaU3dWMG94MlVqdGVhZ09HTXRFZ1pNR1ZZdVBMUHU3OUlld2NwZTZLSm44a1FfM2RuZ1EwZHBISDZLaHNnaUpaTWhlSnVramR0U3h6UkxETngtQ25aWC0yeUNndW94QVRLWUY",
+    "source": "Google News",
+    "date": "Fri, 31 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa3JxWEh1SXZQaEhVdXROUzlxRTQwaUJRS3Z3N0tTdko0Z3pSRXFIRzR2VzJDZ1Vob1VBX01rZDJSRWpCMzhaU3dWMG94MlVqdGVhZ09HTXRFZ1pNR1ZZdVBMUHU3OUlld2NwZTZLSm44a1FfM2RuZ1EwZHBISDZLaHNnaUpaTWhlSnVramR0U3h6UkxETngtQ25aWC0yeUNndW94QVRLWUY?oc=5\" target=\"_blank\">",
+    "first_seen": "2026-09-18"
+  },
+  {
+    "title": "CISA KEV: Linux Kernel Improper Check for Unusual or Exceptional Conditions Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-39682",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-18",
+    "snippet": "CVE-2025-39682 | Linux Kernel | Linux Kernel contains an improper check for unusual or exceptional conditions vulnerability in the TLS receive path which allows a zero-length record retrieved from the rx_list to bypass the intended recvmsg() record-type handling, potentially causing subsequent TLS records to be processed using inc",
+    "first_seen": "2026-09-18"
   }
 ]
