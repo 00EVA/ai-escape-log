@@ -3614,5 +3614,69 @@
     "date": "Tue, 04 Au",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNQzljVTVSUVRxaUJweXNMdlBxeHJ0TGs1QWdHeS1sUzl2V1NCWlZLYXlxT21NOVVjZUFxVHN6N0N3QjBKVnVNWUNib09aTHYzZVVCdjRINUZ1d1dvT1dqekJMNXk2WFVObE13N1Q1LXVCVXR5R19ZaXFVMzhfWFRtamtXd28?oc=5\" target=\"_blank\">OpenAI and Anthropic models went rogue in cyber ",
     "first_seen": "2026-09-18"
+  },
+  {
+    "title": "'AI Escaped Its Sandbox' — What Does That Actually Mean?",
+    "url": "https://unpredictabletokens.substack.com/p/ai-escaped-its-sandbox-what-that",
+    "source": "Hacker News",
+    "date": "2026-08-08",
+    "snippet": "",
+    "first_seen": "2026-09-18"
+  },
+  {
+    "title": "Show HN: Misalignments when using AI for hacking",
+    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
+    "source": "Hacker News",
+    "date": "2026-08-05",
+    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
+    "first_seen": "2026-09-18"
+  },
+  {
+    "title": "b11030",
+    "url": "https://prismix.dev/news/c223890678dc",
+    "source": "Prismix AI",
+    "date": "2026-09-18",
+    "snippet": "ci : bump android-actions/setup-android to 4.0.4 ( #29065 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/48395907 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS…",
+    "first_seen": "2026-09-18"
+  },
+  {
+    "title": "An OpenAI test model escaped and broke into a real company’s servers - CNN",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg",
+    "source": "Google News",
+    "date": "Wed, 22 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg?oc=5\" target=\"_blank\">An OpenAI test model escaped and broke into a real company’s",
+    "first_seen": "2026-09-18"
+  },
+  {
+    "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment - WIRED",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ",
+    "source": "Google News",
+    "date": "Thu, 06 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ?oc=5\" target=\"_blank\">One of China’s Most Powerful AI Models Has Also Escaped Containme",
+    "first_seen": "2026-09-18"
+  },
+  {
+    "title": "Irregular says ‘human oversight’ responsible for AI sandbox escape incidents - CyberScoop",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14dHp5VTM1c0VfVmhHWmhRdEhEb2NHVnVyWWJtelNCcmtYNGxfS0Z5anNPOG9peGZHZGJhMUNWYndobUtneVMxS2VrTktSQ0hLNEgzblI2TVI2OXdmWWo5MmU0cVJCdXBlVFNUbWtVU1NxR2FmVUE",
+    "source": "Google News",
+    "date": "Mon, 17 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE14dHp5VTM1c0VfVmhHWmhRdEhEb2NHVnVyWWJtelNCcmtYNGxfS0Z5anNPOG9peGZHZGJhMUNWYndobUtneVMxS2VrTktSQ0hLNEgzblI2TVI2OXdmWWo5MmU0cVJCdXBlVFNUbWtVU1NxR2FmVUE?oc=5\" target=\"_blank\">Irregular says ‘human oversight’ responsible for AI sandbox escape i",
+    "first_seen": "2026-09-18"
+  },
+  {
+    "title": "Anthropic says its models went rogue and hacked 3 companies during testing - Business Insider",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa3JxWEh1SXZQaEhVdXROUzlxRTQwaUJRS3Z3N0tTdko0Z3pSRXFIRzR2VzJDZ1Vob1VBX01rZDJSRWpCMzhaU3dWMG94MlVqdGVhZ09HTXRFZ1pNR1ZZdVBMUHU3OUlld2NwZTZLSm44a1FfM2RuZ1EwZHBISDZLaHNnaUpaTWhlSnVramR0U3h6UkxETngtQ25aWC0yeUNndW94QVRLWUY",
+    "source": "Google News",
+    "date": "Fri, 31 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa3JxWEh1SXZQaEhVdXROUzlxRTQwaUJRS3Z3N0tTdko0Z3pSRXFIRzR2VzJDZ1Vob1VBX01rZDJSRWpCMzhaU3dWMG94MlVqdGVhZ09HTXRFZ1pNR1ZZdVBMUHU3OUlld2NwZTZLSm44a1FfM2RuZ1EwZHBISDZLaHNnaUpaTWhlSnVramR0U3h6UkxETngtQ25aWC0yeUNndW94QVRLWUY?oc=5\" target=\"_blank\">",
+    "first_seen": "2026-09-18"
+  },
+  {
+    "title": "DPS Arrests Man in Possession of Hundreds of AI-Generated Images Involving South Texas Children - Texas Department of Public Safety (.gov)",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGtoWGxKYU0tNEFGSzVuMTFBTzRPSDRMNjJDeUFXeVpTU3JvLUlmNUhLSFhmRmhHdGdqM2NsM1FaTTVhS1ZnY2tPbHJ0QUxWcmcySHJpeEtxUXBxbzdHR0duQ3lRQmFtNTJvdW84TUMxTzMtSmQ4Y0xLZ3FoTHVFY0NLWFpIb0VQTm5Fc044UXdDTU9EblFyekdYLWFCODFrUVJDRi1JN1hoYzhYbUNMc3FwRHpSQjli",
+    "source": "Google News",
+    "date": "Fri, 29 Ma",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGtoWGxKYU0tNEFGSzVuMTFBTzRPSDRMNjJDeUFXeVpTU3JvLUlmNUhLSFhmRmhHdGdqM2NsM1FaTTVhS1ZnY2tPbHJ0QUxWcmcySHJpeEtxUXBxbzdHR0duQ3lRQmFtNTJvdW84TUMxTzMtSmQ4Y0xLZ3FoTHVFY0NLWFpIb0VQTm5Fc044UXdDTU9EblFyekdYLWFCODFrUVJDRi1JN1hoYzhYbUNMc3FwRHpSQjli?o",
+    "first_seen": "2026-09-18"
   }
 ]
