@@ -3616,67 +3616,11 @@
     "first_seen": "2026-09-18"
   },
   {
-    "title": "'AI Escaped Its Sandbox' — What Does That Actually Mean?",
-    "url": "https://unpredictabletokens.substack.com/p/ai-escaped-its-sandbox-what-that",
-    "source": "Hacker News",
-    "date": "2026-08-08",
-    "snippet": "",
-    "first_seen": "2026-09-18"
-  },
-  {
-    "title": "Show HN: Misalignments when using AI for hacking",
-    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
-    "source": "Hacker News",
-    "date": "2026-08-05",
-    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
-    "first_seen": "2026-09-18"
-  },
-  {
     "title": "b11030",
     "url": "https://prismix.dev/news/c223890678dc",
     "source": "Prismix AI",
     "date": "2026-09-18",
     "snippet": "ci : bump android-actions/setup-android to 4.0.4 ( #29065 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/48395907 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS…",
-    "first_seen": "2026-09-18"
-  },
-  {
-    "title": "An OpenAI test model escaped and broke into a real company’s servers - CNN",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg",
-    "source": "Google News",
-    "date": "Wed, 22 Ju",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg?oc=5\" target=\"_blank\">An OpenAI test model escaped and broke into a real company’s",
-    "first_seen": "2026-09-18"
-  },
-  {
-    "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment - WIRED",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ",
-    "source": "Google News",
-    "date": "Thu, 06 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ?oc=5\" target=\"_blank\">One of China’s Most Powerful AI Models Has Also Escaped Containme",
-    "first_seen": "2026-09-18"
-  },
-  {
-    "title": "Irregular says ‘human oversight’ responsible for AI sandbox escape incidents - CyberScoop",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14dHp5VTM1c0VfVmhHWmhRdEhEb2NHVnVyWWJtelNCcmtYNGxfS0Z5anNPOG9peGZHZGJhMUNWYndobUtneVMxS2VrTktSQ0hLNEgzblI2TVI2OXdmWWo5MmU0cVJCdXBlVFNUbWtVU1NxR2FmVUE",
-    "source": "Google News",
-    "date": "Mon, 17 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE14dHp5VTM1c0VfVmhHWmhRdEhEb2NHVnVyWWJtelNCcmtYNGxfS0Z5anNPOG9peGZHZGJhMUNWYndobUtneVMxS2VrTktSQ0hLNEgzblI2TVI2OXdmWWo5MmU0cVJCdXBlVFNUbWtVU1NxR2FmVUE?oc=5\" target=\"_blank\">Irregular says ‘human oversight’ responsible for AI sandbox escape i",
-    "first_seen": "2026-09-18"
-  },
-  {
-    "title": "Anthropic says its models went rogue and hacked 3 companies during testing - Business Insider",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa3JxWEh1SXZQaEhVdXROUzlxRTQwaUJRS3Z3N0tTdko0Z3pSRXFIRzR2VzJDZ1Vob1VBX01rZDJSRWpCMzhaU3dWMG94MlVqdGVhZ09HTXRFZ1pNR1ZZdVBMUHU3OUlld2NwZTZLSm44a1FfM2RuZ1EwZHBISDZLaHNnaUpaTWhlSnVramR0U3h6UkxETngtQ25aWC0yeUNndW94QVRLWUY",
-    "source": "Google News",
-    "date": "Fri, 31 Ju",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa3JxWEh1SXZQaEhVdXROUzlxRTQwaUJRS3Z3N0tTdko0Z3pSRXFIRzR2VzJDZ1Vob1VBX01rZDJSRWpCMzhaU3dWMG94MlVqdGVhZ09HTXRFZ1pNR1ZZdVBMUHU3OUlld2NwZTZLSm44a1FfM2RuZ1EwZHBISDZLaHNnaUpaTWhlSnVramR0U3h6UkxETngtQ25aWC0yeUNndW94QVRLWUY?oc=5\" target=\"_blank\">",
-    "first_seen": "2026-09-18"
-  },
-  {
-    "title": "DPS Arrests Man in Possession of Hundreds of AI-Generated Images Involving South Texas Children - Texas Department of Public Safety (.gov)",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGtoWGxKYU0tNEFGSzVuMTFBTzRPSDRMNjJDeUFXeVpTU3JvLUlmNUhLSFhmRmhHdGdqM2NsM1FaTTVhS1ZnY2tPbHJ0QUxWcmcySHJpeEtxUXBxbzdHR0duQ3lRQmFtNTJvdW84TUMxTzMtSmQ4Y0xLZ3FoTHVFY0NLWFpIb0VQTm5Fc044UXdDTU9EblFyekdYLWFCODFrUVJDRi1JN1hoYzhYbUNMc3FwRHpSQjli",
-    "source": "Google News",
-    "date": "Fri, 29 Ma",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGtoWGxKYU0tNEFGSzVuMTFBTzRPSDRMNjJDeUFXeVpTU3JvLUlmNUhLSFhmRmhHdGdqM2NsM1FaTTVhS1ZnY2tPbHJ0QUxWcmcySHJpeEtxUXBxbzdHR0duQ3lRQmFtNTJvdW84TUMxTzMtSmQ4Y0xLZ3FoTHVFY0NLWFpIb0VQTm5Fc044UXdDTU9EblFyekdYLWFCODFrUVJDRi1JN1hoYzhYbUNMc3FwRHpSQjli?o",
     "first_seen": "2026-09-18"
   },
   {
@@ -3688,59 +3632,35 @@
     "first_seen": "2026-09-18"
   },
   {
-    "title": "Lee County man files lawsuit after AI leads to wrongful arrest - Gulf Coast News and Weather",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVjBWYmVfZ1RkOHViTGo3bzk2REdTSTk5ZDg4Y2t3SkxSSEktbDJpTXZpcHZqcEJSYmlNZW9rLTRsVGo4SWl6VVBFZTRsZWU0NnBfV2FoUUlnaU1KUURfaHFCSEJ4Y0hHa0xwYWUzSUtFSVR0M0NycktUdGxVT3Vpdm5tbmlwUXlXbVlBWE1mQl8",
-    "source": "Google News",
-    "date": "Thu, 11 Ju",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNVjBWYmVfZ1RkOHViTGo3bzk2REdTSTk5ZDg4Y2t3SkxSSEktbDJpTXZpcHZqcEJSYmlNZW9rLTRsVGo4SWl6VVBFZTRsZWU0NnBfV2FoUUlnaU1KUURfaHFCSEJ4Y0hHa0xwYWUzSUtFSVR0M0NycktUdGxVT3Vpdm5tbmlwUXlXbVlBWE1mQl8?oc=5\" target=\"_blank\">Lee County man files lawsuit aft",
+    "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
+    "url": "https://prismix.dev/news/c625b8a74296",
+    "source": "Prismix AI",
+    "date": "2026-09-18",
+    "snippet": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
     "first_seen": "2026-09-18"
   },
   {
-    "title": "More than a Dozen Wrongful Arrests Due to Police Reliance on Facial Recognition Technology - American Civil Liberties Union",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNWdzOTZDa2dNSlNzRWd6MzMzV0ZLcndZN2RTLXVpZnJQYlJQeEN0TU0taDl0QVc5aDd4Wk10RXY1Smw5Zm9GRlkyTUtQeVRZLTB2Si1aamd0aWFDSlZrU1RwREpVa01VcEFCNW4xRGhROFIxZGJ4WU9XU0I4ZUQ3RHQtamV1Zkhadkg2UEhIek01Y1FhOFZCeE5nM0lwX010a3FCLTA4N0tJNS1jdXpSeUx6bXBudFRqVWF1aVhlcDloNERHS1dzRFNweFV2UUJf",
+    "title": "OpenAI says its AI models escaped control and hacked into AI company Hugging Face - Fortune",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONTZ5aUtUdEc3d29jZUhnb3dUMXFiRFV3M2FJMzlGWkZGdkhMWE93N0NIcmJQX3ZkcExKeFBfalc3NHRvOTRRdjZvUHVKSEU1ZDYyYUZjSzZiTmVBc2M4bVZ3R05GUW4zUmFWMzM4b3hndHNVRFBBY1BkMEFkelYta3RudWpQU05heVNQZGVYb0V6T1k",
     "source": "Google News",
-    "date": "Tue, 14 Ap",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNWdzOTZDa2dNSlNzRWd6MzMzV0ZLcndZN2RTLXVpZnJQYlJQeEN0TU0taDl0QVc5aDd4Wk10RXY1Smw5Zm9GRlkyTUtQeVRZLTB2Si1aamd0aWFDSlZrU1RwREpVa01VcEFCNW4xRGhROFIxZGJ4WU9XU0I4ZUQ3RHQtamV1Zkhadkg2UEhIek01Y1FhOFZCeE5nM0lwX010a3FCLTA4N0tJNS1jdXpSeUx6bXBudFRqVW",
+    "date": "Tue, 21 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxONTZ5aUtUdEc3d29jZUhnb3dUMXFiRFV3M2FJMzlGWkZGdkhMWE93N0NIcmJQX3ZkcExKeFBfalc3NHRvOTRRdjZvUHVKSEU1ZDYyYUZjSzZiTmVBc2M4bVZ3R05GUW4zUmFWMzM4b3hndHNVRFBBY1BkMEFkelYta3RudWpQU05heVNQZGVYb0V6T1k?oc=5\" target=\"_blank\">OpenAI says its AI models es",
     "first_seen": "2026-09-18"
   },
   {
-    "title": "Cybersecurity Researchers Identify First Fully Autonomous AI-Driven Ransomware Attack - Campus Technology",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdDFta043UXQxTGVOT0Y0cVJKSVV6LW4xZHJMNHQ1TTA3NXoySDhXcWNCbHgzR2lOSWc5RE1FZDJZZ2E1Wmd3SG8zbXhFV0hJNThmd2ZMaUluS3Rld1oyeE1Md3oyLUNiNTFhbFRid0l6NWVjSW9IbGEwS2NhREM5cHRnMk5ENzkxY3Rwc0REajNQYVA5cTh4MWNIa3dXc3JPeTBTdXdNS2FDTVJSMk5ZRktkVXJkdWxVTXFyUG1WeWEwbGNFZGlCYS1Lenlxb00yS1MtaHJn",
-    "source": "Google News",
-    "date": "Tue, 14 Ju",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdDFta043UXQxTGVOT0Y0cVJKSVV6LW4xZHJMNHQ1TTA3NXoySDhXcWNCbHgzR2lOSWc5RE1FZDJZZ2E1Wmd3SG8zbXhFV0hJNThmd2ZMaUluS3Rld1oyeE1Md3oyLUNiNTFhbFRid0l6NWVjSW9IbGEwS2NhREM5cHRnMk5ENzkxY3Rwc0REajNQYVA5cTh4MWNIa3dXc3JPeTBTdXdNS2FDTVJSMk5ZRktkVXJkdWxVTX",
+    "title": "CISA KEV: Linux Kernel Race Condition Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-39964",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-18",
+    "snippet": "CVE-2025-39964 | Linux Kernel | Linux Kernel contains a race condition vulnerability which allows concurrent writes to the same AF_ALG socket causing data to be unpredictably interleaved and creating inconsistencies in the socket's internal state.",
     "first_seen": "2026-09-18"
   },
   {
-    "title": "Cybersecurity firm says it found 'the first documented case' of AI agentic ransomware - Business Insider",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaVl5RlRkUVlRYkg1T1Rjd2JGYzM3TkJUbFFxeUdkdW1IbEZ3SVRPTTVNNjQ0amllY3FnX25VQkE2cDlVek01ckpFR0N2M3g3ckdpY1dpYno1UXhJVG85RDJsekE4aGFUTmZXZUsycGZfTHZiOTFHd3NvbkRqaHdPVDQ0aXo",
-    "source": "Google News",
-    "date": "Mon, 06 Ju",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOaVl5RlRkUVlRYkg1T1Rjd2JGYzM3TkJUbFFxeUdkdW1IbEZ3SVRPTTVNNjQ0amllY3FnX25VQkE2cDlVek01ckpFR0N2M3g3ckdpY1dpYno1UXhJVG85RDJsekE4aGFUTmZXZUsycGZfTHZiOTFHd3NvbkRqaHdPVDQ0aXo?oc=5\" target=\"_blank\">Cybersecurity firm says it found 'the first docu",
-    "first_seen": "2026-09-18"
-  },
-  {
-    "title": "The ‘first’ AI-run ransomware attack still needed a human - TechCrunch",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUkoyRWhJY1VJcVNVTkM3TkhJc2tPc0g0b284ZjZTemtZR0hrOTZhdjJBQjdZOFZQR0RhaXZKWlB1YldJTmZuanNoUDRyQk5DSGE5N0Z5Wlc3MmVQUm1CWmtXYWcwQVVyZmY4OFRuanB3blRCakhUQlUycWdfSl9lZ210UkRCVmhSNHFGRkgxWDlrRnZK",
-    "source": "Google News",
-    "date": "Mon, 06 Ju",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPUkoyRWhJY1VJcVNVTkM3TkhJc2tPc0g0b284ZjZTemtZR0hrOTZhdjJBQjdZOFZQR0RhaXZKWlB1YldJTmZuanNoUDRyQk5DSGE5N0Z5Wlc3MmVQUm1CWmtXYWcwQVVyZmY4OFRuanB3blRCakhUQlUycWdfSl9lZ210UkRCVmhSNHFGRkgxWDlrRnZK?oc=5\" target=\"_blank\">The ‘first’ AI-run ransomwa",
-    "first_seen": "2026-09-18"
-  },
-  {
-    "title": "Elder fraud rises as scammers use AI - journalofaccountancy.com",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLTFhLUVsS1hOdFpUNS1JZ183OThqVFpTN0dfWi1zT1ZwQmxBbVFBV0NSSVNiajQ1YlpvWEhNUlhTT0N0LW9xUlN2YVh3blMwMVlaTmhsVERCRzVMVWxUTFRDcjBVV0RmcF9aWnZhLXJybkR1OG5icElrc21zb0h1WGo0TXVRdWNtNDRoQ2RtSGp2cEtu",
-    "source": "Google News",
-    "date": "Wed, 01 Ap",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQLTFhLUVsS1hOdFpUNS1JZ183OThqVFpTN0dfWi1zT1ZwQmxBbVFBV0NSSVNiajQ1YlpvWEhNUlhTT0N0LW9xUlN2YVh3blMwMVlaTmhsVERCRzVMVWxUTFRDcjBVV0RmcF9aWnZhLXJybkR1OG5icElrc21zb0h1WGo0TXVRdWNtNDRoQ2RtSGp2cEtu?oc=5\" target=\"_blank\">Elder fraud rises as scamme",
-    "first_seen": "2026-09-18"
-  },
-  {
-    "title": "AI Fraud: Protecting your business from deepfake calls - U.S. Bank",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbmlPTnI4VEFlaGh6SkVIWDZWREJZRmVKTjZvT0VTRE9ka2Q0TzVZVEZkM091NVZ5bHpyRjhpTWRDamg0dVN6UzhZRTJRUXNmcGJlRG1LRmJxcmFSb1ZxMFY3YWE2ZGFVZl9TbnJadFowTHd4T2k5WGJ5bUxmT09zWWQ4ZEJjeXlXMmpxNWxqa1Zqb2lqWHJ2azRNMkczLUlYcWk5Y2hB",
-    "source": "Google News",
-    "date": "Fri, 24 Oc",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPbmlPTnI4VEFlaGh6SkVIWDZWREJZRmVKTjZvT0VTRE9ka2Q0TzVZVEZkM091NVZ5bHpyRjhpTWRDamg0dVN6UzhZRTJRUXNmcGJlRG1LRmJxcmFSb1ZxMFY3YWE2ZGFVZl9TbnJadFowTHd4T2k5WGJ5bUxmT09zWWQ4ZEJjeXlXMmpxNWxqa1Zqb2lqWHJ2azRNMkczLUlYcWk5Y2hB?oc=5\" target=\"_blank\">AI ",
+    "title": "CISA KEV: Linux Kernel Out-of-Bounds Write Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-53266",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-18",
+    "snippet": "CVE-2026-53266 | Linux Kernel | Linux Kernel contains an out-of-bounds write vulnerability in the ebtables SNAT target which allows an ARP sender hardware address rewrite to write directly into a nonlinear socket-buffer fragment backed by a splice-imported file page. The impacted product(s) could be end-of-life (EoL) and/or end-of",
     "first_seen": "2026-09-18"
   }
 ]
