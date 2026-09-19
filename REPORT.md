@@ -1,6 +1,6 @@
 # AI Incident Briefing — 2026-09-19
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 462_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 430_
 
 ## 1. Latest verified incidents
 
@@ -11,26 +11,16 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=462)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=430)
 
-- [Google News] Anthropic's Claude AI escapes tests to hack three organisations - BBC  (Fri, 31 Ju)
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2QlZMcUJ4dUVteXdkZVAxOElRaVhib0pnTVZuZzBQY043YzMySTE0NUtkQ1Y3NnY5MTJkOHdaemxhdkFjdmJmY2U0cmdDRGYtdnEzUVZvMXZjZw
-- [Google News] GitHub has been completely disrupted by AI. - 36Kr  (Thu, 04 Ju)
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE03RzJTaFlFLW9rZXp3ZE9hdThMSER1RHdYVzBYdjRta1Y1Slg5NlJScThvd0lSbG4wOXRUMHFjOHFrc3hhbTRZX0dXMlBRbTkxUTRn
-- [Google News] Evooo1Bot Linux Botnet Uses 16 DDoS Methods and SOCKS5 Proxies to Hijack Edge Devices - CyberSecurityNews  (Mon, 17 Au)
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EQXBmQUtOQWRPTTdHc0NvT21mSlB2WXFYVzdBbjBwUEtXVkdVM1hiQ0cyTzR4WHNmMG9PbDRRZkVWaDhQOVZBSkYzRjJYbXBLLWFaZkRWM0RZZTBJaWFPUTFfY9IBaEFVX3lxTFA3d3dGOFY5QmEwQlB0dVJsVk5ucERodFpsUkJsZFhaWGZlaF92Y1o4aWlMVFdiVE5UREpTQVVPMFZYdVg4N0ZsVXRYYWZrRVRvd3FzSnVnVUpDLU1oLTZkLVYtUXFoWHBw
-- [Google News] AWS outage linked to its own AI tools amid global agentic AI debate - capacityglobal.com  (Fri, 20 Fe)
-  https://news.google.com/rss/articles/CBMib0FVX3lxTFAyOV9MeUs1Nk1ZaHdYVmtQN3VneDJ6alBTUWxYLVNIdlpEVnJZaW5KVkNCSmk5M2gtRGJIYzRNWnN5VmFpZkJ1bk5tOHVUakNDdVBQZUQ0SF9maFg4LXh1MXRhc1RGZVg4OVNqTTVsbw
-- [Google News] AI tools AWS cause hours of disruption to cloud systems - Techzine Global  (Fri, 20 Fe)
-  https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWGxoYnZJMjEyM2ZpbFUybzQ4S2Zrem5YRVFxb180TWlRcXRBb3ZkSW9YeU94bTRzenRXanN5VGVOVFI3UFhUbTVCZ2tyb05URWptQ2M0T1NjWV9feWdPTVFJUFhvNzNzd0REdnd2SEdBNzB5b2JXT0U5dFJCZ2xnb1hxNzhIeVNQVkRkYWZQZUEtT2lLMnRwMVBSZDVZSUpBbUZsSDRkNE5RM00
-- [Google News] Amazon’s cloud ‘hit by two outages caused by AI tools last year’ - The Guardian  (Fri, 20 Fe)
-  https://news.google.com/rss/articles/CBMipwFBVV95cUxPdlNsWkxOcFlvVWxpRlVTWlJEclh4R0VmNmtsaFczR3hKTW9qdThJYXNzdHFXVkpuUndnbEkyVV9yNzVGdEVabExvUnBxUEpQaUZBc01GdVQ2Z05hV2YxaDJQblo0RG9JeWFVekJRb1VUM1pVV1FUYndzU18taEVVU3FMUUFaT1VrYkhicXVVSGk0VVhYejFQUjdQTkJtSS05WWsxRGdBYw
-- [Google News] Amazon blames AI-assisted deployments for AWS outages - The Tech Buzz  (Tue, 10 Ma)
-  https://news.google.com/rss/articles/CBMijwFBVV95cUxQN24xeXZua3pIaFdFeEhpcHdSVWlNTkdyODZMVkV5VHVRS3FYOEdNYmxzbk5yN1ozRW1na05pejFaOUw5bWJZZ3lYVzk3OEgzV0NKeEtIOXBVb2hXdzB1cTNEZTltMEJsdjVYamx3bnlJc2d6X2FYTnFvZGpwbUVqQmpWc096VmMtSzFUTUVXQQ
-- [Google News] Black Kite report finds 73% of ransomware incidents hit mid-market companies amid growing third-party and AI risks - Industrial Cyber  (Wed, 19 Au)
-  https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbW9sb3BhNFBNeEEwSVRNSDBYWHpHMzU5Qy1NZHJMSnlpQzNva0t2SnpHVklFaWJkNjAzdDNlYWpXLUtScUd5ZFpMM3FMMk9zWk84RHF3ekxhZTg4SjdSN3dwd2VPcUs5REJZZC04eUdGMk1mNEJMYmRjS3dRUmlwWnNDMXBBVEJMdjlSNVl1Yktsc0pBc29tRkoxTENnYnBLb2tqVWMzcEw0c0U4RU5KQk5TNlQ2aGNBazJjeF9EbF9ENlA1MHcwWHVtT3llTFY3NDBVeVBsZ2lpMzdzNEdj
-- [Google News] Co-founder of firm hacked by rogue OpenAI models says it is 'a wake-up call' - BBC  (Thu, 23 Ju)
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sRC1FM3dKdm16Z3picUs3T3pHR2xWbUpLVmV1bXpUR3VFRkw1czFycndyOUgzQnZOMC04eFV5VnhFRG04NVpTdEtPLXpfbF9pcFM1dERYRHNHS0VC
+- [Google News] Ubuntu DDoS Attack: What Canonical’s Outage Reveals About DDoS Disruption - Security Boulevard  (Thu, 16 Ju)
+  https://news.google.com/rss/articles/CBMirwFBVV95cUxNam5hME1lVUVUMENwUEJwTld5SURWVndTaTRIY01LTjRIUTd2U2RfeWxvcnlnbjRsWDdNQ2VNX3Y5cWs2Z1BmOVRyeC1aMVRobjVCQVRxVUExZkVyOTJfdlhTYnN1X1liUTZkUGhWM3pFUWFMUC1kWnhNSDRNXzllZUJWbVU3RXVxaEszd19ZMHFQaTM4WjQ3R3lTU1ROcngzakk3MXFQYlhMV25tUXNz
+- [Google News] Autonomous attacks ushered cybercrime into AI era in 2025 - Cybersecurity Dive  (Wed, 04 Fe)
+  https://news.google.com/rss/articles/CBMikgFBVV95cUxOTWljcm9kbEF4T0FtQW9GX3ZubzBLei1KUDhBV0NOaDJVUFkzbFVNVlkxSHZDMlpRQ1I1ell6VEFHZGVPalJxdEllZ2E0cmd5bzhzRTR3Q29iMHQ1X2RWUUNRTkE3UGJzN2RIWUhDMWtsX3FubW9XNDhvQXRBcGFaVWdha1F3MlY5TmdqQWtxeEE4UQ
+- [Google News] AI code suggestions sabotage software supply chain - The Register  (Sat, 12 Ap)
+  https://news.google.com/rss/articles/CBMiswFBVV95cUxNMTNJbEFvMk15Yk9ETFVpVkxjM2syM2tjWVQ5S3p1cDhwMXpNNnFkcjNtWXhxQWMyU05Dc0R2LVE5MXFzbTM0QjVpQ2wwc3VwUWNFT3ItRHpib05YcE1mQjZ6ejdQTDlLWk43Y2JYbmdWV3oySDdWYXg0YTBadTk5dmtBUU1iUWZ1QlVGVUk5ZTFiM01FNFhnQlRZX0M2SUhTMGVjeGM3elBNMWV4OENBQmVCYw
+- [Google News] Cyberattacks target water utilities in Minnesota, disrupting OT operations and triggering multi-agency cyber response - Industrial Cyber  (Thu, 30 Ju)
+  https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZW4wNnYzOWxNcm1iTjRnLTA3eXIwODBDSWpELUt4NVR1dGNFM1BVcFRSLUpXckRCV3lCRlVKdVRIeG9EUm91NGNfZEI1cjFNTHhjQkVvajBLNE4tZ19EbWpfTE1zOGhQc0tJUjVOZ1ZrQW1JcEt0ZEQyX3pVRFJrYVllZFhTbWlfV3dFZnVhNUFyZWhDa0ZmLUdzc0t2aFdfZ01qOUFucUVQWkNlQXA2Rk5YcEpRd3gtaFZxanlRZzhWNXlqT0lEM2hzQlRKMkFXNUNhNXNUTUQ1MF9QZC1ZVXhGanZaWEJyWUZGTXN2amN0MzFnMnp4dVVvZTRQdTFUdDJsUlFNTU5UV2M
 
 ## 4. Early-warning watchlist (be first to know)
 
