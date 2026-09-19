@@ -3598,5 +3598,69 @@
     "date": "2026-09-18",
     "snippet": "LMDeploy is a toolkit for compressing, deploying, and serving large language models. Versions 012.1 through 0.12.2 contain a code injection vulnerability in `lmdeploy/pytorch/config.py` line 620 that allows an attacker to execute arbitrary Python code by publishing a malicious HuggingFace model with",
     "first_seen": "2026-09-19"
+  },
+  {
+    "title": "An OpenAI test model escaped and broke into a real company’s servers - CNN",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg",
+    "source": "Google News",
+    "date": "Wed, 22 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg?oc=5\" target=\"_blank\">An OpenAI test model escaped and broke into a real company’s",
+    "first_seen": "2026-09-19"
+  },
+  {
+    "title": "Houston ICE killing follows increase in street arrests - The Texas Tribune",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNWhaYVp5ZzNVdTc4LXgxaFNQNlBmcTFZUEpNZFEza3RCZTBGVmlTZndCeFNLbXZlX04tNmI1WkI2X2pHSFo0RHlLd3p1TUphTEtWd3hveVdGbUY2LWxtbWdzU1FTYXQtRjVsZ0hCUFJVRnl1SDIxY0MwWm5sT0x3S0lkbV82Zw",
+    "source": "Google News",
+    "date": "Fri, 10 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNNWhaYVp5ZzNVdTc4LXgxaFNQNlBmcTFZUEpNZFEza3RCZTBGVmlTZndCeFNLbXZlX04tNmI1WkI2X2pHSFo0RHlLd3p1TUphTEtWd3hveVdGbUY2LWxtbWdzU1FTYXQtRjVsZ0hCUFJVRnl1SDIxY0MwWm5sT0x3S0lkbV82Zw?oc=5\" target=\"_blank\">Houston ICE killing follows increase in stree",
+    "first_seen": "2026-09-19"
+  },
+  {
+    "title": "Cybersecurity Researchers Identify First Fully Autonomous AI-Driven Ransomware Attack - Campus Technology",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdDFta043UXQxTGVOT0Y0cVJKSVV6LW4xZHJMNHQ1TTA3NXoySDhXcWNCbHgzR2lOSWc5RE1FZDJZZ2E1Wmd3SG8zbXhFV0hJNThmd2ZMaUluS3Rld1oyeE1Md3oyLUNiNTFhbFRid0l6NWVjSW9IbGEwS2NhREM5cHRnMk5ENzkxY3Rwc0REajNQYVA5cTh4MWNIa3dXc3JPeTBTdXdNS2FDTVJSMk5ZRktkVXJkdWxVTXFyUG1WeWEwbGNFZGlCYS1Lenlxb00yS1MtaHJn",
+    "source": "Google News",
+    "date": "Tue, 14 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdDFta043UXQxTGVOT0Y0cVJKSVV6LW4xZHJMNHQ1TTA3NXoySDhXcWNCbHgzR2lOSWc5RE1FZDJZZ2E1Wmd3SG8zbXhFV0hJNThmd2ZMaUluS3Rld1oyeE1Md3oyLUNiNTFhbFRid0l6NWVjSW9IbGEwS2NhREM5cHRnMk5ENzkxY3Rwc0REajNQYVA5cTh4MWNIa3dXc3JPeTBTdXdNS2FDTVJSMk5ZRktkVXJkdWxVTX",
+    "first_seen": "2026-09-19"
+  },
+  {
+    "title": "Cybersecurity firm says it found 'the first documented case' of AI agentic ransomware - businessinsider.com",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaVl5RlRkUVlRYkg1T1Rjd2JGYzM3TkJUbFFxeUdkdW1IbEZ3SVRPTTVNNjQ0amllY3FnX25VQkE2cDlVek01ckpFR0N2M3g3ckdpY1dpYno1UXhJVG85RDJsekE4aGFUTmZXZUsycGZfTHZiOTFHd3NvbkRqaHdPVDQ0aXo",
+    "source": "Google News",
+    "date": "Mon, 06 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOaVl5RlRkUVlRYkg1T1Rjd2JGYzM3TkJUbFFxeUdkdW1IbEZ3SVRPTTVNNjQ0amllY3FnX25VQkE2cDlVek01ckpFR0N2M3g3ckdpY1dpYno1UXhJVG85RDJsekE4aGFUTmZXZUsycGZfTHZiOTFHd3NvbkRqaHdPVDQ0aXo?oc=5\" target=\"_blank\">Cybersecurity firm says it found 'the first docu",
+    "first_seen": "2026-09-19"
+  },
+  {
+    "title": "The ‘first’ AI-run ransomware attack still needed a human - TechCrunch",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUkoyRWhJY1VJcVNVTkM3TkhJc2tPc0g0b284ZjZTemtZR0hrOTZhdjJBQjdZOFZQR0RhaXZKWlB1YldJTmZuanNoUDRyQk5DSGE5N0Z5Wlc3MmVQUm1CWmtXYWcwQVVyZmY4OFRuanB3blRCakhUQlUycWdfSl9lZ210UkRCVmhSNHFGRkgxWDlrRnZK",
+    "source": "Google News",
+    "date": "Mon, 06 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPUkoyRWhJY1VJcVNVTkM3TkhJc2tPc0g0b284ZjZTemtZR0hrOTZhdjJBQjdZOFZQR0RhaXZKWlB1YldJTmZuanNoUDRyQk5DSGE5N0Z5Wlc3MmVQUm1CWmtXYWcwQVVyZmY4OFRuanB3blRCakhUQlUycWdfSl9lZ210UkRCVmhSNHFGRkgxWDlrRnZK?oc=5\" target=\"_blank\">The ‘first’ AI-run ransomwa",
+    "first_seen": "2026-09-19"
+  },
+  {
+    "title": "Elder fraud rises as scammers use AI - Journal of Accountancy",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLTFhLUVsS1hOdFpUNS1JZ183OThqVFpTN0dfWi1zT1ZwQmxBbVFBV0NSSVNiajQ1YlpvWEhNUlhTT0N0LW9xUlN2YVh3blMwMVlaTmhsVERCRzVMVWxUTFRDcjBVV0RmcF9aWnZhLXJybkR1OG5icElrc21zb0h1WGo0TXVRdWNtNDRoQ2RtSGp2cEtu",
+    "source": "Google News",
+    "date": "Wed, 01 Ap",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQLTFhLUVsS1hOdFpUNS1JZ183OThqVFpTN0dfWi1zT1ZwQmxBbVFBV0NSSVNiajQ1YlpvWEhNUlhTT0N0LW9xUlN2YVh3blMwMVlaTmhsVERCRzVMVWxUTFRDcjBVV0RmcF9aWnZhLXJybkR1OG5icElrc21zb0h1WGo0TXVRdWNtNDRoQ2RtSGp2cEtu?oc=5\" target=\"_blank\">Elder fraud rises as scamme",
+    "first_seen": "2026-09-19"
+  },
+  {
+    "title": "Fraud EDU: How to spot and avoid deepfake scams - your essential guide to AI-powered fraud - 256 Today",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYjFmWTk2V3hBajI4aVhTQ3hEVWl1aktYM3RQQzBXU3NqdFdKTTRHMUV6eC10M3pqcmJVTTljcnhjVkxMWmZReVFIVndrZ0diVVBNTzNOM2RoQ0JKdWxobDdKTVVpVUtOVUFnRk9KS2NhazJ4OFcwNXNxQ3NzS1B5SXB4N3ZwVE1nOTc1X0JlZTlKcXcyc3M3Q0dOaUtNN1JKUE9aOXJzbHdNbTlZWGc",
+    "source": "Google News",
+    "date": "Fri, 22 Ma",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNYjFmWTk2V3hBajI4aVhTQ3hEVWl1aktYM3RQQzBXU3NqdFdKTTRHMUV6eC10M3pqcmJVTTljcnhjVkxMWmZReVFIVndrZ0diVVBNTzNOM2RoQ0JKdWxobDdKTVVpVUtOVUFnRk9KS2NhazJ4OFcwNXNxQ3NzS1B5SXB4N3ZwVE1nOTc1X0JlZTlKcXcyc3M3Q0dOaUtNN1JKUE9aOXJzbHdNbTlZWGc?oc=5\" target=\"",
+    "first_seen": "2026-09-19"
+  },
+  {
+    "title": "AI Fraud: Protecting your business from deepfake calls - U.S. Bank",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbmlPTnI4VEFlaGh6SkVIWDZWREJZRmVKTjZvT0VTRE9ka2Q0TzVZVEZkM091NVZ5bHpyRjhpTWRDamg0dVN6UzhZRTJRUXNmcGJlRG1LRmJxcmFSb1ZxMFY3YWE2ZGFVZl9TbnJadFowTHd4T2k5WGJ5bUxmT09zWWQ4ZEJjeXlXMmpxNWxqa1Zqb2lqWHJ2azRNMkczLUlYcWk5Y2hB",
+    "source": "Google News",
+    "date": "Fri, 24 Oc",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPbmlPTnI4VEFlaGh6SkVIWDZWREJZRmVKTjZvT0VTRE9ka2Q0TzVZVEZkM091NVZ5bHpyRjhpTWRDamg0dVN6UzhZRTJRUXNmcGJlRG1LRmJxcmFSb1ZxMFY3YWE2ZGFVZl9TbnJadFowTHd4T2k5WGJ5bUxmT09zWWQ4ZEJjeXlXMmpxNWxqa1Zqb2lqWHJ2azRNMkczLUlYcWk5Y2hB?oc=5\" target=\"_blank\">AI ",
+    "first_seen": "2026-09-19"
   }
 ]
