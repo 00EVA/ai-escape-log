@@ -1,6 +1,6 @@
 # AI Incident Briefing — 2026-09-20
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 446_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 442_
 
 ## 1. Latest verified incidents
 
@@ -11,7 +11,7 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=446)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=442)
 
 - [Google News] Autonomous attacks ushered cybercrime into AI era in 2025 - Cybersecurity Dive  (Wed, 04 Fe)
   https://news.google.com/rss/articles/CBMikgFBVV95cUxOTWljcm9kbEF4T0FtQW9GX3ZubzBLei1KUDhBV0NOaDJVUFkzbFVNVlkxSHZDMlpRQ1I1ell6VEFHZGVPalJxdEllZ2E0cmd5bzhzRTR3Q29iMHQ1X2RWUUNRTkE3UGJzN2RIWUhDMWtsX3FubW9XNDhvQXRBcGFaVWdha1F3MlY5TmdqQWtxeEE4UQ
