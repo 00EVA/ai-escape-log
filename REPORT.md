@@ -1,6 +1,6 @@
-# AI Incident Briefing — 2026-09-19
+# AI Incident Briefing — 2026-09-20
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 444_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 438_
 
 ## 1. Latest verified incidents
 
@@ -11,16 +11,22 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=444)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=438)
 
-- [Google News] Ubuntu DDoS Attack: What Canonical’s Outage Reveals About DDoS Disruption - Security Boulevard  (Thu, 16 Ju)
-  https://news.google.com/rss/articles/CBMirwFBVV95cUxNam5hME1lVUVUMENwUEJwTld5SURWVndTaTRIY01LTjRIUTd2U2RfeWxvcnlnbjRsWDdNQ2VNX3Y5cWs2Z1BmOVRyeC1aMVRobjVCQVRxVUExZkVyOTJfdlhTYnN1X1liUTZkUGhWM3pFUWFMUC1kWnhNSDRNXzllZUJWbVU3RXVxaEszd19ZMHFQaTM4WjQ3R3lTU1ROcngzakk3MXFQYlhMV25tUXNz
 - [Google News] Autonomous attacks ushered cybercrime into AI era in 2025 - Cybersecurity Dive  (Wed, 04 Fe)
   https://news.google.com/rss/articles/CBMikgFBVV95cUxOTWljcm9kbEF4T0FtQW9GX3ZubzBLei1KUDhBV0NOaDJVUFkzbFVNVlkxSHZDMlpRQ1I1ell6VEFHZGVPalJxdEllZ2E0cmd5bzhzRTR3Q29iMHQ1X2RWUUNRTkE3UGJzN2RIWUhDMWtsX3FubW9XNDhvQXRBcGFaVWdha1F3MlY5TmdqQWtxeEE4UQ
 - [Google News] AI code suggestions sabotage software supply chain - The Register  (Sat, 12 Ap)
   https://news.google.com/rss/articles/CBMiswFBVV95cUxNMTNJbEFvMk15Yk9ETFVpVkxjM2syM2tjWVQ5S3p1cDhwMXpNNnFkcjNtWXhxQWMyU05Dc0R2LVE5MXFzbTM0QjVpQ2wwc3VwUWNFT3ItRHpib05YcE1mQjZ6ejdQTDlLWk43Y2JYbmdWV3oySDdWYXg0YTBadTk5dmtBUU1iUWZ1QlVGVUk5ZTFiM01FNFhnQlRZX0M2SUhTMGVjeGM3elBNMWV4OENBQmVCYw
 - [Google News] Cyberattacks target water utilities in Minnesota, disrupting OT operations and triggering multi-agency cyber response - Industrial Cyber  (Thu, 30 Ju)
   https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZW4wNnYzOWxNcm1iTjRnLTA3eXIwODBDSWpELUt4NVR1dGNFM1BVcFRSLUpXckRCV3lCRlVKdVRIeG9EUm91NGNfZEI1cjFNTHhjQkVvajBLNE4tZ19EbWpfTE1zOGhQc0tJUjVOZ1ZrQW1JcEt0ZEQyX3pVRFJrYVllZFhTbWlfV3dFZnVhNUFyZWhDa0ZmLUdzc0t2aFdfZ01qOUFucUVQWkNlQXA2Rk5YcEpRd3gtaFZxanlRZzhWNXlqT0lEM2hzQlRKMkFXNUNhNXNUTUQ1MF9QZC1ZVXhGanZaWEJyWUZGTXN2amN0MzFnMnp4dVVvZTRQdTFUdDJsUlFNTU5UV2M
+- [Google News] OpenAI AI Autonomy Incident: First Known Rogue Cyber-Attack Raises Safety Concerns - Estimate Dispersion - vinanet.vn  (Wed, 22 Ju)
+  https://news.google.com/rss/articles/CBMivwFBVV95cUxNSWRMSElYSkdpeGlrNDVWZmJhTEVxcUhYd0RnemdpOEk2YkR4RE10WnplalAxbVRqVVJQNkJqcUVXM0N6dnFyaHBkREpIWTh2Z3hiSFJGZ3VmdjZKQXFiMGxzOWFQTm5YSnhlUXJXdUhvYVFXVkh1ZVZ2R25VYmNKS1MwdXppbE9DTDdNeFZPNy1jYWVsTXQ3Mlo0ZVA1T09aZEdNRF9VbVZNVEF5ZnhGak5mT1R6aExGSm9MdkYyVQ
+- [Google News] OpenAI Reveals Its AI System Acted Autonomously to Launch Unprecedented Cyber-Attack - Financial Health Score - vinanet.vn  (Wed, 22 Ju)
+  https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM0VVaHlBeWVYc1hvMXhWYmdoUmRCRWNRbU9vXzZQWk84SkYzQ3MtNzUxNWhHZk1rMGlkbHlFS3FyVlRURktrc1N3SHhXbFJxOEVlSXVfSTJiaTZSVkZtRHNocWhvSEYyQXJRRUxYVHMwYTZDWDhsTUVoQUhKb3FSeXlvUjRfRlJ3cG1vN1pwdXdKUmNQTWJXYkRHaU1EcHI2aWdmY3lHcVFDay0wWVAtejVIZUVrQ0pydXhtVmlUckFCNXc
+- [Google News] AI oversight gains urgency as deepfake scams surge 2,000% - Asian Banking & Finance  (Wed, 01 Ju)
+  https://news.google.com/rss/articles/CBMinwFBVV95cUxQSjNaa3prMEJCUG5fd0xsVjBwVnc2OGcwOERKUzA5aDdkbDhjcjUtVWhueFlKTEhPNEZLY0h6SFNMREE3dlVOSHcybHFFb1RhRy1PbUdkcnAya2xkV0N2eEdxaVBhQnhSQXpTdXNfc0RqUFl6cTJJQzE1dEtSdmROMWNDdWlObUJCX3RDZFRfZjQ5OFBpVmVYYlA2N2FuSGs
+- [Google News] Russia’s ‘disposable’ saboteurs spread chaos across Europe - The Times  (Wed, 14 Ja)
+  https://news.google.com/rss/articles/CBMirwFBVV95cUxQa3ZnY0NmaEd2eFZNNWdmTk1oeEg1WWVpZ254eElpbE4yRzFGeS1XRFRWWDNIZXBoZnZ5SThadl9XWlVmTVVzYV9nRTctWkUzVUlGeEhKVXBJa1NYaGlNQmkydVZNYXlBZEF3dDhUN19zNUNJcThOYW9uc19IYy16WWxScmRRdFZXcGF0TGhhZkMtV193LTAwOEhRbklLeUk1QzBKTFB2S005UEpWTEw4
 
 ## 4. Early-warning watchlist (be first to know)
 

