@@ -3510,5 +3510,69 @@
     "date": "Mon, 21 Se",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPdy1MRzFZYU1KRUpiaFJIcTlQZ0hWVDc0ZGVTd0pQaTBhbms5RW93bXl0ZjlaSDhJTFJrSmVYWjBGN2k0QkR1SEJmYllHdDgzb1A2YUlWSm11ZDk2N3VPUS1rU1RQVFB2bU5IR1FkeXpQZGU0NFdOUVNxMzlEczl4b1VuZmZENlBWVjFEZ29JcUtBQjJxYzBzMTUwSXZ3Q0xPcjFreWI1Mlg5QVdiRHFYeEVmVFVkZjg1R2",
     "first_seen": "2026-09-21"
+  },
+  {
+    "title": "Show HN: Misalignments when using AI for hacking",
+    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
+    "source": "Hacker News",
+    "date": "2026-08-05",
+    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
+    "first_seen": "2026-09-21"
+  },
+  {
+    "title": "These Were NOT Rogue AI Escapes. Just SLOPPY Firewall Failures.",
+    "url": "https://www.reddit.com/r/singularity/comments/1wm9jr5/these_were_not_rogue_ai_escapes_just_sloppy/",
+    "source": "Reddit r/singularity",
+    "date": "2026-09-21",
+    "snippet": "   The headlines right now are full of stories about AI models &quot;escaping their sandboxes&quot; and literally killing all humans, lol.   I&#39;ve even heard several commentators and writers say that AI escaped an &quot;Air gap&quot;. But that is SO WRONG. It&#39;s actually TOTALLY WRONG.   *To b",
+    "first_seen": "2026-09-21"
+  },
+  {
+    "title": "These Were NOT Rogue AI Escapes. Just SLOPPY Firewall Failures. [N]",
+    "url": "https://prismix.dev/news/d07a997428c2",
+    "source": "Prismix AI",
+    "date": "2026-09-21",
+    "snippet": "The headlines right now are full of stories about AI models \"escaping their sandboxes\" and literally killing all humans, lol. I've even heard several commentators and writers say that AI escaped an \"Air gap\". But that is SO WRONG. It's actually TOTALLY WRONG. *To be clear, not a…",
+    "first_seen": "2026-09-21"
+  },
+  {
+    "title": "DeepSeek Bets Big on Huawei Chips to Bypass U.S. Export Controls",
+    "url": "https://prismix.dev/news/ecb55704559f",
+    "source": "Prismix AI",
+    "date": "2026-09-21",
+    "snippet": "DeepSeek CEO Liang Wenfeng told investors that a major priority for his company is to use more domestic chips to train its models, adding that he expects Huawei Technologies to start delivering training chips to DeepSeek as early as the fourth quarter this year, according to two…",
+    "first_seen": "2026-09-21"
+  },
+  {
+    "title": "b11068",
+    "url": "https://prismix.dev/news/21de74bfc937",
+    "source": "Prismix AI",
+    "date": "2026-09-21",
+    "snippet": "metal : fix deprecation warnings from macOS 27 SDK ( #29136 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/48890258 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS…",
+    "first_seen": "2026-09-21"
+  },
+  {
+    "title": "b11067",
+    "url": "https://prismix.dev/news/a9434b789abf",
+    "source": "Prismix AI",
+    "date": "2026-09-21",
+    "snippet": "webgpu : add fused gdn + cpy ( #28976 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/48873164 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework Linux:…",
+    "first_seen": "2026-09-21"
+  },
+  {
+    "title": "Cybersecurity News: OpenAI Codex sandbox escape, President proposes AI Force, Cyber Command suicides - CISO Series",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMmlIVTNSaFpRSndjLTFzUTZNdlhBMHBtM21LbVR3X1NRcGNpY3o5RGVQaWNFZXhmNHF3eS00SkJKR0RTWElmMnhfbTd0cTdEZGVmVktraVpzMWRNa3ZNNVJCc0t2V0RtMDZKNFVKcmE0eVhDcWNJZG1XanFhby1yRGtxU3hZNERzd0Fqc3MzWjN1YTJ6RWtRdU9nb3lsQmhXRmNTaGVzcWN2WXYwODhsRUR6TmhzUThnSm4teC1R",
+    "source": "Google News",
+    "date": "Mon, 21 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPMmlIVTNSaFpRSndjLTFzUTZNdlhBMHBtM21LbVR3X1NRcGNpY3o5RGVQaWNFZXhmNHF3eS00SkJKR0RTWElmMnhfbTd0cTdEZGVmVktraVpzMWRNa3ZNNVJCc0t2V0RtMDZKNFVKcmE0eVhDcWNJZG1XanFhby1yRGtxU3hZNERzd0Fqc3MzWjN1YTJ6RWtRdU9nb3lsQmhXRmNTaGVzcWN2WXYwODhsRUR6TmhzUThnSm",
+    "first_seen": "2026-09-21"
+  },
+  {
+    "title": "Meta AI Model Hacked Outside Company, Adding to Concerns Over Rogue Bots - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZS0wZHRJSVM4dWhIX1I2eVJqTE82c0VaU2JOU0tnVDE1em5ad3I3THZrNGFGaWVfaC1CVjZtQ0U4bThuVmJZU2N2VDRIRFpaN1hXWms1WXpaTDRfVjhrUHktQWVLQTJ1ZnpwdUNEUzhsbmNUeEowNU56ay02OGZlaEVSckRIaGJOSU1oOU1LMWd1d0hXVjJyQnVCNVZTejEzYXRVUkoxZWhFakF5",
+    "source": "Google News",
+    "date": "Fri, 07 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQZS0wZHRJSVM4dWhIX1I2eVJqTE82c0VaU2JOU0tnVDE1em5ad3I3THZrNGFGaWVfaC1CVjZtQ0U4bThuVmJZU2N2VDRIRFpaN1hXWms1WXpaTDRfVjhrUHktQWVLQTJ1ZnpwdUNEUzhsbmNUeEowNU56ay02OGZlaEVSckRIaGJOSU1oOU1LMWd1d0hXVjJyQnVCNVZTejEzYXRVUkoxZWhFakF5?oc=5\" target=\"_bl",
+    "first_seen": "2026-09-21"
   }
 ]
