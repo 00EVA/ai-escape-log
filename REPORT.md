@@ -1,6 +1,6 @@
-# AI Incident Briefing — 2026-09-20
+# AI Incident Briefing — 2026-09-21
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 445_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 439_
 
 ## 1. Latest verified incidents
 
@@ -11,10 +11,8 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=445)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=439)
 
-- [Google News] Autonomous attacks ushered cybercrime into AI era in 2025 - Cybersecurity Dive  (Wed, 04 Fe)
-  https://news.google.com/rss/articles/CBMikgFBVV95cUxOTWljcm9kbEF4T0FtQW9GX3ZubzBLei1KUDhBV0NOaDJVUFkzbFVNVlkxSHZDMlpRQ1I1ell6VEFHZGVPalJxdEllZ2E0cmd5bzhzRTR3Q29iMHQ1X2RWUUNRTkE3UGJzN2RIWUhDMWtsX3FubW9XNDhvQXRBcGFaVWdha1F3MlY5TmdqQWtxeEE4UQ
 - [Google News] AI code suggestions sabotage software supply chain - The Register  (Sat, 12 Ap)
   https://news.google.com/rss/articles/CBMiswFBVV95cUxNMTNJbEFvMk15Yk9ETFVpVkxjM2syM2tjWVQ5S3p1cDhwMXpNNnFkcjNtWXhxQWMyU05Dc0R2LVE5MXFzbTM0QjVpQ2wwc3VwUWNFT3ItRHpib05YcE1mQjZ6ejdQTDlLWk43Y2JYbmdWV3oySDdWYXg0YTBadTk5dmtBUU1iUWZ1QlVGVUk5ZTFiM01FNFhnQlRZX0M2SUhTMGVjeGM3elBNMWV4OENBQmVCYw
 - [Google News] Cyberattacks target water utilities in Minnesota, disrupting OT operations and triggering multi-agency cyber response - Industrial Cyber  (Thu, 30 Ju)
@@ -27,6 +25,14 @@ If one of these hits you: AI crime triage: is the AI the actor (rogue agent/auto
   https://news.google.com/rss/articles/CBMinwFBVV95cUxQSjNaa3prMEJCUG5fd0xsVjBwVnc2OGcwOERKUzA5aDdkbDhjcjUtVWhueFlKTEhPNEZLY0h6SFNMREE3dlVOSHcybHFFb1RhRy1PbUdkcnAya2xkV0N2eEdxaVBhQnhSQXpTdXNfc0RqUFl6cTJJQzE1dEtSdmROMWNDdWlObUJCX3RDZFRfZjQ5OFBpVmVYYlA2N2FuSGs
 - [Google News] Russia’s ‘disposable’ saboteurs spread chaos across Europe - The Times  (Wed, 14 Ja)
   https://news.google.com/rss/articles/CBMirwFBVV95cUxQa3ZnY0NmaEd2eFZNNWdmTk1oeEg1WWVpZ254eElpbE4yRzFGeS1XRFRWWDNIZXBoZnZ5SThadl9XWlVmTVVzYV9nRTctWkUzVUlGeEhKVXBJa1NYaGlNQmkydVZNYXlBZEF3dDhUN19zNUNJcThOYW9uc19IYy16WWxScmRRdFZXcGF0TGhhZkMtV193LTAwOEhRbklLeUk1QzBKTFB2S005UEpWTEw4
+- [Google News] Digital Sabotage - Alive in Social Media  (Tue, 01 Ju)
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFBpd1paVXRJT0ZqRDZOY293VHVteV9qdE1UU2FLT3NXTkhuRjJ4LVotTEkxU0ZKMWtqRUlETGE1d2lTcDBnc2pvYXZyOTZCSWxLbFFmclg4RlRkMTJoeksxMEhvSS1PLTBJd0E
+- [Google News] This latest frightening ransomware attack was orchestrated entirely by an LLM - Fast Company  (Wed, 08 Ju)
+  https://news.google.com/rss/articles/CBMitAFBVV95cUxQUlZSUGo2MDhyTjdnWHdCMzMtdmFwRzQ4cXdYWnlpXzRVZ3lDYS1OemZsU1F4S1h3dzctSjdDbHNFbkRobk9ZWjVnTnlGZWhKTHp4LURBbk5PSGV5THR4LXROS2dSRjFpN2x3NDE4ODFNUFF4RkxfTXExb2NwaHQ4SUhlZkRGVWRmQ1JOSWVrU1pBRlVlc0FQbnlBdUphUzVWLUpNMnoyNHExTTBqaVdjMld4SUI
+- [Google News] How to Kill Click Fraud for Good in 2026 - Built In  (Tue, 06 Ja)
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pcDdqZzVFRDRDSTR2TUowejRKcGVoR3dodkIzRV9LMnYtOVlQSV80eVFZTEdXU2E2Y1FlWDVmeEF1ZWU3aWxvTUdIMVpkRzRrVmVaUmlzUkU
+- [Google News] Coinbase Outage Disrupts Crypto Trading and Transfers Amid Amazon Service Failure - Decrypt  (Fri, 08 Ma)
+  https://news.google.com/rss/articles/CBMilAFBVV95cUxNQVZKMXhwWGtIbFR1SlFMeXdfc2ZHS3JvNmdDSlhuaFM5Sk1MTmNQQkRMVThzeWgyQUdvX2lRSUxhenl3d3NBeEd4ZXVhQ2FDSzNjWFBBMm0yS2xtRFFHdFFtdlpEQzN1UVlVTXhyN19IZXA1b3ZRVGdqaEJGY2J0S2ZFeFBHS0NjeE9tQ0Vfd21wNlV30gGcAUFVX3lxTE41NjR6ZmlkS1dvSWZYSG1OTUVFOWltbG8zNHRrU2JMUnlIZ052dEhjSmJMRFlXZEV1ajVzNl9zSVg4R3RDQ2dISEo0Uy02NXFBWkZPMERJRjZxckdBU2h3SmhwV2RyX0FzWTYyZF9rdXVXSXZmTjVuWnhKbWlFZkM0amU0MElieVItR1RTZ2RSWFI3QzZfN05PTEtEWg
 
 ## 4. Early-warning watchlist (be first to know)
 
