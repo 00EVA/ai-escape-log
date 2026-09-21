@@ -3590,5 +3590,13 @@
     "date": "Mon, 21 Se",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQMjAyUzE3Wm5nbFRicEJpV3dmS1VOcVd4M25uRlpMaVlvejE0eWczSm9tcTV0ZHl4d0c5d2lpX1ROVkpWTC1IbmR0endiUTRTS041SDlHVTRmWDBsRjhNRmY0UklETlRiZzQ4UHFhOUt0WTVET29fYkpmUGlDRndpVXcxazg2cXRISnFSVFNtVVBqM0M4STFmM1ZjUVlMZkU?oc=5\" target=\"_blank\">OpenAI Codex",
     "first_seen": "2026-09-21"
+  },
+  {
+    "title": "b11076",
+    "url": "https://prismix.dev/news/9bcb00c59b1a",
+    "source": "Prismix AI",
+    "date": "2026-09-21",
+    "snippet": "tests : remove stale comment ( #29140 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/48998612 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework Linux:…",
+    "first_seen": "2026-09-21"
   }
 ]
