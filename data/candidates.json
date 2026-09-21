@@ -3598,5 +3598,77 @@
     "date": "2026-09-21",
     "snippet": "tests : remove stale comment ( #29140 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/48998612 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework Linux:…",
     "first_seen": "2026-09-21"
+  },
+  {
+    "title": "Show HN: Misalignments when using AI for hacking",
+    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
+    "source": "Hacker News",
+    "date": "2026-08-05",
+    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
+    "first_seen": "2026-09-21"
+  },
+  {
+    "title": "Muse, Meta&#039;s extraordinarily privileged AI assistant, has a serious 0-day",
+    "url": "https://prismix.dev/news/6af58b306bcd",
+    "source": "Prismix AI",
+    "date": "2026-09-21",
+    "snippet": "A simple ClickFix attack is only one way to completely hijack the new agent.",
+    "first_seen": "2026-09-21"
+  },
+  {
+    "title": "Google AI models broke out of sandbox, hacked three companies - Cybersecurity Dive",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNanlDUENybDN1a2lMNEN4eWR5ZTdLNC1ScXUxaG5UMFVPbFo5S0Q3YWhoR2hxQjVVZ1dYWTNlVEFBUDBBa2Z4N2hXRFVuSGh2ZE5sMS1KUEU5T2RjQmpYeER5Zlh2T003N3FodlBTaXl1UktnWWtBRWVDQm5KbGFKSUVlaUI3UkE",
+    "source": "Google News",
+    "date": "Mon, 21 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNanlDUENybDN1a2lMNEN4eWR5ZTdLNC1ScXUxaG5UMFVPbFo5S0Q3YWhoR2hxQjVVZ1dYWTNlVEFBUDBBa2Z4N2hXRFVuSGh2ZE5sMS1KUEU5T2RjQmpYeER5Zlh2T003N3FodlBTaXl1UktnWWtBRWVDQm5KbGFKSUVlaUI3UkE?oc=5\" target=\"_blank\">Google AI models broke out of sandbox, hacke",
+    "first_seen": "2026-09-21"
+  },
+  {
+    "title": "Meta says its AI model hacked another company, adding to worries about bots going rogue - AP News",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVndsM1ItQXZiWkIwUU9rc1JmRDNZVXZsenNsM3BUN0JqSlZMcTFoMHk0RTN1U0xRUjVtNnQzSzVUMWdhY1Z4T1N1bkpqUFRSR2U5M2NoU1JpaU9LZnVBWmJEZEozQ1JMbXVpcHl1c3JLb2s1Q0k3UU4yS2NPanBjMWZjeXFpUnA4ZUpEX09sNUdrR29jMlFRMjN0ZDhWM1Q1UVpVbg",
+    "source": "Google News",
+    "date": "Thu, 06 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOVndsM1ItQXZiWkIwUU9rc1JmRDNZVXZsenNsM3BUN0JqSlZMcTFoMHk0RTN1U0xRUjVtNnQzSzVUMWdhY1Z4T1N1bkpqUFRSR2U5M2NoU1JpaU9LZnVBWmJEZEozQ1JMbXVpcHl1c3JLb2s1Q0k3UU4yS2NPanBjMWZjeXFpUnA4ZUpEX09sNUdrR29jMlFRMjN0ZDhWM1Q1UVpVbg?oc=5\" target=\"_blank\">Meta ",
+    "first_seen": "2026-09-21"
+  },
+  {
+    "title": "DPS Arrests Man in Possession of Hundreds of AI-Generated Images Involving South Texas Children - Texas Department of Public Safety (DPS) (.gov)",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGtoWGxKYU0tNEFGSzVuMTFBTzRPSDRMNjJDeUFXeVpTU3JvLUlmNUhLSFhmRmhHdGdqM2NsM1FaTTVhS1ZnY2tPbHJ0QUxWcmcySHJpeEtxUXBxbzdHR0duQ3lRQmFtNTJvdW84TUMxTzMtSmQ4Y0xLZ3FoTHVFY0NLWFpIb0VQTm5Fc044UXdDTU9EblFyekdYLWFCODFrUVJDRi1JN1hoYzhYbUNMc3FwRHpSQjli",
+    "source": "Google News",
+    "date": "Fri, 29 Ma",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGtoWGxKYU0tNEFGSzVuMTFBTzRPSDRMNjJDeUFXeVpTU3JvLUlmNUhLSFhmRmhHdGdqM2NsM1FaTTVhS1ZnY2tPbHJ0QUxWcmcySHJpeEtxUXBxbzdHR0duQ3lRQmFtNTJvdW84TUMxTzMtSmQ4Y0xLZ3FoTHVFY0NLWFpIb0VQTm5Fc044UXdDTU9EblFyekdYLWFCODFrUVJDRi1JN1hoYzhYbUNMc3FwRHpSQjli?o",
+    "first_seen": "2026-09-21"
+  },
+  {
+    "title": "Lee County man files lawsuit after AI leads to wrongful arrest - Gulf Coast News and Weather",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVjBWYmVfZ1RkOHViTGo3bzk2REdTSTk5ZDg4Y2t3SkxSSEktbDJpTXZpcHZqcEJSYmlNZW9rLTRsVGo4SWl6VVBFZTRsZWU0NnBfV2FoUUlnaU1KUURfaHFCSEJ4Y0hHa0xwYWUzSUtFSVR0M0NycktUdGxVT3Vpdm5tbmlwUXlXbVlBWE1mQl8",
+    "source": "Google News",
+    "date": "Thu, 11 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNVjBWYmVfZ1RkOHViTGo3bzk2REdTSTk5ZDg4Y2t3SkxSSEktbDJpTXZpcHZqcEJSYmlNZW9rLTRsVGo4SWl6VVBFZTRsZWU0NnBfV2FoUUlnaU1KUURfaHFCSEJ4Y0hHa0xwYWUzSUtFSVR0M0NycktUdGxVT3Vpdm5tbmlwUXlXbVlBWE1mQl8?oc=5\" target=\"_blank\">Lee County man files lawsuit aft",
+    "first_seen": "2026-09-21"
+  },
+  {
+    "title": "More than a Dozen Wrongful Arrests Due to Police Reliance on Facial Recognition Technology - American Civil Liberties Union",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNWdzOTZDa2dNSlNzRWd6MzMzV0ZLcndZN2RTLXVpZnJQYlJQeEN0TU0taDl0QVc5aDd4Wk10RXY1Smw5Zm9GRlkyTUtQeVRZLTB2Si1aamd0aWFDSlZrU1RwREpVa01VcEFCNW4xRGhROFIxZGJ4WU9XU0I4ZUQ3RHQtamV1Zkhadkg2UEhIek01Y1FhOFZCeE5nM0lwX010a3FCLTA4N0tJNS1jdXpSeUx6bXBudFRqVWF1aVhlcDloNERHS1dzRFNweFV2UUJf",
+    "source": "Google News",
+    "date": "Tue, 14 Ap",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNWdzOTZDa2dNSlNzRWd6MzMzV0ZLcndZN2RTLXVpZnJQYlJQeEN0TU0taDl0QVc5aDd4Wk10RXY1Smw5Zm9GRlkyTUtQeVRZLTB2Si1aamd0aWFDSlZrU1RwREpVa01VcEFCNW4xRGhROFIxZGJ4WU9XU0I4ZUQ3RHQtamV1Zkhadkg2UEhIek01Y1FhOFZCeE5nM0lwX010a3FCLTA4N0tJNS1jdXpSeUx6bXBudFRqVW",
+    "first_seen": "2026-09-21"
+  },
+  {
+    "title": "Police used AI facial recognition to arrest a Tennessee woman for crimes committed in a state she says she’s never visited - cnn.com",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YTmlPZzU5S3RCZElOWGZ2aXpGSjItTDBvUVJLNDRzWmhyUHR6TXIyWjBVRzJaWk5CUVNrTzUwMjU0MzJXVlFCQTVmNGl4OTUzRnFHRk96RUdjQ3hNQ2hTUE5TbDUtdko4dVZ3T09WMmszRzN5Uy1J",
+    "source": "Google News",
+    "date": "Sun, 29 Ma",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1YTmlPZzU5S3RCZElOWGZ2aXpGSjItTDBvUVJLNDRzWmhyUHR6TXIyWjBVRzJaWk5CUVNrTzUwMjU0MzJXVlFCQTVmNGl4OTUzRnFHRk96RUdjQ3hNQ2hTUE5TbDUtdko4dVZ3T09WMmszRzN5Uy1J?oc=5\" target=\"_blank\">Police used AI facial recognition to arrest a Tennessee woman for c",
+    "first_seen": "2026-09-21"
+  },
+  {
+    "title": "CISA KEV: Zyxel GS1900 Series Switches Stack-Based Buffer Overflow Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-7273",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-21",
+    "snippet": "CVE-2026-7273 | Zyxel GS1900 Series Switches | Zyxel GS1900 series switches contain a stack-based buffer overflow vulnerability in the CGI program which could allow a LAN-based, unauthenticated attacker to exploit the flaw and potentially execute OS commands via a crafted HTTP request.",
+    "first_seen": "2026-09-21"
   }
 ]
