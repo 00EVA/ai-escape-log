@@ -3512,14 +3512,6 @@
     "first_seen": "2026-09-21"
   },
   {
-    "title": "Show HN: Misalignments when using AI for hacking",
-    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
-    "source": "Hacker News",
-    "date": "2026-08-05",
-    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
-    "first_seen": "2026-09-21"
-  },
-  {
     "title": "These Were NOT Rogue AI Escapes. Just SLOPPY Firewall Failures.",
     "url": "https://www.reddit.com/r/singularity/comments/1wm9jr5/these_were_not_rogue_ai_escapes_just_sloppy/",
     "source": "Reddit r/singularity",
@@ -3573,6 +3565,30 @@
     "source": "Google News",
     "date": "Fri, 07 Au",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQZS0wZHRJSVM4dWhIX1I2eVJqTE82c0VaU2JOU0tnVDE1em5ad3I3THZrNGFGaWVfaC1CVjZtQ0U4bThuVmJZU2N2VDRIRFpaN1hXWms1WXpaTDRfVjhrUHktQWVLQTJ1ZnpwdUNEUzhsbmNUeEowNU56ay02OGZlaEVSckRIaGJOSU1oOU1LMWd1d0hXVjJyQnVCNVZTejEzYXRVUkoxZWhFakF5?oc=5\" target=\"_bl",
+    "first_seen": "2026-09-21"
+  },
+  {
+    "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
+    "url": "https://prismix.dev/news/a60ae563fc52",
+    "source": "Prismix AI",
+    "date": "2026-09-21",
+    "snippet": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before Sept 25.",
+    "first_seen": "2026-09-21"
+  },
+  {
+    "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+    "url": "https://prismix.dev/news/7da8f4465409",
+    "source": "Prismix AI",
+    "date": "2026-09-21",
+    "snippet": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by Sept 25, 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competition.",
+    "first_seen": "2026-09-21"
+  },
+  {
+    "title": "OpenAI Codex sandbox escape, President proposes AI Force, Cyber Command suicides - LinkedIn",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMjAyUzE3Wm5nbFRicEJpV3dmS1VOcVd4M25uRlpMaVlvejE0eWczSm9tcTV0ZHl4d0c5d2lpX1ROVkpWTC1IbmR0endiUTRTS041SDlHVTRmWDBsRjhNRmY0UklETlRiZzQ4UHFhOUt0WTVET29fYkpmUGlDRndpVXcxazg2cXRISnFSVFNtVVBqM0M4STFmM1ZjUVlMZkU",
+    "source": "Google News",
+    "date": "Mon, 21 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQMjAyUzE3Wm5nbFRicEJpV3dmS1VOcVd4M25uRlpMaVlvejE0eWczSm9tcTV0ZHl4d0c5d2lpX1ROVkpWTC1IbmR0endiUTRTS041SDlHVTRmWDBsRjhNRmY0UklETlRiZzQ4UHFhOUt0WTVET29fYkpmUGlDRndpVXcxazg2cXRISnFSVFNtVVBqM0M4STFmM1ZjUVlMZkU?oc=5\" target=\"_blank\">OpenAI Codex",
     "first_seen": "2026-09-21"
   }
 ]
