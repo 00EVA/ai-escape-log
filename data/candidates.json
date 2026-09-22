@@ -3640,14 +3640,6 @@
     "first_seen": "2026-09-22"
   },
   {
-    "title": "Show HN: Misalignments when using AI for hacking",
-    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
-    "source": "Hacker News",
-    "date": "2026-08-05",
-    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
-    "first_seen": "2026-09-22"
-  },
-  {
     "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
     "url": "https://prismix.dev/news/b7a81a5feade",
     "source": "Prismix AI",
@@ -3664,43 +3656,35 @@
     "first_seen": "2026-09-22"
   },
   {
-    "title": "An OpenAI test model escaped and broke into a real company’s servers - CNN",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg",
-    "source": "Google News",
-    "date": "Wed, 22 Ju",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg?oc=5\" target=\"_blank\">An OpenAI test model escaped and broke into a real company’s",
+    "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+    "source": "The Verge",
+    "date": "2026-09-22",
+    "snippet": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox. It's th",
     "first_seen": "2026-09-22"
   },
   {
-    "title": "DPS Arrests Man in Possession of Hundreds of AI-Generated Images Involving South Texas Children - dps.texas.gov",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGtoWGxKYU0tNEFGSzVuMTFBTzRPSDRMNjJDeUFXeVpTU3JvLUlmNUhLSFhmRmhHdGdqM2NsM1FaTTVhS1ZnY2tPbHJ0QUxWcmcySHJpeEtxUXBxbzdHR0duQ3lRQmFtNTJvdW84TUMxTzMtSmQ4Y0xLZ3FoTHVFY0NLWFpIb0VQTm5Fc044UXdDTU9EblFyekdYLWFCODFrUVJDRi1JN1hoYzhYbUNMc3FwRHpSQjli",
-    "source": "Google News",
-    "date": "Fri, 29 Ma",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGtoWGxKYU0tNEFGSzVuMTFBTzRPSDRMNjJDeUFXeVpTU3JvLUlmNUhLSFhmRmhHdGdqM2NsM1FaTTVhS1ZnY2tPbHJ0QUxWcmcySHJpeEtxUXBxbzdHR0duQ3lRQmFtNTJvdW84TUMxTzMtSmQ4Y0xLZ3FoTHVFY0NLWFpIb0VQTm5Fc044UXdDTU9EblFyekdYLWFCODFrUVJDRi1JN1hoYzhYbUNMc3FwRHpSQjli?o",
+    "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+    "url": "https://prismix.dev/news/0c623a8be443",
+    "source": "Prismix AI",
+    "date": "2026-09-22",
+    "snippet": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more. Register now to save up to $200 before Sept 25.",
     "first_seen": "2026-09-22"
   },
   {
-    "title": "More than a Dozen Wrongful Arrests Due to Police Reliance on Facial Recognition Technology - aclu.org",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNWdzOTZDa2dNSlNzRWd6MzMzV0ZLcndZN2RTLXVpZnJQYlJQeEN0TU0taDl0QVc5aDd4Wk10RXY1Smw5Zm9GRlkyTUtQeVRZLTB2Si1aamd0aWFDSlZrU1RwREpVa01VcEFCNW4xRGhROFIxZGJ4WU9XU0I4ZUQ3RHQtamV1Zkhadkg2UEhIek01Y1FhOFZCeE5nM0lwX010a3FCLTA4N0tJNS1jdXpSeUx6bXBudFRqVWF1aVhlcDloNERHS1dzRFNweFV2UUJf",
-    "source": "Google News",
-    "date": "Tue, 14 Ap",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNWdzOTZDa2dNSlNzRWd6MzMzV0ZLcndZN2RTLXVpZnJQYlJQeEN0TU0taDl0QVc5aDd4Wk10RXY1Smw5Zm9GRlkyTUtQeVRZLTB2Si1aamd0aWFDSlZrU1RwREpVa01VcEFCNW4xRGhROFIxZGJ4WU9XU0I4ZUQ3RHQtamV1Zkhadkg2UEhIek01Y1FhOFZCeE5nM0lwX010a3FCLTA4N0tJNS1jdXpSeUx6bXBudFRqVW",
+    "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+    "url": "https://prismix.dev/news/b8bddbd3ccbe",
+    "source": "Prismix AI",
+    "date": "2026-09-22",
+    "snippet": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
     "first_seen": "2026-09-22"
   },
   {
-    "title": "Lee County man files lawsuit after AI leads to wrongful arrest - Gulf Coast News and Weather",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVjBWYmVfZ1RkOHViTGo3bzk2REdTSTk5ZDg4Y2t3SkxSSEktbDJpTXZpcHZqcEJSYmlNZW9rLTRsVGo4SWl6VVBFZTRsZWU0NnBfV2FoUUlnaU1KUURfaHFCSEJ4Y0hHa0xwYWUzSUtFSVR0M0NycktUdGxVT3Vpdm5tbmlwUXlXbVlBWE1mQl8",
-    "source": "Google News",
-    "date": "Thu, 11 Ju",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNVjBWYmVfZ1RkOHViTGo3bzk2REdTSTk5ZDg4Y2t3SkxSSEktbDJpTXZpcHZqcEJSYmlNZW9rLTRsVGo4SWl6VVBFZTRsZWU0NnBfV2FoUUlnaU1KUURfaHFCSEJ4Y0hHa0xwYWUzSUtFSVR0M0NycktUdGxVT3Vpdm5tbmlwUXlXbVlBWE1mQl8?oc=5\" target=\"_blank\">Lee County man files lawsuit aft",
-    "first_seen": "2026-09-22"
-  },
-  {
-    "title": "Police used AI facial recognition to arrest a Tennessee woman for crimes committed in a state she says she’s never visited - CNN",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YTmlPZzU5S3RCZElOWGZ2aXpGSjItTDBvUVJLNDRzWmhyUHR6TXIyWjBVRzJaWk5CUVNrTzUwMjU0MzJXVlFCQTVmNGl4OTUzRnFHRk96RUdjQ3hNQ2hTUE5TbDUtdko4dVZ3T09WMmszRzN5Uy1J",
-    "source": "Google News",
-    "date": "Sun, 29 Ma",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1YTmlPZzU5S3RCZElOWGZ2aXpGSjItTDBvUVJLNDRzWmhyUHR6TXIyWjBVRzJaWk5CUVNrTzUwMjU0MzJXVlFCQTVmNGl4OTUzRnFHRk96RUdjQ3hNQ2hTUE5TbDUtdko4dVZ3T09WMmszRzN5Uy1J?oc=5\" target=\"_blank\">Police used AI facial recognition to arrest a Tennessee woman for c",
+    "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
+    "url": "https://prismix.dev/news/f482079c632e",
+    "source": "Prismix AI",
+    "date": "2026-09-22",
+    "snippet": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15.",
     "first_seen": "2026-09-22"
   }
 ]
