@@ -3630,5 +3630,29 @@
     "date": "Sat, 19 Se",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVHo3b1FWcGo5RXdWLW1VUEtTbnVuUng3TmpmQ2hFLThDazRQN3gxc3RpV0lteERfSnIzV243ZTE5TGh4QVNBRk9UMXE2OTlZMzZQaWI2RW41bi1lX2hXTUhreGp1OXQyS2E4THlxS1piQmF3WG03aHhHSGxQaktQVDNEdU1VNlhsNFZEMElKNVNVVldnTEhteVhlVnJYV3cyRjZVcTBGQkFMRExjXzYzNTgxd2s5NEpyMn",
     "first_seen": "2026-09-21"
+  },
+  {
+    "title": "A cut cable disrupted hundreds of flights across the US",
+    "url": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
+    "source": "The Verge",
+    "date": "2026-09-21",
+    "snippet": "Hundreds of flights were cancelled or delayed on Monday after construction crews in New Jersey accidentally cut a Verizon fiber cable used for air traffic control. FAA Administrator Bryan Bedford said that a circuit failure led to the discovery of the severed fiber cable, ABC News reports. The outag",
+    "first_seen": "2026-09-21"
+  },
+  {
+    "title": "b11093",
+    "url": "https://prismix.dev/news/b54fb8bbe164",
+    "source": "Prismix AI",
+    "date": "2026-09-22",
+    "snippet": "metal : fix mask bounds in flash attention block pre-pass ( #29220 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/49087452 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel…",
+    "first_seen": "2026-09-21"
+  },
+  {
+    "title": "Meta’s Muse Tries (and Fails) to Disrupt Amazon",
+    "url": "https://prismix.dev/news/357623f80f75",
+    "source": "Prismix AI",
+    "date": "2026-09-22",
+    "snippet": "Everyone loves a brawl between two big tech firms—even other tech CEOs. Amazon’s block on Meta Platforms’ new Muse personal agent accessing its shopping site, which came to light Sunday night, prompted Palo Alto Networks CEO Nikesh Arora to post on X on Monday that the episode…",
+    "first_seen": "2026-09-21"
   }
 ]
