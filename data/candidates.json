@@ -3686,5 +3686,45 @@
     "date": "2026-09-22",
     "snippet": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15.",
     "first_seen": "2026-09-22"
+  },
+  {
+    "title": "b11113",
+    "url": "https://prismix.dev/news/7addd59a534d",
+    "source": "Prismix AI",
+    "date": "2026-09-22",
+    "snippet": "server: do not pass log file to children ( #29212 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/49344105 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS…",
+    "first_seen": "2026-09-22"
+  },
+  {
+    "title": "CISA KEV: Arista VeloCloud Orchestrator Improper Input Validation Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-93952",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-22",
+    "snippet": "CVE-2026-93952 | Arista VeloCloud Orchestrator | Arista VeloCloud Orchestrator (VCO) on-prem contains an improper input validation vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise the confidentiality, integrity, and availability of the orchest",
+    "first_seen": "2026-09-22"
+  },
+  {
+    "title": "CISA KEV: F5 BIG-IP APM Heap-based Buffer Overflow Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-94127",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-22",
+    "snippet": "CVE-2026-94127 | F5 BIG-IP APM | F5 BIG-IP APM contains a heap-based buffer overflow vulnerability when access policy and an OAuth profile are configured on a virtual server. This vulnerability could allow an unauthenticated attacker to perform remote code execution.",
+    "first_seen": "2026-09-22"
+  },
+  {
+    "title": "CISA KEV: Check Point Multiple Products Path Traversal Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-93616",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-22",
+    "snippet": "CVE-2026-93616 | Check Point Multiple Products | Check Point Security Management Server, Multi-Domain Security Management Server, Log Server, Multi-Domain Log Server, and SmartEvent contain a path traversal vulnerability that allows an unauthenticated attacker to upload and execute arbitrary scripts.",
+    "first_seen": "2026-09-22"
+  },
+  {
+    "title": "CISA KEV: Check Point Multiple Products Improper Certificate Validation Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-85102",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-22",
+    "snippet": "CVE-2026-85102 | Check Point Multiple Products | Check Point Security Gateway and Check Point Spark Firewall using Site to Site VPN or Remote Access VPN contain an improper certificate validation vulnerability which could allow an unauthenticated remote attacker to execute arbitrary code on the Gateway.",
+    "first_seen": "2026-09-22"
   }
 ]
