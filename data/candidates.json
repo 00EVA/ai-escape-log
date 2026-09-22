@@ -3654,5 +3654,69 @@
     "date": "2026-09-22",
     "snippet": "Everyone loves a brawl between two big tech firms—even other tech CEOs. Amazon’s block on Meta Platforms’ new Muse personal agent accessing its shopping site, which came to light Sunday night, prompted Palo Alto Networks CEO Nikesh Arora to post on X on Monday that the episode…",
     "first_seen": "2026-09-21"
+  },
+  {
+    "title": "Show HN: Misalignments when using AI for hacking",
+    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
+    "source": "Hacker News",
+    "date": "2026-08-05",
+    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
+    "first_seen": "2026-09-22"
+  },
+  {
+    "title": "b11097",
+    "url": "https://prismix.dev/news/f8f24cbc1160",
+    "source": "Prismix AI",
+    "date": "2026-09-22",
+    "snippet": "opencl: add A8 Q4_0 non-MoE dp4a binary kernel ( #29055 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/49141307 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS…",
+    "first_seen": "2026-09-22"
+  },
+  {
+    "title": "When AI Agents Escape Their Sandbox, Who Pays? Europe’s Product Law Wasn’t Built for This - forkast.news",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb21wbWp6c0prM0FUeGczV2VtbDlTUkpjV1dOam9BU0h1dXpkRWN4eTRiaTdKWkZxVzIxSGdvSksyNFdfSV9HQzFMY01RR1BKOS11U1hqYkp4UVowektHUFdwSmVqbVhNWEl1RTdjcHRwb0dfNjZiOUpEdTFrODgwZ21Dak9Kc2RqUW15T0lLTGNiUmViWVRWdFNNSmhEV3NGMzJZS2pjU3VDeHM",
+    "source": "Google News",
+    "date": "Tue, 22 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb21wbWp6c0prM0FUeGczV2VtbDlTUkpjV1dOam9BU0h1dXpkRWN4eTRiaTdKWkZxVzIxSGdvSksyNFdfSV9HQzFMY01RR1BKOS11U1hqYkp4UVowektHUFdwSmVqbVhNWEl1RTdjcHRwb0dfNjZiOUpEdTFrODgwZ21Dak9Kc2RqUW15T0lLTGNiUmViWVRWdFNNSmhEV3NGMzJZS2pjU3VDeHM?oc=5\" target=\"_bla",
+    "first_seen": "2026-09-22"
+  },
+  {
+    "title": "An OpenAI test model escaped and broke into a real company’s servers - CNN",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg",
+    "source": "Google News",
+    "date": "Wed, 22 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg?oc=5\" target=\"_blank\">An OpenAI test model escaped and broke into a real company’s",
+    "first_seen": "2026-09-22"
+  },
+  {
+    "title": "OpenAI Admits 6 AI Models Went Rogue: 2.15% Rate [2026] - tech-insider.org",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtcDJsanhPWl8xTnNJMUN5MnRKVHRpODdIc2ZCajVGLVVxRzFyenpqS1V2YklUZGRVbng4eGt0ZFFlN3BiZVYzRUliYVNIeEpJZWM3Yi14X2U2LUd6Q2c2M1ZaSmhFMDQtYUloNmlxdVpKSG43bkdDRg",
+    "source": "Google News",
+    "date": "Tue, 22 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFAtcDJsanhPWl8xTnNJMUN5MnRKVHRpODdIc2ZCajVGLVVxRzFyenpqS1V2YklUZGRVbng4eGt0ZFFlN3BiZVYzRUliYVNIeEpJZWM3Yi14X2U2LUd6Q2c2M1ZaSmhFMDQtYUloNmlxdVpKSG43bkdDRg?oc=5\" target=\"_blank\">OpenAI Admits 6 AI Models Went Rogue: 2.15% Rate [2026]</a>&nbsp;",
+    "first_seen": "2026-09-22"
+  },
+  {
+    "title": "Meta says its AI model hacked another company, adding to worries about bots going rogue - AP News",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVndsM1ItQXZiWkIwUU9rc1JmRDNZVXZsenNsM3BUN0JqSlZMcTFoMHk0RTN1U0xRUjVtNnQzSzVUMWdhY1Z4T1N1bkpqUFRSR2U5M2NoU1JpaU9LZnVBWmJEZEozQ1JMbXVpcHl1c3JLb2s1Q0k3UU4yS2NPanBjMWZjeXFpUnA4ZUpEX09sNUdrR29jMlFRMjN0ZDhWM1Q1UVpVbg",
+    "source": "Google News",
+    "date": "Thu, 06 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOVndsM1ItQXZiWkIwUU9rc1JmRDNZVXZsenNsM3BUN0JqSlZMcTFoMHk0RTN1U0xRUjVtNnQzSzVUMWdhY1Z4T1N1bkpqUFRSR2U5M2NoU1JpaU9LZnVBWmJEZEozQ1JMbXVpcHl1c3JLb2s1Q0k3UU4yS2NPanBjMWZjeXFpUnA4ZUpEX09sNUdrR29jMlFRMjN0ZDhWM1Q1UVpVbg?oc=5\" target=\"_blank\">Meta ",
+    "first_seen": "2026-09-22"
+  },
+  {
+    "title": "DPS Arrests Man in Possession of Hundreds of AI-Generated Images Involving South Texas Children - Texas Department of Public Safety (.gov)",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGtoWGxKYU0tNEFGSzVuMTFBTzRPSDRMNjJDeUFXeVpTU3JvLUlmNUhLSFhmRmhHdGdqM2NsM1FaTTVhS1ZnY2tPbHJ0QUxWcmcySHJpeEtxUXBxbzdHR0duQ3lRQmFtNTJvdW84TUMxTzMtSmQ4Y0xLZ3FoTHVFY0NLWFpIb0VQTm5Fc044UXdDTU9EblFyekdYLWFCODFrUVJDRi1JN1hoYzhYbUNMc3FwRHpSQjli",
+    "source": "Google News",
+    "date": "Fri, 29 Ma",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGtoWGxKYU0tNEFGSzVuMTFBTzRPSDRMNjJDeUFXeVpTU3JvLUlmNUhLSFhmRmhHdGdqM2NsM1FaTTVhS1ZnY2tPbHJ0QUxWcmcySHJpeEtxUXBxbzdHR0duQ3lRQmFtNTJvdW84TUMxTzMtSmQ4Y0xLZ3FoTHVFY0NLWFpIb0VQTm5Fc044UXdDTU9EblFyekdYLWFCODFrUVJDRi1JN1hoYzhYbUNMc3FwRHpSQjli?o",
+    "first_seen": "2026-09-22"
+  },
+  {
+    "title": "Lee County man files lawsuit after AI leads to wrongful arrest - Gulf Coast News and Weather",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVjBWYmVfZ1RkOHViTGo3bzk2REdTSTk5ZDg4Y2t3SkxSSEktbDJpTXZpcHZqcEJSYmlNZW9rLTRsVGo4SWl6VVBFZTRsZWU0NnBfV2FoUUlnaU1KUURfaHFCSEJ4Y0hHa0xwYWUzSUtFSVR0M0NycktUdGxVT3Vpdm5tbmlwUXlXbVlBWE1mQl8",
+    "source": "Google News",
+    "date": "Thu, 11 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNVjBWYmVfZ1RkOHViTGo3bzk2REdTSTk5ZDg4Y2t3SkxSSEktbDJpTXZpcHZqcEJSYmlNZW9rLTRsVGo4SWl6VVBFZTRsZWU0NnBfV2FoUUlnaU1KUURfaHFCSEJ4Y0hHa0xwYWUzSUtFSVR0M0NycktUdGxVT3Vpdm5tbmlwUXlXbVlBWE1mQl8?oc=5\" target=\"_blank\">Lee County man files lawsuit aft",
+    "first_seen": "2026-09-22"
   }
 ]
