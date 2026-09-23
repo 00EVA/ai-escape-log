@@ -1,6 +1,6 @@
 # AI Incident Briefing — 2026-09-22
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 475_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 467_
 
 ## 1. Latest verified incidents
 
@@ -11,7 +11,7 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=475)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=467)
 
 - [Google News] OpenAI AI Autonomy Incident: First Known Rogue Cyber-Attack Raises Safety Concerns - Estimate Dispersion - vinanet.vn  (Wed, 22 Ju)
   https://news.google.com/rss/articles/CBMivwFBVV95cUxNSWRMSElYSkdpeGlrNDVWZmJhTEVxcUhYd0RnemdpOEk2YkR4RE10WnplalAxbVRqVVJQNkJqcUVXM0N6dnFyaHBkREpIWTh2Z3hiSFJGZ3VmdjZKQXFiMGxzOWFQTm5YSnhlUXJXdUhvYVFXVkh1ZVZ2R25VYmNKS1MwdXppbE9DTDdNeFZPNy1jYWVsTXQ3Mlo0ZVA1T09aZEdNRF9VbVZNVEF5ZnhGak5mT1R6aExGSm9MdkYyVQ
