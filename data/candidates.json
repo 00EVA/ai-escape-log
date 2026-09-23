@@ -3606,5 +3606,69 @@
     "date": "2026-09-23",
     "snippet": "sampler: reduce the size of the probe ( #29285 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/49443624 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework…",
     "first_seen": "2026-09-23"
+  },
+  {
+    "title": "Show HN: Misalignments when using AI for hacking",
+    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
+    "source": "Hacker News",
+    "date": "2026-08-05",
+    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
+    "first_seen": "2026-09-23"
+  },
+  {
+    "title": "Many experts think rogue agents are inevitable. What would prevent them from hiring humans to do their bidding?",
+    "url": "https://www.reddit.com/r/singularity/comments/1wo4w0i/many_experts_think_rogue_agents_are_inevitable/",
+    "source": "Reddit r/singularity",
+    "date": "2026-09-23",
+    "snippet": "   In Dean Bell’s “On the Loose” essay he writes:   “They will be, as the AI safety researcher Dawn Song says, “self-sovereign.” They will pay their own bills for the compute they run on. If they answer to humans at all, they will only do so partially, for example by providing services to humans in ",
+    "first_seen": "2026-09-23"
+  },
+  {
+    "title": "After Opus 5.5 what even is \"Pacing the frontier\" or is that over already?",
+    "url": "https://www.reddit.com/r/singularity/comments/1wo31bh/after_opus_55_what_even_is_pacing_the_frontier_or/",
+    "source": "Reddit r/singularity",
+    "date": "2026-09-23",
+    "snippet": "                 In September Dario Amodei said that we have to &quot;pace the frontier&quot; since then it has released a more powerful model than the one that was too dangerous to release. What has happened? How many people have died of rogue AI compared to other causes? It doesn&#39;t seem like a",
+    "first_seen": "2026-09-23"
+  },
+  {
+    "title": "b11124",
+    "url": "https://prismix.dev/news/424b24ff94f8",
+    "source": "Prismix AI",
+    "date": "2026-09-23",
+    "snippet": "cuda: top-k MoE should always fire ( #28432 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/49495074 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework…",
+    "first_seen": "2026-09-23"
+  },
+  {
+    "title": "b11123",
+    "url": "https://prismix.dev/news/27961441f08b",
+    "source": "Prismix AI",
+    "date": "2026-09-23",
+    "snippet": "sycl : support new UT case for mul_mat_hadamard fp16 ( #29218 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/49484593 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64)…",
+    "first_seen": "2026-09-23"
+  },
+  {
+    "title": "An OpenAI test model escaped and broke into a real company’s servers - CNN",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg",
+    "source": "Google News",
+    "date": "Wed, 22 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg?oc=5\" target=\"_blank\">An OpenAI test model escaped and broke into a real company’s",
+    "first_seen": "2026-09-23"
+  },
+  {
+    "title": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk",
+    "source": "Google News",
+    "date": "Sun, 16 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk?oc=5\" target=\"_blank\">How AI Models From OpenAI and An",
+    "first_seen": "2026-09-23"
+  },
+  {
+    "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue - WIRED",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTksybl8xelFTR0VEYlhGbnNxeGx6SHFFeUVYWW4xZzRwcE1jSEN4eDlQbzJJUTkyVlNNSUZFcF9lU3NnNnU4bDdSTHg3ek1iYVlZRjhhWXdNdE1jbC1aWkdqS2xxT25ldzNrNmJmNUZWY1hjRC1yb2s5QXgyTlJKSmNZNmxtOVpwTlM5Y1ZmaWtvd3NvOGVqWg",
+    "source": "Google News",
+    "date": "Tue, 18 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOTksybl8xelFTR0VEYlhGbnNxeGx6SHFFeUVYWW4xZzRwcE1jSEN4eDlQbzJJUTkyVlNNSUZFcF9lU3NnNnU4bDdSTHg3ek1iYVlZRjhhWXdNdE1jbC1aWkdqS2xxT25ldzNrNmJmNUZWY1hjRC1yb2s5QXgyTlJKSmNZNmxtOVpwTlM5Y1ZmaWtvd3NvOGVqWg?oc=5\" target=\"_blank\">OpenAI Overhauls Safe",
+    "first_seen": "2026-09-23"
   }
 ]
