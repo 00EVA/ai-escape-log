@@ -1,6 +1,6 @@
 # AI Incident Briefing — 2026-09-24
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 468_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 463_
 
 ## 1. Latest verified incidents
 
@@ -11,7 +11,7 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=468)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=463)
 
 - [Google News] AI Models Are Going Rogue. Should We Be Worried? | Terms of Service - Modern Ghana  (Tue, 25 Au)
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oT1JUVnZwWWlzOTFINEQ0dkJILTdoXzhZaENBSDZSOUdlSFBXUFJ6dDVDQVJqb1E0WDMyZVZ5YjZBd2t6OHFqOXR2eVFtbVZLc0EzWlJ3YmNHRWpnU1Bj
