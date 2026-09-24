@@ -3656,67 +3656,19 @@
     "first_seen": "2026-09-23"
   },
   {
-    "title": "Show HN: Misalignments when using AI for hacking",
-    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
-    "source": "Hacker News",
-    "date": "2026-08-05",
-    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
+    "title": "New DeepThink",
+    "url": "https://www.reddit.com/r/singularity/comments/1wondv0/new_deepthink/",
+    "source": "Reddit r/singularity",
+    "date": "2026-09-24",
+    "snippet": "                 Source:  https://rogueon.ai/blog/rogue-deep-think-preview/tecnica      &#32; submitted by &#32;   /u/krzonkalla       [link]   &#32;   [comments]      ",
     "first_seen": "2026-09-23"
   },
   {
-    "title": "An OpenAI test model escaped and broke into a real company’s servers - CNN",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg",
-    "source": "Google News",
-    "date": "Wed, 22 Ju",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg?oc=5\" target=\"_blank\">An OpenAI test model escaped and broke into a real company’s",
-    "first_seen": "2026-09-23"
-  },
-  {
-    "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment - WIRED",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ",
-    "source": "Google News",
-    "date": "Thu, 06 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ?oc=5\" target=\"_blank\">One of China’s Most Powerful AI Models Has Also Escaped Containme",
-    "first_seen": "2026-09-23"
-  },
-  {
-    "title": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk",
-    "source": "Google News",
-    "date": "Sun, 16 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk?oc=5\" target=\"_blank\">How AI Models From OpenAI and An",
-    "first_seen": "2026-09-23"
-  },
-  {
-    "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue - WIRED",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTksybl8xelFTR0VEYlhGbnNxeGx6SHFFeUVYWW4xZzRwcE1jSEN4eDlQbzJJUTkyVlNNSUZFcF9lU3NnNnU4bDdSTHg3ek1iYVlZRjhhWXdNdE1jbC1aWkdqS2xxT25ldzNrNmJmNUZWY1hjRC1yb2s5QXgyTlJKSmNZNmxtOVpwTlM5Y1ZmaWtvd3NvOGVqWg",
-    "source": "Google News",
-    "date": "Tue, 18 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOTksybl8xelFTR0VEYlhGbnNxeGx6SHFFeUVYWW4xZzRwcE1jSEN4eDlQbzJJUTkyVlNNSUZFcF9lU3NnNnU4bDdSTHg3ek1iYVlZRjhhWXdNdE1jbC1aWkdqS2xxT25ldzNrNmJmNUZWY1hjRC1yb2s5QXgyTlJKSmNZNmxtOVpwTlM5Y1ZmaWtvd3NvOGVqWg?oc=5\" target=\"_blank\">OpenAI Overhauls Safe",
-    "first_seen": "2026-09-23"
-  },
-  {
-    "title": "DPS Arrests Man in Possession of Hundreds of AI-Generated Images Involving South Texas Children - Texas Department of Public Safety (.gov)",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGtoWGxKYU0tNEFGSzVuMTFBTzRPSDRMNjJDeUFXeVpTU3JvLUlmNUhLSFhmRmhHdGdqM2NsM1FaTTVhS1ZnY2tPbHJ0QUxWcmcySHJpeEtxUXBxbzdHR0duQ3lRQmFtNTJvdW84TUMxTzMtSmQ4Y0xLZ3FoTHVFY0NLWFpIb0VQTm5Fc044UXdDTU9EblFyekdYLWFCODFrUVJDRi1JN1hoYzhYbUNMc3FwRHpSQjli",
-    "source": "Google News",
-    "date": "Fri, 29 Ma",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGtoWGxKYU0tNEFGSzVuMTFBTzRPSDRMNjJDeUFXeVpTU3JvLUlmNUhLSFhmRmhHdGdqM2NsM1FaTTVhS1ZnY2tPbHJ0QUxWcmcySHJpeEtxUXBxbzdHR0duQ3lRQmFtNTJvdW84TUMxTzMtSmQ4Y0xLZ3FoTHVFY0NLWFpIb0VQTm5Fc044UXdDTU9EblFyekdYLWFCODFrUVJDRi1JN1hoYzhYbUNMc3FwRHpSQjli?o",
-    "first_seen": "2026-09-23"
-  },
-  {
-    "title": "More than a Dozen Wrongful Arrests Due to Police Reliance on Facial Recognition Technology - American Civil Liberties Union",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNWdzOTZDa2dNSlNzRWd6MzMzV0ZLcndZN2RTLXVpZnJQYlJQeEN0TU0taDl0QVc5aDd4Wk10RXY1Smw5Zm9GRlkyTUtQeVRZLTB2Si1aamd0aWFDSlZrU1RwREpVa01VcEFCNW4xRGhROFIxZGJ4WU9XU0I4ZUQ3RHQtamV1Zkhadkg2UEhIek01Y1FhOFZCeE5nM0lwX010a3FCLTA4N0tJNS1jdXpSeUx6bXBudFRqVWF1aVhlcDloNERHS1dzRFNweFV2UUJf",
-    "source": "Google News",
-    "date": "Tue, 14 Ap",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNWdzOTZDa2dNSlNzRWd6MzMzV0ZLcndZN2RTLXVpZnJQYlJQeEN0TU0taDl0QVc5aDd4Wk10RXY1Smw5Zm9GRlkyTUtQeVRZLTB2Si1aamd0aWFDSlZrU1RwREpVa01VcEFCNW4xRGhROFIxZGJ4WU9XU0I4ZUQ3RHQtamV1Zkhadkg2UEhIek01Y1FhOFZCeE5nM0lwX010a3FCLTA4N0tJNS1jdXpSeUx6bXBudFRqVW",
-    "first_seen": "2026-09-23"
-  },
-  {
-    "title": "Police used AI facial recognition to arrest a Tennessee woman for crimes committed in a state she says she’s never visited - CNN",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YTmlPZzU5S3RCZElOWGZ2aXpGSjItTDBvUVJLNDRzWmhyUHR6TXIyWjBVRzJaWk5CUVNrTzUwMjU0MzJXVlFCQTVmNGl4OTUzRnFHRk96RUdjQ3hNQ2hTUE5TbDUtdko4dVZ3T09WMmszRzN5Uy1J",
-    "source": "Google News",
-    "date": "Sun, 29 Ma",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1YTmlPZzU5S3RCZElOWGZ2aXpGSjItTDBvUVJLNDRzWmhyUHR6TXIyWjBVRzJaWk5CUVNrTzUwMjU0MzJXVlFCQTVmNGl4OTUzRnFHRk96RUdjQ3hNQ2hTUE5TbDUtdko4dVZ3T09WMmszRzN5Uy1J?oc=5\" target=\"_blank\">Police used AI facial recognition to arrest a Tennessee woman for c",
+    "title": "Using uncensored models makes working less of a headache",
+    "url": "https://prismix.dev/news/e3f7ab95a07a",
+    "source": "Prismix AI",
+    "date": "2026-09-23",
+    "snippet": "I have a lot of projects with my friends and team at work that I copy to use for my personal projects, whether it's a plugin I borrow with their consent or a script. I always find that Qwen 3.8 and Muse Spark 1.3 straight up refuse to do anything, as they see it as a steal, so I…",
     "first_seen": "2026-09-23"
   }
 ]
