@@ -1,6 +1,6 @@
 # AI Incident Briefing — 2026-09-24
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 459_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 448_
 
 ## 1. Latest verified incidents
 
@@ -11,26 +11,20 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=459)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=448)
 
-- [Google News] OpenAI Hit the Brakes on AI Training After Models Went Rogue - WSJ  (Mon, 24 Au)
-  https://news.google.com/rss/articles/CBMiqwFBVV95cUxOekkwODhldlhSZ1ZXRHBVekFJSXFkQm93Smh5OFkyYVphTFlZbE9lU3gxOXpld2tkWndNbzRkNjJOeDg0c0tSaEw3NFh3RWVPclI0a0F6WnJ3WnFpemhqVllCQzRJRW5mZHpoYldVRTZKUE42U3QwZ3N5RmU2eTZpcDdwa0hZVlFjaGRVa1A0VlhSOEFCLW1FVHk2V3NoMkROOXFiZlA5eUluU28
-- [Google News] The First Ransomware Attack Run From Start To Finish By An AI Agent - Forbes  (Tue, 07 Ju)
-  https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT3ZlOTlsV2ZBMkY5d3hkei1EelQ5eGtxVzBoaF8yVktwemt2ODZrcFhFNHNPY001RDZtbzNUY0ZpWUU2SlpRLVdiVHJxOVNWOU5IcGprTEVpQmNrdVFZc3RwNTloVWVMMW8xUHQ5Z1dZUk00bXZSd1lzWFBTNW5JUkdkWmdoLV91UkhUM3pQcEk3dUpRLWtyRVBjM0dHU01hS1NYN2I5SUIxbExZek1nZjc4V1RkbEtkd3Jz
-- [Prismix AI] Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026  (2026-08-24)
-  https://prismix.dev/news/878545275de8
-- [Google News] Cheap streaming box could hijack your home internet - Fox News  (Fri, 03 Ju)
-  https://news.google.com/rss/articles/CBMieEFVX3lxTE1xZkF3ZnZxZkUwUjk1RDJOX3lOWnFtNGI3b2NqQnR3ZHlIQTFqdlNaN3Z6blNCTTZ2QlRWa2REV2NxSTdOcmFXSGl1U3JzTUdOUDRSclhWemtocVpDRlZkWk1jN0dGZFp1RVM0NWs2N1ZERGJ0a0xScNIBfkFVX3lxTE9YNEpQVjVCaEtrQWpnV1FOcXhSbUtRbWN0QjNOM2R3YXkzZWhZN3FTLXI2U3pMenhWVVR1a2NaeGN2RVJqODg5NnFPZWVhRUEyS0NDQ0FVd2NCSHNyNzhMZUZNVHlQYXFWV2tKWThNXzhPUEYtOEdPcldmTEk5UQ
-- [Google News] Feds disrupt monster IoT botnets behind record-breaking DDoS attacks - The Register  (Fri, 20 Ma)
-  https://news.google.com/rss/articles/CBMitwFBVV95cUxQUnFSSFhwenh2YUw4NTMzVHcyWlNBN256M2QwWHFmUkdYMnA0VUhnWHB6c0xHSTBkOEw1eXBGY2xNMzdFdzRROHQwbGlYUERwWjR6STBXemZXYXJOb3Ftd3l3MDUtYVl3WldDa29hZUJzVDNJcmx1d1JVNGZOenliY28zR3lTbnlhZWNlc2pBTjZSeHhKSjc5WkJJcjU3cnVFbDhCYWtCb1prOFBzdzJmZlBnc05BQzA
-- [Google News] Nearly 2 million Android devices hijacked by massive new botnet — how to stay safe - Tom's Guide  (Fri, 19 De)
-  https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcHJJa2RuVTQtbzZYaDhYSzhwV1pveERiWnFYSDJhYXNWdWtWeTZRNm1KNXd2ekJxSEFtckpsYUREeUNGbmdKV0MxVjA0eTFZVEFxV0prNkRHQ1IzTEd6bHAxZjhVU0R5VnM5ZW5MUEt2S19CMTlSRTVCNWcwTDhqcF9mVDIyTmFvTk91T0tHcU5mZVZmeUtOanVYYklQWXJfb2o1aW1DWG1pM2kzeFE5TDBueU9aUHd4OGZmQ1dhWmpWaWZRNk9ZUVFSMXJHdlBCdnNfb0tQdFBZeGZGUHUwbw
-- [Google News] RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS - The Hacker News  (Tue, 30 Ju)
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBSQTg3ZF9sNDZ4YnBmemh2Q1hRTHdJMUNmd2ZIYVFPUHc1NGhlcjRFMWhSRWdiRDJxeVpzRlB2R1NwQkExQ2RkZ3JMTVZBX0ZNNjROWDE3UXUxQ1lrX2J0c2tiZ3ZKemNyNTN0LUVaSms1UTRkdE0zMzE1Sk4tZnM
 - [Google News] AI Models Are Going Rogue. Should We Be Worried? | Terms of Service - Modern Ghana  (Tue, 25 Au)
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oT1JUVnZwWWlzOTFINEQ0dkJILTdoXzhZaENBSDZSOUdlSFBXUFJ6dDVDQVJqb1E0WDMyZVZ5YjZBd2t6OHFqOXR2eVFtbVZLc0EzWlJ3YmNHRWpnU1Bj
 - [Google News] An AI agent allegedly deleted a startup's production database, causing a huge outage - Mashable  (Mon, 27 Ap)
   https://news.google.com/rss/articles/CBMiigFBVV95cUxNZno5WXh4S2VvTnI0d1VsWnpxM2ZrWmQ4UVlyeE5BQTFqTG9mbmc5QWNtX3ZfR19Nbk9NQzFwZ2xCODI5anJ3WGI2RWpiTHhfcXBneGtjWVJBb1hNQ2VQQVdEQk9PdEd5bFl5MExXcWROSkJ4bG9MRG4wZFk4QlZ0STBVUDZsQ1pBQWc
+- [Google News] Luxury’s Latest Cyber Risk? AI Agents Going Rogue - Vogue  (Tue, 25 Au)
+  https://news.google.com/rss/articles/CBMigwFBVV95cUxOUWJBQUU2cWdUZFdpaGJTQjZqZUlFVUJacmYzMWsydWptdWNnMzFEdnA3NWV6UHo4WmdiaHBOYzlBbW9GVTZkRUZiaGgxOTFKeDYyZmVaY1FjeEpZUUw2MTc3OW9sZlJxbzdZSld3RFdxemc2YkNHeTk5RWlWc2tucVF6SQ
+- [Google News] Safety testing was an obscure part of building AI. Then models went rogue. - Politico  (Sat, 15 Au)
+  https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVN4elg3T3hlZW1JNVpwN0tBWklxNlV6aG9pM21ILVF5MVFDU3d1Z3c0QU1OeTdXTkpoMU5rWFppVlQwSWd6V0NLN3pmeGNHSzhzTjJnbnFFZTE3Umhfd1R4ZXFtRFBMVzA3NEpCODR2VEFDQXR3bTA2alFCMHFIaWl3dw
+- [Google News] Israeli-founded Alice raises $140M to stop AI from going rogue - Ynetnews  (Tue, 25 Au)
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tSmF5WnFnNXlFbVRxdW5HblJHbE16bzZMZWpNT0lHMHVYTnZzdHpJOFJvaGhSaWhGSVNHZDMteFMwc3F2akEwQkZMamRrQklqWTVSb2tuTlh4Z2ROWlFkU25B
+- [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
+  https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
 
 ## 4. Early-warning watchlist (be first to know)
 
