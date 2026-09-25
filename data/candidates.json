@@ -3598,5 +3598,85 @@
     "date": "Tue, 21 Ju",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioANBVV95cUxOT0lDa2FrZV9YTEU0R1p2cG1rRmpDWnB6RWg1UlY5SUFpQzlCSThCRmdsOTBSb2tlaVhraTQ3UjlRVUV1TzJwQWpndTdYM2liNjhHZ0ZxV1UxdldUTDNmSl9nRWVoSk04NjVKR0owVUM0b0MzSm5md3ZGZnM4WV9ldi1DTUoydm81b015MF9CM1FvZzBPRW5xMTZ0UHVKbHpwWjdwN1pRSTQyenhuUllvbF80VVpKYzZJck",
     "first_seen": "2026-09-24"
+  },
+  {
+    "title": "Show HN: Misalignments when using AI for hacking",
+    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
+    "source": "Hacker News",
+    "date": "2026-08-05",
+    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
+    "first_seen": "2026-09-25"
+  },
+  {
+    "title": "One company is at the center of a wave of rogue AI attacks",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+    "source": "The Verge",
+    "date": "2026-09-25",
+    "snippet": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about rogue AI. As disclosures",
+    "first_seen": "2026-09-25"
+  },
+  {
+    "title": "An OpenAI test model escaped and broke into a real company’s servers - CNN",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg",
+    "source": "Google News",
+    "date": "Wed, 22 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg?oc=5\" target=\"_blank\">An OpenAI test model escaped and broke into a real company’s",
+    "first_seen": "2026-09-25"
+  },
+  {
+    "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment - WIRED",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ",
+    "source": "Google News",
+    "date": "Thu, 06 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ?oc=5\" target=\"_blank\">One of China’s Most Powerful AI Models Has Also Escaped Containme",
+    "first_seen": "2026-09-25"
+  },
+  {
+    "title": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk",
+    "source": "Google News",
+    "date": "Sun, 16 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk?oc=5\" target=\"_blank\">How AI Models From OpenAI and An",
+    "first_seen": "2026-09-25"
+  },
+  {
+    "title": "Safety testing was an obscure part of building AI. Then models went rogue. - Politico",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVN4elg3T3hlZW1JNVpwN0tBWklxNlV6aG9pM21ILVF5MVFDU3d1Z3c0QU1OeTdXTkpoMU5rWFppVlQwSWd6V0NLN3pmeGNHSzhzTjJnbnFFZTE3Umhfd1R4ZXFtRFBMVzA3NEpCODR2VEFDQXR3bTA2alFCMHFIaWl3dw",
+    "source": "Google News",
+    "date": "Sat, 15 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVN4elg3T3hlZW1JNVpwN0tBWklxNlV6aG9pM21ILVF5MVFDU3d1Z3c0QU1OeTdXTkpoMU5rWFppVlQwSWd6V0NLN3pmeGNHSzhzTjJnbnFFZTE3Umhfd1R4ZXFtRFBMVzA3NEpCODR2VEFDQXR3bTA2alFCMHFIaWl3dw?oc=5\" target=\"_blank\">Safety testing was an obscure part of building AI",
+    "first_seen": "2026-09-25"
+  },
+  {
+    "title": "Meta says its AI model hacked another company, adding to worries about bots going rogue - AP News",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVndsM1ItQXZiWkIwUU9rc1JmRDNZVXZsenNsM3BUN0JqSlZMcTFoMHk0RTN1U0xRUjVtNnQzSzVUMWdhY1Z4T1N1bkpqUFRSR2U5M2NoU1JpaU9LZnVBWmJEZEozQ1JMbXVpcHl1c3JLb2s1Q0k3UU4yS2NPanBjMWZjeXFpUnA4ZUpEX09sNUdrR29jMlFRMjN0ZDhWM1Q1UVpVbg",
+    "source": "Google News",
+    "date": "Thu, 06 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOVndsM1ItQXZiWkIwUU9rc1JmRDNZVXZsenNsM3BUN0JqSlZMcTFoMHk0RTN1U0xRUjVtNnQzSzVUMWdhY1Z4T1N1bkpqUFRSR2U5M2NoU1JpaU9LZnVBWmJEZEozQ1JMbXVpcHl1c3JLb2s1Q0k3UU4yS2NPanBjMWZjeXFpUnA4ZUpEX09sNUdrR29jMlFRMjN0ZDhWM1Q1UVpVbg?oc=5\" target=\"_blank\">Meta ",
+    "first_seen": "2026-09-25"
+  },
+  {
+    "title": "DPS Arrests Man in Possession of Hundreds of AI-Generated Images Involving South Texas Children - Texas Department of Public Safety (.gov)",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGtoWGxKYU0tNEFGSzVuMTFBTzRPSDRMNjJDeUFXeVpTU3JvLUlmNUhLSFhmRmhHdGdqM2NsM1FaTTVhS1ZnY2tPbHJ0QUxWcmcySHJpeEtxUXBxbzdHR0duQ3lRQmFtNTJvdW84TUMxTzMtSmQ4Y0xLZ3FoTHVFY0NLWFpIb0VQTm5Fc044UXdDTU9EblFyekdYLWFCODFrUVJDRi1JN1hoYzhYbUNMc3FwRHpSQjli",
+    "source": "Google News",
+    "date": "Fri, 29 Ma",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGtoWGxKYU0tNEFGSzVuMTFBTzRPSDRMNjJDeUFXeVpTU3JvLUlmNUhLSFhmRmhHdGdqM2NsM1FaTTVhS1ZnY2tPbHJ0QUxWcmcySHJpeEtxUXBxbzdHR0duQ3lRQmFtNTJvdW84TUMxTzMtSmQ4Y0xLZ3FoTHVFY0NLWFpIb0VQTm5Fc044UXdDTU9EblFyekdYLWFCODFrUVJDRi1JN1hoYzhYbUNMc3FwRHpSQjli?o",
+    "first_seen": "2026-09-25"
+  },
+  {
+    "title": "CISA KEV: Mikrotik RouterOS Improper Enforcement of Behavioral Workflow Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-67279",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-25",
+    "snippet": "CVE-2026-67279 | MikroTik RouterOS | Mikrotik RouterOS contains an improper enforcement of behavioral workflow vulnerability that could allow an unauthenticated client to open a session channel and send an exec request. This vulnerability can be chained to achieve unauthenticated exploitation of CVE-2026-86060.",
+    "first_seen": "2026-09-25"
+  },
+  {
+    "title": "CISA KEV: Microsoft SharePoint Code Injection Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-65660",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-25",
+    "snippet": "CVE-2026-65660 | Microsoft SharePoint | Microsoft SharePoint contains a code injection vulnerability which could allow an authorized attacker to execute code over a network.",
+    "first_seen": "2026-09-25"
   }
 ]
