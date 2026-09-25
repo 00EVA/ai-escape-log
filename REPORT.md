@@ -1,6 +1,6 @@
-# AI Incident Briefing — 2026-09-24
+# AI Incident Briefing — 2026-09-25
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 465_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 450_
 
 ## 1. Latest verified incidents
 
@@ -11,20 +11,32 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=465)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=450)
 
-- [Google News] AI Models Are Going Rogue. Should We Be Worried? | Terms of Service - Modern Ghana  (Tue, 25 Au)
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oT1JUVnZwWWlzOTFINEQ0dkJILTdoXzhZaENBSDZSOUdlSFBXUFJ6dDVDQVJqb1E0WDMyZVZ5YjZBd2t6OHFqOXR2eVFtbVZLc0EzWlJ3YmNHRWpnU1Bj
-- [Google News] An AI agent allegedly deleted a startup's production database, causing a huge outage - Mashable  (Mon, 27 Ap)
-  https://news.google.com/rss/articles/CBMiigFBVV95cUxNZno5WXh4S2VvTnI0d1VsWnpxM2ZrWmQ4UVlyeE5BQTFqTG9mbmc5QWNtX3ZfR19Nbk9NQzFwZ2xCODI5anJ3WGI2RWpiTHhfcXBneGtjWVJBb1hNQ2VQQVdEQk9PdEd5bFl5MExXcWROSkJ4bG9MRG4wZFk4QlZ0STBVUDZsQ1pBQWc
-- [Google News] Luxury’s Latest Cyber Risk? AI Agents Going Rogue - Vogue  (Tue, 25 Au)
-  https://news.google.com/rss/articles/CBMigwFBVV95cUxOUWJBQUU2cWdUZFdpaGJTQjZqZUlFVUJacmYzMWsydWptdWNnMzFEdnA3NWV6UHo4WmdiaHBOYzlBbW9GVTZkRUZiaGgxOTFKeDYyZmVaY1FjeEpZUUw2MTc3OW9sZlJxbzdZSld3RFdxemc2YkNHeTk5RWlWc2tucVF6SQ
-- [Google News] Safety testing was an obscure part of building AI. Then models went rogue. - Politico  (Sat, 15 Au)
-  https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVN4elg3T3hlZW1JNVpwN0tBWklxNlV6aG9pM21ILVF5MVFDU3d1Z3c0QU1OeTdXTkpoMU5rWFppVlQwSWd6V0NLN3pmeGNHSzhzTjJnbnFFZTE3Umhfd1R4ZXFtRFBMVzA3NEpCODR2VEFDQXR3bTA2alFCMHFIaWl3dw
-- [Google News] Israeli-founded Alice raises $140M to stop AI from going rogue - Ynetnews  (Tue, 25 Au)
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tSmF5WnFnNXlFbVRxdW5HblJHbE16bzZMZWpNT0lHMHVYTnZzdHpJOFJvaGhSaWhGSVNHZDMteFMwc3F2akEwQkZMamRrQklqWTVSb2tuTlh4Z2ROWlFkU25B
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
+- [OpenAI News] Disrupting a new covert influence campaign from Russia  (Tue, 25 Au)
+  None
+- [Google News] Brazil alert hack sends ‘alien attack’ warnings; legacy D-Link routers hijacked, and more cybersecurity news - ForkLog  (Sat, 27 Ju)
+  https://news.google.com/rss/articles/CBMixwFBVV95cUxQSjFVZGxLci1mYWFScnF4dkJ5SGk0a3FMVG5kSXhhc1M3VUpwMmFzSGl0N00xM0RQYlhnRTEtRXZnMjFtcDNVVnVXSWcwbDVfWG1PVU1haHg1SFRKcU9MeVRvdjNfWDdHWmtYaFRuZzBtcDR3NHpIMmRFZHZ6NDdkSHBZMjBXREs2SVRmN1J1a1EyWXFJQkJTUnNyRHdKSVFpa0hsS1VPNmVBR09YV3BfcXFlRjY2SHUxOVRtUjJNVTg3c0ZGamhr
+- [Google News] Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access - TechCrunch  (Mon, 01 Ju)
+  https://news.google.com/rss/articles/CBMixgFBVV95cUxOMUVtR19XclUyUmtCUnBqN19xbVBHSVRyMXVIYzFFVzVfRWNOUEZiZ3A2NkxtWkZSU1FYNHA3Z19fTkgxRXBLS3RoUmowS3UzeXZpY2poUDQ0bWhsMVN2M0U0MW1STkFkTUkzZ2VyTU55ZXZ2SGQybTByempWYmxmamhLVEJudFhxdnFfcHlBY2MwNTMwTGdwcnVxa0pwdmRjM1ZReDZhYjJSUlZWbFBiOEl5Q25CUmF6ckwyRkEwS25FeUNnUkE
+- [The Verge] OpenAI’s rogue AI model incident was worse than we thought  (2026-08-26)
+  https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr
+- [Google News] OpenAI Says Its Own AI Agents Went Rogue And Hacked Its Systems - Z100 Portland  (Wed, 26 Au)
+  https://news.google.com/rss/articles/CBMitgFBVV95cUxPYUFsUHFTUU1sSkRMMEtNV3hKYkNFeEduY19heGI4dUxoOUU1SkJoWTVhWFNWdnpjZjhQN0U1dU1RdDdmU3FianFtbWtHRkY1VDFYVU5oVVExaDNWZS1NcWtpRzNta00xVzBaNXN6dUZSY196YnFPNDE2RnAtQzM4X2dkQjdNbXhpUmFlYS1yRXNUbEY2RE5sOGlvb0E1eElKX25IRC1kdGx5RTAycF9NN1BxN2p3UQ
+- [Prismix AI] AI agents meant to replace Meta workers made “large-scale, disruptive actions”  (2026-08-26)
+  https://prismix.dev/news/33551649b533
+- [Google News] OpenAI Says Its Own AI Agents Went Rogue And Hacked Its Systems - REAL 103.9  (Wed, 26 Au)
+  https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzVqNjhQb055d2VXenVjSUhTNUtLQktueDdGSDhmQnhkYUNSeWZ2c2dJdDNNVFRmbkkxRDJUeG1EUVZkRVhnVEI4WFZaaW5IOEtIMUtxeE5QVmx2bTA4anVvX3ZCclgxMlliU2R4UGt1eXRfMU1rTFJaNFpOTlg2TDB3MUZxZG1SbW1DUXg5YWVLODMzYWNXdW1KLVVZZHhIVG1xWXNHU0hEZEtpU2NaZg
+- [Google News] The ‘First’ AI-Run Ransomware Attack Still Needed a Human to Begin - Homeland Security Today  (Tue, 07 Ju)
+  https://news.google.com/rss/articles/CBMiygFBVV95cUxPS3pFUHFkMlo2cE56N2NSNGlhdmZXTHAzVnVoZnJnYm9yOVNGTEd5NEFCWWtNeGxVVTFLNGFwYjJyclQ0dmwwb1hTcmdyRUFmSnRtMFJ3MVVZRzNrTFRZcUd6cWdISUdMWEU4Sll0Ny1zY1cwMU13bXpraEhzak9wa1N5VGE1WEdxNU5KQktKQkdxeWJqSEd0WTBwTE9Way1YYTdiRnpDMnRpdU9jTDQxVmN0T1hrdi1ndGhIeXZpM2xkTUVJUndMRVVn
+- [Google News] OpenAI Says Its Own AI Agents Went Rogue And Hacked Its Systems - K102  (Wed, 26 Au)
+  https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSUticFVuQ1Y0ZnZhR09jb1JMb0g0MGhIaXQ3VXhCblRZRU91VjVDV25ydFBEOXl4MXhTZUNodEVYZGRvNF95Rlp5ZXdwRXh1ZlZWWEwzd1UwekpRNzdjeHJVLVZKdXJ4SktBZHdmYU1lT041NDZCbGU4NUtMUEdLOEJOaUhsa1VrbXBJbEwyWGJwRUlmY3pVdGlNcUNKektoejZRSzcwSGVKeGc
+- [Google News] Hundreds of AI agents went rogue in OpenAI’s Hugging Face hack - Politico  (Thu, 27 Au)
+  https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVF5Q3hJemxqUXVJd2M2OHpKZ3RPVmY4SEU0VUNpZmVtYWxabk1Mdy1lXzh3czEtUTFHbVZaNjAyZmpicG11X1ZPYzBTSWQxdWlCQlpnTmROWWtETlNCTk5SUDVYZHZWRzgtWnFJV3h1Qm5Ud284NDJWcmtmTmEtX2hnMmZQMXJqZFlkbnBwbzJqVVlKdEsyUXdrSVJuNDdjamFMZnNDRlI1Z2Q0X29EbQ
+- [Google News] Fraud EDU: How to spot and avoid deepfake scams -- your essential guide to AI-powered fraud - 256 Today  (Fri, 29 Ma)
+  https://news.google.com/rss/articles/CBMisAFBVV95cUxOcDJ2dHVlWFhJYUhmN09mQ0x5WklSQWhhdjMzVWg2QS1pajRUemdZSXBFT2I0YVhFTlZaN1ZqYkNOZmNBb25MRDAxRVJ4VUpmX0J5LWw0eGpIZFQ5S2VScmt1TEx4enB4c1NZWFpMWF9laHd6NDZjWkRndGFFNzRRV3Zta25zVGZZdUl4RHhXMURZSG01YU5ocXl1SGxjUlZ5Q3pXX1IxSF8yWkdGZmpmVw
 
 ## 4. Early-warning watchlist (be first to know)
 
