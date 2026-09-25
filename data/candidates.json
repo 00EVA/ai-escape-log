@@ -3702,5 +3702,21 @@
     "date": "2026-09-24",
     "snippet": "CVE-2026-71362 | Adobe Commerce and Magento  | Adobe Commerce and Magento contains an incorrect authorization vulnerability that could allow an attacker to leverage this vulnerability to gain elevated access to sensitive resources without any user interaction. ",
     "first_seen": "2026-09-24"
+  },
+  {
+    "title": "Learning to Discover Interesting Mathematics",
+    "url": "https://prismix.dev/news/00e3d6290b27",
+    "source": "Prismix AI",
+    "date": "2026-09-25",
+    "snippet": "arXiv:2609.28603v1 Announce Type: new Abstract: Recently, Large Language Models (LLMs) have been increasingly able to solve advanced mathematical problems, including many that have been open for decades. This opens the door to expansion of mathematical knowledge at unprecedented…",
+    "first_seen": "2026-09-24"
+  },
+  {
+    "title": "DNA breakthrough leads to arrest in cold case of woman stabbed nearly 100 times: reports - KABB",
+    "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxOT0lDa2FrZV9YTEU0R1p2cG1rRmpDWnB6RWg1UlY5SUFpQzlCSThCRmdsOTBSb2tlaVhraTQ3UjlRVUV1TzJwQWpndTdYM2liNjhHZ0ZxV1UxdldUTDNmSl9nRWVoSk04NjVKR0owVUM0b0MzSm5md3ZGZnM4WV9ldi1DTUoydm81b015MF9CM1FvZzBPRW5xMTZ0UHVKbHpwWjdwN1pRSTQyenhuUllvbF80VVpKYzZJckU3cnQ5U2hYZFBRMU5UQV9mU2dMa016czBjVnMwWkRwam1KMW5mZkswWjZVQ2xkY2hMZjhDbkQ5UHZGRVhTVVNhUWNoWjkxejF1YU02VmNFdkVLSmNjR21kTWFISF9rTWpibXF1Ykw0b0tCMk1vc1g2SnB4anNJeFZUcU5taWVQYUdDeDZDQ3Y4UGxGLXNwR2F3XzRBWHlaV3JrNnVydVV1UjA2TndVYXY5aks2VTJqaDNIQm9WYkpCRXRTZFdaQmZIdm9MN0I3dWdsQUZva1pkZFdaUjhpVDdhYjY3Qk40WHVCb2dZUA",
+    "source": "Google News",
+    "date": "Tue, 21 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioANBVV95cUxOT0lDa2FrZV9YTEU0R1p2cG1rRmpDWnB6RWg1UlY5SUFpQzlCSThCRmdsOTBSb2tlaVhraTQ3UjlRVUV1TzJwQWpndTdYM2liNjhHZ0ZxV1UxdldUTDNmSl9nRWVoSk04NjVKR0owVUM0b0MzSm5md3ZGZnM4WV9ldi1DTUoydm81b015MF9CM1FvZzBPRW5xMTZ0UHVKbHpwWjdwN1pRSTQyenhuUllvbF80VVpKYzZJck",
+    "first_seen": "2026-09-24"
   }
 ]
