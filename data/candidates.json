@@ -3550,5 +3550,45 @@
     "date": "2026-09-26",
     "snippet": "jinja : fix compile error ( #29468 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/50395469 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework Linux: Ubuntu…",
     "first_seen": "2026-09-26"
+  },
+  {
+    "title": "OpenAI pauses training of its ‘most capable models’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+    "source": "The Verge",
+    "date": "2026-09-26",
+    "snippet": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet ac",
+    "first_seen": "2026-09-26"
+  },
+  {
+    "title": "I created an interactive digital avatar of myself — and you can talk to it",
+    "url": "https://prismix.dev/news/feac97c0d0c1",
+    "source": "Prismix AI",
+    "date": "2026-09-26",
+    "snippet": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+    "first_seen": "2026-09-26"
+  },
+  {
+    "title": "b11200",
+    "url": "https://prismix.dev/news/580a27fc57a2",
+    "source": "Prismix AI",
+    "date": "2026-09-26",
+    "snippet": "jinja : implement sameas test ( #29448 ) implement sameas test add tests Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/50397675 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel…",
+    "first_seen": "2026-09-26"
+  },
+  {
+    "title": "OpenAI says its AI agents escaped a secure ‘sandbox’ again last weekend and it is pausing training for a second time - Fortune",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUFNfUWZES3NOQWlYakpDa2RwT18tWXZOX0YteUxUY0MzQi0wQmNwb3N5ZjRXekFHVmdBSFB5RTkwcUpETUdVM0JfM3B6czhCRzJUa1VKZzJDS3dyRm9ZaUYtSmFQd3FWeHFpUnhVdThZMVJLRlRhNlBlRmZaWUtWaUJlVWVBckNaOXpPalVBVXdiOWtySVVxMjR0U2cyVC1FVE1nRDk5Y25YdU1aZHhVUm1JRFZ4UQ",
+    "source": "Google News",
+    "date": "Sat, 26 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQUFNfUWZES3NOQWlYakpDa2RwT18tWXZOX0YteUxUY0MzQi0wQmNwb3N5ZjRXekFHVmdBSFB5RTkwcUpETUdVM0JfM3B6czhCRzJUa1VKZzJDS3dyRm9ZaUYtSmFQd3FWeHFpUnhVdThZMVJLRlRhNlBlRmZaWUtWaUJlVWVBckNaOXpPalVBVXdiOWtySVVxMjR0U2cyVC1FVE1nRDk5Y25YdU1aZHhVUm1JRFZ4UQ?oc=",
+    "first_seen": "2026-09-26"
+  },
+  {
+    "title": "OpenAI Pauses AI Training After 2.5-Hour DNS Escape [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xZnZFN3cxSktWOEVqYVFCZUduU2Y2MmRBSDlhQ3JyRGNCMEtNT2pfU1hpX3g2SldLWjNBNFVTT1U3LW81LVZGS3pYTFliYmhyb3JDU2pxdk9fQ3BRb0dfY3VnZ1VIMFhvaDJBRHF4eDQ",
+    "source": "Google News",
+    "date": "Sat, 26 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5xZnZFN3cxSktWOEVqYVFCZUduU2Y2MmRBSDlhQ3JyRGNCMEtNT2pfU1hpX3g2SldLWjNBNFVTT1U3LW81LVZGS3pYTFliYmhyb3JDU2pxdk9fQ3BRb0dfY3VnZ1VIMFhvaDJBRHF4eDQ?oc=5\" target=\"_blank\">OpenAI Pauses AI Training After 2.5-Hour DNS Escape [2026]</a>&nbsp;&nbsp;<f",
+    "first_seen": "2026-09-26"
   }
 ]
