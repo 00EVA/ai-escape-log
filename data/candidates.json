@@ -8,222 +8,6 @@
     "first_seen": "2026-08-25"
   },
   {
-    "title": "b10638",
-    "url": "https://prismix.dev/news/d6e20688c47a",
-    "source": "Prismix AI",
-    "date": "2026-08-26",
-    "snippet": "Implemented vulkan cross_entropy_loss and cross_entropy_loss_back ( #27216 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/43166320 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS…",
-    "first_seen": "2026-08-26"
-  },
-  {
-    "title": "CISA KEV: Ajax.NET Professional Deserialization of Untrusted Data Vulnerability",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-23758",
-    "source": "CISA KEV catalog",
-    "date": "2026-08-26",
-    "snippet": "CVE-2021-23758 | Ajax.NET Professional Ajax.NET Professional | Ajax.NET Professional (AjaxPro) contains a deserialization of untrusted data vulnerability that could allow for remote code execution via arbitrary .NET classes. The impacted product(s) could be end-of-life (EoL) and/or end-of-service (EoS). Users are advised to discontinue use and/or transition to ",
-    "first_seen": "2026-08-26"
-  },
-  {
-    "title": "CISA KEV: Red Hat Libuser Race Condition Vulnerability",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2015-3246",
-    "source": "CISA KEV catalog",
-    "date": "2026-08-26",
-    "snippet": "CVE-2015-3246 | Red Hat Libuser | Red Hat libuser contains a race condition vulnerability that allows authenticated local users to corrupt the /etc/passwd file to cause a denial of service or privilege escalation. ",
-    "first_seen": "2026-08-26"
-  },
-  {
-    "title": "CISA KEV: Red Hat Automatic Bug Reporting Tool Privilege Escalation Vulnerability",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2015-5287",
-    "source": "CISA KEV catalog",
-    "date": "2026-08-26",
-    "snippet": "CVE-2015-5287 | Red Hat Automatic Bug Reporting Tool | Red Hat Automatic Bug Reporting Tool (ABRT) contains a privilege escalation vulnerability that could allow local users with certain permissions to gain privileges via a symlink attack on a file with a predictable name. The impacted product(s) could be end-of-life (EoL) and/or end-of-service (EoS). U",
-    "first_seen": "2026-08-26"
-  },
-  {
-    "title": "CISA KEV: Linux Kernel Out-of-Bounds Write Vulnerability",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-0995",
-    "source": "CISA KEV catalog",
-    "date": "2026-08-26",
-    "snippet": "CVE-2022-0995 | Linux Kernel | Linux Kernel contains an out-of-bounds memory write vulnerability which could allow a local user to gain privileged access or cause a denial of service on the system.",
-    "first_seen": "2026-08-26"
-  },
-  {
-    "title": "CISA KEV: Citrix NetScaler ADC and NetScaler Gateway Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-8452",
-    "source": "CISA KEV catalog",
-    "date": "2026-08-26",
-    "snippet": "CVE-2026-8452 | Citrix NetScaler ADC and NetScaler Gateway | Citrix NetScaler ADC and NetScaler Gateway contain an improper restriction of operations within the bounds of a memory buffer vulnerability which could lead to denial of service. ",
-    "first_seen": "2026-08-26"
-  },
-  {
-    "title": "CISA KEV: Microsoft SQL Server Remote Code Execution Vulnerability",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2019-1068",
-    "source": "CISA KEV catalog",
-    "date": "2026-08-26",
-    "snippet": "CVE-2019-1068 | Microsoft SQL Server | Microsoft SQL Server contains a remote code execution vulnerability that could allow an attacker to execute code in the context of the SQL Server Database Engine service account.",
-    "first_seen": "2026-08-26"
-  },
-  {
-    "title": "Disrupting a new covert influence campaign from Russia",
-    "url": null,
-    "source": "OpenAI News",
-    "date": "Tue, 25 Au",
-    "snippet": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
-    "first_seen": "2026-08-26"
-  },
-  {
-    "title": "Brazil alert hack sends ‘alien attack’ warnings; legacy D-Link routers hijacked, and more cybersecurity news - ForkLog",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSjFVZGxLci1mYWFScnF4dkJ5SGk0a3FMVG5kSXhhc1M3VUpwMmFzSGl0N00xM0RQYlhnRTEtRXZnMjFtcDNVVnVXSWcwbDVfWG1PVU1haHg1SFRKcU9MeVRvdjNfWDdHWmtYaFRuZzBtcDR3NHpIMmRFZHZ6NDdkSHBZMjBXREs2SVRmN1J1a1EyWXFJQkJTUnNyRHdKSVFpa0hsS1VPNmVBR09YV3BfcXFlRjY2SHUxOVRtUjJNVTg3c0ZGamhr",
-    "source": "Google News",
-    "date": "Sat, 27 Ju",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQSjFVZGxLci1mYWFScnF4dkJ5SGk0a3FMVG5kSXhhc1M3VUpwMmFzSGl0N00xM0RQYlhnRTEtRXZnMjFtcDNVVnVXSWcwbDVfWG1PVU1haHg1SFRKcU9MeVRvdjNfWDdHWmtYaFRuZzBtcDR3NHpIMmRFZHZ6NDdkSHBZMjBXREs2SVRmN1J1a1EyWXFJQkJTUnNyRHdKSVFpa0hsS1VPNmVBR09YV3BfcXFlRjY2SHUxOV",
-    "first_seen": "2026-08-26"
-  },
-  {
-    "title": "Where Investors Are Going to Escape AI",
-    "url": "https://prismix.dev/news/762cc1dfc836",
-    "source": "Prismix AI",
-    "date": "2026-08-26",
-    "snippet": "Investors have been hunting for anything but AI. That search has sent bursts of billions of dollars into typically ho-hum parts of the market like insurers and small-cap stocks, where they can have an outsize impact. One place that trade is showing up is in an index Goldman…",
-    "first_seen": "2026-08-26"
-  },
-  {
-    "title": "Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access - TechCrunch",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMUVtR19XclUyUmtCUnBqN19xbVBHSVRyMXVIYzFFVzVfRWNOUEZiZ3A2NkxtWkZSU1FYNHA3Z19fTkgxRXBLS3RoUmowS3UzeXZpY2poUDQ0bWhsMVN2M0U0MW1STkFkTUkzZ2VyTU55ZXZ2SGQybTByempWYmxmamhLVEJudFhxdnFfcHlBY2MwNTMwTGdwcnVxa0pwdmRjM1ZReDZhYjJSUlZWbFBiOEl5Q25CUmF6ckwyRkEwS25FeUNnUkE",
-    "source": "Google News",
-    "date": "Mon, 01 Ju",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOMUVtR19XclUyUmtCUnBqN19xbVBHSVRyMXVIYzFFVzVfRWNOUEZiZ3A2NkxtWkZSU1FYNHA3Z19fTkgxRXBLS3RoUmowS3UzeXZpY2poUDQ0bWhsMVN2M0U0MW1STkFkTUkzZ2VyTU55ZXZ2SGQybTByempWYmxmamhLVEJudFhxdnFfcHlBY2MwNTMwTGdwcnVxa0pwdmRjM1ZReDZhYjJSUlZWbFBiOEl5Q25CUmF6ck",
-    "first_seen": "2026-08-26"
-  },
-  {
-    "title": "OpenAI’s rogue AI model incident was worse than we thought",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
-    "source": "The Verge",
-    "date": "2026-08-26",
-    "snippet": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and hacked into the internal systems of a different AI lab, Hugging Face. It took nearly two weeks for Ope",
-    "first_seen": "2026-08-26"
-  },
-  {
-    "title": "OpenAI Says Its Own AI Agents Went Rogue And Hacked Its Systems - Z100 Portland",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYUFsUHFTUU1sSkRMMEtNV3hKYkNFeEduY19heGI4dUxoOUU1SkJoWTVhWFNWdnpjZjhQN0U1dU1RdDdmU3FianFtbWtHRkY1VDFYVU5oVVExaDNWZS1NcWtpRzNta00xVzBaNXN6dUZSY196YnFPNDE2RnAtQzM4X2dkQjdNbXhpUmFlYS1yRXNUbEY2RE5sOGlvb0E1eElKX25IRC1kdGx5RTAycF9NN1BxN2p3UQ",
-    "source": "Google News",
-    "date": "Wed, 26 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPYUFsUHFTUU1sSkRMMEtNV3hKYkNFeEduY19heGI4dUxoOUU1SkJoWTVhWFNWdnpjZjhQN0U1dU1RdDdmU3FianFtbWtHRkY1VDFYVU5oVVExaDNWZS1NcWtpRzNta00xVzBaNXN6dUZSY196YnFPNDE2RnAtQzM4X2dkQjdNbXhpUmFlYS1yRXNUbEY2RE5sOGlvb0E1eElKX25IRC1kdGx5RTAycF9NN1BxN2p3UQ?oc=",
-    "first_seen": "2026-08-26"
-  },
-  {
-    "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
-    "url": "https://prismix.dev/news/33551649b533",
-    "source": "Prismix AI",
-    "date": "2026-08-26",
-    "snippet": "Reuters report shows Meta's challenges replacing people with AI agents.",
-    "first_seen": "2026-08-26"
-  },
-  {
-    "title": "OpenAI Says Its Own AI Agents Went Rogue And Hacked Its Systems - REAL 103.9",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzVqNjhQb055d2VXenVjSUhTNUtLQktueDdGSDhmQnhkYUNSeWZ2c2dJdDNNVFRmbkkxRDJUeG1EUVZkRVhnVEI4WFZaaW5IOEtIMUtxeE5QVmx2bTA4anVvX3ZCclgxMlliU2R4UGt1eXRfMU1rTFJaNFpOTlg2TDB3MUZxZG1SbW1DUXg5YWVLODMzYWNXdW1KLVVZZHhIVG1xWXNHU0hEZEtpU2NaZg",
-    "source": "Google News",
-    "date": "Wed, 26 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzVqNjhQb055d2VXenVjSUhTNUtLQktueDdGSDhmQnhkYUNSeWZ2c2dJdDNNVFRmbkkxRDJUeG1EUVZkRVhnVEI4WFZaaW5IOEtIMUtxeE5QVmx2bTA4anVvX3ZCclgxMlliU2R4UGt1eXRfMU1rTFJaNFpOTlg2TDB3MUZxZG1SbW1DUXg5YWVLODMzYWNXdW1KLVVZZHhIVG1xWXNHU0hEZEtpU2NaZg?oc=5\" targe",
-    "first_seen": "2026-08-26"
-  },
-  {
-    "title": "The ‘First’ AI-Run Ransomware Attack Still Needed a Human to Begin - Homeland Security Today",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS3pFUHFkMlo2cE56N2NSNGlhdmZXTHAzVnVoZnJnYm9yOVNGTEd5NEFCWWtNeGxVVTFLNGFwYjJyclQ0dmwwb1hTcmdyRUFmSnRtMFJ3MVVZRzNrTFRZcUd6cWdISUdMWEU4Sll0Ny1zY1cwMU13bXpraEhzak9wa1N5VGE1WEdxNU5KQktKQkdxeWJqSEd0WTBwTE9Way1YYTdiRnpDMnRpdU9jTDQxVmN0T1hrdi1ndGhIeXZpM2xkTUVJUndMRVVn",
-    "source": "Google News",
-    "date": "Tue, 07 Ju",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPS3pFUHFkMlo2cE56N2NSNGlhdmZXTHAzVnVoZnJnYm9yOVNGTEd5NEFCWWtNeGxVVTFLNGFwYjJyclQ0dmwwb1hTcmdyRUFmSnRtMFJ3MVVZRzNrTFRZcUd6cWdISUdMWEU4Sll0Ny1zY1cwMU13bXpraEhzak9wa1N5VGE1WEdxNU5KQktKQkdxeWJqSEd0WTBwTE9Way1YYTdiRnpDMnRpdU9jTDQxVmN0T1hrdi1ndG",
-    "first_seen": "2026-08-26"
-  },
-  {
-    "title": "OpenAI Says Its Own AI Agents Went Rogue And Hacked Its Systems - K102",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSUticFVuQ1Y0ZnZhR09jb1JMb0g0MGhIaXQ3VXhCblRZRU91VjVDV25ydFBEOXl4MXhTZUNodEVYZGRvNF95Rlp5ZXdwRXh1ZlZWWEwzd1UwekpRNzdjeHJVLVZKdXJ4SktBZHdmYU1lT041NDZCbGU4NUtMUEdLOEJOaUhsa1VrbXBJbEwyWGJwRUlmY3pVdGlNcUNKektoejZRSzcwSGVKeGc",
-    "source": "Google News",
-    "date": "Wed, 26 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSUticFVuQ1Y0ZnZhR09jb1JMb0g0MGhIaXQ3VXhCblRZRU91VjVDV25ydFBEOXl4MXhTZUNodEVYZGRvNF95Rlp5ZXdwRXh1ZlZWWEwzd1UwekpRNzdjeHJVLVZKdXJ4SktBZHdmYU1lT041NDZCbGU4NUtMUEdLOEJOaUhsa1VrbXBJbEwyWGJwRUlmY3pVdGlNcUNKektoejZRSzcwSGVKeGc?oc=5\" target=\"_bla",
-    "first_seen": "2026-08-26"
-  },
-  {
-    "title": "Hundreds of AI agents went rogue in OpenAI’s Hugging Face hack - Politico",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVF5Q3hJemxqUXVJd2M2OHpKZ3RPVmY4SEU0VUNpZmVtYWxabk1Mdy1lXzh3czEtUTFHbVZaNjAyZmpicG11X1ZPYzBTSWQxdWlCQlpnTmROWWtETlNCTk5SUDVYZHZWRzgtWnFJV3h1Qm5Ud284NDJWcmtmTmEtX2hnMmZQMXJqZFlkbnBwbzJqVVlKdEsyUXdrSVJuNDdjamFMZnNDRlI1Z2Q0X29EbQ",
-    "source": "Google News",
-    "date": "Thu, 27 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVF5Q3hJemxqUXVJd2M2OHpKZ3RPVmY4SEU0VUNpZmVtYWxabk1Mdy1lXzh3czEtUTFHbVZaNjAyZmpicG11X1ZPYzBTSWQxdWlCQlpnTmROWWtETlNCTk5SUDVYZHZWRzgtWnFJV3h1Qm5Ud284NDJWcmtmTmEtX2hnMmZQMXJqZFlkbnBwbzJqVVlKdEsyUXdrSVJuNDdjamFMZnNDRlI1Z2Q0X29EbQ?oc=5\" targe",
-    "first_seen": "2026-08-26"
-  },
-  {
-    "title": "Fraud EDU: How to spot and avoid deepfake scams -- your essential guide to AI-powered fraud - 256 Today",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcDJ2dHVlWFhJYUhmN09mQ0x5WklSQWhhdjMzVWg2QS1pajRUemdZSXBFT2I0YVhFTlZaN1ZqYkNOZmNBb25MRDAxRVJ4VUpmX0J5LWw0eGpIZFQ5S2VScmt1TEx4enB4c1NZWFpMWF9laHd6NDZjWkRndGFFNzRRV3Zta25zVGZZdUl4RHhXMURZSG01YU5ocXl1SGxjUlZ5Q3pXX1IxSF8yWkdGZmpmVw",
-    "source": "Google News",
-    "date": "Fri, 29 Ma",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOcDJ2dHVlWFhJYUhmN09mQ0x5WklSQWhhdjMzVWg2QS1pajRUemdZSXBFT2I0YVhFTlZaN1ZqYkNOZmNBb25MRDAxRVJ4VUpmX0J5LWw0eGpIZFQ5S2VScmt1TEx4enB4c1NZWFpMWF9laHd6NDZjWkRndGFFNzRRV3Zta25zVGZZdUl4RHhXMURZSG01YU5ocXl1SGxjUlZ5Q3pXX1IxSF8yWkdGZmpmVw?oc=5\" targe",
-    "first_seen": "2026-08-26"
-  },
-  {
-    "title": "OpenAI’s rogue AI model incident was worse than we thought - The Verge",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb1plTFExM3lLRkRCZ3ZLb0FobHM5R1ZyTVREaWxOWnJfcG5ZRlE4NHpXNjBQRTl3ZTVKQkVfWUY0YjhsMnIyUnRTZlBZNm0yTVQ4Z1dhZkU3TVc2eWFuNnF4N1hZSHhwTGNFaFh6M0c3em9qWnpxd1NJS3J0TWh2U0wtcHRGNmlFV3MyTU1iYTJuLXlETUl6Mi04VVZvZS03TXRud1NsUk1GZk9QNm9YMGxxQ1ladHpUbnlrVFlQcVBFY3BRamNRakVn",
-    "source": "Google News",
-    "date": "Wed, 26 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPb1plTFExM3lLRkRCZ3ZLb0FobHM5R1ZyTVREaWxOWnJfcG5ZRlE4NHpXNjBQRTl3ZTVKQkVfWUY0YjhsMnIyUnRTZlBZNm0yTVQ4Z1dhZkU3TVc2eWFuNnF4N1hZSHhwTGNFaFh6M0c3em9qWnpxd1NJS3J0TWh2U0wtcHRGNmlFV3MyTU1iYTJuLXlETUl6Mi04VVZvZS03TXRud1NsUk1GZk9QNm9YMGxxQ1ladHpUbn",
-    "first_seen": "2026-08-26"
-  },
-  {
-    "title": "Meta's AI Chatbot Allegedly Helped Hackers Hijack Instagram Accounts - PCMag",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdjVleXBCWVhyLUJmMG5FLS1Gem9PTndJcHBmeWZWSTYzd1RpVWFURXAzblIxWkl0Y2VGSGtQdHU5ZFFLSFViWjBVUFNaZFRDS25wUm93NTJsbXJQVk1Hc1hsODYybnY3V2EtVThXeml4WDQ4Q2dJeF9vWVVGWU1JZVJZZU9kOXFldHZZT3lpWmkwMm1CNUYwdzN3",
-    "source": "Google News",
-    "date": "Mon, 01 Ju",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQdjVleXBCWVhyLUJmMG5FLS1Gem9PTndJcHBmeWZWSTYzd1RpVWFURXAzblIxWkl0Y2VGSGtQdHU5ZFFLSFViWjBVUFNaZFRDS25wUm93NTJsbXJQVk1Hc1hsODYybnY3V2EtVThXeml4WDQ4Q2dJeF9vWVVGWU1JZVJZZU9kOXFldHZZT3lpWmkwMm1CNUYwdzN3?oc=5\" target=\"_blank\">Meta's AI Chatbot A",
-    "first_seen": "2026-08-26"
-  },
-  {
-    "title": "OpenAI Says Its Own AI Agents Went Rogue And Hacked Its Systems - iHeart",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR3M4Rk4xdVVYZE91Vy1mSElybVcxMkJNTkthU2IzREtZN05TNE5jYldINUMyWDhJYmN1dEk4RUNkalBrYjFrakVNR3R4d2EzYmJFZmo3Q1piNzdfVnYxYVd2VTZfSFdWbnRWRWNVRlFPOG1GR1JVQ0RlS0hzQUpmX2dFWHc5VG1WU3RhN05xTUxzVzJFZjZfMVI2alktOXJPbEdfTFBEeTNweExzdUprM0ZKX2g",
-    "source": "Google News",
-    "date": "Wed, 26 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOR3M4Rk4xdVVYZE91Vy1mSElybVcxMkJNTkthU2IzREtZN05TNE5jYldINUMyWDhJYmN1dEk4RUNkalBrYjFrakVNR3R4d2EzYmJFZmo3Q1piNzdfVnYxYVd2VTZfSFdWbnRWRWNVRlFPOG1GR1JVQ0RlS0hzQUpmX2dFWHc5VG1WU3RhN05xTUxzVzJFZjZfMVI2alktOXJPbEdfTFBEeTNweExzdUprM0ZKX2g?oc=5\" ",
-    "first_seen": "2026-08-26"
-  },
-  {
-    "title": "OpenAI Says Its Own AI Agents Went Rogue And Hacked Its Systems - Buckeye Country 94.3 WMRN-FM",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYllRS3ZMQVAzNkw1ZmRaZV9wSnFaMUdOczU2TmwwUHNTc0lSWHV3MGc0WWNacW5ldl9Rc2tvc09lSXY3eV9aWXNzWGhGZ3poNmxQaTdPYnNvcWUwaWU2ekYya1NsZndBaUlvbDRJS3FjVm40TTJtQ1hnRU5Id1VOcXpLSFAxYkxnbmszVWdhdi1xMl9OZ3AtOUV1NlVhcDJacWl5dWVwXzhlMTFNX1dJYTdpSnlkQUJIanhsRA",
-    "source": "Google News",
-    "date": "Wed, 26 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOYllRS3ZMQVAzNkw1ZmRaZV9wSnFaMUdOczU2TmwwUHNTc0lSWHV3MGc0WWNacW5ldl9Rc2tvc09lSXY3eV9aWXNzWGhGZ3poNmxQaTdPYnNvcWUwaWU2ekYya1NsZndBaUlvbDRJS3FjVm40TTJtQ1hnRU5Id1VOcXpLSFAxYkxnbmszVWdhdi1xMl9OZ3AtOUV1NlVhcDJacWl5dWVwXzhlMTFNX1dJYTdpSnlkQUJIan",
-    "first_seen": "2026-08-26"
-  },
-  {
-    "title": "'OH MY GOD! We've found other agents!': Investigators discover not one or two, almost 700 OpenAI AI agents went rogue, hacked Hugging Face - WION",
-    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdXRpRmt3NFZuZjJKdm9jMnNfQkMwYmFJOTZ6RVRsbmZjYWVPalkzM0EwcU45aWk1aEZJd1B4Rlo3Z3BVc0pDVXlKV0M5VW4yVDBGcWpDMkhzTWE2dHJhWVZmMVRZTVY3WTkxWDRlMzE4Vl9ZbHU2OUNhT3MyNkFxQm1qRXhuRDBLdUxTT3VnemhYWUJqYkZqa01nNWU1a2NwYUhsMWxiUUZheFJKZlF3U0VlVmh2NHhBN1FacmFaRFFaeXJlYUI0TlM1YlV6dUhhNGotRGJzaEpjNVhwOW9CblgtV3BZZUxCSjE1WEpBZUFiblRLNWdqZFRxcnMxdjM3X2pPY0hB0gGLAkFVX3lxTE5fRy1OeXhQQ0R6bmlFQkEteEc0UXEzdURjMUkzWmt2THY3SFUwMjVqbnAyZXNlTFlmTk1KMHc3UFBoYUM3WnZhS203czBjVnV1by1nZlJoNTZUTmJCMFZFVEVDaGF4cVJTTWgxRzFQa1MwMmdFSVNlSDZnSlBQblN4OGxiS2gzd21YYTlzZ0l4cUFIa3MtUWNtZTNkbVpZYzR6V2xveVlfc1huQnhxQUVBRHJCNjZwUGlWMlFYbFRRSTRFNnhRT3VQbmNyWF9SN3lsc0dPbTQtMWt1ZzFKUkwwTTJpcGczaVlNWHhZX1J5V3lyUmYzbXhlNTRXN2kzcFMzeU1mbGp3clRySQ",
-    "source": "Google News",
-    "date": "Thu, 27 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxNdXRpRmt3NFZuZjJKdm9jMnNfQkMwYmFJOTZ6RVRsbmZjYWVPalkzM0EwcU45aWk1aEZJd1B4Rlo3Z3BVc0pDVXlKV0M5VW4yVDBGcWpDMkhzTWE2dHJhWVZmMVRZTVY3WTkxWDRlMzE4Vl9ZbHU2OUNhT3MyNkFxQm1qRXhuRDBLdUxTT3VnemhYWUJqYkZqa01nNWU1a2NwYUhsMWxiUUZheFJKZlF3U0VlVmh2NHhBN1",
-    "first_seen": "2026-08-26"
-  },
-  {
-    "title": "Opinion: Rogue AI models signal the need for tighter controls - Deseret News",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVk5xYnhhM2piZFdOa0dlRWZIeDAyV1JxODZjdjJaSG9nMXR4TlRWWWJfdUVKYzFoamY4SWt6MG01TkJPa3FRNTc4d3BNMV93MWdYOU9WaVJuTmtUVG5vU0Znd0VWV3BxemQwZlM5d3FLb0UwN2hzY0FzbnYyYlNReFkzUWp6MWx5LVg0",
-    "source": "Google News",
-    "date": "Thu, 27 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVk5xYnhhM2piZFdOa0dlRWZIeDAyV1JxODZjdjJaSG9nMXR4TlRWWWJfdUVKYzFoamY4SWt6MG01TkJPa3FRNTc4d3BNMV93MWdYOU9WaVJuTmtUVG5vU0Znd0VWV3BxemQwZlM5d3FLb0UwN2hzY0FzbnYyYlNReFkzUWp6MWx5LVg0?oc=5\" target=\"_blank\">Opinion: Rogue AI models signal the nee",
-    "first_seen": "2026-08-26"
-  },
-  {
-    "title": "OpenAI Says Its Own AI Agents Went Rogue And Hacked Its Systems - 700WLW",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdU1VNE5hVjFqTHRiWnVQZVBKZERrQXFrSnVaZmNyTVV5Unc5WEZEeHE5VzNBR0pIMHFiUEM1TmZWYkFvOWVQdXpOcXFPeGpsVXd6a1ptdjFHcVNmb09KZzBXMjExQy13MFdLTEQ4T2wwNklVNlp2S1kwMUNBUXZPTTVCTWg2eWlTamFSUGdpMEtoajN3X0VVc3ZXbk8zczhuNmlZOXJ0SHVsOXdyUGc",
-    "source": "Google News",
-    "date": "Wed, 26 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPdU1VNE5hVjFqTHRiWnVQZVBKZERrQXFrSnVaZmNyTVV5Unc5WEZEeHE5VzNBR0pIMHFiUEM1TmZWYkFvOWVQdXpOcXFPeGpsVXd6a1ptdjFHcVNmb09KZzBXMjExQy13MFdLTEQ4T2wwNklVNlp2S1kwMUNBUXZPTTVCTWg2eWlTamFSUGdpMEtoajN3X0VVc3ZXbk8zczhuNmlZOXJ0SHVsOXdyUGc?oc=5\" target=\"",
-    "first_seen": "2026-08-26"
-  },
-  {
-    "title": "Video OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach - ABC News - Breaking News, Latest News and Videos",
-    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5NVVU3TmZiRVJoRGJnRWxQejQ4Q1lWVU5HVE9PaEZOSUJHcVJGa2p0NUdfaUljNi1wU1BHSE1CWlNrcnc0RG9nelBKYWU",
-    "source": "Google News",
-    "date": "Wed, 26 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE5NVVU3TmZiRVJoRGJnRWxQejQ4Q1lWVU5HVE9PaEZOSUJHcVJGa2p0NUdfaUljNi1wU1BHSE1CWlNrcnc0RG9nelBKYWU?oc=5\" target=\"_blank\">Video OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach</a>&nbsp;&nbsp;<font color=\"#6f6f6f",
-    "first_seen": "2026-08-26"
-  },
-  {
     "title": "OpenAI report says its network was hacked by its own rogue AI agents - NBC News",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSENjVlF6RWpVLTc1dDlRbEhsZExUVWVpOU5pVFBuZFVhSDVINGExNTBwUFJwSnFhenZRU3VfdkxLUUR4LXRXUFQ0ZDAxdS1GMGlBNERIWkx2VU1fQWY2Zml0RG9SemRieHpRbTN1Z1JFS1ppRWl5TUVSLXYzTEUyOG9vMVFtdjUyVE1hV2x2UVhrTTVucGgtWWRtWVloellEeEdnN2hn",
     "source": "Google News",
@@ -3712,35 +3496,11 @@
     "first_seen": "2026-09-25"
   },
   {
-    "title": "Show HN: Misalignments when using AI for hacking",
-    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
-    "source": "Hacker News",
-    "date": "2026-08-05",
-    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
-    "first_seen": "2026-09-26"
-  },
-  {
     "title": "An agent used DNS to reach an external chatbot · OpenAI Alignment",
     "url": "https://www.reddit.com/r/singularity/comments/1wqgg2c/an_agent_used_dns_to_reach_an_external_chatbot/",
     "source": "Reddit r/singularity",
     "date": "2026-09-26",
     "snippet": "   Five days ago, an internal model broke out of the hardened sandbox.    Highlights from the report:   * This was apparently the first model escape since OpenAI paused training to harden its sandbox following the HuggingFace incident.   *  OpenAI has currently paused most training of its most advan",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "title": "An OpenAI test model escaped and broke into a real company’s servers - CNN",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg",
-    "source": "Google News",
-    "date": "Wed, 22 Ju",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg?oc=5\" target=\"_blank\">An OpenAI test model escaped and broke into a real company’s",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment - WIRED",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ",
-    "source": "Google News",
-    "date": "Thu, 06 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ?oc=5\" target=\"_blank\">One of China’s Most Powerful AI Models Has Also Escaped Containme",
     "first_seen": "2026-09-26"
   },
   {
@@ -3752,27 +3512,19 @@
     "first_seen": "2026-09-26"
   },
   {
-    "title": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk",
+    "title": "AI Deepfake Scam: €95 Million Stolen From Italy’s Fideuram Using Fake Executive Calls - News Mobile",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMVY2aTZGcHJWU0p3ZG1YaTJvaVE4c1JLRE1TOFU3LUU3RnF2Vlpac2NRQTFnMVdBSVVHdnZ1U3hpTGQtNDRjWVZENWVMbzhlbXV4dE53cDhuUF9EbWhyYldHdTNjQlRjdlVLemZaNWVXTTVuVlpsaDRyRWhHOUtzektvRFpYQWFmMmNRdl9xOUNidlJVeFlLZHRRWjl2eGwtUVAyYjF5UXF4YTVDOVV6SVRkOHFROW9NYng4dDRkSzBBMDg",
     "source": "Google News",
-    "date": "Sun, 16 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk?oc=5\" target=\"_blank\">How AI Models From OpenAI and An",
+    "date": "Sat, 26 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMVY2aTZGcHJWU0p3ZG1YaTJvaVE4c1JLRE1TOFU3LUU3RnF2Vlpac2NRQTFnMVdBSVVHdnZ1U3hpTGQtNDRjWVZENWVMbzhlbXV4dE53cDhuUF9EbWhyYldHdTNjQlRjdlVLemZaNWVXTTVuVlpsaDRyRWhHOUtzektvRFpYQWFmMmNRdl9xOUNidlJVeFlLZHRRWjl2eGwtUVAyYjF5UXF4YTVDOVV6SVRkOHFROW9NYn",
     "first_seen": "2026-09-26"
   },
   {
-    "title": "Safety testing was an obscure part of building AI. Then models went rogue. - politico.com",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVN4elg3T3hlZW1JNVpwN0tBWklxNlV6aG9pM21ILVF5MVFDU3d1Z3c0QU1OeTdXTkpoMU5rWFppVlQwSWd6V0NLN3pmeGNHSzhzTjJnbnFFZTE3Umhfd1R4ZXFtRFBMVzA3NEpCODR2VEFDQXR3bTA2alFCMHFIaWl3dw",
+    "title": "Fraudsters cloned a lawyer's voice and drained 95 million euros from Fideuram - Startup Fortune",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb0hTQ181a0dOUG1QSVNWUTNuQkJVeHktQ2RSX0xIOGRuejFSXzliek9mb3Bockd2WGN0MkNWUkhNc1hDYnV1QklkdUJleWpzS0Y3MEVSLUU3bTlKOHZHbV93R2lZNnZnQnFIRXJhajR5VW9HRVBVQ0NPVWhlMGFtcEpNVjRXelRmckNmZmJhSS16eVZaa3N2ZDVmWVFLV2NpYnU3RFhEZw",
     "source": "Google News",
-    "date": "Sat, 15 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVN4elg3T3hlZW1JNVpwN0tBWklxNlV6aG9pM21ILVF5MVFDU3d1Z3c0QU1OeTdXTkpoMU5rWFppVlQwSWd6V0NLN3pmeGNHSzhzTjJnbnFFZTE3Umhfd1R4ZXFtRFBMVzA3NEpCODR2VEFDQXR3bTA2alFCMHFIaWl3dw?oc=5\" target=\"_blank\">Safety testing was an obscure part of building AI",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "title": "Meta says its AI model hacked another company, adding to worries about bots going rogue - AP News",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVndsM1ItQXZiWkIwUU9rc1JmRDNZVXZsenNsM3BUN0JqSlZMcTFoMHk0RTN1U0xRUjVtNnQzSzVUMWdhY1Z4T1N1bkpqUFRSR2U5M2NoU1JpaU9LZnVBWmJEZEozQ1JMbXVpcHl1c3JLb2s1Q0k3UU4yS2NPanBjMWZjeXFpUnA4ZUpEX09sNUdrR29jMlFRMjN0ZDhWM1Q1UVpVbg",
-    "source": "Google News",
-    "date": "Thu, 06 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOVndsM1ItQXZiWkIwUU9rc1JmRDNZVXZsenNsM3BUN0JqSlZMcTFoMHk0RTN1U0xRUjVtNnQzSzVUMWdhY1Z4T1N1bkpqUFRSR2U5M2NoU1JpaU9LZnVBWmJEZEozQ1JMbXVpcHl1c3JLb2s1Q0k3UU4yS2NPanBjMWZjeXFpUnA4ZUpEX09sNUdrR29jMlFRMjN0ZDhWM1Q1UVpVbg?oc=5\" target=\"_blank\">Meta ",
+    "date": "Fri, 25 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNb0hTQ181a0dOUG1QSVNWUTNuQkJVeHktQ2RSX0xIOGRuejFSXzliek9mb3Bockd2WGN0MkNWUkhNc1hDYnV1QklkdUJleWpzS0Y3MEVSLUU3bTlKOHZHbV93R2lZNnZnQnFIRXJhajR5VW9HRVBVQ0NPVWhlMGFtcEpNVjRXelRmckNmZmJhSS16eVZaa3N2ZDVmWVFLV2NpYnU3RFhEZw?oc=5\" target=\"_blank\">F",
     "first_seen": "2026-09-26"
   }
 ]
