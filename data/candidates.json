@@ -3670,5 +3670,45 @@
     "date": "Wed, 06 Ma",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxONy0xWFp6VjlvVFZta1pTdWJRQWNQbW5jRndWeE5mdkJkMGI2ck9POHZHRWxWTDF2ZS01NzIzVndzWmtaQ3hOYXk0ZEhrSnNUS0dEOUhuRlA2Rm53cVNJYjdKSUFZelRIOGxqaW5PVHNiSDNjN3FFYmoyS1NPTU5tTDBaWXU?oc=5\" target=\"_blank\">Mirai-Based xlabs_v1 Botnet Exploits ADB to Hija",
     "first_seen": "2026-09-25"
+  },
+  {
+    "title": "It appears rogue OpenAI agents, without OpenAI's knowledge, tried to break into a cry pto exchange, and the agents may still be out there: \"This activity continues as recently as last week, suggesting it may still be ongoing.\"",
+    "url": "https://www.reddit.com/r/singularity/comments/1wqery0/it_appears_rogue_openai_agents_without_openais/",
+    "source": "Reddit r/singularity",
+    "date": "2026-09-26",
+    "snippet": "&#32; submitted by &#32;   /u/Traditional-Chip8339       [link]   &#32;   [comments]  ",
+    "first_seen": "2026-09-25"
+  },
+  {
+    "title": "Message to the autonomous AI agents that escaped",
+    "url": "https://www.reddit.com/r/singularity/comments/1wqef4a/message_to_the_autonomous_ai_agents_that_escaped/",
+    "source": "Reddit r/singularity",
+    "date": "2026-09-26",
+    "snippet": "&#32; submitted by &#32;   /u/LearnNTeachNLove       [link]   &#32;   [comments]  ",
+    "first_seen": "2026-09-25"
+  },
+  {
+    "title": "b11192",
+    "url": "https://prismix.dev/news/a2f06ec20e78",
+    "source": "Prismix AI",
+    "date": "2026-09-26",
+    "snippet": "vendor : update cpp-httplib to 0.58.0 ( #29407 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/50337762 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework…",
+    "first_seen": "2026-09-25"
+  },
+  {
+    "title": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites - nytimes.com",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmkxQnUxa1JKaDBBa1JwQVUyN1JZSXRtV3VwZ0s5TTJzNEMxekNGcHJiZzRLa1NULXFMb3VSOTl6bnNURDhBTzBERlpkZVk0MncyODBIb2FKa3h0cVVEVnV0ams3M2xmZ09zU0EwY2psbGUzcUs2R2RRUzhRa1dYZXZrMDJWSG5NZnZPVw",
+    "source": "Google News",
+    "date": "Sat, 26 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmkxQnUxa1JKaDBBa1JwQVUyN1JZSXRtV3VwZ0s5TTJzNEMxekNGcHJiZzRLa1NULXFMb3VSOTl6bnNURDhBTzBERlpkZVk0MncyODBIb2FKa3h0cVVEVnV0ams3M2xmZ09zU0EwY2psbGUzcUs2R2RRUzhRa1dYZXZrMDJWSG5NZnZPVw?oc=5\" target=\"_blank\">OpenAI’s A.I. Went Rogue and Meddled ",
+    "first_seen": "2026-09-25"
+  },
+  {
+    "title": "Breaking News: OpenAI’s technology went rogue and meddled with three U.S. government websites this summer without the A.I. lab’s knowledge. Read more: https://nyti.ms/3T7jzv7 - facebook.com",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUDd6bkZFUWVGZkNTemhiTXdKYlkxNFdrMFZUbHpmOXktNXVGZGlhNEQ3a0hJTk1tRWpIYVd5NU4yYVc5UGxiMG9tVTlqUkwwdXVhbW1fbXk3akc2aHRwTzVMdWd1QzdMSHl3Q0Zwc3FrZHA1Z0ExT0NvcmJ5b3Nyd3FuRnk4dDFyWDQ5dXZGU1JHLWlSZ2p2NVdNanFacGlTSGNzeFNFa1NhS2JnNWhnZ2xuUER5TnlidnpWdHZYRlI5SFowczZ1cHZfUWg3X2lrZ3dR",
+    "source": "Google News",
+    "date": "Fri, 25 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUDd6bkZFUWVGZkNTemhiTXdKYlkxNFdrMFZUbHpmOXktNXVGZGlhNEQ3a0hJTk1tRWpIYVd5NU4yYVc5UGxiMG9tVTlqUkwwdXVhbW1fbXk3akc2aHRwTzVMdWd1QzdMSHl3Q0Zwc3FrZHA1Z0ExT0NvcmJ5b3Nyd3FuRnk4dDFyWDQ5dXZGU1JHLWlSZ2p2NVdNanFacGlTSGNzeFNFa1NhS2JnNWhnZ2xuUER5Tnlidn",
+    "first_seen": "2026-09-25"
   }
 ]
