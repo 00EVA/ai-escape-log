@@ -3598,5 +3598,13 @@
     "date": "2026-09-26",
     "snippet": "",
     "first_seen": "2026-09-26"
+  },
+  {
+    "title": "b11205",
+    "url": "https://prismix.dev/news/8c9bca627b33",
+    "source": "Prismix AI",
+    "date": "2026-09-26",
+    "snippet": "cuda: support Nemotron 3 Puzzle state size 96 for ssm scan ( #28717 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/50461180 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel…",
+    "first_seen": "2026-09-26"
   }
 ]
