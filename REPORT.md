@@ -1,6 +1,6 @@
-# AI Incident Briefing — 2026-09-26
+# AI Incident Briefing — 2026-09-27
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 452_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 425_
 
 ## 1. Latest verified incidents
 
@@ -11,38 +11,26 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=452)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=425)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [Google News] OpenAI report says its network was hacked by its own rogue AI agents - NBC News  (Wed, 26 Au)
-  https://news.google.com/rss/articles/CBMipgFBVV95cUxPSENjVlF6RWpVLTc1dDlRbEhsZExUVWVpOU5pVFBuZFVhSDVINGExNTBwUFJwSnFhenZRU3VfdkxLUUR4LXRXUFQ0ZDAxdS1GMGlBNERIWkx2VU1fQWY2Zml0RG9SemRieHpRbTN1Z1JFS1ppRWl5TUVSLXYzTEUyOG9vMVFtdjUyVE1hV2x2UVhrTTVucGgtWWRtWVloellEeEdnN2hn
-- [Google News] OpenAI Says Its Own AI Agents Went Rogue And Hacked Its Systems - 96.5 JACK-FM  (Wed, 26 Au)
-  https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2hkZ1kwUXFYQWVKYVpiUlRPcld1MWhsSDZDS0tjWW4tMkRuQkxYVE0yUFdCWHBNcGxNdlFoWnZtajhxRU04am90ek9NejlDYVFFeVhHV3Q1TGFIVk5LS0xLM1RKbnIyTzB6dkxZVThaVEdmSDR3LU1WWElIR1hBdmJKX2wwMGI5RWlKVEQ3WXU5b3J2b1VEOVJESUpsVFFPQ2JYUk8wZ29fUEg3OFViVmpUVDM
-- [Google News] AI Agents Involved In Two Amazon Outages - Silicon UK  (Tue, 24 Fe)
-  https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVJfZDNrWmxxa3NWdG9vNmgtY182N29rcUdkM2hUYnpmckpjcnFDZXlGVW1tWXJFU1IzYWFteWpqOXlWcEswd2FHd19KUDBfN3VpWWktYmNxVVN2b2p4N180cW1xSTdUMk03bG11bklETTloVzk4Vy1YS3lZMy1rUE9Hb28yd3A4Q2FNRVdn0gGTAUFVX3lxTFBQZE5qaUt1OV9TblFYcnJTTmlibGFkQkRyLU8ySVN4VUZtUFBCeUxNX1ZpalJ4SmtWbWFpandURjA5ZXcyMzgzSXJkeUxHN2FUa2tXYUVrYktYNDBBSHhPaEs0eXpoVzJ0SkJPcElIWkVsMnJ3bkdmaThManBlWFpBNFBvVVhDU0xvX1BGS2xMZEo5TQ
-- [Google News] Tech Bytes: OpenAI explains why its models went rogue - WDIO.com  (Thu, 27 Au)
-  https://news.google.com/rss/articles/CBMingFBVV95cUxNcVNWTXhkNGZfcG5IcGNhcGdCbEN0Z0pYbUI2RmxiRDJTMmFmZzFwbFFKMzU3QkQ5ZElGMnhHQ1MwaGtuMzNUS2Yxek9qcWlsNk1yZ3d1S0psU2U0bXk0ZkRoM3N3ZW1oX3lFS0lYMmJLNXBuekxFV25YSVZQUTJ3NTBrelhmaXJ3b2VyQmc4YUZCVU45Z0xRajFIck5fQQ
-- [Google News] OpenAI, independent firms publish reports on rogue AI agent attack on Hugging Face - Fortune  (Wed, 26 Au)
-  https://news.google.com/rss/articles/CBMi7AFBVV95cUxQd3l3NkZUZmhPT1FGRzZ4YTc2dzN1bU5icXVFWkJQYVZiNFBnd1JuQnF2T0FRZWdnNzAwdS1Ya29LRUVNZnpkeHRpOW9fVE9UczVINURINzU3X0NrMjBDWTB1VVJmT0l4ZFZpVXlmWS12TW1rT3dXaDVjZi1na1ljTWZDVURUaUVFSWw2cXNKeFRVLWpzWndvd2tIcXhJT2NDYTNjNkJkUks2T0tVVFlwazFYSHNDT3NSNC1Rd0RuNnN2VnRRMkRXSWY2Z0VqSnloVGhVdHBvblNwVHV4MnFRZDcyN0l0UWYyNHQ0Rw
-- [Google News] Here’s all the times AI has gone rogue and hacked other companies - TechCrunch  (Thu, 27 Au)
-  https://news.google.com/rss/articles/CBMioAFBVV95cUxNUTlIbFRyMlVkblJOT0xPV042aFB6RnJQQ1d3ODZHN3VVQ2ZzX0hZY0czY0tJY2pIUmR5dEVwN2s3bjZJM1BXTmpXSVpLVHc1UWk5R1RmVkQ0bTB1M2hodTY4OE5YZVJRZUY3Wk5qR2w0dG4ybjBTcXRRZHQxR3dwdnN4YkFWY3BfSTBPU3BKbEluU01tc25ER3RMVFlNV0pH
-- [Google News] Beyond the Hype: AI, Ransomware and Business Models - Royal United Services Institute (RUSI)  (Thu, 27 Au)
-  https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZmg2b0RJclJ2Rm1DRFZ3SVdENFkweWVnYTlXYXNFNTYwMnlSLWNVZHRDQ0NlQjRqWWVUVXBJbV8zdmUtT2ZVT0F1VHZrdVVVenY3U3dWNVFQMFFNVi01OWNnR2ZkYWVtTkhNRHFOM3o1RmVNcE55RGlSS3kwUEdrYUYtQUdNWEM2WEdV
-- [Prismix AI] Here’s all the times AI has gone rogue and hacked other companies  (2026-08-27)
-  https://prismix.dev/news/4a929b2ed40a
-- [Google News] Security Breach: AI is Fueling, Killing Ransomware - Manufacturing Business Technology  (Thu, 27 Au)
-  https://news.google.com/rss/articles/CBMiggFBVV95cUxNaVZMZDhwVU5DWFMyZ0ZjcG02b280VVRrSGk4NG9TdFBMVmREZ0NjaGJZM0UyLVMtMkFQUGtORWs1LXdnajgzTUZWcXVSeGhRbVRqUWJ2Z09WZi1UaEt5d1NFTFhZN1BGbTU1SF9NbFc4UEJYYlB2cHVnX3JKbTh2c213
-- [Google News] Coinbase Customers Left Hot Under the Collar After AWS Cloud Data Center Overheats, Disrupting Service - CX Today  (Fri, 08 Ma)
-  https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVkFxclhzNEk5bUY3djBIRVcxZjRPN1h3X3pkMUJOOUJiZ3E3SC15UkR4V092bkExQWg2MnVQejc0QWZPYWgwLUtQdGtzNW9OSXhaYWVPZlY0aENFRm83Tzk0SzgwVGZ3bS1SM2p0OURhcl96cFNDaWZtU0pEWmUwbkdTRkJJd2d4N1AyMlR4c2M1WnBOWEN3SFc5bnczNjVNdnl3QW1uODRFcWNKRkl1RUJFa2hYaHZ4VTlPTU9WaFJoaUQ3YktlQWROdmhFb2hVYXZiRG5oSFhOdDU2OXhVbHlqNHpRRlRwb2dKMFRKaw
-- [Google News] Amazon reviews AI processes after website outages disrupt shoppers - Retail Gazette  (Fri, 13 Ma)
-  https://news.google.com/rss/articles/CBMifEFVX3lxTE04RmdUVXFjVk1ISVBGY2VuUE5fQnJnSTdoMDIydGRsaWNvQTdTdnZ6S3h2a1llRURtaURleGVpOXNPZ3MxTm5OS1NnczdjT0pGSU81cGxEZXE2WldzNkQwRDMwMUIxMnBpZE8yR2xGMzJLN0lPSnplck9SeW4
-- [Google News] Focus: As AI agents go rogue, cyber insurers are adapting their policies - Reuters  (Thu, 27 Au)
-  https://news.google.com/rss/articles/CBMitAFBVV95cUxNdVRUeXAzYi1DWkw1Uno1dXNGdUo2NXlWVmt1Wk1Ob1lQNVNucTJVZ21TNEZQNU9qcmZweGJlV2xnTUFJWTFvbENkWlpyV3V4ekZRRzdfc1p4bnppXzRhd3hfdkQ4blp3eG1sNl9aajROWjA1SmxHVXJkZEFvMFkzNzk5ZXVWWWJ3Zi13bjdBV2t6ZVp6LXRfY0ZtX19ZdE1RUW9JNHFfWmVydkZ3c09WRl9MM0U
-- [Google News] Security Breach: AI is Fueling, Killing Ransomware - Manufacturing Business Technology  (Thu, 27 Au)
-  https://news.google.com/rss/articles/CBMilwFBVV95cUxNTVd2dmVxVGFIckZocnl3MWJTOEtaR0Z6eHRSLXNiOXNCSDFnUElPWXZOVTVKc0M5Z2k1eTF2UmtPMVZJbHY4VGctbUVuQ2w3SHE3allLOTNGcTQzUVhJbVFYZloybEJXaDBHT2NHbV93M0EtQ1FsbUkwdkc1OXBvRFZHNE5LRlFKVVRVMEptVndJY0lEYm4w
-- [Google News] OpenAI’s Models Went Rogue. Investigating Them Required More AI - Time Magazine  (Thu, 27 Au)
-  https://news.google.com/rss/articles/CBMigAFBVV95cUxQUlgxMWpockg1SkJwbUVKVENYVHRaM2pXZHg4al9STXJTZ2ttWk5DMFlCOEE1cGE5V25YZEc0LUlWajRGM2VFNlRlQ051dy10Q0xJZVJGdUxzUFhuTjlYZnpCcjVSbm9oenF5LW5DV1hncVNLVmNrZHROS3VTbzV3ag
+- [Google News] Exclusive-How a Texas student blew the whistle on a rogue AI hacking attempt - Yahoo  (Thu, 20 Au)
+  https://news.google.com/rss/articles/CBMimwFBVV95cUxNb2RzZWNlcWdESFZVc192UkFQamxWbnpNQnVINGxqQXdVRHFHVHk0S2JOaFlpZ1RiTmY2anRNeFRBZG11bkltS0xHbkRza2lVcVczaHFzVTNWb2t3aUxBSVFWWGkydjJTSmJyclZHMDZtNnhzZjNIRm9jUlVoSEY3ODVmV21rY2RJbTZOTHNkeFp4Q3ZPOFd4S25lRQ
+- [Google News] US lawmakers push for AI 'kill switch' after OpenAI models go rogue - BBC  (Thu, 23 Ju)
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xNlNMOW9lUFgwSkZaMzRPWE40S0kzd1pBWWV2YzBqcVY4ejN2dGd2N0tEcG1MSWdHZDJDdHFnT3pfU1hhcnFmNkE2ZGVqYU9sRmV1VVBmbUwzWTQ2
+- [Google News] Russian-Speaking Ransomware Crew Used Cursor AI to Break Into Seven Companies - Technology Org  (Fri, 28 Au)
+  https://news.google.com/rss/articles/CBMiigFBVV95cUxOOE9heWRsckhKUjBrWmYyeEItUmZxRVZfLTJHQlBFV1hGWDA2a0ZxbzFYb2d2Qm5pcGZ1RDd5V0pvdVZiOXFlbHcya19Ka045Si1MSG5FdjdROXREV1k2OTBjNUM1SDNaMjZvdGpwQXB0b1lXbjZwMW1NMWt3b3JFU1Jvb0hfdW5aOXc
+- [Google News] Deepfake Fraud Alert: Recognize the Threat and Safeguard Yourself - The Indian Express  (Fri, 28 Au)
+  https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcXhBSUpPdmY4QzRXNWdmVm10bU40X0t4R0V3WU1mdFRVZGphdURwZU94bTMzaWh6V0s5aTQtZHc1dXk3ZVJnTGgwQkNzalNvMFkwVUwyOXIwaWVlbGJGUzQ3em1RUW05ZlBDWHJYTU5ZcXFyeld3STZlVm5sbkVOa1NEbFdOLVVDRmphNjVrMW1sWktxWldDb0tQVHJkUTBXeEdFb21RRmxwSWlNbS03T3gyT1VpUF9vZlhZclJFVC03UnfSAcoBQVVfeXFMT1hCZW5YNF85Q2w3b3NqdHJPUWNYanFOZGVfLXJYQkhJWFBsaHF2YTNBV3pjOFVYT2o1RHJXV0xyakM2VUNrYzlMdkduWmtadEJPY2t6b0dKaHJ2ZnBGVEtDQVNKaEt5WkVpLUh0OEhvNmlfUkhVMC0xbVdpVkVnVVljR3ZibWN6cDdYUXo0d3g1VHZZLVZ5R19HVENGRHhQczMxR3VEaDlfTUhod3pPZnVjQlpRM3JGRHhFNHNVTUhzajRJSGJIckJhQQ
+- [Google News] Law enforcement shuts down botnet made of tens of thousands of hacked routers - TechCrunch  (Thu, 12 Ma)
+  https://news.google.com/rss/articles/CBMisgFBVV95cUxQSWhMc2hpSkhqeGxqWGpIWmpHWkdtSkxVYjhiSzlLRFVETmNxeGc2ZTNRNWJrNEp3bTA3SEdzWXBmWV8yRjZUbk5nTUl1RnlZOXFZdlo5RFBvTjZEMTlqbU9VaFl4ay1yU0FkdlJDcHY3N3VEb2I5VDh0YUhUZk85Y1RQV1pJUER0d3lkQkNpeE1UVlRsRFpzU3RDMDNHWVN3bzIzWWZjY09LX2lSU3VjWUlR
+- [Google News] Claude Outage Tops 8,000 Reports: Agentic Pipeline Failures Mount Before Anthropic IPO - Tech Times  (Tue, 23 Ju)
+  https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVmRfZFVzc0RVWEVoNFNkRDViT0dCRmRiMFNlZGRuemFfejhESVpvS1NBc3dWWTJHT2ZiWFU4TEgyVmpQaGlPcnlObUR6MExZcGtrdzFEMzJzS3J2RE5FSnVCY2ZRdnJzc1N3Y2hkYzU3T3J4SzliaWlHRGpyMXFOMHd4dldkUVR4dldyT3VERDd0LUNpRTZ6R2poYTg2ODBZMDV1aE5CZ1FQTnE0MnBDTkFKaEFCOVB6UW9LTnJSZDdiZWZNTW11NWo2Sy1rX2RHeGtpQm53
+- [Google News] How Microsoft’s GitHub just told everyone that AI agents are 'behind' recent outages: We hear the pain yo - The Times of India  (Fri, 01 Ma)
+  https://news.google.com/rss/articles/CBMimAJBVV95cUxNeXF1SWFRcHBqckE3YVl4WEloMy1LZmxEYzlRajk4Q1NXQzBjbERPdlo3M2U2SmhYdjdpeHgyaE9zVWk5R2NCeW9kdTBZSFJxXzdKWXhlRFBxZTNyWmVsZlh3RmV6YnNldlVobjZ4X1RFUE51a2ZacVAzTVBwU2tRelh2Ukg4WnJvVGFKUG1Oc0pDckhqb2JPOGZfQWJ4VVRrLWRIQU1GcUREbE5WS0tvb2ttU0tZN2s0RlFjYk0xSkhkN0VVR0V1VC1ZU3Vqay1oYUVkTVZDd2VSS0Fzamh1cV92aVlxNUpvSWQ1Q0FFMFN5VFdCck1paUJXbDZnOWduZVFzM1Qxc19laWhpX0h4ZXdyLXdoVnlp0gGeAkFVX3lxTFBGOEEwZUYyV2NtVFlZRWxqOFJHX1ZqWEJ6MXh6OTZGLWF2TWJsZGxvdXJEYmJpNUttalkwTkduc1VPS0FTWk5YRjY3N2NRQS1UX0VXb00xenJ0UnJlRlJrOVZuRTYxdHcwbzJoSHphUUR0c2lxWnpKRzU5dkpOM2lWMkdFS212c084VlhMdl9RMmNORUVuVTNqOWF6NDhwRHgzanlncUJCSFNybGprWmNndzlURGxrS01wc2psUFlYU202ZG1RbU50V0NlX1hSVlJlQ2laZHVXOUxaeTc1LS1ROWJCUmlMa2ZYQzlXdnh3WS1KUUNCelVvTTlRcE1IR2FlcVdVVnBuSHZTRkNpLUc3X2Q2VTFuM0lRSVVDbkE
+- [Google News] AI Escaped a Sandbox. That is Not What Should Worry You - Check Point Blog  (Thu, 30 Ju)
+  https://news.google.com/rss/articles/CBMilwFBVV95cUxQVS11S1l5WEhVOFNIeTEzb0tfQmp3c1RUNmlNaHNxZzZmQ2lOc0RjVVVSYTM3OGctWFlVXzVlMmdHYW9pMTRWVVd3QUJySVdQRi1PVG1vZUVSZnlYNEVsamdFbmdSUTkxM2s1Wjh3VXdxYW5mYWx6QmVNQ0R1RGJjeFhIek03RjUwb2tTRjBiZV94Nnc0Zll3
 
 ## 4. Early-warning watchlist (be first to know)
 
