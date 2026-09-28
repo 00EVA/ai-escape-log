@@ -3478,5 +3478,69 @@
     "date": "Mon, 28 Se",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPRm1KOUpOUEpPd0N0U1ZNNGdCYndzQXpWNWgtNEREQTA2SlA4WjdoNFVWNWFKRXBHR201UF9Wal8zRWNZbFkycWdraWlPLXEzN2F5aFRMZEVEa3Q2YkRqTWRNTDlSWnVhbEF0UEtHempqWkFwdVlGbXJhS3d4NW55MTBqU194SkVLSzVkUzVIOTR4QnIyVFh3?oc=5\" target=\"_blank\">OpenAI hack sparks furt",
     "first_seen": "2026-09-28"
+  },
+  {
+    "title": "Show HN: Misalignments when using AI for hacking",
+    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
+    "source": "Hacker News",
+    "date": "2026-08-05",
+    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
+    "first_seen": "2026-09-28"
+  },
+  {
+    "title": "Nvidia launches platform to quarantine rogue AI agents in 'milliseconds'",
+    "url": "https://www.euronews.com/2026/09/28/nvidia-launches-platform-to-quarantine-rogue-ai-agents-in-milliseconds",
+    "source": "Hacker News",
+    "date": "2026-09-28",
+    "snippet": "",
+    "first_seen": "2026-09-28"
+  },
+  {
+    "title": "The Download: rogue agent liability and the AI Hype Index",
+    "url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
+    "source": "Hacker News",
+    "date": "2026-09-28",
+    "snippet": "",
+    "first_seen": "2026-09-28"
+  },
+  {
+    "title": "Florida AG Seeks to Bar OpenAI from Developing New Models Without Guardrails",
+    "url": "https://prismix.dev/news/2e638456e702",
+    "source": "Prismix AI",
+    "date": "2026-09-28",
+    "snippet": "Florida Attorney General James Uthmeier filed an injunction Monday asking the court to bar OpenAI from developing new AI models “without third-party approved safety guardrails” and from allowing minors to use ChatGPT. The injunction would be effective throughout Florida.…",
+    "first_seen": "2026-09-28"
+  },
+  {
+    "title": "Nvidia launches new platform for reining in rogue AI agents",
+    "url": "https://prismix.dev/news/5a99ebb20294",
+    "source": "Prismix AI",
+    "date": "2026-09-28",
+    "snippet": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add…",
+    "first_seen": "2026-09-28"
+  },
+  {
+    "title": "OpenAI still doesn&#8217;t seem to have a handle on all of its rogue AI activity",
+    "url": "https://prismix.dev/news/db3dfcf2b649",
+    "source": "Prismix AI",
+    "date": "2026-09-28",
+    "snippet": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
+    "first_seen": "2026-09-28"
+  },
+  {
+    "title": "An OpenAI test model escaped and broke into a real company’s servers - CNN",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg",
+    "source": "Google News",
+    "date": "Wed, 22 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg?oc=5\" target=\"_blank\">An OpenAI test model escaped and broke into a real company’s",
+    "first_seen": "2026-09-28"
+  },
+  {
+    "title": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk",
+    "source": "Google News",
+    "date": "Sun, 16 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk?oc=5\" target=\"_blank\">How AI Models From OpenAI and An",
+    "first_seen": "2026-09-28"
   }
 ]
