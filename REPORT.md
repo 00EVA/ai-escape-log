@@ -1,6 +1,6 @@
 # AI Incident Briefing — 2026-09-29
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 445_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 442_
 
 ## 1. Latest verified incidents
 
@@ -11,7 +11,7 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=445)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=442)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
@@ -25,6 +25,10 @@ If one of these hits you: AI crime triage: is the AI the actor (rogue agent/auto
   https://news.google.com/rss/articles/CBMilwFBVV95cUxQVS11S1l5WEhVOFNIeTEzb0tfQmp3c1RUNmlNaHNxZzZmQ2lOc0RjVVVSYTM3OGctWFlVXzVlMmdHYW9pMTRWVVd3QUJySVdQRi1PVG1vZUVSZnlYNEVsamdFbmdSUTkxM2s1Wjh3VXdxYW5mYWx6QmVNQ0R1RGJjeFhIek03RjUwb2tTRjBiZV94Nnc0Zll3
 - [Google News] Aurora Ransomware Hackers Used AI to Attack Companies Across Nine Countries - The420.in  (Mon, 31 Au)
   https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQmdCNkY5RlB1NWhveFNmWFVPZVNTSWJNSkJVaU9VT2NQUXFTN1lfY0N3SEhEVTZkRVFhQ2R2MEU4cUVtWTQwTzYzSGJiRjlOSFdvYUg3OXd2WnRpUEVTbGlEY1JIWGs0aC13Z3Jac1RBYkRfc21iNHVhS1RiY1lDRy14UEo3aVdNRDRz
+- [Prismix AI] Hugging Face hack could indicate cultural issues at OpenAI  (2026-08-31)
+  https://prismix.dev/news/5e194712572c
+- [Prismix AI] News Media Is Underplaying Risks of Rogue AI Agent Swarms  (2026-09-01)
+  https://prismix.dev/news/64a1018a74dd
 
 ## 4. Early-warning watchlist (be first to know)
 
