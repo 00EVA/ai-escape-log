@@ -3446,5 +3446,69 @@
     "date": "Mon, 28 Se",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQMW9uQ3RpSUdhQXM1UkROdklueFNrNDUwcWxjSDNRWEVqYUhnUG5WLWdER0pKcDZOWVFiNnlSczI2Si1JOWRlV0FvVm9uSGxJemE3VkJ2UmEtRlRHQTBQWGFXYm9KdDJVLVEyODg3ZDlKekZzaEhUYzB6Z1V1ZzlKUGVFbUg3UmhvOWUtOHctQVZwbHRCYTJEbHA2UVRTX3c4M3Vrdl9hVlBlN2dT?oc=5\" target=\"_bl",
     "first_seen": "2026-09-28"
+  },
+  {
+    "title": "An AI agent escaped Google's kvmCTF sandbox",
+    "url": "https://pwn.ai/blog/kvmescape",
+    "source": "Hacker News",
+    "date": "2026-09-29",
+    "snippet": "",
+    "first_seen": "2026-09-30"
+  },
+  {
+    "title": "Perplexity's AI Sandbox Blocks All Escape Attempts in Red-Teaming Tests",
+    "url": "https://x.com/i/trending/2104641427611504825",
+    "source": "Hacker News",
+    "date": "2026-09-29",
+    "snippet": "",
+    "first_seen": "2026-09-30"
+  },
+  {
+    "title": "As AI models go rogue, do you still trust OpenAI and Anthropic to stop them?",
+    "url": "https://www.theguardian.com/commentisfree/2026/sep/29/ai-models-security-risk-agents-openai-independent-security",
+    "source": "Hacker News",
+    "date": "2026-09-29",
+    "snippet": "",
+    "first_seen": "2026-09-30"
+  },
+  {
+    "title": "Quoting Anthropic Frontier Red Team",
+    "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
+    "source": "Simon Willison",
+    "date": "2026-09-29",
+    "snippet": "\n    <blockquote cite=\"https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities\"><p>We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of the tr",
+    "first_seen": "2026-09-30"
+  },
+  {
+    "title": "Asus won’t say how it escaped the US router ban",
+    "url": "https://www.theverge.com/policy/1002504/asus-escape-us-router-ban-us-manufacturing",
+    "source": "The Verge",
+    "date": "2026-09-30",
+    "snippet": "This spring, the United States banned all future foreign-made consumer routers - effectively all future routers - unless their makers could 1) convince the US government that they weren't a national security threat, and 2) submit \"a detailed, time-bound plan to establish or expand manufacturing in t",
+    "first_seen": "2026-09-30"
+  },
+  {
+    "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+    "url": "https://prismix.dev/news/d6170f881b8a",
+    "source": "Prismix AI",
+    "date": "2026-09-30",
+    "snippet": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
+    "first_seen": "2026-09-30"
+  },
+  {
+    "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
+    "url": "https://prismix.dev/news/bdb08491ccae",
+    "source": "Prismix AI",
+    "date": "2026-09-30",
+    "snippet": "Three days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, investors, operators, and tech leaders.",
+    "first_seen": "2026-09-30"
+  },
+  {
+    "title": "CISA KEV: Apple Multiple Products Out-of-Bounds Write Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-86950",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-29",
+    "snippet": "CVE-2026-86950 | Apple Multiple Products | Apple iOS, macOS, and iPadOS contain an out-of-bounds write vulnerability in CoreGraphics that may lead to arbitrary code execution.",
+    "first_seen": "2026-09-30"
   }
 ]
