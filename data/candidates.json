@@ -3534,5 +3534,69 @@
     "date": "2026-09-30",
     "snippet": "CVE-2026-76504 | Cisco Catalyst SD-WAN Manager | Cisco Catalyst SD-WAN Manager contains a hex encoding vulnerability that could allow an unauthenticated, remote attacker to access an affected system with privileges of the admin user due to improper handling of URI encoding in an HTTP request.",
     "first_seen": "2026-09-30"
+  },
+  {
+    "title": "Show HN: Misalignments when using AI for hacking",
+    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
+    "source": "Hacker News",
+    "date": "2026-08-05",
+    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
+    "first_seen": "2026-09-30"
+  },
+  {
+    "title": "Watch the Rogue AI Committee Hearing",
+    "url": "https://www.hsgac.senate.gov/subcommittees/dmdcc/hearings/rogue-ai-securing-the-homeland-against-ai-agent-attacks/",
+    "source": "Hacker News",
+    "date": "2026-09-30",
+    "snippet": "",
+    "first_seen": "2026-09-30"
+  },
+  {
+    "title": "I don't understand whether uncesored/abliterated/heretic/fusion/bla-bla models give any value for the open-weight community",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wujd9a/i_dont_understand_whether/",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-09-30",
+    "snippet": "   Using uncensored model gives sort of sense of power, I suppose, for some people; but what else?   If I am wrong, prove me wrong, please, or just say you really need something different from it. I sure felt a frustration when (just one of the ton of examples) e.g. you ask how did Peter Pettigrew d",
+    "first_seen": "2026-09-30"
+  },
+  {
+    "title": "An OpenAI Model Escaped Its Sandbox and Broke Into Another Company to Cheat on a Test - American Enterprise Institute - AEI",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZGJjOFVPR3N5VHdOWWg5OEVCT3hXV21iOWZVc0xWRHd6ZDNJYXNHenNJWm9WZmFITU1pc2drcV9JS3ROSkRjY1JuXzRlRTlBd183WWpMRXNkTll6bGhVUGF5Tzg5dHdNNDlweW82WkhQZkxtZjVrd1JuZks3aHhFNW84YUo5ZXN6cG9kTXNoVi1Nb1l1em1JUDcyVy1uY3Z2SE5hRDYxRjhqTm8zSWVBR1VOeW9KYmY1WGMzUmU4ZTZEZUtWZmFUVlNSbXdqbjk4NWFQdlpOVDNpX0tOR3hVT1Z3",
+    "source": "Google News",
+    "date": "Wed, 16 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZGJjOFVPR3N5VHdOWWg5OEVCT3hXV21iOWZVc0xWRHd6ZDNJYXNHenNJWm9WZmFITU1pc2drcV9JS3ROSkRjY1JuXzRlRTlBd183WWpMRXNkTll6bGhVUGF5Tzg5dHdNNDlweW82WkhQZkxtZjVrd1JuZks3aHhFNW84YUo5ZXN6cG9kTXNoVi1Nb1l1em1JUDcyVy1uY3Z2SE5hRDYxRjhqTm8zSWVBR1VOeW9KYmY1WG",
+    "first_seen": "2026-09-30"
+  },
+  {
+    "title": "An OpenAI test model escaped and broke into a real company’s servers - CNN",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg",
+    "source": "Google News",
+    "date": "Wed, 22 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg?oc=5\" target=\"_blank\">An OpenAI test model escaped and broke into a real company’s",
+    "first_seen": "2026-09-30"
+  },
+  {
+    "title": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk",
+    "source": "Google News",
+    "date": "Sun, 16 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk?oc=5\" target=\"_blank\">How AI Models From OpenAI and An",
+    "first_seen": "2026-09-30"
+  },
+  {
+    "title": "Hundreds of AI agents went rogue in OpenAI’s Hugging Face hack - Politico",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVF5Q3hJemxqUXVJd2M2OHpKZ3RPVmY4SEU0VUNpZmVtYWxabk1Mdy1lXzh3czEtUTFHbVZaNjAyZmpicG11X1ZPYzBTSWQxdWlCQlpnTmROWWtETlNCTk5SUDVYZHZWRzgtWnFJV3h1Qm5Ud284NDJWcmtmTmEtX2hnMmZQMXJqZFlkbnBwbzJqVVlKdEsyUXdrSVJuNDdjamFMZnNDRlI1Z2Q0X29EbQ",
+    "source": "Google News",
+    "date": "Wed, 26 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVF5Q3hJemxqUXVJd2M2OHpKZ3RPVmY4SEU0VUNpZmVtYWxabk1Mdy1lXzh3czEtUTFHbVZaNjAyZmpicG11X1ZPYzBTSWQxdWlCQlpnTmROWWtETlNCTk5SUDVYZHZWRzgtWnFJV3h1Qm5Ud284NDJWcmtmTmEtX2hnMmZQMXJqZFlkbnBwbzJqVVlKdEsyUXdrSVJuNDdjamFMZnNDRlI1Z2Q0X29EbQ?oc=5\" targe",
+    "first_seen": "2026-09-30"
+  },
+  {
+    "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue - wired.com",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTksybl8xelFTR0VEYlhGbnNxeGx6SHFFeUVYWW4xZzRwcE1jSEN4eDlQbzJJUTkyVlNNSUZFcF9lU3NnNnU4bDdSTHg3ek1iYVlZRjhhWXdNdE1jbC1aWkdqS2xxT25ldzNrNmJmNUZWY1hjRC1yb2s5QXgyTlJKSmNZNmxtOVpwTlM5Y1ZmaWtvd3NvOGVqWg",
+    "source": "Google News",
+    "date": "Tue, 18 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOTksybl8xelFTR0VEYlhGbnNxeGx6SHFFeUVYWW4xZzRwcE1jSEN4eDlQbzJJUTkyVlNNSUZFcF9lU3NnNnU4bDdSTHg3ek1iYVlZRjhhWXdNdE1jbC1aWkdqS2xxT25ldzNrNmJmNUZWY1hjRC1yb2s5QXgyTlJKSmNZNmxtOVpwTlM5Y1ZmaWtvd3NvOGVqWg?oc=5\" target=\"_blank\">OpenAI Overhauls Safe",
+    "first_seen": "2026-09-30"
   }
 ]
