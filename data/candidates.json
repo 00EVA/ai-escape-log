@@ -3510,5 +3510,29 @@
     "date": "2026-09-29",
     "snippet": "CVE-2026-86950 | Apple Multiple Products | Apple iOS, macOS, and iPadOS contain an out-of-bounds write vulnerability in CoreGraphics that may lead to arbitrary code execution.",
     "first_seen": "2026-09-30"
+  },
+  {
+    "title": "OpenAI is accused in lawsuit over rogue AI agents",
+    "url": "https://www.fastcompany.com/91615759/openai-is-accused-of-taking-dangerous-cyber-risks-for-private-gain-in-lawsuit-over-rogue-ai-agents",
+    "source": "Hacker News",
+    "date": "2026-09-30",
+    "snippet": "",
+    "first_seen": "2026-09-30"
+  },
+  {
+    "title": "As AI models go rogue, do you still trust OpenAI and Anthropic to stop them? I don’t and neither should you - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS1RBNVlQOU9oc0N0MUNoNkU1WFF4dkxKbm5EbHFMdUhYMkZ4U2NoSlB6RXRPYXpvXzlHSlRWUEVyWFRYZWlReVdTekVKcHJjLTdjRVpNRWNYV1lXVGRnaWxhYUkyQlB1VUhMTHc0Yy1YajRrdXlQRVprQmZTYXBTM1pyTVFkeWZkWnJNMFlCLW1EdU0yU3U4X1M1SjQ3RnM3Z3RaZm9EMU1PYmlJdUtKQXVR",
+    "source": "Google News",
+    "date": "Tue, 29 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQS1RBNVlQOU9oc0N0MUNoNkU1WFF4dkxKbm5EbHFMdUhYMkZ4U2NoSlB6RXRPYXpvXzlHSlRWUEVyWFRYZWlReVdTekVKcHJjLTdjRVpNRWNYV1lXVGRnaWxhYUkyQlB1VUhMTHc0Yy1YajRrdXlQRVprQmZTYXBTM1pyTVFkeWZkWnJNMFlCLW1EdU0yU3U4X1M1SjQ3RnM3Z3RaZm9EMU1PYmlJdUtKQXVR?oc=5\" tar",
+    "first_seen": "2026-09-30"
+  },
+  {
+    "title": "CISA KEV: Cisco Catalyst SD-WAN Manager Hex Encoding Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-76504",
+    "source": "CISA KEV catalog",
+    "date": "2026-09-30",
+    "snippet": "CVE-2026-76504 | Cisco Catalyst SD-WAN Manager | Cisco Catalyst SD-WAN Manager contains a hex encoding vulnerability that could allow an unauthenticated, remote attacker to access an affected system with privileges of the admin user due to improper handling of URI encoding in an HTTP request.",
+    "first_seen": "2026-09-30"
   }
 ]
