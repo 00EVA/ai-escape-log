@@ -3526,5 +3526,45 @@
     "date": "Thu, 01 Oc",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNS1B0ZjBRMzdGQTVvaGdiVVd0S0JJZHMxMldEdDBfS2Q2UlhucGR2eHlWM0JxaVo2Umw4cHpWRDA4cTljNU9mS05EX2ZySGM1OGFRWHRCZmhtcGJMZXM2OU5VQWZMeGdvSG9pLUlZb1hJS0gwQTEzZzJ5eGhyLVFWYU8zSGRZN0QzQ2VhVjl2WnZoTWxtX2FfeGNiYThiQmYyWXg0c2RJWW5GUDFKSUJzTnptQWU5RkRoMm",
     "first_seen": "2026-10-01"
+  },
+  {
+    "title": "Nvidia launches Open Agent Safety Platform to restrain rogue AI agents",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-launches-open-agent-safety-platform-to-restrain-rogue-ai-agents-new-hardware-and-software-security-stack-can-quarantine-agents-in-milliseconds",
+    "source": "Hacker News",
+    "date": "2026-10-01",
+    "snippet": "",
+    "first_seen": "2026-10-01"
+  },
+  {
+    "title": "b11327",
+    "url": "https://prismix.dev/news/43c308c4d283",
+    "source": "Prismix AI",
+    "date": "2026-10-01",
+    "snippet": "mtmd: cap max_image to ubatch for non_causal models ( #29773 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/51957111 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS…",
+    "first_seen": "2026-10-01"
+  },
+  {
+    "title": "b11326",
+    "url": "https://prismix.dev/news/d39b39f75edb",
+    "source": "Prismix AI",
+    "date": "2026-10-01",
+    "snippet": "meta: clear inactive AllReduce shards with FILL, not SCALE ( #29793 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/51949614 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel…",
+    "first_seen": "2026-10-01"
+  },
+  {
+    "title": "b11325",
+    "url": "https://prismix.dev/news/a5008ffcfdaf",
+    "source": "Prismix AI",
+    "date": "2026-10-01",
+    "snippet": "jinja : skip copying loop scope unless a loop filter needs it ( #29776 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/51940374 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel…",
+    "first_seen": "2026-10-01"
+  },
+  {
+    "title": "CISA KEV: Fortinet FortiMail Path Traversal Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-104286",
+    "source": "CISA KEV catalog",
+    "date": "2026-10-01",
+    "snippet": "CVE-2026-104286 | Fortinet FortiMail | Fortinet FortiMail contains a path traversal and an improper neutralization of NULL byte or NULL character vulnerability that may allow an unauthenticated attacker to write arbitrary files on the underlying system via crafted HTTP or HTTPS requests.",
+    "first_seen": "2026-10-01"
   }
 ]
