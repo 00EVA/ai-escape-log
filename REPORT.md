@@ -1,6 +1,6 @@
-# AI Incident Briefing — 2026-09-30
+# AI Incident Briefing — 2026-10-01
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 450_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 437_
 
 ## 1. Latest verified incidents
 
@@ -11,18 +11,10 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=450)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=437)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [Google News] Aurora Ransomware Hackers Used AI to Attack Companies Across Nine Countries - The420.in  (Mon, 31 Au)
-  https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQmdCNkY5RlB1NWhveFNmWFVPZVNTSWJNSkJVaU9VT2NQUXFTN1lfY0N3SEhEVTZkRVFhQ2R2MEU4cUVtWTQwTzYzSGJiRjlOSFdvYUg3OXd2WnRpUEVTbGlEY1JIWGs0aC13Z3Jac1RBYkRfc21iNHVhS1RiY1lDRy14UEo3aVdNRDRz
-- [Prismix AI] Hugging Face hack could indicate cultural issues at OpenAI  (2026-08-31)
-  https://prismix.dev/news/5e194712572c
-- [Prismix AI] News Media Is Underplaying Risks of Rogue AI Agent Swarms  (2026-09-01)
-  https://prismix.dev/news/64a1018a74dd
-- [Google News] Artificial intelligence agents going rogue fuel calls for regulation - PBS  (Mon, 31 Au)
-  https://news.google.com/rss/articles/CBMipAFBVV95cUxQSE9hTXBoWmFpN2lXTnlNSWRMYmpJYnV0cWhZcWxVWEVWQmdENkFFVE1QdXh2LXNHRnJwWVlwQk1wQVhNUWFlb29oN0NpaTVNaWhXcUpGVDdVbzFtMFliZ3h1TkRmUDE3R1J1bVhMMmJiM0UtSTNzZmwzLU5nVUtOUkNHaW03aFdzT2ZMZGN4a3lvczRmdGtmaUowVUU5ODFhcUhlcg
 - [Google News] An OpenAI test model escaped and broke into a real company’s servers - CNN  (Wed, 22 Ju)
   https://news.google.com/rss/articles/CBMiggFBVV95cUxNRm5fQ0ZTczFOZlp1elllbE0wSFRFeVRmYUNNTnQwdk5yQXpNX0pUX0l5cFZzc0xUbFpqRDVxNHNqT1h2dVVadVJudWxka25fQnA2V3NQTmltYkhRUG5VenZvYXdsR3FCSmtBR3J1b1ZHV1VZVGw1Mm50TUY4LUwxSGJn
 - [Prismix AI] Sequoia-incubated Empirik launches with $21M to predict outages before they happen  (2026-09-01)
@@ -33,6 +25,20 @@ If one of these hits you: AI crime triage: is the AI the actor (rogue agent/auto
   https://news.google.com/rss/articles/CBMihwFBVV95cUxOcDdYZEJUYUhueVlZVjA1SXZvWnI5eWZZR1E2akdGTkVoRTlGOGYxRVpPSVo0NXhYRGxuVzdHVXBXbHRyZjNUTGJFUTBkeHRYNFZnQ1VuRkJhWjZmVGZibUVVRnJtSXd3LW5uVXFCSU1wUjhtSHlld0VhWjM0R0pKZkg1eGxSMVnSAYwBQVVfeXFMUHdCZ1dNb3ZfcUlfT1FLTWt6UlZFeThiRWg1X2ZNOTlSVlFHME9QTGU5U1lWQ3Jsc0lIcEtWejVqNnJBSVp0NENUT2QwUkRtYkQ4Ym9OOUh5ajNWcjhhaWROYXZCUEs5QWhsRVdMN2ZzenQwSUYtWTdYTDdNRTlvWV93YThQQU8ybnRTRE8
 - [The Verge] OpenAI delayed its new model’s development after the Hugging Face hack  (2026-09-01)
   https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay
+- [Google News] Four safeguards to stop your AI agents from going rogue - SiliconANGLE  (Sun, 30 Au)
+  https://news.google.com/rss/articles/CBMilwFBVV95cUxQZXNtLUdSbF96dEZJbUl5YnFQM3ZIRUF3T1kzM3RCM1JHSGJjUUJ2amdVdUFCdXpnT1Q3eDB1X0xXR18wZDFISGc2aEZFWklmWXNNN1pKUTRZWmExNGxYYmRGSFdMNWtfdnVaWWV0LUZNaDBnUUVwblNwcjNWN1UzeVotVUVXQVJja0paaUtCSGpPdHhqSTVF
+- [Google News] AWS outages caused by AI coding bot blunder, report claims - Tom's Hardware  (Fri, 20 Fe)
+  https://news.google.com/rss/articles/CBMihwJBVV95cUxPNENuYnlrZXlPSGFLTEs1WFdhSzU2M25vRTVtSHNweEowWEZHc0Rnd1Y5ZFM5V21TdGtyTWNHaE83NVVhMEdlQVhHRnNHc2Z2Z1BlS0NiQ0g1VTNYZ3VZMExnSmlZLXk5enNFVjE2YTRiMmlrMDhyLTFaNXVYZ2tlVHZ4TEF1ZkQwUmR3Nkhya1VIRG5JZHhFcldIdlJqUG9zWUM4dzVNSVZMQ2ZhdHdLUlhZNEtidUg5Z0Z4SHg0MTR4NkJJeEFzMEcyTXhVNTVCY1dSdEpJOFhtNDVDSGhaWlo5dzh0c0o2TUdwMl9VaVU0Q1YwWWk3Snp5MnAtMmNHSGxWUkZLVQ
+- [Google News] AWS December Disruption Linked to AI Agent, Reports Claim - digit.fyi  (Fri, 20 Fe)
+  https://news.google.com/rss/articles/CBMihgFBVV95cUxOSHFfZW1fRm96ZkdZMTNOSG5VRlE0dHNLeTFCRlAwT0xERUJyQ0NPSEt1V0YyUjM3dlZoN21EUDNfU0RHZHB1N0s2M3BkMXRVcFVfbzZsaXNRaFBhY3VUeEVabEhJRXdqVXRKTUp3dHJfYzlhLVhlbmVRMGhVdHNNNmhRZHJCQQ
+- [Reddit r/singularity] Rare post from the genius Ilya Sutskever, this time on security against rogue AI models  (2026-09-02)
+  https://www.reddit.com/r/singularity/comments/1w5243k/rare_post_from_the_genius_ilya_sutskever_this/
+- [Google News] Did OpenAI’s rogue agents form a ‘civilization’? The AI industry can’t agree - NBC News  (Wed, 02 Se)
+  https://news.google.com/rss/articles/CBMiswFBVV95cUxON21GSDIwakY2Y1ptVnFPR2JWRC1jSFAtRkpXN0JSdzVzR2xVcXhKZWFQQ1Z6MjVyOTR4UksxbmlzRUE1U0ZLRGJTT0tMeHNneEZjTzgtZlFobmFhbGRUUlRzV2tuQVluRURjZV9YdlVCTGltTXIwNTNzTFlsQlFYLTJHUWRJejZoaGdLb2tidnJIUlYzaDlma185ZUIxSng3NTJWSkQ5SG9RaGUxM2RkNUFKSQ
+- [Google News] AI gone wrong, again: 50-year-old woman arrested for crimes in a state she had never been to - wionews.com  (Tue, 31 Ma)
+  https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcnluSFc2NG4wazBYVDdUQ29DSUcyWElFbU5EM1pKRlRiaHB1RUxYUHA2VXBWSHBSbzJ2Qk9GaDR6cnpMWFBOV28tcjhra2M2RGNrbTdXT25mRFlZUXdXSjRoMzhDbGlpUzR6dk9saEsyajUyZDFWLXV0NmNFc0ZFQjNKRlJxSFRxVlNRZ01tZndFc2lhdWxrdWJ4VjV5U1huMk0zZmlnQk1EeUFFeDlwWWF0dG9sRmdNc1VObUt2SVFlTDFzUnVGYktIUFA5ZFVWTmNZ
+- [Google News] Report: AI Ransomware Can Now Run Much of an Attack Without Human Help - Campus Technology  (Mon, 31 Au)
+  https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUXEwbUdTdmxhcURWOThFZVJTUHEyNndVWDRGRVhvSFY3QWNEeGFvSzZhcm5MY3VvMUMtaG9VYlgtQjAyOThHZGlscFZqRHFtMkdJYlUwWXJWSk1iZXE5RnNWUXdqc21qVzVDWTdIcGN1UTR1R28weVJIYWZTQ3RsY3VsMmZ1bmVTUTI3RThMdURMbkpGdmpoTXRSMGpDdmlteDU1MHFuN2E0YThpTWZRTVhmSUgwa3dqdlFRdE1OWEI
 
 ## 4. Early-warning watchlist (be first to know)
 

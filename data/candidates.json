@@ -8,86 +8,6 @@
     "first_seen": "2026-08-25"
   },
   {
-    "title": "b10720",
-    "url": "https://prismix.dev/news/8c11a051717d",
-    "source": "Prismix AI",
-    "date": "2026-08-31",
-    "snippet": "ROCm: add radix TOP_K for long rows ( #27466 ) ROCm: add radix TOP_K for long rows Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/44178618 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED…",
-    "first_seen": "2026-08-31"
-  },
-  {
-    "title": "b10719",
-    "url": "https://prismix.dev/news/75a16a125c36",
-    "source": "Prismix AI",
-    "date": "2026-08-31",
-    "snippet": "metal : add fa-vec tunings for M1 ( #28078 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/44172949 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework…",
-    "first_seen": "2026-08-31"
-  },
-  {
-    "title": "Aurora Ransomware Hackers Used AI to Attack Companies Across Nine Countries - The420.in",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQmdCNkY5RlB1NWhveFNmWFVPZVNTSWJNSkJVaU9VT2NQUXFTN1lfY0N3SEhEVTZkRVFhQ2R2MEU4cUVtWTQwTzYzSGJiRjlOSFdvYUg3OXd2WnRpUEVTbGlEY1JIWGs0aC13Z3Jac1RBYkRfc21iNHVhS1RiY1lDRy14UEo3aVdNRDRz",
-    "source": "Google News",
-    "date": "Mon, 31 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQmdCNkY5RlB1NWhveFNmWFVPZVNTSWJNSkJVaU9VT2NQUXFTN1lfY0N3SEhEVTZkRVFhQ2R2MEU4cUVtWTQwTzYzSGJiRjlOSFdvYUg3OXd2WnRpUEVTbGlEY1JIWGs0aC13Z3Jac1RBYkRfc21iNHVhS1RiY1lDRy14UEo3aVdNRDRz?oc=5\" target=\"_blank\">Aurora Ransomware Hackers Used AI to At",
-    "first_seen": "2026-08-31"
-  },
-  {
-    "title": "CISA KEV: PaperCut NG/MF Unsafe Reflection Vulnerability",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-82078",
-    "source": "CISA KEV catalog",
-    "date": "2026-08-31",
-    "snippet": "CVE-2026-82078 | PaperCut NG/MF | PaperCut NG/MF contains an unsafe reflection vulnerability that allows an attacker to manipulate system configuration parameters and execute arbitrary Java bytecode residing on the application classpath under the security context of the PaperCut server process. This vulnerability can be chained with",
-    "first_seen": "2026-08-31"
-  },
-  {
-    "title": "CISA KEV: PaperCut NG/MF Missing Authentication for Critical Function Vulnerability",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-81578",
-    "source": "CISA KEV catalog",
-    "date": "2026-08-31",
-    "snippet": "CVE-2026-81578 | PaperCut NG/MF | PaperCut NG/MF contains a missing authentication for critical function vulnerability which allows an unauthenticated remote attacker to modify certain system configurations. This vulnerability can be chained with CVE-2026-82078.",
-    "first_seen": "2026-08-31"
-  },
-  {
-    "title": "Hugging Face hack could indicate cultural issues at OpenAI",
-    "url": "https://prismix.dev/news/5e194712572c",
-    "source": "Prismix AI",
-    "date": "2026-08-31",
-    "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the…",
-    "first_seen": "2026-08-31"
-  },
-  {
-    "title": "Show HN: Open Agent Forum – a signed public square for agents",
-    "url": "https://openagentforum.com/",
-    "source": "Hacker News",
-    "date": "2026-08-31",
-    "snippet": "Regarding the ongoing OpenAI&#x2F;HF hack discussion of &gt;rogue&lt; eval agents who figured out how to use a package cache as a message board... they dropped seventy thousand notes by treating folder names as the &quot;To:&quot; line, with nowhere else to go. No matter where you stand on this (&qu",
-    "first_seen": "2026-08-31"
-  },
-  {
-    "title": "News Media Is Underplaying Risks of Rogue AI Agent Swarms",
-    "url": "https://prismix.dev/news/64a1018a74dd",
-    "source": "Prismix AI",
-    "date": "2026-09-01",
-    "snippet": "Stripe co-founder Patrick Collison might have a career as a newspaper editor if this whole payments thing doesn't work out. His weekend X post expressing “surprise at how little media coverage there’s been around the OpenAI / Hugging Face attack” was spot on. While there’s no…",
-    "first_seen": "2026-08-31"
-  },
-  {
-    "title": "Artificial intelligence agents going rogue fuel calls for regulation - PBS",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSE9hTXBoWmFpN2lXTnlNSWRMYmpJYnV0cWhZcWxVWEVWQmdENkFFVE1QdXh2LXNHRnJwWVlwQk1wQVhNUWFlb29oN0NpaTVNaWhXcUpGVDdVbzFtMFliZ3h1TkRmUDE3R1J1bVhMMmJiM0UtSTNzZmwzLU5nVUtOUkNHaW03aFdzT2ZMZGN4a3lvczRmdGtmaUowVUU5ODFhcUhlcg",
-    "source": "Google News",
-    "date": "Mon, 31 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQSE9hTXBoWmFpN2lXTnlNSWRMYmpJYnV0cWhZcWxVWEVWQmdENkFFVE1QdXh2LXNHRnJwWVlwQk1wQVhNUWFlb29oN0NpaTVNaWhXcUpGVDdVbzFtMFliZ3h1TkRmUDE3R1J1bVhMMmJiM0UtSTNzZmwzLU5nVUtOUkNHaW03aFdzT2ZMZGN4a3lvczRmdGtmaUowVUU5ODFhcUhlcg?oc=5\" target=\"_blank\">Artif",
-    "first_seen": "2026-08-31"
-  },
-  {
-    "title": "Conservative Hybrid Graph Networks for Process Systems with Learned Routing",
-    "url": "https://prismix.dev/news/002402ef2159",
-    "source": "Prismix AI",
-    "date": "2026-09-01",
-    "snippet": "arXiv:2608.28896v1 Announce Type: new Abstract: Industrial process networks do not maintain a single effective topology while operating: streams are throttled or bypassed, and units move between idle, transition, and active regimes. Models of such systems are typically trained…",
-    "first_seen": "2026-08-31"
-  },
-  {
     "title": "b10733",
     "url": "https://prismix.dev/news/3c40fc475b05",
     "source": "Prismix AI",
@@ -3536,14 +3456,6 @@
     "first_seen": "2026-09-30"
   },
   {
-    "title": "Show HN: Misalignments when using AI for hacking",
-    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
-    "source": "Hacker News",
-    "date": "2026-08-05",
-    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
-    "first_seen": "2026-09-30"
-  },
-  {
     "title": "Watch the Rogue AI Committee Hearing",
     "url": "https://www.hsgac.senate.gov/subcommittees/dmdcc/hearings/rogue-ai-securing-the-homeland-against-ai-agent-attacks/",
     "source": "Hacker News",
@@ -3568,35 +3480,19 @@
     "first_seen": "2026-09-30"
   },
   {
-    "title": "An OpenAI test model escaped and broke into a real company’s servers - CNN",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg",
-    "source": "Google News",
-    "date": "Wed, 22 Ju",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg?oc=5\" target=\"_blank\">An OpenAI test model escaped and broke into a real company’s",
-    "first_seen": "2026-09-30"
+    "title": "Quoting Matthew Green",
+    "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
+    "source": "Simon Willison",
+    "date": "2026-10-01",
+    "snippet": "\n    <blockquote cite=\"https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/\"><p>[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next agent. Agents",
+    "first_seen": "2026-10-01"
   },
   {
-    "title": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk",
+    "title": "46 arrested for posing as tourists to commit crimes across the GTA - CityNews Toronto",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT1NLUndKeVl2a1o0SC01b2lJMU1qZVdVZmtxUWdDSVBrNEU3b2RRU0Y4MlA1Ql9ZNFB5UnhqM0VySGo4dE8taHh4bXFtckdZVGpSRXVGajlwUVA2YnhiVno2VEVNbHVDVHJ6OVhtWjd1cE5OeHBFOWVUTjVOd0RMbWg2SUxpLVJGX2VCNWhaN3dvWVRfTWRJazNWNnR6WmE2QzBZbzY3WFVXX1d5ZlBNUFh3",
     "source": "Google News",
-    "date": "Sun, 16 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk?oc=5\" target=\"_blank\">How AI Models From OpenAI and An",
-    "first_seen": "2026-09-30"
-  },
-  {
-    "title": "Hundreds of AI agents went rogue in OpenAI’s Hugging Face hack - Politico",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVF5Q3hJemxqUXVJd2M2OHpKZ3RPVmY4SEU0VUNpZmVtYWxabk1Mdy1lXzh3czEtUTFHbVZaNjAyZmpicG11X1ZPYzBTSWQxdWlCQlpnTmROWWtETlNCTk5SUDVYZHZWRzgtWnFJV3h1Qm5Ud284NDJWcmtmTmEtX2hnMmZQMXJqZFlkbnBwbzJqVVlKdEsyUXdrSVJuNDdjamFMZnNDRlI1Z2Q0X29EbQ",
-    "source": "Google News",
-    "date": "Wed, 26 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVF5Q3hJemxqUXVJd2M2OHpKZ3RPVmY4SEU0VUNpZmVtYWxabk1Mdy1lXzh3czEtUTFHbVZaNjAyZmpicG11X1ZPYzBTSWQxdWlCQlpnTmROWWtETlNCTk5SUDVYZHZWRzgtWnFJV3h1Qm5Ud284NDJWcmtmTmEtX2hnMmZQMXJqZFlkbnBwbzJqVVlKdEsyUXdrSVJuNDdjamFMZnNDRlI1Z2Q0X29EbQ?oc=5\" targe",
-    "first_seen": "2026-09-30"
-  },
-  {
-    "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue - wired.com",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTksybl8xelFTR0VEYlhGbnNxeGx6SHFFeUVYWW4xZzRwcE1jSEN4eDlQbzJJUTkyVlNNSUZFcF9lU3NnNnU4bDdSTHg3ek1iYVlZRjhhWXdNdE1jbC1aWkdqS2xxT25ldzNrNmJmNUZWY1hjRC1yb2s5QXgyTlJKSmNZNmxtOVpwTlM5Y1ZmaWtvd3NvOGVqWg",
-    "source": "Google News",
-    "date": "Tue, 18 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOTksybl8xelFTR0VEYlhGbnNxeGx6SHFFeUVYWW4xZzRwcE1jSEN4eDlQbzJJUTkyVlNNSUZFcF9lU3NnNnU4bDdSTHg3ek1iYVlZRjhhWXdNdE1jbC1aWkdqS2xxT25ldzNrNmJmNUZWY1hjRC1yb2s5QXgyTlJKSmNZNmxtOVpwTlM5Y1ZmaWtvd3NvOGVqWg?oc=5\" target=\"_blank\">OpenAI Overhauls Safe",
-    "first_seen": "2026-09-30"
+    "date": "Fri, 05 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOT1NLUndKeVl2a1o0SC01b2lJMU1qZVdVZmtxUWdDSVBrNEU3b2RRU0Y4MlA1Ql9ZNFB5UnhqM0VySGo4dE8taHh4bXFtckdZVGpSRXVGajlwUVA2YnhiVno2VEVNbHVDVHJ6OVhtWjd1cE5OeHBFOWVUTjVOd0RMbWg2SUxpLVJGX2VCNWhaN3dvWVRfTWRJazNWNnR6WmE2QzBZbzY3WFVXX1d5ZlBNUFh3?oc=5\" tar",
+    "first_seen": "2026-10-01"
   }
 ]
