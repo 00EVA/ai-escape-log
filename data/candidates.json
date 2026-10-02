@@ -3454,5 +3454,21 @@
     "date": "2026-10-01",
     "snippet": "CVE-2026-104286 | Fortinet FortiMail | Fortinet FortiMail contains a path traversal and an improper neutralization of NULL byte or NULL character vulnerability that may allow an unauthenticated attacker to write arbitrary files on the underlying system via crafted HTTP or HTTPS requests.",
     "first_seen": "2026-10-01"
+  },
+  {
+    "title": "b11344",
+    "url": "https://prismix.dev/news/bada9c774808",
+    "source": "Prismix AI",
+    "date": "2026-10-02",
+    "snippet": "CUDA: fix 2 broken Volta FA cases ( #29803 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/52093363 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework…",
+    "first_seen": "2026-10-02"
+  },
+  {
+    "title": "California Man Arrested for Smuggling Nvidia Chips to China",
+    "url": "https://prismix.dev/news/f9a251171e9b",
+    "source": "Prismix AI",
+    "date": "2026-10-02",
+    "snippet": "U.S. authorities arrested a California man on Thursday for smuggling more than $300 million worth of servers containing restricted Nvidia AI chips to China. Greg Lui, the owner of Earthmade Computer Inc, a privately held company based in San Gabriel Valley, allegedly worked with…",
+    "first_seen": "2026-10-02"
   }
 ]
