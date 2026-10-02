@@ -3470,5 +3470,85 @@
     "date": "2026-10-02",
     "snippet": "U.S. authorities arrested a California man on Thursday for smuggling more than $300 million worth of servers containing restricted Nvidia AI chips to China. Greg Lui, the owner of Earthmade Computer Inc, a privately held company based in San Gabriel Valley, allegedly worked with…",
     "first_seen": "2026-10-02"
+  },
+  {
+    "title": "Show HN: Spens sandboxed, observable coding agents",
+    "url": "https://spens.refwd.ai/",
+    "source": "Hacker News",
+    "date": "2026-10-02",
+    "snippet": "Spens is a tool created to standardized sandboxing (good enough) and observability around coding agents. It leverages docker, nono and mitmproxy to create a reproducible sandbox environment for agents, that captures all traffic and helps you understand what your coding agent is doing and when. Right",
+    "first_seen": "2026-10-02"
+  },
+  {
+    "title": "Show HN: Misalignments when using AI for hacking",
+    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
+    "source": "Hacker News",
+    "date": "2026-08-05",
+    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
+    "first_seen": "2026-10-02"
+  },
+  {
+    "title": "OpenAI notifies 100 orgs about its AI agents bypassing their security controls",
+    "url": "https://www.reuters.com/legal/litigation/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity-2026-10-01/",
+    "source": "Hacker News",
+    "date": "2026-10-02",
+    "snippet": "",
+    "first_seen": "2026-10-02"
+  },
+  {
+    "title": "Tesla will now let you drive off mid-charge if there’s an emergency",
+    "url": "https://www.theverge.com/transportation/1003967/tesla-charging-breakaway-emergency-shooting",
+    "source": "The Verge",
+    "date": "2026-10-02",
+    "snippet": "Tesla introduced a new feature to enable drivers to escape quickly while charging their vehicles in response to a mass shooting at a Supercharger location in Idaho in August that left seven people wounded and four dead. When a Tesla vehicle is charging, the plug is locked to the charging port and dr",
+    "first_seen": "2026-10-02"
+  },
+  {
+    "title": "b11349",
+    "url": "https://prismix.dev/news/cbc8926a28c8",
+    "source": "Prismix AI",
+    "date": "2026-10-02",
+    "snippet": "vulkan: add logging to pipeline compile issues ( #29794 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/52203370 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS…",
+    "first_seen": "2026-10-02"
+  },
+  {
+    "title": "An OpenAI test model escaped and broke into a real company’s servers - CNN",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg",
+    "source": "Google News",
+    "date": "Wed, 22 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg?oc=5\" target=\"_blank\">An OpenAI test model escaped and broke into a real company’s",
+    "first_seen": "2026-10-02"
+  },
+  {
+    "title": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk",
+    "source": "Google News",
+    "date": "Sun, 16 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk?oc=5\" target=\"_blank\">How AI Models From OpenAI and An",
+    "first_seen": "2026-10-02"
+  },
+  {
+    "title": "Hundreds of AI agents went rogue in OpenAI’s Hugging Face hack - Politico",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVF5Q3hJemxqUXVJd2M2OHpKZ3RPVmY4SEU0VUNpZmVtYWxabk1Mdy1lXzh3czEtUTFHbVZaNjAyZmpicG11X1ZPYzBTSWQxdWlCQlpnTmROWWtETlNCTk5SUDVYZHZWRzgtWnFJV3h1Qm5Ud284NDJWcmtmTmEtX2hnMmZQMXJqZFlkbnBwbzJqVVlKdEsyUXdrSVJuNDdjamFMZnNDRlI1Z2Q0X29EbQ",
+    "source": "Google News",
+    "date": "Wed, 26 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVF5Q3hJemxqUXVJd2M2OHpKZ3RPVmY4SEU0VUNpZmVtYWxabk1Mdy1lXzh3czEtUTFHbVZaNjAyZmpicG11X1ZPYzBTSWQxdWlCQlpnTmROWWtETlNCTk5SUDVYZHZWRzgtWnFJV3h1Qm5Ud284NDJWcmtmTmEtX2hnMmZQMXJqZFlkbnBwbzJqVVlKdEsyUXdrSVJuNDdjamFMZnNDRlI1Z2Q0X29EbQ?oc=5\" targe",
+    "first_seen": "2026-10-02"
+  },
+  {
+    "title": "CISA KEV: Zammad GmbH Zammad Improper Privilege Management Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-102490",
+    "source": "CISA KEV catalog",
+    "date": "2026-10-02",
+    "snippet": "CVE-2026-102490 | Zammad GmbH Zammad | Zammad GmbH Zammad contains an improper privilege management vulnerability that can allow the local zammad user to escalate privileges to root. This vulnerability can be chained with CVE-2026-102489.",
+    "first_seen": "2026-10-02"
+  },
+  {
+    "title": "CISA KEV: Zammad GmbH Zammad Session Fixation Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-102489",
+    "source": "CISA KEV catalog",
+    "date": "2026-10-02",
+    "snippet": "CVE-2026-102489 | Zammad GmbH Zammad | Zammad GmbH Zammad contains a session fixation vulnerability that can lead to remote code execution as the zammad user. This vulnerability can be chained with CVE-2026-102490.",
+    "first_seen": "2026-10-02"
   }
 ]
