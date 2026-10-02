@@ -3518,5 +3518,37 @@
     "date": "2026-10-02",
     "snippet": "CVE-2026-102489 | Zammad GmbH Zammad | Zammad GmbH Zammad contains a session fixation vulnerability that can lead to remote code execution as the zammad user. This vulnerability can be chained with CVE-2026-102490.",
     "first_seen": "2026-10-02"
+  },
+  {
+    "title": "New Architecture from Percepta: Spotlight — separating intelligence from memory, allowing knowledge and skills to grow without changing the model's weights.",
+    "url": "https://www.reddit.com/r/singularity/comments/1ww2mwz/new_architecture_from_percepta_spotlight/",
+    "source": "Reddit r/singularity",
+    "date": "2026-10-02",
+    "snippet": "                  https://www.percepta.ai/blog/can-llms-grow-their-own-capabilities     https://www.percepta.ai/blog/spotlight-memory     &quot;Our new architecture, Spotlight, replaces attention with a memory that escapes this trade-off: it is the first architecture to achieve infinitely growing me",
+    "first_seen": "2026-10-02"
+  },
+  {
+    "title": "Affected by layoffs? Don&#8217;t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+    "url": "https://prismix.dev/news/32cf0543bf39",
+    "source": "Prismix AI",
+    "date": "2026-10-02",
+    "snippet": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+    "first_seen": "2026-10-02"
+  },
+  {
+    "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+    "url": "https://prismix.dev/news/5c0c42097c18",
+    "source": "Prismix AI",
+    "date": "2026-10-02",
+    "snippet": "Nvidia’s chip-smuggling problem won’t go away as arrests continue.",
+    "first_seen": "2026-10-02"
+  },
+  {
+    "title": "New Architecture from Percepta: Spotlight — separating intelligence from memory, allowing knowledge and skills to grow without changing the model's weights.",
+    "url": "https://prismix.dev/news/6029fed6977a",
+    "source": "Prismix AI",
+    "date": "2026-10-02",
+    "snippet": "https://www.percepta.ai/blog/can-llms-grow-their-own-capabilities https://www.percepta.ai/blog/spotlight-memory \"Our new architecture, Spotlight, replaces attention with a memory that escapes this trade-off: it is the first architecture to achieve infinitely growing memory…",
+    "first_seen": "2026-10-02"
   }
 ]
