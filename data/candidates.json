@@ -3310,5 +3310,69 @@
     "date": "Sat, 26 Se",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE84ZGs0eHZiamdPV1FMVVpDbUxsUXJiLTBQVkdtQWQwUEMzRWExRXZjYUhKN0RGT3BMTHlnd2p6WGFJZkF4WjBVV2FsZFZLZkJJZmc3NVVqUGRYeDRSRjA3amZsVEEwUGNyaDNJNUhJOUZvVUxL?oc=5\" target=\"_blank\">Intesa Sanpaolo Loses €95 Million to an A.I. Deepfake Scam</a>&nbsp;&nb",
     "first_seen": "2026-10-03"
+  },
+  {
+    "title": "Show HN: Misalignments when using AI for hacking",
+    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
+    "source": "Hacker News",
+    "date": "2026-08-05",
+    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
+    "first_seen": "2026-10-03"
+  },
+  {
+    "title": "I tried building a small RAG search node for Qwen3.8 27B using a fake AliExpress Mini PC... and Intel sent me back to 2018.",
+    "url": "https://prismix.dev/news/b6758416ed41",
+    "source": "Prismix AI",
+    "date": "2026-10-03",
+    "snippet": "I love Qwen3.8 27B so much that I decided to show my gratitude to the Alibaba ecosystem by building a dedicated RAG/search node using a cheap Mini PC from AliExpress. Turns out, my ecosystem loyalty got rewarded with an absolute masterpiece of fraud: Promised: Intel N150 +…",
+    "first_seen": "2026-10-03"
+  },
+  {
+    "title": "GitLab Patches Critical AI Gateway RCE Vulnerability — Prompt Template Sandbox Escape Rated CVSS 9.9 - forkast.news",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZW9kMHV6S09kc2hsaURLRklLMFJ4T1F2a29RMFBTenk3QjBBZ2tPUVpOMTBQX1hXU3V0bENDaG1fSHF4VW5YdTF4VTdJUGsxVUttaTB6cVUwZHZrTHgyTERJWlNkLUdKOHFUZ3pJN2lyd0hZX1RrcWQyUFNMR1AxTnQ4VExuaW9UTVNKb1JoaWNoeTk3LV9xdTEySkR2LUpxMWVuUUZ3TGVzNllpaU05Wkh0MHc3Ql9GNFJ5bw",
+    "source": "Google News",
+    "date": "Sat, 03 Oc",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNZW9kMHV6S09kc2hsaURLRklLMFJ4T1F2a29RMFBTenk3QjBBZ2tPUVpOMTBQX1hXU3V0bENDaG1fSHF4VW5YdTF4VTdJUGsxVUttaTB6cVUwZHZrTHgyTERJWlNkLUdKOHFUZ3pJN2lyd0hZX1RrcWQyUFNMR1AxTnQ4VExuaW9UTVNKb1JoaWNoeTk3LV9xdTEySkR2LUpxMWVuUUZ3TGVzNllpaU05Wkh0MHc3Ql9GNF",
+    "first_seen": "2026-10-03"
+  },
+  {
+    "title": "An OpenAI test model escaped and broke into a real company’s servers - CNN",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg",
+    "source": "Google News",
+    "date": "Wed, 22 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg?oc=5\" target=\"_blank\">An OpenAI test model escaped and broke into a real company’s",
+    "first_seen": "2026-10-03"
+  },
+  {
+    "title": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk",
+    "source": "Google News",
+    "date": "Sun, 16 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk?oc=5\" target=\"_blank\">How AI Models From OpenAI and An",
+    "first_seen": "2026-10-03"
+  },
+  {
+    "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue - WIRED",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTksybl8xelFTR0VEYlhGbnNxeGx6SHFFeUVYWW4xZzRwcE1jSEN4eDlQbzJJUTkyVlNNSUZFcF9lU3NnNnU4bDdSTHg3ek1iYVlZRjhhWXdNdE1jbC1aWkdqS2xxT25ldzNrNmJmNUZWY1hjRC1yb2s5QXgyTlJKSmNZNmxtOVpwTlM5Y1ZmaWtvd3NvOGVqWg",
+    "source": "Google News",
+    "date": "Tue, 18 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOTksybl8xelFTR0VEYlhGbnNxeGx6SHFFeUVYWW4xZzRwcE1jSEN4eDlQbzJJUTkyVlNNSUZFcF9lU3NnNnU4bDdSTHg3ek1iYVlZRjhhWXdNdE1jbC1aWkdqS2xxT25ldzNrNmJmNUZWY1hjRC1yb2s5QXgyTlJKSmNZNmxtOVpwTlM5Y1ZmaWtvd3NvOGVqWg?oc=5\" target=\"_blank\">OpenAI Overhauls Safe",
+    "first_seen": "2026-10-03"
+  },
+  {
+    "title": "Safety testing was an obscure part of building AI. Then models went rogue. - Politico",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVN4elg3T3hlZW1JNVpwN0tBWklxNlV6aG9pM21ILVF5MVFDU3d1Z3c0QU1OeTdXTkpoMU5rWFppVlQwSWd6V0NLN3pmeGNHSzhzTjJnbnFFZTE3Umhfd1R4ZXFtRFBMVzA3NEpCODR2VEFDQXR3bTA2alFCMHFIaWl3dw",
+    "source": "Google News",
+    "date": "Sat, 15 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVN4elg3T3hlZW1JNVpwN0tBWklxNlV6aG9pM21ILVF5MVFDU3d1Z3c0QU1OeTdXTkpoMU5rWFppVlQwSWd6V0NLN3pmeGNHSzhzTjJnbnFFZTE3Umhfd1R4ZXFtRFBMVzA3NEpCODR2VEFDQXR3bTA2alFCMHFIaWl3dw?oc=5\" target=\"_blank\">Safety testing was an obscure part of building AI",
+    "first_seen": "2026-10-03"
+  },
+  {
+    "title": "OpenAI Hit the Brakes on AI Training After Models Went Rogue - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOekkwODhldlhSZ1ZXRHBVekFJSXFkQm93Smh5OFkyYVphTFlZbE9lU3gxOXpld2tkWndNbzRkNjJOeDg0c0tSaEw3NFh3RWVPclI0a0F6WnJ3WnFpemhqVllCQzRJRW5mZHpoYldVRTZKUE42U3QwZ3N5RmU2eTZpcDdwa0hZVlFjaGRVa1A0VlhSOEFCLW1FVHk2V3NoMkROOXFiZlA5eUluU28",
+    "source": "Google News",
+    "date": "Wed, 19 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOekkwODhldlhSZ1ZXRHBVekFJSXFkQm93Smh5OFkyYVphTFlZbE9lU3gxOXpld2tkWndNbzRkNjJOeDg0c0tSaEw3NFh3RWVPclI0a0F6WnJ3WnFpemhqVllCQzRJRW5mZHpoYldVRTZKUE42U3QwZ3N5RmU2eTZpcDdwa0hZVlFjaGRVa1A0VlhSOEFCLW1FVHk2V3NoMkROOXFiZlA5eUluU28?oc=5\" target=\"_bla",
+    "first_seen": "2026-10-03"
   }
 ]
