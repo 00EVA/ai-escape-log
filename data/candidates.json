@@ -3550,5 +3550,69 @@
     "date": "2026-10-02",
     "snippet": "https://www.percepta.ai/blog/can-llms-grow-their-own-capabilities https://www.percepta.ai/blog/spotlight-memory \"Our new architecture, Spotlight, replaces attention with a memory that escapes this trade-off: it is the first architecture to achieve infinitely growing memory…",
     "first_seen": "2026-10-02"
+  },
+  {
+    "title": "Show HN: Misalignments when using AI for hacking",
+    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
+    "source": "Hacker News",
+    "date": "2026-08-05",
+    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
+    "first_seen": "2026-10-02"
+  },
+  {
+    "title": "b11364",
+    "url": "https://prismix.dev/news/5d1f16605adb",
+    "source": "Prismix AI",
+    "date": "2026-10-03",
+    "snippet": "model: support nimble decision model ( #29844 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/52332773 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework…",
+    "first_seen": "2026-10-02"
+  },
+  {
+    "title": "I spent 3 weeks testing local Qwen3.8 on the new low-latency SGLang/vLLM recipes: DFlash2 2.8x. Builds: RadixArk + Inferact 27B NVFP4, 27B BF16, orcarouter 27B Uncensored, Flash-Next NVFP4",
+    "url": "https://prismix.dev/news/54f9315c7734",
+    "source": "Prismix AI",
+    "date": "2026-10-02",
+    "snippet": "Hey guys, Last time I tested Qwen3.8-Flash-Next on its own. This time I put three Qwen3.8 checkpoints through the same 10 tests on the same RTX PRO 6000: RadixArk/Qwen3.8-27B-NVFP4 (dense) orcarouter/Qwen3.8-27B-Uncensored-NVFP4 (dense, uncensored fine-tune)…",
+    "first_seen": "2026-10-02"
+  },
+  {
+    "title": "An OpenAI test model escaped and broke into a real company’s servers - CNN",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg",
+    "source": "Google News",
+    "date": "Wed, 22 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg?oc=5\" target=\"_blank\">An OpenAI test model escaped and broke into a real company’s",
+    "first_seen": "2026-10-02"
+  },
+  {
+    "title": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk",
+    "source": "Google News",
+    "date": "Sun, 16 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk?oc=5\" target=\"_blank\">How AI Models From OpenAI and An",
+    "first_seen": "2026-10-02"
+  },
+  {
+    "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue - WIRED",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTksybl8xelFTR0VEYlhGbnNxeGx6SHFFeUVYWW4xZzRwcE1jSEN4eDlQbzJJUTkyVlNNSUZFcF9lU3NnNnU4bDdSTHg3ek1iYVlZRjhhWXdNdE1jbC1aWkdqS2xxT25ldzNrNmJmNUZWY1hjRC1yb2s5QXgyTlJKSmNZNmxtOVpwTlM5Y1ZmaWtvd3NvOGVqWg",
+    "source": "Google News",
+    "date": "Tue, 18 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOTksybl8xelFTR0VEYlhGbnNxeGx6SHFFeUVYWW4xZzRwcE1jSEN4eDlQbzJJUTkyVlNNSUZFcF9lU3NnNnU4bDdSTHg3ek1iYVlZRjhhWXdNdE1jbC1aWkdqS2xxT25ldzNrNmJmNUZWY1hjRC1yb2s5QXgyTlJKSmNZNmxtOVpwTlM5Y1ZmaWtvd3NvOGVqWg?oc=5\" target=\"_blank\">OpenAI Overhauls Safe",
+    "first_seen": "2026-10-02"
+  },
+  {
+    "title": "Safety testing was an obscure part of building AI. Then models went rogue. - Politico",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVN4elg3T3hlZW1JNVpwN0tBWklxNlV6aG9pM21ILVF5MVFDU3d1Z3c0QU1OeTdXTkpoMU5rWFppVlQwSWd6V0NLN3pmeGNHSzhzTjJnbnFFZTE3Umhfd1R4ZXFtRFBMVzA3NEpCODR2VEFDQXR3bTA2alFCMHFIaWl3dw",
+    "source": "Google News",
+    "date": "Sat, 15 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVN4elg3T3hlZW1JNVpwN0tBWklxNlV6aG9pM21ILVF5MVFDU3d1Z3c0QU1OeTdXTkpoMU5rWFppVlQwSWd6V0NLN3pmeGNHSzhzTjJnbnFFZTE3Umhfd1R4ZXFtRFBMVzA3NEpCODR2VEFDQXR3bTA2alFCMHFIaWl3dw?oc=5\" target=\"_blank\">Safety testing was an obscure part of building AI",
+    "first_seen": "2026-10-02"
+  },
+  {
+    "title": "OpenAI Hit the Brakes on AI Training After Models Went Rogue - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOekkwODhldlhSZ1ZXRHBVekFJSXFkQm93Smh5OFkyYVphTFlZbE9lU3gxOXpld2tkWndNbzRkNjJOeDg0c0tSaEw3NFh3RWVPclI0a0F6WnJ3WnFpemhqVllCQzRJRW5mZHpoYldVRTZKUE42U3QwZ3N5RmU2eTZpcDdwa0hZVlFjaGRVa1A0VlhSOEFCLW1FVHk2V3NoMkROOXFiZlA5eUluU28",
+    "source": "Google News",
+    "date": "Wed, 19 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOekkwODhldlhSZ1ZXRHBVekFJSXFkQm93Smh5OFkyYVphTFlZbE9lU3gxOXpld2tkWndNbzRkNjJOeDg0c0tSaEw3NFh3RWVPclI0a0F6WnJ3WnFpemhqVllCQzRJRW5mZHpoYldVRTZKUE42U3QwZ3N5RmU2eTZpcDdwa0hZVlFjaGRVa1A0VlhSOEFCLW1FVHk2V3NoMkROOXFiZlA5eUluU28?oc=5\" target=\"_bla",
+    "first_seen": "2026-10-02"
   }
 ]
