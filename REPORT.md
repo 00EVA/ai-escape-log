@@ -1,6 +1,6 @@
 # AI Incident Briefing — 2026-10-03
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 468_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 414_
 
 ## 1. Latest verified incidents
 
@@ -11,34 +11,28 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=468)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=414)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [Reddit r/singularity] Rare post from the genius Ilya Sutskever, this time on security against rogue AI models  (2026-09-02)
-  https://www.reddit.com/r/singularity/comments/1w5243k/rare_post_from_the_genius_ilya_sutskever_this/
-- [Google News] Did OpenAI’s rogue agents form a ‘civilization’? The AI industry can’t agree - NBC News  (Wed, 02 Se)
-  https://news.google.com/rss/articles/CBMiswFBVV95cUxON21GSDIwakY2Y1ptVnFPR2JWRC1jSFAtRkpXN0JSdzVzR2xVcXhKZWFQQ1Z6MjVyOTR4UksxbmlzRUE1U0ZLRGJTT0tMeHNneEZjTzgtZlFobmFhbGRUUlRzV2tuQVluRURjZV9YdlVCTGltTXIwNTNzTFlsQlFYLTJHUWRJejZoaGdLb2tidnJIUlYzaDlma185ZUIxSng3NTJWSkQ5SG9RaGUxM2RkNUFKSQ
-- [Google News] AI gone wrong, again: 50-year-old woman arrested for crimes in a state she had never been to - wionews.com  (Tue, 31 Ma)
-  https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcnluSFc2NG4wazBYVDdUQ29DSUcyWElFbU5EM1pKRlRiaHB1RUxYUHA2VXBWSHBSbzJ2Qk9GaDR6cnpMWFBOV28tcjhra2M2RGNrbTdXT25mRFlZUXdXSjRoMzhDbGlpUzR6dk9saEsyajUyZDFWLXV0NmNFc0ZFQjNKRlJxSFRxVlNRZ01tZndFc2lhdWxrdWJ4VjV5U1huMk0zZmlnQk1EeUFFeDlwWWF0dG9sRmdNc1VObUt2SVFlTDFzUnVGYktIUFA5ZFVWTmNZ
-- [Google News] Report: AI Ransomware Can Now Run Much of an Attack Without Human Help - Campus Technology  (Mon, 31 Au)
-  https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUXEwbUdTdmxhcURWOThFZVJTUHEyNndVWDRGRVhvSFY3QWNEeGFvSzZhcm5MY3VvMUMtaG9VYlgtQjAyOThHZGlscFZqRHFtMkdJYlUwWXJWSk1iZXE5RnNWUXdqc21qVzVDWTdIcGN1UTR1R28weVJIYWZTQ3RsY3VsMmZ1bmVTUTI3RThMdURMbkpGdmpoTXRSMGpDdmlteDU1MHFuN2E0YThpTWZRTVhmSUgwa3dqdlFRdE1OWEI
-- [Google News] OpenAI blamed a hacking event on its AI models going rogue. Here's what to know - PBS  (Thu, 23 Ju)
-  https://news.google.com/rss/articles/CBMitAFBVV95cUxQdmtXVWZDNVhWc0xxT0EtS0N3TlM0NUM0MWVVZ0gtUzFFODVfTVBrUlF4el9MRENLMVJmUHpzMnZLUHRXRDRDanNwSDlldHZKUTl0XzhxWEpFZmFkWjUzTF9lUXJwcEY2LUttc3lBMEZXMkhUTTgxQzlJM0JuMEE3T3hQdmNmb0JVVEtQQWg5OGhsX0FadC03Ny1CTDhMWFBFNzVqVUEzTTZYNFFXQng5U0JtYUY
-- [Google News] Hundreds of agents went rogue in lead up to Hugging Face breach - Cybersecurity Dive  (Thu, 27 Au)
-  https://news.google.com/rss/articles/CBMinAFBVV95cUxPUGRvOE1wRloxRFFEVlp0Q1ZPRENGT3lnX09lSHlsUWxrc0xiVDZJcmltLWhuV0RvejhNNF9maEJEQnpsSjYzVE1RRUJ6UEZzcWxpR3ZKdHN1OUJvWEVoRlFYcGRIMnUtTlZzTHdZVnBISktKTWliVWJyNXZCRHhoQzVOQnVhY0oxeEw0S2h3cmhLd2N2WkVjcERaZzg
-- [Google News] AI gentlemen will hack your company for 4 bucks: we caught a ransomware gang in the act - cybernews.com  (Wed, 02 Se)
-  https://news.google.com/rss/articles/CBMingFBVV95cUxNbTRzUjY2YjVvSXk4c1Nmblh2ZVJUQkNRZ0RDcHhZcWU2anFXR0FIcjVFMzZzNGpfWFhrSlVrZklNUGJjUS01YTZISmxsLTFsZDBsbXlxUlIxYWJRcjljcXlSclVUQzEybUZtT2Y5b2tZX185OVp0WlVrOTdVZEo1X0FIcDF0WVdSaV9vNjRNeVpzc001Z1VuNkZZR2ZFQQ
-- [Google News] Alleged leader of Kimwolf, a sweeping botnet for cybercriminals, arrested in Canada - cyberscoop.com  (Thu, 21 Ma)
-  https://news.google.com/rss/articles/CBMikwFBVV95cUxNa0JPQ1FCZGJieTJZRzQtMUV5UW12dVhybFVEMjlLaGxwZ2RGYllMamV3R3E0ZDk5d09yN1M1UHV0X2dhNE13eXJxMTl2XzkxV2hhOFppcW9xZUJ4dm9OOW9UdFJsWFJ6YVl1b05sVHNYUUI4X2xva2FhWW9IZWx5RE1UQXg1Q0p6ZHZ4eDY5RThqYXM
-- [Google News] Anthropic admits Claude isn't "perfectly aligned" after AI models went rogue and hacked three organizations - TechSpot  (Wed, 02 Se)
-  https://news.google.com/rss/articles/CBMingFBVV95cUxOQTk2Yll6RnpjRDI3TGVwbWNjUW54Ul82UGZwTTZBY21iTTVMSktpeENJNW1UcmxPajNIMzZHd3h2dFVMbHE0LVNWUXBEczVaQ0R2Rk1wREFvZk5VS291WWJYNVZqZVZvd3ZBNXp3aV9pZkpjckE2MFRFQ0VFTXpYUGFzd3hpa0owTEJUV0JIbHZCUjhDWFJOLWpGbktMZw
-- [Google News] Cybersecurity for Food Companies: How to Prepare for Ransomware, AI Threats, and Supply Chain Disruptions - The Food Institute  (Mon, 29 Ju)
-  https://news.google.com/rss/articles/CBMivAFBVV95cUxNa1diOGRDazNlclBJcHp5NXNxMnlZNURTN2FpNmFLQlh3ZllHWVljNkd3TnZRV1RYYnlkVm1sMVpyWmJkVzZ6RWsybzgwdWVwN1J1anZkckpWX2RTcjVqSUE0WjFpT0J6Uk9KT19fUmg1LVhWVnBxbjIwcXZmdUp2ekprLS1vYld4eDRpV3c1MGFLU3A4Q3BDUURxb3RNT2VzdjVQRFRzWUtGdWlrMHJmQ3RIQ3Q3N1dwSnJnTQ
-- [Prismix AI] TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals  (2026-09-02)
-  https://prismix.dev/news/62ca58d2031f
-- [Google News] Meta AI model escaped testing environment in latest AI security incident linked to Israeli company Irregular - calcalistech.com  (Thu, 06 Au)
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQUjJ5d2swS1RkT0QtTXpVcmhGRkVRVWpMU3ZNQjR5RTRZb2lIanRTWS0wYnV6bVM0TXJCMy1KTFZPVUlHdWZxLVlwMzZYWVF5ZjI0dTJoUklKY0VYeFVXSERIWk9PZFU
+- [Google News] Anthropic tightens security on its training environment after Claude agents went rogue 3 times - Business Insider  (Tue, 01 Se)
+  https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX1FjSV9WRm9pZkxPcEVpSmZqZHBmYTZZOXYxd3JKVnprcm85Qjk3THdKWUJKcWtWeXVQcEotNkQ3NVo4c0x4UG9JV3ItNDgxVS1PalFTbjFnZG5qS2Z2bnI4am1jX2hjdEhxclQzczBTdHlFM0NWVS1zazN0TkZMdGZrQ282U0RHOTA0ZjNvc1ktNmVOX2F3UDYxWmFmQmlqTnRDbTBERXJwdw
+- [Google News] As AI agents go rogue, cyber insurers are adapting their policies - Arizona Daily Star  (Sat, 29 Au)
+  https://news.google.com/rss/articles/CBMimwFBVV95cUxPcDlFTGYzX2hfR28tODAtQnV1TEZFV2FibWtOcGY1R0YwRjkxQVE3Y2JjelBWazAzS1A0SkJjUUROZUJITlpfOFpDbWJYTlhPVTdxc1plaWRTQ1hQZlpWSmdndWdwcW52cmF1cldiNmpiQkRXSlVhX2VjV01SeTJLRmxLLXlicUpsMVV5RFNJM2ZXY3J6WDk2aTRzTQ
+- [Google News] US: China Hijacked IoT Devices to Breach NASA, Federal Agencies - PCMag  (Wed, 26 Au)
+  https://news.google.com/rss/articles/CBMikgFBVV95cUxOVDY0VVZ3WUg5XzJCRURJNmtkV2NCTnhIZGQ3WVBmMEZTdmVIUjJfekZJVFRXRHprNVlhQ2hSUTNVWG5laWZZOE9vekdibGliMFoyNHF1cW50MnFrWkpQRVpYZy1raFlmMUMxMWlscFBDcXgzSy1sZHVxczhrR256RWp0Y3h5aEtRVFVSVlUwTVRQdw
+- [Google News] Meta's outage shows how fragile its ad machine has become - Startup Fortune  (Fri, 12 Ju)
+  https://news.google.com/rss/articles/CBMijAFBVV95cUxPNUlrY09rQkFnMW1HTnVZSElmc0hwUnl3c1l6a2U1VUkybG05RUJpOUYtSHNYUzhnczVRSXNTeDZfY3BnMGotb09QQ0hRbXNVSHJjR1RtMk9FNkpNZThSaVdOTF9kZW1oc2ExOWZtdHZNTml2Z0lhdFNIUEh2Njl2ajNpVDJlNGl6dXh2aw
+- [Google News] Anthropic pauses some AI training following rogue agent hacks. Here’s how it compares with OpenAI - Fortune  (Wed, 02 Se)
+  https://news.google.com/rss/articles/CBMigAFBVV95cUxOYWFndEtkNmlCU09kMVRxXzFGS1FBQm5BSGk0QlpiV01VZEZPc2RlUXNsX3hLZ0pFUDQzM2JUV2tNaEFQdURTb3lHYWt3VHEtWlRwWURfTHNOcEJCMzRLOURwbHhPd0xpOEVjd2R3MmIzOWUwbnRway13b214RVlrMg
+- [Google News] US, allies move to dismantle four high-volume IoT botnets - Cybersecurity Dive  (Fri, 20 Ma)
+  https://news.google.com/rss/articles/CBMilAFBVV95cUxOYzA3anhQZEpna3A1dU1ZS2c2QjI0NmQ4UmtEZEt3dlhGV0t3U00ta1VybVhRZlpNSE1obmNCU191cExmY1hZck1vd2RQcFJBaXNJdnFWRmR6YzFzMGR3M1VzWnB4bC1JdXpiMXJqSzA5emd2c01lZXc4QkxqUjQ5UXR1SWtwSXB3N3hQdUIzTGFqNXpC
+- [Google News] Criminals hijack thousands of devices to create never-before-seen cyber weapon - Yahoo News Singapore  (Mon, 16 Ma)
+  https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ3lrTV9FRzM4cGtmMVNyaENWS0JNYjdqdTZoeU9pSi1BUXdEcncyeGh4c09BUUlMeXhIOFg4Sl9IblN0RWJVWUZrd1FxQjZxakNNZVdHWi1aSDhZMUtaSk0zZWVjODlWT3dwTURZRTQyZXZMR2xkS2FDalA3ZkFBZ0U2aE85MDhGSFE
+- [Google News] Huge Botnet Linked To Russia Infected Over 10 Million Devices Before Being Shut Down - bgr.com  (Wed, 03 Ju)
+  https://news.google.com/rss/articles/CBMipwFBVV95cUxQY0dwUWNHZGVhNUpjcGVKaHUyUXlSbHI5RkVnV2c4WnhBQjdTTkNOLUFlUm5MeVZHRXNJcHh2Mm15MmNOWGdIV3Jmc2FhaDhZT1Z5dGtaem1WQXVBbUxrX0g4emY2X2dXWHpnQjR1NnlJY1BpZW9SWmxZcXViSFltWFh5a2d4Rl8wN3VDQi1DUklVa0hRd3hFY3VpSnY1WmRzOU9nd3JoYw
+- [Google News] Character AI Outage Drives Search Spike As Platform Goes Down Globally - Yellow.com  (Wed, 17 Ju)
+  https://news.google.com/rss/articles/CBMicEFVX3lxTE5rRVNfVWRYeFkyTk9oaGVJT1lsRU4xeEI4al8tbEJJNzgwYXkzNFR3X2JlcG0yWEpRUTV6Wk5IdEQwZVU3eWJfTWdvUFBwUXcycUo5OVE2MTFNeTVfOW83MkVRc2tPZUhjZHEyVXB4QlI
 
 ## 4. Early-warning watchlist (be first to know)
 
