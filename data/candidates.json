@@ -3110,5 +3110,69 @@
     "date": "2026-10-04",
     "snippet": "CVE-2026-88779 | Citrix NetScaler | Citrix NetScaler ADC (formerly Citrix ADC) and Citrix NetScaler Gateway (formerly Citrix Gateway) contain an improper restriction of operations within the bounds of a memory buffer vulnerability that could allow for a denial of service.",
     "first_seen": "2026-10-04"
+  },
+  {
+    "title": "Show HN: Misalignments when using AI for hacking",
+    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
+    "source": "Hacker News",
+    "date": "2026-08-05",
+    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
+    "first_seen": "2026-10-05"
+  },
+  {
+    "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+    "url": "https://prismix.dev/news/fb4a44bb6384",
+    "source": "Prismix AI",
+    "date": "2026-10-05",
+    "snippet": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
+    "first_seen": "2026-10-05"
+  },
+  {
+    "title": "b11424",
+    "url": "https://prismix.dev/news/bc6c0cd8ad5e",
+    "source": "Prismix AI",
+    "date": "2026-10-05",
+    "snippet": "vulkan: fix Flash Attention shmem write out of bounds ( #29988 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/52864580 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64)…",
+    "first_seen": "2026-10-05"
+  },
+  {
+    "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
+    "url": "https://prismix.dev/news/b1e6c3300622",
+    "source": "Prismix AI",
+    "date": "2026-10-05",
+    "snippet": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
+    "first_seen": "2026-10-05"
+  },
+  {
+    "title": "An OpenAI test model escaped and broke into a real company’s servers - CNN",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg",
+    "source": "Google News",
+    "date": "Wed, 22 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg?oc=5\" target=\"_blank\">An OpenAI test model escaped and broke into a real company’s",
+    "first_seen": "2026-10-05"
+  },
+  {
+    "title": "'Rogue' AI Isn't Going Anywhere - Lawfare",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pa1dFbWQ1NEhSMktOWnZKTzNqSFZiYmlxSURkRDVWU2R6eHlKVUZiZTJRNUsyOE9Xb2cySUY2Q3dKVW9KQzlmajBYZTlOWElrbUR4UkFLX2otb0VmV2E0a0VMMlZwT1gybld6N3pmWVFfdWszWXc",
+    "source": "Google News",
+    "date": "Fri, 02 Oc",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9pa1dFbWQ1NEhSMktOWnZKTzNqSFZiYmlxSURkRDVWU2R6eHlKVUZiZTJRNUsyOE9Xb2cySUY2Q3dKVW9KQzlmajBYZTlOWElrbUR4UkFLX2otb0VmV2E0a0VMMlZwT1gybld6N3pmWVFfdWszWXc?oc=5\" target=\"_blank\">'Rogue' AI Isn't Going Anywhere</a>&nbsp;&nbsp;<font color=\"#6f6f6f\"",
+    "first_seen": "2026-10-05"
+  },
+  {
+    "title": "Are AI Agents Going Rogue? Here’s What Business Leaders Should Know - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPamFNVGk5NlZOVVZ2aXNJX3Rhd2N3b2tLRnd2OWVKNE44emVNWWh0SlRabWZWbVNIaThzLTNHWTFlWDFDblJhUC16NVBlUFl6cE1KbXN0bDE1TzRwbG00cGxJWnJfTlN0dDBUYlpEM3YtcW1OekZ3aUZXYTR4VDBBNkpvRXJOTHlBZ1F6Z0tNclpTUDAxLTNqY0NpY2tIb1FuZzJPX2F2bmw0OTE5azBuV1JsRDlTUHA0SnpqVFpB",
+    "source": "Google News",
+    "date": "Thu, 01 Oc",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPamFNVGk5NlZOVVZ2aXNJX3Rhd2N3b2tLRnd2OWVKNE44emVNWWh0SlRabWZWbVNIaThzLTNHWTFlWDFDblJhUC16NVBlUFl6cE1KbXN0bDE1TzRwbG00cGxJWnJfTlN0dDBUYlpEM3YtcW1OekZ3aUZXYTR4VDBBNkpvRXJOTHlBZ1F6Z0tNclpTUDAxLTNqY0NpY2tIb1FuZzJPX2F2bmw0OTE5azBuV1JsRDlTUHA0Sn",
+    "first_seen": "2026-10-05"
+  },
+  {
+    "title": "The Sleuths Who Expose When AI Goes Rogue - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX0dISjgxYkJlRzBQczRicDdQTDA3b0RUWFhfc0FuRW9RMHR1Nm0xeC1FU29SR2JLSWcxTURYZGRRQTU4dUlyNEhpSmhkTE8yUFNhMVpxcWJGcDhqM3YwcXk2M3huWjJIZHBfUkpVUWF1MjVDTFhwbkU2N19lT3pUQ2xjLTk",
+    "source": "Google News",
+    "date": "Sat, 03 Oc",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPX0dISjgxYkJlRzBQczRicDdQTDA3b0RUWFhfc0FuRW9RMHR1Nm0xeC1FU29SR2JLSWcxTURYZGRRQTU4dUlyNEhpSmhkTE8yUFNhMVpxcWJGcDhqM3YwcXk2M3huWjJIZHBfUkpVUWF1MjVDTFhwbkU2N19lT3pUQ2xjLTk?oc=5\" target=\"_blank\">The Sleuths Who Expose When AI Goes Rogue</a>&nb",
+    "first_seen": "2026-10-05"
   }
 ]
