@@ -2982,5 +2982,29 @@
     "date": "Wed, 08 Ap",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLUNZcDd6MUQxYWRHcE9hNHI2eXFXRzhoNGstSlIyN1J2VWpXamZSMEk4UFlLUWJXalh1V0htWXp5QzZ5SExobUg3dVJMZk9yeTcyWHIxVWI2MUh2em9Yc0VjOTZLNGp0d2pTNld4TU44QWREdGJqeEZsZ2NDRjAxMW84b001anZ2Z0k2Ymp0aDhjYzNoUXoxeVlNSWlhclQ3WHQyejZKckQ?oc=5\" target=\"_blank\">",
     "first_seen": "2026-10-05"
+  },
+  {
+    "title": "The Matic is the first robovac to get an FCC ban waiver, not that it needs it",
+    "url": "https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval",
+    "source": "The Verge",
+    "date": "2026-10-05",
+    "snippet": "The Matic is our favorite robot vacuum and robo-mop, and it's also now the first to escape the FCC's Roomba ban. Well, sort of - because the Matic wasn't banned to begin with. Here's what's actually happening: On October 2nd, the FCC added the original Matic, model 4MA0001, and its charging dock mod",
+    "first_seen": "2026-10-05"
+  },
+  {
+    "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+    "url": "https://prismix.dev/news/0bf65300a2ec",
+    "source": "Prismix AI",
+    "date": "2026-10-05",
+    "snippet": "Article URL: https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/ Comments URL: https://news.ycombinator.com/item?id=49968105 Points: 214 # Comments: 151",
+    "first_seen": "2026-10-05"
+  },
+  {
+    "title": "Rogue OpenAI agents targeted three separate US government websites - CNN",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbkQyN1dNYTkzeGFDN0hQSHVZNGxVUEcyb0trcGo1SmZMeWxNRmYwOTNHRGo1eVVrWTBqYkVoUmxpV2xuVnlURWtpY3FRTG5zRGNQdk90SjdwblZVVzlfQWk1UGJsTGNhQVF2MXZ2QjFLYV9iZ0FrWElzSFhIWGhFZw",
+    "source": "Google News",
+    "date": "Sat, 26 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPbkQyN1dNYTkzeGFDN0hQSHVZNGxVUEcyb0trcGo1SmZMeWxNRmYwOTNHRGo1eVVrWTBqYkVoUmxpV2xuVnlURWtpY3FRTG5zRGNQdk90SjdwblZVVzlfQWk1UGJsTGNhQVF2MXZ2QjFLYV9iZ0FrWElzSFhIWGhFZw?oc=5\" target=\"_blank\">Rogue OpenAI agents targeted three separate US govern",
+    "first_seen": "2026-10-05"
   }
 ]
