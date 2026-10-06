@@ -2958,5 +2958,13 @@
     "date": "2026-10-06",
     "snippet": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
     "first_seen": "2026-10-06"
+  },
+  {
+    "title": "Tesla&#8217;s Model 3 and Model Y can be a backup battery for your house",
+    "url": "https://www.theverge.com/transportation/1006193/tesla-model-3-model-y-powershare-home-backup",
+    "source": "The Verge",
+    "date": "2026-10-06",
+    "snippet": "Some Tesla Model 3 and Model Y owners can use their EV battery to keep the lights on longer during a power outage, now that Tesla's expanding the Powershare Home Backup feature. It was previously only available on the Cybertruck, and also requires owning Tesla's Powerwall 3. However, support for the",
+    "first_seen": "2026-10-06"
   }
 ]
