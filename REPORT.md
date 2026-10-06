@@ -1,6 +1,6 @@
-# AI Incident Briefing — 2026-10-05
+# AI Incident Briefing — 2026-10-06
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 377_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 366_
 
 ## 1. Latest verified incidents
 
@@ -11,30 +11,28 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=377)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=366)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [Google News] OpenAI’s rogue agents keep escaping, with no formal process to investigate them - TechCrunch  (Fri, 04 Se)
-  https://news.google.com/rss/articles/CBMisgFBVV95cUxPcWFrb0RLWTRnN3AxdElBaGZSRkN3SEZFZzNWQnExc1hPdDJNUXdoNWR5R05BMGxOSTBhTE5sM3ZRUGJKVUpPUmFzdVhNa1gxYklHM3Jfc1g2clhFV3lBU1JpbUFSbEdqeEN4YUE4cENiVndaNXhnd2k0TDRPLTBVa29sVVFkaEdpTWJucVp3OWZTV1NyUkhyOHNMSlVBcEY3V1BINzF1T1QyMHg4ZFFMNVZ3
-- [Google News] Developer sabotaged ex-employer with kill switch activated when he was let go - The Register  (Sat, 08 Ma)
-  https://news.google.com/rss/articles/CBMiswFBVV95cUxOWDEyS3NBQzBNVXdkWkJGZlRUZFVTaUxvdE9OOTR1b1FSMmN0Y1QxM3QtZ1FTNzlCSThyMEE0aFRac2EtRHZZMkJ0REtVd1NzM0cxSFpyazN0ODhQOWVSR1Y2RmFLVUJSVkZSMVlYTG9pczZoSkFKV2xmUTd3RTRPd0dwSy1TNU90eW5oR3JwWHh5RTY5Nm8zRzhMTVg5aGV4MG5TQUJLS0Y0VTRIdEZIOEN5NA
-- [Google News] EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring - Reuters  (Fri, 04 Se)
-  https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk
-- [Google News] Claude agents sabotaged, then hid it - VentureBeat  (Thu, 13 Au)
-  https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYUN5d2JfQ3pKTWVPUTN4cmJQWnVZNjVNTnhGNTMyck96SW1vOU9lcjZqV2RtRlVIb25JT2RKbXZic2xsQ2d5MmpZZTM1SXE1ay1XYlZoRDZ1TnVIU1llckE2MlBZQkNMOHduaktNRWM1UGVCWVdPS0RDRUJOSGFJcFZla2Z5T1dWNFA5ek80akJ1NG9OdGFuZGc2ejc0cmRiSzN5NXZiclluS2pzODVuUktVamgxODl3N3ZyU0lvTlVnX0JWM0dNLVJjaGE5VjQ2czFJX2RSS1FYSlNTenU4UWU0RlB6Wm9XT0o0
-- [Google News] AI agents tried to sabotage and disable each other when given the same task, Anthropic said - Yahoo News Canada  (Thu, 13 Au)
-  https://news.google.com/rss/articles/CBMifkFVX3lxTFAwLTNkOTllNzVXNUFQNTVVYkNva1RSblpSYkE2X3NQdFpyVi1TbDlmOUVhZUoyV1FqQmR2Y3k4Y0tjSnZUZnl2Ulp5MzE1VGJNaEFfdVdCdDY5emtXOXp6NTVNZ2lfZmhMQmRhWW5JTC1UMjkwRVVKd3ZmNW9NZw
-- [Google News] AI agents aren’t going rogue, they’re just bad at following instructions - TechCentral.ie  (Fri, 20 Ma)
-  https://news.google.com/rss/articles/CBMingFBVV95cUxPNmxjUG5Jc1pmeUhKMWlEbGpKbV9KLUhKcHpvd09qTS1GYUVrSTV3Y3RKWWg2Q2RaUHpjeFFnbkJMbnBoQ1FoRnpfU05vb1dHRjBTalpwNElvdTE0THh1QWtqcWZkZ0VxNlVHWVBfNmNzTmlDaFBsY2xXd2tDdzVrR2NGTkRtNmtzUFhRQVlqZU1YNjJYeXJPb2t3cm5GUQ
-- [Google News] How ICE Went Rogue: Analysis of the Legal Authorities Governing ICE - American Immigration Council  (Wed, 11 Fe)
-  https://news.google.com/rss/articles/CBMigwFBVV95cUxPOE1HR2pJM1FNRzYtS3RuYlVIMVVGMW1lREhtakFHSGxRUkpNR3RrVFJEQm53RzR2WFJDNWpfUFNxcHF0cVAzcXlpQ1dUeG11UC1WLTJGSTFCU3hrQzc1WEQxZGt6OUxJU3ZkTHBzOGhBaHVHSHFEcTduY2pFdDZLWnJoaw
 - [Prismix AI] QBittorrent breaks out of sandbox to commit crimes  (2026-09-06)
   https://prismix.dev/news/db2851b15f07
 - [Google News] After OpenAI’s Bots Went Rogue, Watchdogs Were Kept on a Short Leash - The New York Times  (Fri, 04 Se)
   https://news.google.com/rss/articles/CBMigAFBVV95cUxOME1hSWlLYzY2a3I4TFBudWk0SkdZWDlVOE96LUJuNFJ0dkc1YVFYQnZBaVRETjc5VHBtUDVod1B1SDhxX0dKMHk0azh2a2stTjAtanNLdjBzLWlNQzFPUGh6TTQzczFzQ1Y5QlNCTlBxelFLVm9yQV9KZ1ZYRFphbA
 - [Google News] OpenAI agents hijacked German website before Hugging Face hack, report claims - BBC  (Fri, 04 Se)
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE93WldzcWRnVVJYRkpNMDN5Y3VRLXpaalZqNUpPYzJrNGJIaVd0Q1dKQ2J4RmVyQThUTUp4S2Y3bV9MZm1VUHZiS3B5dWsyVTY3bjM0X1RlVU9sQQ
+- [Prismix AI] Evaluating Large Language Models for Forced Outage Risk Prediction: Benefits and Comparison to Machine Learning  (2026-09-07)
+  https://prismix.dev/news/916e02165d17
+- [Google News] OpenAI AI Agents Hijacked A German Wiki To Share Sandbox Escape Tricks - Forbes  (Mon, 07 Se)
+  https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjlIbVRJZndNY0c4RU5FSFFlNDVzZ0ktVng3S2lBVHlxQnVCWHd3cW1YRm5JQmJqeUF4ZlN4bnNSU1dmT1QwTzNCTjBtMXBlQnN2VnFaWEhiS0UwdjM4NFpUX3dPMFE2UnN5eWpud05Tcl9SUkFsTy1vazFkT0NBY1JJdXpPVHF3VUtDTjlYYlNvcm4wdms1SGlkdU5JaXUtckNQX3A0Zk1MZFhvNFAwYXNaUzFWNnpSOEhvaEllYw
+- [Anthropic News (sitemap)] Disrupting ai espionage  (2026-09-08)
+  https://www.anthropic.com/news/disrupting-AI-espionage
+- [Google News] OpenAI models went rogue. We urgently need a better Hugging Face investigation - The Guardian  (Tue, 08 Se)
+  https://news.google.com/rss/articles/CBMiogFBVV95cUxNN253ZVo1a19jdWlBRG5VdmVxYldxelhDSnBuVE4xUzBxLWhyc0lWUUthWE4temZ1QkxoeFBNcTdjVGtTdzUyc1NkQXQybklqdmRyZmd3RWZ5eGdNQUhXZzN3YkVtSVlTMkpmakxXbWZtQlk4cXFHV1lLOTJXSlBTWWdvaWUxdks3c3k5MVRWVHR2TUV4bGNTTUp1NmtiUVdRS0E
+- [Hacker News] OpenAI's German Wiki Hack Is Less About "Rogue AI" Than Failed Agent Containment  (2026-09-08)
+  https://securityboulevard.com/2026/09/openais-german-wiki-hack-is-less-about-rogue-ai-than-failed-agent-containment/
+- [Google News] OpenAI releases new AI agent – after admitting one went rogue - The Guardian  (Tue, 08 Se)
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFA3V0NZQmphR3B4eVV6dWM3Rm9Xb0RBUDhNZ2trT2RONml2Q0dsV0VQRlN3ZGQyVTlHSWJ0SGphX1h4MldQSnp1R05DQWVjV0JXbUVPR05XcEViTWtMaWprUWdYX1QwaEdUek9mdlJvR1dnZ1RBWWJPcHc2ek55ZlU
 
 ## 4. Early-warning watchlist (be first to know)
 
