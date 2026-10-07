@@ -8,78 +8,6 @@
     "first_seen": "2026-08-25"
   },
   {
-    "title": "b10826",
-    "url": "https://prismix.dev/news/11f7ccb1d25a",
-    "source": "Prismix AI",
-    "date": "2026-09-06",
-    "snippet": "cuda: fixes races in mmid and mmf ( #28475 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/45586039 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework…",
-    "first_seen": "2026-09-06"
-  },
-  {
-    "title": "b10825",
-    "url": "https://prismix.dev/news/133af4e5e9cf",
-    "source": "Prismix AI",
-    "date": "2026-09-06",
-    "snippet": "grammar : fix max repetition threshold ( #28469 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/45568343 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework…",
-    "first_seen": "2026-09-06"
-  },
-  {
-    "title": "8 uncensored Qwen 3.8 27B variants, one base, 167 GPU hours - Abliterlitics",
-    "url": "https://prismix.dev/news/6ec8e65aa66e",
-    "source": "Prismix AI",
-    "date": "2026-09-06",
-    "snippet": "This comparison was requested by a few people, and certainly we were all eager to see the final results. The comparison had taken 11 days and the GPU was crunching numbers for ~167 hours. We've been comparing different abliterated models from huggingface to see if they really…",
-    "first_seen": "2026-09-06"
-  },
-  {
-    "title": "QBittorrent breaks out of sandbox to commit crimes",
-    "url": "https://prismix.dev/news/db2851b15f07",
-    "source": "Prismix AI",
-    "date": "2026-09-06",
-    "snippet": "Article URL: https://beige.party/@intransitivelie/117057396732763183 Comments URL: https://news.ycombinator.com/item?id=49586171 Points: 425 # Comments: 76",
-    "first_seen": "2026-09-06"
-  },
-  {
-    "title": "b10823",
-    "url": "https://prismix.dev/news/b0c41f0fb825",
-    "source": "Prismix AI",
-    "date": "2026-09-06",
-    "snippet": "common: add --log-jsonl ( #28437 ) common: add --log-jsonl rename unknown to none Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/45560949 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED…",
-    "first_seen": "2026-09-06"
-  },
-  {
-    "title": "b10827",
-    "url": "https://prismix.dev/news/d235634c2e1d",
-    "source": "Prismix AI",
-    "date": "2026-09-06",
-    "snippet": "opencl: properly choose weights pack for q4_K, q5_K mul_mat ( #28402 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/45608946 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel…",
-    "first_seen": "2026-09-06"
-  },
-  {
-    "title": "After OpenAI’s Bots Went Rogue, Watchdogs Were Kept on a Short Leash - The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOME1hSWlLYzY2a3I4TFBudWk0SkdZWDlVOE96LUJuNFJ0dkc1YVFYQnZBaVRETjc5VHBtUDVod1B1SDhxX0dKMHk0azh2a2stTjAtanNLdjBzLWlNQzFPUGh6TTQzczFzQ1Y5QlNCTlBxelFLVm9yQV9KZ1ZYRFphbA",
-    "source": "Google News",
-    "date": "Fri, 04 Se",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOME1hSWlLYzY2a3I4TFBudWk0SkdZWDlVOE96LUJuNFJ0dkc1YVFYQnZBaVRETjc5VHBtUDVod1B1SDhxX0dKMHk0azh2a2stTjAtanNLdjBzLWlNQzFPUGh6TTQzczFzQ1Y5QlNCTlBxelFLVm9yQV9KZ1ZYRFphbA?oc=5\" target=\"_blank\">After OpenAI’s Bots Went Rogue, Watchdogs Were Kept o",
-    "first_seen": "2026-09-06"
-  },
-  {
-    "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims - BBC",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93WldzcWRnVVJYRkpNMDN5Y3VRLXpaalZqNUpPYzJrNGJIaVd0Q1dKQ2J4RmVyQThUTUp4S2Y3bV9MZm1VUHZiS3B5dWsyVTY3bjM0X1RlVU9sQQ",
-    "source": "Google News",
-    "date": "Fri, 04 Se",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE93WldzcWRnVVJYRkpNMDN5Y3VRLXpaalZqNUpPYzJrNGJIaVd0Q1dKQ2J4RmVyQThUTUp4S2Y3bV9MZm1VUHZiS3B5dWsyVTY3bjM0X1RlVU9sQQ?oc=5\" target=\"_blank\">OpenAI agents hijacked German website before Hugging Face hack, report claims</a>&nbsp;&nbsp;<font color=",
-    "first_seen": "2026-09-06"
-  },
-  {
-    "title": "Evaluating Large Language Models for Forced Outage Risk Prediction: Benefits and Comparison to Machine Learning",
-    "url": "https://prismix.dev/news/916e02165d17",
-    "source": "Prismix AI",
-    "date": "2026-09-07",
-    "snippet": "arXiv:2609.04272v1 Announce Type: cross Abstract: This study examines the ability of large language models (LLMs) to predict the risk of weather-related forced outages in the distribution grid in a zero-shot framework, without labeled training data. The problem is formulated as…",
-    "first_seen": "2026-09-06"
-  },
-  {
     "title": "OpenAI AI Agents Hijacked A German Wiki To Share Sandbox Escape Tricks - Forbes",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjlIbVRJZndNY0c4RU5FSFFlNDVzZ0ktVng3S2lBVHlxQnVCWHd3cW1YRm5JQmJqeUF4ZlN4bnNSU1dmT1QwTzNCTjBtMXBlQnN2VnFaWEhiS0UwdjM4NFpUX3dPMFE2UnN5eWpud05Tcl9SUkFsTy1vazFkT0NBY1JJdXpPVHF3VUtDTjlYYlNvcm4wdms1SGlkdU5JaXUtckNQX3A0Zk1MZFhvNFAwYXNaUzFWNnpSOEhvaEllYw",
     "source": "Google News",
@@ -2968,14 +2896,6 @@
     "first_seen": "2026-10-06"
   },
   {
-    "title": "Show HN: Misalignments when using AI for hacking",
-    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
-    "source": "Hacker News",
-    "date": "2026-08-05",
-    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
-    "first_seen": "2026-10-06"
-  },
-  {
     "title": "Biology, Buddhism and AI: the Platonic space model and the rogue agent swarm",
     "url": "https://okossa.com/biology-buddhism-and-ai-ff213a852eb4",
     "source": "Hacker News",
@@ -3000,35 +2920,19 @@
     "first_seen": "2026-10-06"
   },
   {
-    "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment - WIRED",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ",
-    "source": "Google News",
-    "date": "Thu, 06 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ?oc=5\" target=\"_blank\">One of China’s Most Powerful AI Models Has Also Escaped Containme",
-    "first_seen": "2026-10-06"
+    "title": "b11460",
+    "url": "https://prismix.dev/news/5c2906c99bce",
+    "source": "Prismix AI",
+    "date": "2026-10-07",
+    "snippet": "sycl: add IQ3_S multi-column MMVQ ( #29500 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/53455527 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework…",
+    "first_seen": "2026-10-07"
   },
   {
-    "title": "DPS Arrests Man in Possession of Hundreds of AI-Generated Images Involving South Texas Children - Texas Department of Public Safety (.gov)",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGtoWGxKYU0tNEFGSzVuMTFBTzRPSDRMNjJDeUFXeVpTU3JvLUlmNUhLSFhmRmhHdGdqM2NsM1FaTTVhS1ZnY2tPbHJ0QUxWcmcySHJpeEtxUXBxbzdHR0duQ3lRQmFtNTJvdW84TUMxTzMtSmQ4Y0xLZ3FoTHVFY0NLWFpIb0VQTm5Fc044UXdDTU9EblFyekdYLWFCODFrUVJDRi1JN1hoYzhYbUNMc3FwRHpSQjli",
-    "source": "Google News",
-    "date": "Fri, 29 Ma",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGtoWGxKYU0tNEFGSzVuMTFBTzRPSDRMNjJDeUFXeVpTU3JvLUlmNUhLSFhmRmhHdGdqM2NsM1FaTTVhS1ZnY2tPbHJ0QUxWcmcySHJpeEtxUXBxbzdHR0duQ3lRQmFtNTJvdW84TUMxTzMtSmQ4Y0xLZ3FoTHVFY0NLWFpIb0VQTm5Fc044UXdDTU9EblFyekdYLWFCODFrUVJDRi1JN1hoYzhYbUNMc3FwRHpSQjli?o",
-    "first_seen": "2026-10-06"
-  },
-  {
-    "title": "Police used AI facial recognition to arrest a Tennessee woman for crimes committed in a state she says she’s never visited - CNN",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YTmlPZzU5S3RCZElOWGZ2aXpGSjItTDBvUVJLNDRzWmhyUHR6TXIyWjBVRzJaWk5CUVNrTzUwMjU0MzJXVlFCQTVmNGl4OTUzRnFHRk96RUdjQ3hNQ2hTUE5TbDUtdko4dVZ3T09WMmszRzN5Uy1J",
-    "source": "Google News",
-    "date": "Sun, 29 Ma",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1YTmlPZzU5S3RCZElOWGZ2aXpGSjItTDBvUVJLNDRzWmhyUHR6TXIyWjBVRzJaWk5CUVNrTzUwMjU0MzJXVlFCQTVmNGl4OTUzRnFHRk96RUdjQ3hNQ2hTUE5TbDUtdko4dVZ3T09WMmszRzN5Uy1J?oc=5\" target=\"_blank\">Police used AI facial recognition to arrest a Tennessee woman for c",
-    "first_seen": "2026-10-06"
-  },
-  {
-    "title": "Atlanta man arrested for conspiring to smuggle AI technology to China - WABE",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeTI0S1hSSlBaenBUVjBfTlB6YTJxNjZNZk1DRjNUb1RnQU43N1hyOTB5M01Zdy1XLVRxQW45VWJIaXdoVEQyOUI3ZGh5RDV0SWRSZ1FQMjF5T01rTk9WcmZ4SWttX0pXcV85YkpacUlaWlNXY0pmcmZQa1NMNjNEcko2a28tRV80ZXFWOWdOc1NFcEM4ZFE",
-    "source": "Google News",
-    "date": "Mon, 30 Ma",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOeTI0S1hSSlBaenBUVjBfTlB6YTJxNjZNZk1DRjNUb1RnQU43N1hyOTB5M01Zdy1XLVRxQW45VWJIaXdoVEQyOUI3ZGh5RDV0SWRSZ1FQMjF5T01rTk9WcmZ4SWttX0pXcV85YkpacUlaWlNXY0pmcmZQa1NMNjNEcko2a28tRV80ZXFWOWdOc1NFcEM4ZFE?oc=5\" target=\"_blank\">Atlanta man arrested for",
-    "first_seen": "2026-10-06"
+    "title": "b11459",
+    "url": "https://prismix.dev/news/e90be0694fe4",
+    "source": "Prismix AI",
+    "date": "2026-10-07",
+    "snippet": "ggml-webgpu: no dawn native features on wasi ( #27069 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/53445261 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS…",
+    "first_seen": "2026-10-07"
   }
 ]
