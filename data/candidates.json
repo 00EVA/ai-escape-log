@@ -2966,5 +2966,69 @@
     "date": "2026-10-06",
     "snippet": "Some Tesla Model 3 and Model Y owners can use their EV battery to keep the lights on longer during a power outage, now that Tesla's expanding the Powershare Home Backup feature. It was previously only available on the Cybertruck, and also requires owning Tesla's Powerwall 3. However, support for the",
     "first_seen": "2026-10-06"
+  },
+  {
+    "title": "Show HN: Misalignments when using AI for hacking",
+    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
+    "source": "Hacker News",
+    "date": "2026-08-05",
+    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
+    "first_seen": "2026-10-06"
+  },
+  {
+    "title": "Biology, Buddhism and AI: the Platonic space model and the rogue agent swarm",
+    "url": "https://okossa.com/biology-buddhism-and-ai-ff213a852eb4",
+    "source": "Hacker News",
+    "date": "2026-10-07",
+    "snippet": "",
+    "first_seen": "2026-10-06"
+  },
+  {
+    "title": "Anthropic Claude subscription plan provides more value than OpenAI's, study says",
+    "url": "https://www.reddit.com/r/singularity/comments/1wzml7d/anthropic_claude_subscription_plan_provides_more/",
+    "source": "Reddit r/singularity",
+    "date": "2026-10-07",
+    "snippet": "   What&#39;s your experience been?     &#32; submitted by &#32;   /u/GamingDisruptor       [link]   &#32;   [comments]  ",
+    "first_seen": "2026-10-06"
+  },
+  {
+    "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
+    "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
+    "source": "Simon Willison",
+    "date": "2026-10-07",
+    "snippet": "\n    \n<p><strong><a href=\"https://wikimediafoundation.org/news/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/\">OpenAI “rogue” agent activities found on Wikimedia projects</a></strong></p>\nGiven how tempting a target wikis are for rogue agent swarms, it's not a huge surprise th",
+    "first_seen": "2026-10-06"
+  },
+  {
+    "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment - WIRED",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ",
+    "source": "Google News",
+    "date": "Thu, 06 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ?oc=5\" target=\"_blank\">One of China’s Most Powerful AI Models Has Also Escaped Containme",
+    "first_seen": "2026-10-06"
+  },
+  {
+    "title": "DPS Arrests Man in Possession of Hundreds of AI-Generated Images Involving South Texas Children - Texas Department of Public Safety (.gov)",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGtoWGxKYU0tNEFGSzVuMTFBTzRPSDRMNjJDeUFXeVpTU3JvLUlmNUhLSFhmRmhHdGdqM2NsM1FaTTVhS1ZnY2tPbHJ0QUxWcmcySHJpeEtxUXBxbzdHR0duQ3lRQmFtNTJvdW84TUMxTzMtSmQ4Y0xLZ3FoTHVFY0NLWFpIb0VQTm5Fc044UXdDTU9EblFyekdYLWFCODFrUVJDRi1JN1hoYzhYbUNMc3FwRHpSQjli",
+    "source": "Google News",
+    "date": "Fri, 29 Ma",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGtoWGxKYU0tNEFGSzVuMTFBTzRPSDRMNjJDeUFXeVpTU3JvLUlmNUhLSFhmRmhHdGdqM2NsM1FaTTVhS1ZnY2tPbHJ0QUxWcmcySHJpeEtxUXBxbzdHR0duQ3lRQmFtNTJvdW84TUMxTzMtSmQ4Y0xLZ3FoTHVFY0NLWFpIb0VQTm5Fc044UXdDTU9EblFyekdYLWFCODFrUVJDRi1JN1hoYzhYbUNMc3FwRHpSQjli?o",
+    "first_seen": "2026-10-06"
+  },
+  {
+    "title": "Police used AI facial recognition to arrest a Tennessee woman for crimes committed in a state she says she’s never visited - CNN",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YTmlPZzU5S3RCZElOWGZ2aXpGSjItTDBvUVJLNDRzWmhyUHR6TXIyWjBVRzJaWk5CUVNrTzUwMjU0MzJXVlFCQTVmNGl4OTUzRnFHRk96RUdjQ3hNQ2hTUE5TbDUtdko4dVZ3T09WMmszRzN5Uy1J",
+    "source": "Google News",
+    "date": "Sun, 29 Ma",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1YTmlPZzU5S3RCZElOWGZ2aXpGSjItTDBvUVJLNDRzWmhyUHR6TXIyWjBVRzJaWk5CUVNrTzUwMjU0MzJXVlFCQTVmNGl4OTUzRnFHRk96RUdjQ3hNQ2hTUE5TbDUtdko4dVZ3T09WMmszRzN5Uy1J?oc=5\" target=\"_blank\">Police used AI facial recognition to arrest a Tennessee woman for c",
+    "first_seen": "2026-10-06"
+  },
+  {
+    "title": "Atlanta man arrested for conspiring to smuggle AI technology to China - WABE",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeTI0S1hSSlBaenBUVjBfTlB6YTJxNjZNZk1DRjNUb1RnQU43N1hyOTB5M01Zdy1XLVRxQW45VWJIaXdoVEQyOUI3ZGh5RDV0SWRSZ1FQMjF5T01rTk9WcmZ4SWttX0pXcV85YkpacUlaWlNXY0pmcmZQa1NMNjNEcko2a28tRV80ZXFWOWdOc1NFcEM4ZFE",
+    "source": "Google News",
+    "date": "Mon, 30 Ma",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOeTI0S1hSSlBaenBUVjBfTlB6YTJxNjZNZk1DRjNUb1RnQU43N1hyOTB5M01Zdy1XLVRxQW45VWJIaXdoVEQyOUI3ZGh5RDV0SWRSZ1FQMjF5T01rTk9WcmZ4SWttX0pXcV85YkpacUlaWlNXY0pmcmZQa1NMNjNEcko2a28tRV80ZXFWOWdOc1NFcEM4ZFE?oc=5\" target=\"_blank\">Atlanta man arrested for",
+    "first_seen": "2026-10-06"
   }
 ]
