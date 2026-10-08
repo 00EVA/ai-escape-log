@@ -1,6 +1,6 @@
 # AI Incident Briefing — 2026-10-08
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 385_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 375_
 
 ## 1. Latest verified incidents
 
@@ -11,12 +11,10 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=385)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=375)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [Google News] OpenAI AI Agents Hijacked A German Wiki To Share Sandbox Escape Tricks - Forbes  (Mon, 07 Se)
-  https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjlIbVRJZndNY0c4RU5FSFFlNDVzZ0ktVng3S2lBVHlxQnVCWHd3cW1YRm5JQmJqeUF4ZlN4bnNSU1dmT1QwTzNCTjBtMXBlQnN2VnFaWEhiS0UwdjM4NFpUX3dPMFE2UnN5eWpud05Tcl9SUkFsTy1vazFkT0NBY1JJdXpPVHF3VUtDTjlYYlNvcm4wdms1SGlkdU5JaXUtckNQX3A0Zk1MZFhvNFAwYXNaUzFWNnpSOEhvaEllYw
 - [Anthropic News (sitemap)] Disrupting ai espionage  (2026-09-08)
   https://www.anthropic.com/news/disrupting-AI-espionage
 - [Google News] OpenAI models went rogue. We urgently need a better Hugging Face investigation - The Guardian  (Tue, 08 Se)
@@ -29,6 +27,8 @@ If one of these hits you: AI crime triage: is the AI the actor (rogue agent/auto
   https://news.google.com/rss/articles/CBMilgFBVV95cUxNSktsb3pHOUx0OWFva1BzbXotUTlTZkJROHplVFRKS1FuSXVRckN6SUVOdnZVVGg0VExIMXhfM1Iwd1ltOThPSU1BWmJCWW1jQnprdXFLd29hcDV1ZjRZNkNWQ05ERFNXZGlnVXpXc1o5Y2RaNTdSZ0syUUE4TmJhWVBicENoU2lHTlE4UW1kaE1ZRFZUZmc
 - [Google News] Major AI platforms suffer outages - The Express Tribune  (Fri, 04 Se)
   https://news.google.com/rss/articles/CBMiekFVX3lxTFBNSHljS2ZZTTRVQVE3T1RZdTdtODJkY3FWWlpiVGx6YTNqUGJnWmdIS2wxdzJQcHQwODRqbmtVZkFhb1lFY1JVdFZOWk1XNGswS2g1YUV1NENWRFQxcWl0WG1XU1diU3NHTUcxY1BRN0h1U2RnLTJxb2ln0gGCAUFVX3lxTFBPYTNxU1VUVF9vOElrb2M0MEpxM3Juc2J5cHlSdlVCemJ5OEFuMTI1Z2RoMTNQOFB6RzgxUm9WS25GbThac1lYM01YVjdCeHVHdHhHTXVzZkgwMGxsZUNhUk02SDVfcXNjeGs4Mm1GSENaZUZ5R1pEWkRTblptR2RsdWc
+- [Hacker News] OpenAI's rogue AI agents used more sites  (2026-09-09)
+  https://qz.com/openai-agents-unauthorized-websites-communications-researchers-090926
 
 ## 4. Early-warning watchlist (be first to know)
 
