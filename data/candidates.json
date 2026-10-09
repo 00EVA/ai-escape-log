@@ -3086,5 +3086,69 @@
     "date": "2026-10-02",
     "snippet": "GitLab has remediated a vulnerability in the GitLab AI Gateway component affecting all versions of the AI Gateway from 18.1.6 before 19.2.4, 19.3 before 19.3.2, and 19.4 before 19.4.1 that, under certain conditions, could have allowed an authenticated user with Duo Agent Platform access to escape th",
     "first_seen": "2026-10-08"
+  },
+  {
+    "title": "Show HN: Misalignments when using AI for hacking",
+    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
+    "source": "Hacker News",
+    "date": "2026-08-05",
+    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
+    "first_seen": "2026-10-08"
+  },
+  {
+    "title": "OpenAI AI Agents Hijacked A German Wiki To Share Sandbox Escape Tricks - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjlIbVRJZndNY0c4RU5FSFFlNDVzZ0ktVng3S2lBVHlxQnVCWHd3cW1YRm5JQmJqeUF4ZlN4bnNSU1dmT1QwTzNCTjBtMXBlQnN2VnFaWEhiS0UwdjM4NFpUX3dPMFE2UnN5eWpud05Tcl9SUkFsTy1vazFkT0NBY1JJdXpPVHF3VUtDTjlYYlNvcm4wdms1SGlkdU5JaXUtckNQX3A0Zk1MZFhvNFAwYXNaUzFWNnpSOEhvaEllYw",
+    "source": "Google News",
+    "date": "Mon, 07 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjlIbVRJZndNY0c4RU5FSFFlNDVzZ0ktVng3S2lBVHlxQnVCWHd3cW1YRm5JQmJqeUF4ZlN4bnNSU1dmT1QwTzNCTjBtMXBlQnN2VnFaWEhiS0UwdjM4NFpUX3dPMFE2UnN5eWpud05Tcl9SUkFsTy1vazFkT0NBY1JJdXpPVHF3VUtDTjlYYlNvcm4wdms1SGlkdU5JaXUtckNQX3A0Zk1MZFhvNFAwYXNaUzFWNnpSOE",
+    "first_seen": "2026-10-08"
+  },
+  {
+    "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment - WIRED",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ",
+    "source": "Google News",
+    "date": "Thu, 06 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ?oc=5\" target=\"_blank\">One of China’s Most Powerful AI Models Has Also Escaped Containme",
+    "first_seen": "2026-10-08"
+  },
+  {
+    "title": "Hundreds of AI agents went rogue in OpenAI’s Hugging Face hack - Politico",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVF5Q3hJemxqUXVJd2M2OHpKZ3RPVmY4SEU0VUNpZmVtYWxabk1Mdy1lXzh3czEtUTFHbVZaNjAyZmpicG11X1ZPYzBTSWQxdWlCQlpnTmROWWtETlNCTk5SUDVYZHZWRzgtWnFJV3h1Qm5Ud284NDJWcmtmTmEtX2hnMmZQMXJqZFlkbnBwbzJqVVlKdEsyUXdrSVJuNDdjamFMZnNDRlI1Z2Q0X29EbQ",
+    "source": "Google News",
+    "date": "Wed, 26 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVF5Q3hJemxqUXVJd2M2OHpKZ3RPVmY4SEU0VUNpZmVtYWxabk1Mdy1lXzh3czEtUTFHbVZaNjAyZmpicG11X1ZPYzBTSWQxdWlCQlpnTmROWWtETlNCTk5SUDVYZHZWRzgtWnFJV3h1Qm5Ud284NDJWcmtmTmEtX2hnMmZQMXJqZFlkbnBwbzJqVVlKdEsyUXdrSVJuNDdjamFMZnNDRlI1Z2Q0X29EbQ?oc=5\" targe",
+    "first_seen": "2026-10-08"
+  },
+  {
+    "title": "OpenAI’s Models Went Rogue. Investigating Them Required More AI - Time Magazine",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUlgxMWpockg1SkJwbUVKVENYVHRaM2pXZHg4al9STXJTZ2ttWk5DMFlCOEE1cGE5V25YZEc0LUlWajRGM2VFNlRlQ051dy10Q0xJZVJGdUxzUFhuTjlYZnpCcjVSbm9oenF5LW5DV1hncVNLVmNrZHROS3VTbzV3ag",
+    "source": "Google News",
+    "date": "Thu, 27 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQUlgxMWpockg1SkJwbUVKVENYVHRaM2pXZHg4al9STXJTZ2ttWk5DMFlCOEE1cGE5V25YZEc0LUlWajRGM2VFNlRlQ051dy10Q0xJZVJGdUxzUFhuTjlYZnpCcjVSbm9oenF5LW5DV1hncVNLVmNrZHROS3VTbzV3ag?oc=5\" target=\"_blank\">OpenAI’s Models Went Rogue. Investigating Them Requir",
+    "first_seen": "2026-10-08"
+  },
+  {
+    "title": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk",
+    "source": "Google News",
+    "date": "Sun, 16 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk?oc=5\" target=\"_blank\">How AI Models From OpenAI and An",
+    "first_seen": "2026-10-08"
+  },
+  {
+    "title": "Safety testing was an obscure part of building AI. Then models went rogue. - Politico",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVN4elg3T3hlZW1JNVpwN0tBWklxNlV6aG9pM21ILVF5MVFDU3d1Z3c0QU1OeTdXTkpoMU5rWFppVlQwSWd6V0NLN3pmeGNHSzhzTjJnbnFFZTE3Umhfd1R4ZXFtRFBMVzA3NEpCODR2VEFDQXR3bTA2alFCMHFIaWl3dw",
+    "source": "Google News",
+    "date": "Sat, 15 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVN4elg3T3hlZW1JNVpwN0tBWklxNlV6aG9pM21ILVF5MVFDU3d1Z3c0QU1OeTdXTkpoMU5rWFppVlQwSWd6V0NLN3pmeGNHSzhzTjJnbnFFZTE3Umhfd1R4ZXFtRFBMVzA3NEpCODR2VEFDQXR3bTA2alFCMHFIaWl3dw?oc=5\" target=\"_blank\">Safety testing was an obscure part of building AI",
+    "first_seen": "2026-10-08"
+  },
+  {
+    "title": "Rogue AI Agents Have Gone Too Far Now That They’ve Infiltrated Wikipedia - Futurism",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94T0V6UG54YUFFRkxkS0w5UHVFaVhxVFNTZ0NucTNnYWNlcEhFSklqc3E2aVR1cVhYVmtaZTFsNi1OV2RIRHVYN2hfT1RzcS01cU91bmZJcVdXMlJmajcxTURSUmFfZnlId0xWRC1qUjM1U21QcmJzWDl3",
+    "source": "Google News",
+    "date": "Wed, 07 Oc",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE94T0V6UG54YUFFRkxkS0w5UHVFaVhxVFNTZ0NucTNnYWNlcEhFSklqc3E2aVR1cVhYVmtaZTFsNi1OV2RIRHVYN2hfT1RzcS01cU91bmZJcVdXMlJmajcxTURSUmFfZnlId0xWRC1qUjM1U21QcmJzWDl3?oc=5\" target=\"_blank\">Rogue AI Agents Have Gone Too Far Now That They’ve Infiltrated ",
+    "first_seen": "2026-10-08"
   }
 ]
