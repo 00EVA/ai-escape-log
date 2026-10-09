@@ -3102,5 +3102,69 @@
     "date": "2026-10-09",
     "snippet": "vulkan: fix rms_norm workgroup count overflow ( #30145 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/54337638 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS…",
     "first_seen": "2026-10-09"
+  },
+  {
+    "title": "Show HN: Misalignments when using AI for hacking",
+    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
+    "source": "Hacker News",
+    "date": "2026-08-05",
+    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
+    "first_seen": "2026-10-09"
+  },
+  {
+    "title": "Disrupting ai espionage",
+    "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
+    "source": "Anthropic News (sitemap)",
+    "date": "2026-09-10",
+    "snippet": "",
+    "first_seen": "2026-10-09"
+  },
+  {
+    "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+    "source": "The Verge",
+    "date": "2026-10-09",
+    "snippet": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this wee",
+    "first_seen": "2026-10-09"
+  },
+  {
+    "title": "OpenAI AI Agents Hijacked A German Wiki To Share Sandbox Escape Tricks - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjlIbVRJZndNY0c4RU5FSFFlNDVzZ0ktVng3S2lBVHlxQnVCWHd3cW1YRm5JQmJqeUF4ZlN4bnNSU1dmT1QwTzNCTjBtMXBlQnN2VnFaWEhiS0UwdjM4NFpUX3dPMFE2UnN5eWpud05Tcl9SUkFsTy1vazFkT0NBY1JJdXpPVHF3VUtDTjlYYlNvcm4wdms1SGlkdU5JaXUtckNQX3A0Zk1MZFhvNFAwYXNaUzFWNnpSOEhvaEllYw",
+    "source": "Google News",
+    "date": "Mon, 07 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjlIbVRJZndNY0c4RU5FSFFlNDVzZ0ktVng3S2lBVHlxQnVCWHd3cW1YRm5JQmJqeUF4ZlN4bnNSU1dmT1QwTzNCTjBtMXBlQnN2VnFaWEhiS0UwdjM4NFpUX3dPMFE2UnN5eWpud05Tcl9SUkFsTy1vazFkT0NBY1JJdXpPVHF3VUtDTjlYYlNvcm4wdms1SGlkdU5JaXUtckNQX3A0Zk1MZFhvNFAwYXNaUzFWNnpSOE",
+    "first_seen": "2026-10-09"
+  },
+  {
+    "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment - WIRED",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ",
+    "source": "Google News",
+    "date": "Thu, 06 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ?oc=5\" target=\"_blank\">One of China’s Most Powerful AI Models Has Also Escaped Containme",
+    "first_seen": "2026-10-09"
+  },
+  {
+    "title": "Irregular says ‘human oversight’ responsible for AI sandbox escape incidents - CyberScoop",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14dHp5VTM1c0VfVmhHWmhRdEhEb2NHVnVyWWJtelNCcmtYNGxfS0Z5anNPOG9peGZHZGJhMUNWYndobUtneVMxS2VrTktSQ0hLNEgzblI2TVI2OXdmWWo5MmU0cVJCdXBlVFNUbWtVU1NxR2FmVUE",
+    "source": "Google News",
+    "date": "Mon, 17 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE14dHp5VTM1c0VfVmhHWmhRdEhEb2NHVnVyWWJtelNCcmtYNGxfS0Z5anNPOG9peGZHZGJhMUNWYndobUtneVMxS2VrTktSQ0hLNEgzblI2TVI2OXdmWWo5MmU0cVJCdXBlVFNUbWtVU1NxR2FmVUE?oc=5\" target=\"_blank\">Irregular says ‘human oversight’ responsible for AI sandbox escape i",
+    "first_seen": "2026-10-09"
+  },
+  {
+    "title": "DPS Arrests Man in Possession of Hundreds of AI-Generated Images Involving South Texas Children - Texas Department of Public Safety (.gov)",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGtoWGxKYU0tNEFGSzVuMTFBTzRPSDRMNjJDeUFXeVpTU3JvLUlmNUhLSFhmRmhHdGdqM2NsM1FaTTVhS1ZnY2tPbHJ0QUxWcmcySHJpeEtxUXBxbzdHR0duQ3lRQmFtNTJvdW84TUMxTzMtSmQ4Y0xLZ3FoTHVFY0NLWFpIb0VQTm5Fc044UXdDTU9EblFyekdYLWFCODFrUVJDRi1JN1hoYzhYbUNMc3FwRHpSQjli",
+    "source": "Google News",
+    "date": "Fri, 29 Ma",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGtoWGxKYU0tNEFGSzVuMTFBTzRPSDRMNjJDeUFXeVpTU3JvLUlmNUhLSFhmRmhHdGdqM2NsM1FaTTVhS1ZnY2tPbHJ0QUxWcmcySHJpeEtxUXBxbzdHR0duQ3lRQmFtNTJvdW84TUMxTzMtSmQ4Y0xLZ3FoTHVFY0NLWFpIb0VQTm5Fc044UXdDTU9EblFyekdYLWFCODFrUVJDRi1JN1hoYzhYbUNMc3FwRHpSQjli?o",
+    "first_seen": "2026-10-09"
+  },
+  {
+    "title": "Police used AI facial recognition to arrest a Tennessee woman for crimes committed in a state she says she’s never visited - CNN",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YTmlPZzU5S3RCZElOWGZ2aXpGSjItTDBvUVJLNDRzWmhyUHR6TXIyWjBVRzJaWk5CUVNrTzUwMjU0MzJXVlFCQTVmNGl4OTUzRnFHRk96RUdjQ3hNQ2hTUE5TbDUtdko4dVZ3T09WMmszRzN5Uy1J",
+    "source": "Google News",
+    "date": "Sun, 29 Ma",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1YTmlPZzU5S3RCZElOWGZ2aXpGSjItTDBvUVJLNDRzWmhyUHR6TXIyWjBVRzJaWk5CUVNrTzUwMjU0MzJXVlFCQTVmNGl4OTUzRnFHRk96RUdjQ3hNQ2hTUE5TbDUtdko4dVZ3T09WMmszRzN5Uy1J?oc=5\" target=\"_blank\">Police used AI facial recognition to arrest a Tennessee woman for c",
+    "first_seen": "2026-10-09"
   }
 ]
