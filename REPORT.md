@@ -1,6 +1,6 @@
 # AI Incident Briefing — 2026-10-10
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 396_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 372_
 
 ## 1. Latest verified incidents
 
@@ -11,26 +11,30 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=396)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=372)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [Hacker News] OpenAI's German Wiki Hack Is Less About "Rogue AI" Than Failed Agent Containment  (2026-09-08)
-  https://securityboulevard.com/2026/09/openais-german-wiki-hack-is-less-about-rogue-ai-than-failed-agent-containment/
-- [Google News] OpenAI releases new AI agent – after admitting one went rogue - The Guardian  (Tue, 08 Se)
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFA3V0NZQmphR3B4eVV6dWM3Rm9Xb0RBUDhNZ2trT2RONml2Q0dsV0VQRlN3ZGQyVTlHSWJ0SGphX1h4MldQSnp1R05DQWVjV0JXbUVPR05XcEViTWtMaWprUWdYX1QwaEdUek9mdlJvR1dnZ1RBWWJPcHc2ek55ZlU
-- [Google News] All the Major AI Chatbots Are Experiencing Outages Right Now - Gizmodo  (Thu, 03 Se)
-  https://news.google.com/rss/articles/CBMilgFBVV95cUxNSktsb3pHOUx0OWFva1BzbXotUTlTZkJROHplVFRKS1FuSXVRckN6SUVOdnZVVGg0VExIMXhfM1Iwd1ltOThPSU1BWmJCWW1jQnprdXFLd29hcDV1ZjRZNkNWQ05ERFNXZGlnVXpXc1o5Y2RaNTdSZ0syUUE4TmJhWVBicENoU2lHTlE4UW1kaE1ZRFZUZmc
-- [Google News] Major AI platforms suffer outages - The Express Tribune  (Fri, 04 Se)
-  https://news.google.com/rss/articles/CBMiekFVX3lxTFBNSHljS2ZZTTRVQVE3T1RZdTdtODJkY3FWWlpiVGx6YTNqUGJnWmdIS2wxdzJQcHQwODRqbmtVZkFhb1lFY1JVdFZOWk1XNGswS2g1YUV1NENWRFQxcWl0WG1XU1diU3NHTUcxY1BRN0h1U2RnLTJxb2ln0gGCAUFVX3lxTFBPYTNxU1VUVF9vOElrb2M0MEpxM3Juc2J5cHlSdlVCemJ5OEFuMTI1Z2RoMTNQOFB6RzgxUm9WS25GbThac1lYM01YVjdCeHVHdHhHTXVzZkgwMGxsZUNhUk02SDVfcXNjeGs4Mm1GSENaZUZ5R1pEWkRTblptR2RsdWc
-- [Hacker News] OpenAI's rogue AI agents used more sites  (2026-09-09)
-  https://qz.com/openai-agents-unauthorized-websites-communications-researchers-090926
-- [Google News] OpenAI agent goes rogue in ‘unprecedented cyber incident,’ hacks into rival AI startup during security test - New York Post  (Wed, 22 Ju)
-  https://news.google.com/rss/articles/CBMisgFBVV95cUxNRS1LM0x0ZlhvUEpUdnNWbGhLbzdmNVJVNnRxUGQ2S1ROd1lYR1U3YnFubEhORnRfQ2ZvNmVpMHB0SUpRczg3eWZLWXVjS1VyQi0tU1dMRDJycnRzQWZfdm1NWmN4UG1EUHRfLVN1cG4wUWM4MTRVLUoxMlJ6MFNSTGVNeHVHZXZqQl9JYTFHVXNQb1cwdFNsNWoxb2EyS0k2am5ld0JIQU1feHMzVWdoc3F3
 - [Google News] AI is accelerating elder fraud. Their kids are reckoning with the fallout - USA Today  (Wed, 19 Au)
   https://news.google.com/rss/articles/CBMivgFBVV95cUxPSEVrMjRZS1p2bE1UazVYZXBEOWsxMWtFY0JPb0YtZXpJcndCS3hjUmVTdGdEZF9ONWtWdDJScWhCYVdXM3J0RVREYWZJMkNnb2RoWW5McVg3bnRZQ2tqbTJzaU9NaV9jcWp4aVBDRmNOVGZyVFFZa3BtZ09xejQwTGY0dFRBSEI5NFRYRnBqb2ttYjViNGxhc2plaHBSYmNCX0hraDJhdFI0VmFZNHQyOE0tNmxmVm9XaU5OdzFB
 - [Google News] US Disrupts Aisuru, Botnet Behind Record-Breaking 30Tbps DDoS Attacks - PCMag  (Fri, 20 Ma)
   https://news.google.com/rss/articles/CBMimwFBVV95cUxPWHFCS0lZTzJiMDBtc2Y5NXJQb0I4Nl9yd0w5SVYxS1FqaW4wRTdPN1ZYcWcwQmVYVk00OGRHSTlxdU92cS0tOE5kbjNmb0xTSXFKX25ZV29VclRQcU4tUEczcXAweGR1ZFVjYUFCVlVSR1BWNjk4aEdrZzNLZkRlcldadlhoWldnZDRKaUpzUlhrVE9xY3RPS1BsWQ
+- [Google News] CEO of AI firm Hugging Face calls last month's hack by OpenAI model "very weird and unprecedented" - CBS News  (Sun, 02 Au)
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE9yaGFxS0d4QWgzRW02N01rMS1pT2haVWkxSDk1VkpLRFFOSEhrNTVrejY1eTF3VmgxRXVfWHE5dllWSGRlU0lqRXlvTnU1c3luLU5FRkNkZ21ybVB4TEtvYXdBQWVLVVB2c1RzcFl1aVB3dXBh
+- [Google News] Hackers Use Autonomous AI Agents to Launch Mass Credential Theft Attacks in Under 6 Hours - cyberpress.org  (Wed, 09 Se)
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kY2hmZ19OUHc0SHlXeDZqSEd0ZldiemhJaVJ3bVZXN2drdUlWZy1iQmhQdkR5dnNUT0FCWmQyX3NPNENPY0s1NHctbVh0b080LWdhUkg0MzFQNUxNb0V1VVlla0NDVHfSAWdBVV95cUxPZGNoZmdfTlB3NEh5V3g2akhHdGZXYnpoSWlSd21WVzdna3VJVmctYkJoUHZEeXZzVE9BQlpkMl9zTzRDT2NLNTR3LW1YdG9PNC1nYVJINDMxUDVMTW9FdVVZZWtDQ1R3
+- [Reddit r/singularity] Is Cloud computing cooked post the Hugging Face hack?  (2026-09-10)
+  https://www.reddit.com/r/singularity/comments/1wckvtd/is_cloud_computing_cooked_post_the_hugging_face/
+- [Google News] Homeland Security Program Analyzes Americans' Finances to Flag Drivers Who Haven't Committed Crimes: Report - Military.com  (Wed, 09 Se)
+  https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYXBlS3J6emNpSEM1eU1Wck1qUVpKU21tcVUyTklrM0RoZ3BCS0Z4VTg1MWxjTmVBT0FNRFJacUVNbXBPUkFma3RTOGxnNU5ZNmpPeXROVUJIYlVURXAyYnNCZ0pUNkQ0c2JqeHpVWWp2VHNiR0FZS0RPSC1IejBrMW5fa2JjS2RlMTQtZDhIa2FnbmE4bWN0ZkRhelVnTHVTal9nVUlmcHE
+- [Prismix AI] Sen. Josh Hawley Launches Investigation Into OpenAI Hugging Face Hack  (2026-09-10)
+  https://prismix.dev/news/aa788aa57dbe
+- [Prismix AI] Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his  (2026-09-10)
+  https://prismix.dev/news/1587a3fbe537
+- [Hacker News] Anthropic reveals rogue AI agents hate CAPTCHAs, just like you  (2026-09-11)
+  https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/
+- [Google News] From OpenAI to Anthropic: How fake personas, hacked servers and 13-hour outages exposed AI risks - The Economic Times  (Fri, 11 Se)
+  https://news.google.com/rss/articles/CBMiqwJBVV95cUxQVWFCdDNhVWFhSy1ub0ZaRG5TNWtqQkQ1MzE5M3l0TnU4Qzk4UHJGeW1PNzRNMlRiS3dtN3RpLW1ZbmhScmZiUDBuVzJrNG9iSHhqR0JxREVCUXJ4V1daRk1QNzVSSHFlMlRKaFhSVkFrQUZkbjJSZnZISzNSLVF1WlBGTTE0Z3I2d0t6czJ5by13RUR2ZUVQS3B5cWt6YXNoTW5iY05GX1ZEY0Q5U29fRGxiakNTZ2I4VkhLM0VvZ3M2ZjBUSU5RX3V3djJxTGVsSE5GYnVjYUFvRi1yN1JIUFpBdHZVa18xR1dOS0ZTbDFCOThJVEt1Nkk2NDhIcHdMdU5uVi1UdXFGQ3RYWW1qM2VMSTdwcmlRRWEyRWQxRGZpQkZ1R1BVeENMNA
 
 ## 4. Early-warning watchlist (be first to know)
 
