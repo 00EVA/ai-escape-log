@@ -1,6 +1,6 @@
 # AI Incident Briefing — 2026-10-11
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 387_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 366_
 
 ## 1. Latest verified incidents
 
@@ -11,30 +11,22 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=387)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=366)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [Google News] AI is accelerating elder fraud. Their kids are reckoning with the fallout - USA Today  (Wed, 19 Au)
-  https://news.google.com/rss/articles/CBMivgFBVV95cUxPSEVrMjRZS1p2bE1UazVYZXBEOWsxMWtFY0JPb0YtZXpJcndCS3hjUmVTdGdEZF9ONWtWdDJScWhCYVdXM3J0RVREYWZJMkNnb2RoWW5McVg3bnRZQ2tqbTJzaU9NaV9jcWp4aVBDRmNOVGZyVFFZa3BtZ09xejQwTGY0dFRBSEI5NFRYRnBqb2ttYjViNGxhc2plaHBSYmNCX0hraDJhdFI0VmFZNHQyOE0tNmxmVm9XaU5OdzFB
-- [Google News] US Disrupts Aisuru, Botnet Behind Record-Breaking 30Tbps DDoS Attacks - PCMag  (Fri, 20 Ma)
-  https://news.google.com/rss/articles/CBMimwFBVV95cUxPWHFCS0lZTzJiMDBtc2Y5NXJQb0I4Nl9yd0w5SVYxS1FqaW4wRTdPN1ZYcWcwQmVYVk00OGRHSTlxdU92cS0tOE5kbjNmb0xTSXFKX25ZV29VclRQcU4tUEczcXAweGR1ZFVjYUFCVlVSR1BWNjk4aEdrZzNLZkRlcldadlhoWldnZDRKaUpzUlhrVE9xY3RPS1BsWQ
-- [Google News] CEO of AI firm Hugging Face calls last month's hack by OpenAI model "very weird and unprecedented" - CBS News  (Sun, 02 Au)
-  https://news.google.com/rss/articles/CBMidEFVX3lxTE9yaGFxS0d4QWgzRW02N01rMS1pT2haVWkxSDk1VkpLRFFOSEhrNTVrejY1eTF3VmgxRXVfWHE5dllWSGRlU0lqRXlvTnU1c3luLU5FRkNkZ21ybVB4TEtvYXdBQWVLVVB2c1RzcFl1aVB3dXBh
-- [Google News] Hackers Use Autonomous AI Agents to Launch Mass Credential Theft Attacks in Under 6 Hours - cyberpress.org  (Wed, 09 Se)
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kY2hmZ19OUHc0SHlXeDZqSEd0ZldiemhJaVJ3bVZXN2drdUlWZy1iQmhQdkR5dnNUT0FCWmQyX3NPNENPY0s1NHctbVh0b080LWdhUkg0MzFQNUxNb0V1VVlla0NDVHfSAWdBVV95cUxPZGNoZmdfTlB3NEh5V3g2akhHdGZXYnpoSWlSd21WVzdna3VJVmctYkJoUHZEeXZzVE9BQlpkMl9zTzRDT2NLNTR3LW1YdG9PNC1nYVJINDMxUDVMTW9FdVVZZWtDQ1R3
-- [Reddit r/singularity] Is Cloud computing cooked post the Hugging Face hack?  (2026-09-10)
-  https://www.reddit.com/r/singularity/comments/1wckvtd/is_cloud_computing_cooked_post_the_hugging_face/
-- [Google News] Homeland Security Program Analyzes Americans' Finances to Flag Drivers Who Haven't Committed Crimes: Report - Military.com  (Wed, 09 Se)
-  https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYXBlS3J6emNpSEM1eU1Wck1qUVpKU21tcVUyTklrM0RoZ3BCS0Z4VTg1MWxjTmVBT0FNRFJacUVNbXBPUkFma3RTOGxnNU5ZNmpPeXROVUJIYlVURXAyYnNCZ0pUNkQ0c2JqeHpVWWp2VHNiR0FZS0RPSC1IejBrMW5fa2JjS2RlMTQtZDhIa2FnbmE4bWN0ZkRhelVnTHVTal9nVUlmcHE
-- [Prismix AI] Sen. Josh Hawley Launches Investigation Into OpenAI Hugging Face Hack  (2026-09-10)
-  https://prismix.dev/news/aa788aa57dbe
-- [Prismix AI] Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his  (2026-09-10)
-  https://prismix.dev/news/1587a3fbe537
 - [Hacker News] Anthropic reveals rogue AI agents hate CAPTCHAs, just like you  (2026-09-11)
   https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/
 - [Google News] From OpenAI to Anthropic: How fake personas, hacked servers and 13-hour outages exposed AI risks - The Economic Times  (Fri, 11 Se)
   https://news.google.com/rss/articles/CBMiqwJBVV95cUxQVWFCdDNhVWFhSy1ub0ZaRG5TNWtqQkQ1MzE5M3l0TnU4Qzk4UHJGeW1PNzRNMlRiS3dtN3RpLW1ZbmhScmZiUDBuVzJrNG9iSHhqR0JxREVCUXJ4V1daRk1QNzVSSHFlMlRKaFhSVkFrQUZkbjJSZnZISzNSLVF1WlBGTTE0Z3I2d0t6czJ5by13RUR2ZUVQS3B5cWt6YXNoTW5iY05GX1ZEY0Q5U29fRGxiakNTZ2I4VkhLM0VvZ3M2ZjBUSU5RX3V3djJxTGVsSE5GYnVjYUFvRi1yN1JIUFpBdHZVa18xR1dOS0ZTbDFCOThJVEt1Nkk2NDhIcHdMdU5uVi1UdXFGQ3RYWW1qM2VMSTdwcmlRRWEyRWQxRGZpQkZ1R1BVeENMNA
+- [Prismix AI] One week left to book your exhibit table at TechCrunch Disrupt 2026  (2026-09-11)
+  https://prismix.dev/news/1e600384ae13
+- [Prismix AI] Final, final, final call for TechCrunch Disrupt 2026 Side Events  (2026-09-11)
+  https://prismix.dev/news/e976e1144298
+- [Google News] This AI-Developed Computer Worm Could Have Hijacked a Billion Accounts - PCMag  (Tue, 08 Se)
+  https://news.google.com/rss/articles/CBMingFBVV95cUxNSl9YSG9yYWIwREsyZXBPZF9iNFVBenZWaC15MWdTc1A3UUVYd055U0NkZXdxYTlVUDVHVVItQ2I2Mm9GaGF2SlN6bUtMMENLdjRDUVNKS2RrVlN6d2hYUlZnMloyOHRRckItWUZ5MU1xb2VXTXEwV3hxbEdTcnQzc0hMNktUcmhCZ2QxNUdIaVliZl9JdmJZYUJlNDJmZw
+- [Google News] OpenAI, Anthropic And Meta Traced Rogue AI To Israeli Startup Irregular - yellow.com  (Sat, 12 Se)
+  https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWHFfNnkyeWozbnZpMzh6WmFnRlQ3bFF1LXgtLWRKdk9oaTVlVGF4NUVRSDlPbXg0UjllNU54blJ0d05hWmJYZUR2Y0JWYWFfUlluSWFyWVFyN2tfNGZoaS04M3hnS2tNQll4RGdUNWZtSEhUNjUwYkpoYXVheG92VGVTT3FXeWdBeUtVMGg3UDU0MENadjlEVVBnSFBjY1VpVDM2REpkWm5WaHNBQkF5bHFFQ3VZVWdWQzAxalFxR0QwQWxLOEFlZDEyQm5UNE9NbVVJWS1wa2hVdURTTzRYREliaw
 
 ## 4. Early-warning watchlist (be first to know)
 
