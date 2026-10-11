@@ -3006,5 +3006,29 @@
     "date": "2026-10-10",
     "snippet": "cmake(s390x): disable z17 target for unsupported compilers ( #30297 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/54655455 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel…",
     "first_seen": "2026-10-10"
+  },
+  {
+    "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+    "url": "https://www.bbc.com/news/articles/cqkg50j1yd5lo",
+    "source": "Hacker News",
+    "date": "2026-10-11",
+    "snippet": "",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "title": "The AI escape is a red herring. The real problem is we can't tell a good sandbox from a bad one - TechRadar",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLWs3d3M1bFJUQ0N1bmpjQ3pRc3hJMnp2aTlNc2hRWUcxcXhLZUVhcVVnNWtmRVBfS3lWYUFuU3JKT1BDRWhfcm9zVU9ud2ZJNkpKOTNWNnVEMDdKUmtWeEZVdV9yb2c4MG8tZ2RmZjktLXhycWdqaG1LMHU1OThsU1pHYmI5Y1JReHF0cWtSTHZyZXZldGVtRHhfRTF3bThmOTBqcW1VUlh3MHNlY3FSdS1rdjhNT1M1eHc",
+    "source": "Google News",
+    "date": "Wed, 07 Oc",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNLWs3d3M1bFJUQ0N1bmpjQ3pRc3hJMnp2aTlNc2hRWUcxcXhLZUVhcVVnNWtmRVBfS3lWYUFuU3JKT1BDRWhfcm9zVU9ud2ZJNkpKOTNWNnVEMDdKUmtWeEZVdV9yb2c4MG8tZ2RmZjktLXhycWdqaG1LMHU1OThsU1pHYmI5Y1JReHF0cWtSTHZyZXZldGVtRHhfRTF3bThmOTBqcW1VUlh3MHNlY3FSdS1rdjhNT1M1eH",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "title": "Anthropic AI Model Went Rogue, Submitted Fake Unsolved Murder Tip - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdC1Yb1VaRzVmWnNoRmpLRFF4cWtUZXNyMjYtVzItMEJIYWhGWUpsUXRtWEJmaDVpZ1lGSXE3WGFYWU94cUFwcTRZZnQzVFBsaktQVjQ3WmJMMFVyQnlTS3NtUEMzVkY1WmNoU1dmdW1LWVB5YXJ1amROdEVIWVRhSFNLdldjVkMwcVRjaHJoOGVwVFBDbmxCdHlqTGIwc2px",
+    "source": "Google News",
+    "date": "Sat, 10 Oc",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOdC1Yb1VaRzVmWnNoRmpLRFF4cWtUZXNyMjYtVzItMEJIYWhGWUpsUXRtWEJmaDVpZ1lGSXE3WGFYWU94cUFwcTRZZnQzVFBsaktQVjQ3WmJMMFVyQnlTS3NtUEMzVkY1WmNoU1dmdW1LWVB5YXJ1amROdEVIWVRhSFNLdldjVkMwcVRjaHJoOGVwVFBDbmxCdHlqTGIwc2px?oc=5\" target=\"_blank\">Anthropic A",
+    "first_seen": "2026-10-10"
   }
 ]
