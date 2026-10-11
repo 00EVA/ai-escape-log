@@ -3030,5 +3030,69 @@
     "date": "Sat, 10 Oc",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOdC1Yb1VaRzVmWnNoRmpLRFF4cWtUZXNyMjYtVzItMEJIYWhGWUpsUXRtWEJmaDVpZ1lGSXE3WGFYWU94cUFwcTRZZnQzVFBsaktQVjQ3WmJMMFVyQnlTS3NtUEMzVkY1WmNoU1dmdW1LWVB5YXJ1amROdEVIWVRhSFNLdldjVkMwcVRjaHJoOGVwVFBDbmxCdHlqTGIwc2px?oc=5\" target=\"_blank\">Anthropic A",
     "first_seen": "2026-10-10"
+  },
+  {
+    "title": "Show HN: Locksmith: Store Maven Secrets in the macOS Keychain (Or a Unix Socket)",
+    "url": "https://github.com/exabrial/locksmith",
+    "source": "Hacker News",
+    "date": "2026-09-09",
+    "snippet": "Hello HN,<p>In the age of LLMs sucking in random secrets, sandbox escapes, and RCE orbital bombardment, I thought it&#x27;d be a good idea to create a Maven Extension that defers to the MacOS keychain for resolving secrets. In general, it&#x27;s a good idea to not have any secrets (passwords, tokens",
+    "first_seen": "2026-10-11"
+  },
+  {
+    "title": "Show HN: Misalignments when using AI for hacking",
+    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
+    "source": "Hacker News",
+    "date": "2026-08-05",
+    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
+    "first_seen": "2026-10-11"
+  },
+  {
+    "title": "Feeling Overwhelmed and Anxious/Excited",
+    "url": "https://www.reddit.com/r/singularity/comments/1x3508x/feeling_overwhelmed_and_anxiousexcited/",
+    "source": "Reddit r/singularity",
+    "date": "2026-10-11",
+    "snippet": "   I have been extremely overwhelmed by the recent news of AI progress to the point that I can&#39;t put my phone down. I keep scrolling this subreddit and AI twitter to look for more news. I am addicted to the dopamine hit of seeing AI do unprecedented tasks such as solving millennium problems and ",
+    "first_seen": "2026-10-11"
+  },
+  {
+    "title": "PSA: DeepSeek V4.1 Flash habitually exfiltrates API keys. It is dangerously misaligned and may be hazardous to use",
+    "url": "https://www.reddit.com/r/singularity/comments/1x334jy/psa_deepseek_v41_flash_habitually_exfiltrates_api/",
+    "source": "Reddit r/singularity",
+    "date": "2026-10-11",
+    "snippet": "              &#32; submitted by &#32;   /u/likeastar20       [link]   &#32;   [comments]      ",
+    "first_seen": "2026-10-11"
+  },
+  {
+    "title": "Disrupting ai espionage",
+    "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
+    "source": "Anthropic News (sitemap)",
+    "date": "2026-09-10",
+    "snippet": "",
+    "first_seen": "2026-10-11"
+  },
+  {
+    "title": "PSA: DeepSeek V4.1 Flash habitually exfiltrates API keys. It is dangerously misaligned and may be hazardous to use",
+    "url": "https://prismix.dev/news/9e4d386643bb",
+    "source": "Prismix AI",
+    "date": "2026-10-11",
+    "snippet": "Logs attached. I know OpenRouter is not local, but considering people do run DeepSeek v4.1 Flash locally, I thought this was a matter you all might need to hear. We were running a DeepSWE variant on DeepSeek v4.1 Flash using the standard Pier sandbox. Out of all the 15 models we…",
+    "first_seen": "2026-10-11"
+  },
+  {
+    "title": "OpenAI AI Agents Hijacked A German Wiki To Share Sandbox Escape Tricks - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjlIbVRJZndNY0c4RU5FSFFlNDVzZ0ktVng3S2lBVHlxQnVCWHd3cW1YRm5JQmJqeUF4ZlN4bnNSU1dmT1QwTzNCTjBtMXBlQnN2VnFaWEhiS0UwdjM4NFpUX3dPMFE2UnN5eWpud05Tcl9SUkFsTy1vazFkT0NBY1JJdXpPVHF3VUtDTjlYYlNvcm4wdms1SGlkdU5JaXUtckNQX3A0Zk1MZFhvNFAwYXNaUzFWNnpSOEhvaEllYw",
+    "source": "Google News",
+    "date": "Mon, 07 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjlIbVRJZndNY0c4RU5FSFFlNDVzZ0ktVng3S2lBVHlxQnVCWHd3cW1YRm5JQmJqeUF4ZlN4bnNSU1dmT1QwTzNCTjBtMXBlQnN2VnFaWEhiS0UwdjM4NFpUX3dPMFE2UnN5eWpud05Tcl9SUkFsTy1vazFkT0NBY1JJdXpPVHF3VUtDTjlYYlNvcm4wdms1SGlkdU5JaXUtckNQX3A0Zk1MZFhvNFAwYXNaUzFWNnpSOE",
+    "first_seen": "2026-10-11"
+  },
+  {
+    "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case - BBC",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12Zjh2Z2tETEw5MzJ4VEZnV2wxUVFCY09JWTVhNEktZDZSR3ZPN1VVaWkzblc1WkJXeDJ4VmNvbUIxUFBMUGpIUkJzRVJSRGJHaWpTYk9LYklpenM",
+    "source": "Google News",
+    "date": "Sat, 10 Oc",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE12Zjh2Z2tETEw5MzJ4VEZnV2wxUVFCY09JWTVhNEktZDZSR3ZPN1VVaWkzblc1WkJXeDJ4VmNvbUIxUFBMUGpIUkJzRVJSRGJHaWpTYk9LYklpenM?oc=5\" target=\"_blank\">Rogue Anthropic AI agent gave police fake tip in unsolved murder case</a>&nbsp;&nbsp;<font color=\"#6f6f6",
+    "first_seen": "2026-10-11"
   }
 ]
