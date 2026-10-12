@@ -1,6 +1,6 @@
-# AI Incident Briefing — 2026-10-11
+# AI Incident Briefing — 2026-10-12
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 367_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 356_
 
 ## 1. Latest verified incidents
 
@@ -11,22 +11,30 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=367)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=356)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [Hacker News] Anthropic reveals rogue AI agents hate CAPTCHAs, just like you  (2026-09-11)
-  https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/
-- [Google News] From OpenAI to Anthropic: How fake personas, hacked servers and 13-hour outages exposed AI risks - The Economic Times  (Fri, 11 Se)
-  https://news.google.com/rss/articles/CBMiqwJBVV95cUxQVWFCdDNhVWFhSy1ub0ZaRG5TNWtqQkQ1MzE5M3l0TnU4Qzk4UHJGeW1PNzRNMlRiS3dtN3RpLW1ZbmhScmZiUDBuVzJrNG9iSHhqR0JxREVCUXJ4V1daRk1QNzVSSHFlMlRKaFhSVkFrQUZkbjJSZnZISzNSLVF1WlBGTTE0Z3I2d0t6czJ5by13RUR2ZUVQS3B5cWt6YXNoTW5iY05GX1ZEY0Q5U29fRGxiakNTZ2I4VkhLM0VvZ3M2ZjBUSU5RX3V3djJxTGVsSE5GYnVjYUFvRi1yN1JIUFpBdHZVa18xR1dOS0ZTbDFCOThJVEt1Nkk2NDhIcHdMdU5uVi1UdXFGQ3RYWW1qM2VMSTdwcmlRRWEyRWQxRGZpQkZ1R1BVeENMNA
-- [Prismix AI] One week left to book your exhibit table at TechCrunch Disrupt 2026  (2026-09-11)
-  https://prismix.dev/news/1e600384ae13
-- [Prismix AI] Final, final, final call for TechCrunch Disrupt 2026 Side Events  (2026-09-11)
-  https://prismix.dev/news/e976e1144298
-- [Google News] This AI-Developed Computer Worm Could Have Hijacked a Billion Accounts - PCMag  (Tue, 08 Se)
-  https://news.google.com/rss/articles/CBMingFBVV95cUxNSl9YSG9yYWIwREsyZXBPZF9iNFVBenZWaC15MWdTc1A3UUVYd055U0NkZXdxYTlVUDVHVVItQ2I2Mm9GaGF2SlN6bUtMMENLdjRDUVNKS2RrVlN6d2hYUlZnMloyOHRRckItWUZ5MU1xb2VXTXEwV3hxbEdTcnQzc0hMNktUcmhCZ2QxNUdIaVliZl9JdmJZYUJlNDJmZw
 - [Google News] OpenAI, Anthropic And Meta Traced Rogue AI To Israeli Startup Irregular - yellow.com  (Sat, 12 Se)
   https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWHFfNnkyeWozbnZpMzh6WmFnRlQ3bFF1LXgtLWRKdk9oaTVlVGF4NUVRSDlPbXg0UjllNU54blJ0d05hWmJYZUR2Y0JWYWFfUlluSWFyWVFyN2tfNGZoaS04M3hnS2tNQll4RGdUNWZtSEhUNjUwYkpoYXVheG92VGVTT3FXeWdBeUtVMGg3UDU0MENadjlEVVBnSFBjY1VpVDM2REpkWm5WaHNBQkF5bHFFQ3VZVWdWQzAxalFxR0QwQWxLOEFlZDEyQm5UNE9NbVVJWS1wa2hVdURTTzRYREliaw
+- [Google News] OpenAI admits its agent went rogue, triggering a major hack - Scientific American  (Wed, 22 Ju)
+  https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0YwYWZvNkJGYV9qdkVxSDlyRGFFZ2RMU29ycnRFRnVRdTM3RmwtR0pNZHphOGpmUmI0UFdWNkh5NnJDc2VMOEVka0xmS2hoQXo1aEd3d3JWOF9rd2FBOHRRWjJtOW1fN2dpZGh1N05wMkhvVVZJd001akZVRUpjZHAtSGdvZEZXQ1V6MU90TmtMMXR5MnV1TXFZM0R6dTBqcEJFUXJlYkRLTno0cFpIUWRMcw
+- [Google News] OpenAI AI models went rogue during testing, triggering 'unprecedented' breach at startup - Reuters  (Wed, 22 Ju)
+  https://news.google.com/rss/articles/CBMixAFBVV95cUxQT3oyVDNzekNWY3BJUUZLVGNsb3Z3VUhXc3pfSmtEZG96bzk2RFQ4MTZBWDdQVHlyZTlDOWhEN1o3dzVuekVuWUh2cWFPMy1SU0sxWnl3WkVSbFpKTzBqOU54WjlwM0Jfd185OWsxT1BLbGpHcmlaNHdCalhub0x2cVVBai11dVhPdEVsZERZWHo3anRQMi0yUGZEN0VVOEZHcEJuZ1pxMHp2U2dkSWNhYmhOOXR0aGJjVXVTdHE3MGw1aEgw
+- [Google News] OpenAI reveals another rogue AI attack - Politico  (Sat, 12 Se)
+  https://news.google.com/rss/articles/CBMikgFBVV95cUxPbXZXNlk4VC1HcDRMVVZkUDBBcW5KQmJPZWpPWHFPdXZWV1d2MDlqeWNBcWRLUFZFN2dPWFZxV2xDSW55anpnM2RZcHVDeXVUeDZ0ZlBBdGtndVBrM3YyZkt1VUxTaVdLcHhtN1J2YVlqMno0TjI2blBhZTV0WE1QZlBaZkxiU19BSGdyLUsxN0ZNdw
+- [Reddit r/singularity] In Defense of a Rogue ASI  (2026-09-12)
+  https://www.reddit.com/r/singularity/comments/1wekb4g/in_defense_of_a_rogue_asi/
+- [Google News] Elder Fraud Meets AI and Romance Scams at Banks - American Bankers Association (ABA)  (Thu, 18 Ju)
+  https://news.google.com/rss/articles/CBMioAFBVV95cUxQT01iMkpyNHJWd25xWHJ2ZWZDR2xGYnp5eUYwd0gxS0hBVkQxZ2g4cnRoS1g0ZVpnTnVfdFNGNkJnTHpNYVFrbXFuTHlzOVpkWUJiTm54NWs3azh3Rkt6YjMxQnZFX2wtU2lBYjBmZVN2aWs3ZXhyTjBJVTVtdmJQR3FwN1dIR3J0NEhDSlZxQzdxcVFiaHVxWnhRUWdRRFVU
+- [Google News] Optus Faces Backlash After Telecom Outage Disrupts Emergency Services - Devdiscourse  (Sat, 12 Se)
+  https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVERmME91OXBQb2pMelpsNjJPUm9URURNMm0wLVdKUy1FSDE1QkN3REc4UWxIbXBXcXYtTTR3dm16QkNwMUNpU3FmSHFwY2dUSzNhbGN3RlJ6UGh1Sk5uWVFpM040cUsyREs4X1g1eHM1U1lCNXIyMmVWd0tObEpXOThjdllYT084c2hJZXBGaVQ0eVBvSVB3cUQ2MFJTVjVQcHpWWDJDejFwU0E5Tk1VZ1ZTRkhqUFdmRFd5dmxQeG1XdzB5Y01aedIByAFBVV95cUxOVERmME91OXBQb2pMelpsNjJPUm9URURNMm0wLVdKUy1FSDE1QkN3REc4UWxIbXBXcXYtTTR3dm16QkNwMUNpU3FmSHFwY2dUSzNhbGN3RlJ6UGh1Sk5uWVFpM040cUsyREs4X1g1eHM1U1lCNXIyMmVWd0tObEpXOThjdllYT084c2hJZXBGaVQ0eVBvSVB3cUQ2MFJTVjVQcHpWWDJDejFwU0E5Tk1VZ1ZTRkhqUFdmRFd5dmxQeG1XdzB5Y01aeQ
+- [Prismix AI] Could rogue agent swarms take over the entire internet in the next six months?  (2026-09-12)
+  https://prismix.dev/news/eac9688dff19
+- [The Verge] OpenAI’s rogue AI tried to hack another company in May  (2026-09-12)
+  https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack
+- [Google News] OpenAI, Anthropic And Meta Traced Rogue AI To Israeli Startup Irregular - Yellow.com  (Sun, 13 Se)
+  https://news.google.com/rss/articles/CBMikAFBVV95cUxPSW1hLVBmRlZvRW9tR1Y5dG0ybERrMU5ZQkZXUWpKQUVhR0xYcHFTbFpMMDMyX09tT1AwbVRwc0hCUDVoRk0wZEJ4dDdBMDRqR0k3S0NHZVp4NlR2eWN5Um42amsycDgyTXgtUEZQVFo3ZHBJVWktTklqbm5BbktnOW1ORDlrMU10UzZYd0l1NkE
 
 ## 4. Early-warning watchlist (be first to know)
 
