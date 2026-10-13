@@ -2838,5 +2838,21 @@
     "date": "2026-10-13",
     "snippet": "CVE-2026-96951 | Microsoft Windows | Microsoft Windows Shell contains a command injection vulnerability that allows an unauthorized attacker to bypass a security feature over a network.",
     "first_seen": "2026-10-13"
+  },
+  {
+    "title": "OpenAI Employee Arrested For Allegedly Installing Office Listening Device",
+    "url": "https://prismix.dev/news/e77a730011c9",
+    "source": "Prismix AI",
+    "date": "2026-10-13",
+    "snippet": "An OpenAI employee, Abdulrahman Alfozan, has been arrested in connection with a hidden listening device uncovered at one of the company’s San Francisco offices, the Justice Department said on Tuesday. The employee, who has been terminated, was charged with “using or endeavoring…",
+    "first_seen": "2026-10-13"
+  },
+  {
+    "title": "Watch Anthropic AI Model Goes Rogue, Gives Cops a Fake Tip - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRktSSGFHZndpSmg5MFdJWWM2Z0IwU1dKbEM2YTBuUkQxMXctRFVia0l4ODZhVHhDU2IyRks5NU5rY0txNG14MGRlbEFURWZaMGwzcmlyTFk4QnkyR2RpN1dUREJVMHNPM3MxTUdoZ2NUVU1PanZkeFpjbFZPM2Z4XzFwQXZ0dTZfNWZxa2FwLVRHM2VVYnNNQkRyQ3VaMFBwMW5OX3plRGxuQQ",
+    "source": "Google News",
+    "date": "Mon, 12 Oc",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRktSSGFHZndpSmg5MFdJWWM2Z0IwU1dKbEM2YTBuUkQxMXctRFVia0l4ODZhVHhDU2IyRks5NU5rY0txNG14MGRlbEFURWZaMGwzcmlyTFk4QnkyR2RpN1dUREJVMHNPM3MxTUdoZ2NUVU1PanZkeFpjbFZPM2Z4XzFwQXZ0dTZfNWZxa2FwLVRHM2VVYnNNQkRyQ3VaMFBwMW5OX3plRGxuQQ?oc=5\" target=\"_blan",
+    "first_seen": "2026-10-13"
   }
 ]
