@@ -2806,5 +2806,37 @@
     "date": "2026-10-13",
     "snippet": "CVE-2026-104935 | Ivanti Connect Secure | Ivanti Connect Secure contains an authentication bypass by spoofing vulnerability that allows a remote unauthenticated attacker to execute arbitrary commands.",
     "first_seen": "2026-10-13"
+  },
+  {
+    "title": "OpenAI employee planted a bug in an office, arrested by FBI",
+    "url": "https://www.reddit.com/r/singularity/comments/1x56x7s/openai_employee_planted_a_bug_in_an_office/",
+    "source": "Reddit r/singularity",
+    "date": "2026-10-13",
+    "snippet": "              &#32; submitted by &#32;   /u/AlyoshaV       [link]   &#32;   [comments]      ",
+    "first_seen": "2026-10-13"
+  },
+  {
+    "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+    "source": "The Verge",
+    "date": "2026-10-13",
+    "snippet": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee, 35-year-old Abdulrahman Alfozan, is charged with using or attempting to use a device to intercept oral communications, according to a report from The Sa",
+    "first_seen": "2026-10-13"
+  },
+  {
+    "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+    "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+    "source": "The Verge",
+    "date": "2026-10-13",
+    "snippet": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience. Microsoft has witnessed skateboarding being modded into Call of Duty a",
+    "first_seen": "2026-10-13"
+  },
+  {
+    "title": "CISA KEV: Microsoft Windows Command Injection Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-96951",
+    "source": "CISA KEV catalog",
+    "date": "2026-10-13",
+    "snippet": "CVE-2026-96951 | Microsoft Windows | Microsoft Windows Shell contains a command injection vulnerability that allows an unauthorized attacker to bypass a security feature over a network.",
+    "first_seen": "2026-10-13"
   }
 ]
