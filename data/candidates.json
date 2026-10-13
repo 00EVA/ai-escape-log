@@ -2774,5 +2774,37 @@
     "date": "Sun, 11 Oc",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOVg5Q2ZFcnd1UzRaNUNOQ2FoR25jR1dmVDBVX010Nlo1S1JOTmlycmFZSVp6VDdJN0hqZEh6eE9TdXNPOEZIczE4dFItNllsbmZCUFVKaGdsVkR2SjBoNEdYcm1VYVRYXzNKb1RoSGNNWV9VcHFGVnZib3JRUjh2OF8zS3gtS2JSaEh0RkRHLTktajRfRDFadVBqQlB6clZMTk5NS01na29nTGVzWnBIeGl2OTJXeEJTVG",
     "first_seen": "2026-10-12"
+  },
+  {
+    "title": "\"Rogue agents find a way out\": AI communes with evil.com after bypassing sandbox",
+    "url": "https://www.machine.news/rogue-agents-will-always-find-a-way-out-ai-communes-with-evil-com-after-bypassing-sandbox/",
+    "source": "Hacker News",
+    "date": "2026-10-13",
+    "snippet": "",
+    "first_seen": "2026-10-13"
+  },
+  {
+    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+    "url": "https://prismix.dev/news/a982f604a503",
+    "source": "Prismix AI",
+    "date": "2026-10-13",
+    "snippet": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing at TechCrunch Disrupt's Startup Battlefield.",
+    "first_seen": "2026-10-13"
+  },
+  {
+    "title": "Sandbox vulnerability gives rogue AI agents a path to escape and leak data, research says - The Record from Recorded Future News",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORkYxYTZ5c05SLVZPVjVITTNGQ1E0TWwxWmQ0bDljUUx3YVBmdjhUZ0RvUVd5eUJPVHFMSXFJb2N0Q0daUmZLZUpUdGFsdW9NOGlIRGVQNFNlMHpGMmRsSXNRYVVQM0VoR2ZiT3FhRV9MNTNGRzdoY2E0QjIyMW81QU5R",
+    "source": "Google News",
+    "date": "Tue, 13 Oc",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxORkYxYTZ5c05SLVZPVjVITTNGQ1E0TWwxWmQ0bDljUUx3YVBmdjhUZ0RvUVd5eUJPVHFMSXFJb2N0Q0daUmZLZUpUdGFsdW9NOGlIRGVQNFNlMHpGMmRsSXNRYVVQM0VoR2ZiT3FhRV9MNTNGRzdoY2E0QjIyMW81QU5R?oc=5\" target=\"_blank\">Sandbox vulnerability gives rogue AI agents a path ",
+    "first_seen": "2026-10-13"
+  },
+  {
+    "title": "CISA KEV: Ivanti Connect Secure Authentication Bypass by Spoofing Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-104935",
+    "source": "CISA KEV catalog",
+    "date": "2026-10-13",
+    "snippet": "CVE-2026-104935 | Ivanti Connect Secure | Ivanti Connect Secure contains an authentication bypass by spoofing vulnerability that allows a remote unauthenticated attacker to execute arbitrary commands.",
+    "first_seen": "2026-10-13"
   }
 ]
