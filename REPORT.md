@@ -1,4 +1,4 @@
-# AI Incident Briefing — 2026-10-13
+# AI Incident Briefing — 2026-10-14
 
 _Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 360_
 
