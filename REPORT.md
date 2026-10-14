@@ -1,6 +1,6 @@
 # AI Incident Briefing — 2026-10-14
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 360_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 362_
 
 ## 1. Latest verified incidents
 
@@ -11,7 +11,7 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=360)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=362)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
@@ -29,6 +29,8 @@ If one of these hits you: AI crime triage: is the AI the actor (rogue agent/auto
   https://news.google.com/rss/articles/CBMikgFBVV95cUxOVWZid1NMTlE3aVFwbkdOUE5KN1FhN2FIYlNWcFUxRkx2Q2prc0VCdEtmUmI4SnI0QlVyRndZdDAyM0pRbXFwNWRDNk9tdE9TVjNBaFZLLTFWT2RTRHBBUGthVWh2cnB2a1gyMXhyMWR3S2p6aFF5UjhyTUljY1BWU3Q3Q04xVmZwd3RxbE9OWWFRQQ
 - [Prismix AI] Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026  (2026-09-15)
   https://prismix.dev/news/bbd5c8ed9218
+- [Prismix AI] 4 days left to exhibit at TechCrunch Disrupt 2026  (2026-09-15)
+  https://prismix.dev/news/4c476703f70e
 
 ## 4. Early-warning watchlist (be first to know)
 

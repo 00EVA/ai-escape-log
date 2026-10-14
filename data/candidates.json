@@ -8,14 +8,6 @@
     "first_seen": "2026-08-25"
   },
   {
-    "title": "Waymo pulls over, calls cops on riders with a ghost gun",
-    "url": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun",
-    "source": "The Verge",
-    "date": "2026-09-13",
-    "snippet": "Two people were arrested in San Fransico while riding around in a Waymo robotaxi after the cab pulled over and called the cops on them. The riders were juveniles in possession of a loaded AR-style ghost gun and were taken to a juvenile hall. While the police report did not specify who was operating ",
-    "first_seen": "2026-09-13"
-  },
-  {
     "title": "OpenAI, Anthropic And Meta Traced Rogue AI To Israeli Startup Irregular - Yellow.com",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSW1hLVBmRlZvRW9tR1Y5dG0ybERrMU5ZQkZXUWpKQUVhR0xYcHFTbFpMMDMyX09tT1AwbVRwc0hCUDVoRk0wZEJ4dDdBMDRqR0k3S0NHZVp4NlR2eWN5Um42amsycDgyTXgtUEZQVFo3ZHBJVWktTklqbm5BbktnOW1ORDlrMU10UzZYd0l1NkE",
     "source": "Google News",
@@ -2878,5 +2870,29 @@
     "date": "2026-10-13",
     "snippet": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
     "first_seen": "2026-10-13"
+  },
+  {
+    "title": "Rogue A.I. Agents from China Chatted with Researchers",
+    "url": "https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html",
+    "source": "Hacker News",
+    "date": "2026-10-14",
+    "snippet": "",
+    "first_seen": "2026-10-14"
+  },
+  {
+    "title": "Android is using AI to suss out scammers in Google Messages",
+    "url": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
+    "source": "The Verge",
+    "date": "2026-10-14",
+    "snippet": "Android is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools. Building on the Scam Detection feature in Google Messages, a new \"enhanced protection\" setting will be rol",
+    "first_seen": "2026-10-14"
+  },
+  {
+    "title": "Uncovering a universal offline sandbox escape - Prime Intellect",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZQ3FjdXhyQ3Frc2VybEJiYkJRNFJWcXBEMmRLckV5RTMxR1NrZ3ZMa1ljUEJoVTB2YVZBUmE1eW1HT1ZfSGk4N3ZwM1hjNDI4cUNzU2J6SHRVRUtGX3pLTXhHMkRBcGd0T2padGdrOW1FelNnNkE",
+    "source": "Google News",
+    "date": "Tue, 25 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZQ3FjdXhyQ3Frc2VybEJiYkJRNFJWcXBEMmRLckV5RTMxR1NrZ3ZMa1ljUEJoVTB2YVZBUmE1eW1HT1ZfSGk4N3ZwM1hjNDI4cUNzU2J6SHRVRUtGX3pLTXhHMkRBcGd0T2padGdrOW1FelNnNkE?oc=5\" target=\"_blank\">Uncovering a universal offline sandbox escape</a>&nbsp;&nbsp;<font c",
+    "first_seen": "2026-10-14"
   }
 ]
