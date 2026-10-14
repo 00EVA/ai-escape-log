@@ -2854,5 +2854,29 @@
     "date": "Mon, 12 Oc",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRktSSGFHZndpSmg5MFdJWWM2Z0IwU1dKbEM2YTBuUkQxMXctRFVia0l4ODZhVHhDU2IyRks5NU5rY0txNG14MGRlbEFURWZaMGwzcmlyTFk4QnkyR2RpN1dUREJVMHNPM3MxTUdoZ2NUVU1PanZkeFpjbFZPM2Z4XzFwQXZ0dTZfNWZxa2FwLVRHM2VVYnNNQkRyQ3VaMFBwMW5OX3plRGxuQQ?oc=5\" target=\"_blan",
     "first_seen": "2026-10-13"
+  },
+  {
+    "title": "b11608",
+    "url": "https://prismix.dev/news/9ee53793c399",
+    "source": "Prismix AI",
+    "date": "2026-10-14",
+    "snippet": "server : escape the special tokens without std::regex ( #30243 ) The d1-omni and kev prompts escape \"<|name|>\" in the request text with std::regex_replace. libstdc++ recurses for each char of the name, so a state of \"<|\" and 30000 letters overflows the stack of the HTTP thread…",
+    "first_seen": "2026-10-13"
+  },
+  {
+    "title": "OpenAI’s Bug and Bumble’s AI-Powered Exit",
+    "url": "https://prismix.dev/news/c4799deae60c",
+    "source": "Prismix AI",
+    "date": "2026-10-14",
+    "snippet": "When is someone going to make a TV show set at OpenAI? It’s got swarms of rogue AI agents causing havoc across the internet, not to mention periodic corporate drama. And today we learned that an OpenAI engineer allegedly planted a “sophisticated recording device” inside a…",
+    "first_seen": "2026-10-13"
+  },
+  {
+    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+    "url": "https://prismix.dev/news/89f4f685d9b7",
+    "source": "Prismix AI",
+    "date": "2026-10-13",
+    "snippet": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+    "first_seen": "2026-10-13"
   }
 ]
