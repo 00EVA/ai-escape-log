@@ -2910,5 +2910,45 @@
     "date": "Wed, 14 Oc",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdlVHMnk1RWxfQVhCZkd6cEwwRDEwbGlXNmtWSlFBNXhvTWtDN2x0cVcwSHlqb2pPQ3NIQmVMTlNnMGhFaXF4ckZVVmt3RXhUNHgyRWNRTHpVOXFpZ25hbnA0MjhzRW9ZOE9jYVBWLUN1bGdRcjVlcEZKRWJpOHhzckZ4YUlQdlJ0ZmpLUGctMERTRlEzM0t2MEx2eTZacHREcHVONlhMa0pKMFhOV1ZEenU1X1FTVHYt?o",
     "first_seen": "2026-10-14"
+  },
+  {
+    "title": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
+    "url": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown",
+    "source": "The Verge",
+    "date": "2026-10-14",
+    "snippet": "We've all gotten a scam text about a nonexistent parking ticket or a fake package delivery, but hopefully you'll start seeing fewer of them. Microsoft says it helped dismantle a marketplace for scammers sending phishing messages like those around the world. Through an investigation with Japan's Nati",
+    "first_seen": "2026-10-14"
+  },
+  {
+    "title": "CISA KEV: Ahsay AhsayCBS Command Injection Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-105134",
+    "source": "CISA KEV catalog",
+    "date": "2026-10-14",
+    "snippet": "CVE-2026-105134 | Ahsay AhsayCBS | Ahsay AhsayCBS contains a command injection vulnerability that could allow a remote attacker to execute operating system commands via manipulation of the random parameter in the Replication Receiver component’s /rps/api/json/UpdateReceivers.do endpoint. This vulnerability can be chained with CVE-202",
+    "first_seen": "2026-10-14"
+  },
+  {
+    "title": "CISA KEV: Cisco Secure Email Gateway Relative Path Traversal Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-76519",
+    "source": "CISA KEV catalog",
+    "date": "2026-10-14",
+    "snippet": "CVE-2026-76519 | Cisco Secure Email Gateway | Cisco Secure Email Gateway contains a relative path traversal vulnerability that could allow an unauthenticated, remote attacker to write arbitrary files on the underlying operating system.",
+    "first_seen": "2026-10-14"
+  },
+  {
+    "title": "CISA KEV: Ahsay AhsayCBS Improper Authentication Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-105133",
+    "source": "CISA KEV catalog",
+    "date": "2026-10-14",
+    "snippet": "CVE-2026-105133 | Ahsay AhsayCBS | Ahsay AhsayCBS contains an improper authentication vulnerability that could allow a remote attacker to bypass authentication via manipulation of the random parameter in the API component’s checkSysPwd function. This vulnerability can be chained with CVE-2026-105134.",
+    "first_seen": "2026-10-14"
+  },
+  {
+    "title": "CISA KEV: Palo Alto Networks PAN-OS Code Injection Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-0322",
+    "source": "CISA KEV catalog",
+    "date": "2026-10-14",
+    "snippet": "CVE-2026-0322 | Palo Alto Networks PAN-OS | Palo Alto Networks PAN-OS contains a code injection vulnerability that could allow an authenticated attacker with network access to execute arbitrary code with root privileges on the firewall.",
+    "first_seen": "2026-10-14"
   }
 ]
