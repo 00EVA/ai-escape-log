@@ -2902,5 +2902,21 @@
     "date": "2026-10-15",
     "snippet": "CVE-2026-21589 | Atlassian Multiple Products | Multiple Atlassian products (Bitbucket Data Center ,Confluence Data Center, Jira Service Management Data Center, Jira Software Data Center, Bamboo Data Center, Crowd Data Center, Crucible and Fisheye) contain a files or directories accessible to external parties vulnerability which could allow an un",
     "first_seen": "2026-10-15"
+  },
+  {
+    "title": "The tech backlash is now in theaters",
+    "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+    "source": "The Verge",
+    "date": "2026-10-15",
+    "snippet": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose ambitions are destabil",
+    "first_seen": "2026-10-15"
+  },
+  {
+    "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
+    "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+    "source": "The Verge",
+    "date": "2026-10-15",
+    "snippet": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni S",
+    "first_seen": "2026-10-15"
   }
 ]
