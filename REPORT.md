@@ -1,6 +1,6 @@
 # AI Incident Briefing — 2026-10-15
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 377_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 359_
 
 ## 1. Latest verified incidents
 
@@ -11,18 +11,10 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=377)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=359)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [Google News] OpenAI, Anthropic And Meta Traced Rogue AI To Israeli Startup Irregular - Yellow.com  (Sun, 13 Se)
-  https://news.google.com/rss/articles/CBMikAFBVV95cUxPSW1hLVBmRlZvRW9tR1Y5dG0ybERrMU5ZQkZXUWpKQUVhR0xYcHFTbFpMMDMyX09tT1AwbVRwc0hCUDVoRk0wZEJ4dDdBMDRqR0k3S0NHZVp4NlR2eWN5Um42amsycDgyTXgtUEZQVFo3ZHBJVWktTklqbm5BbktnOW1ORDlrMU10UzZYd0l1NkE
-- [Prismix AI] Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?  (2026-09-14)
-  https://prismix.dev/news/25868655719c
-- [Prismix AI] Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026  (2026-09-14)
-  https://prismix.dev/news/5069690d725c
-- [Prismix AI] 5 days left to exhibit at TechCrunch Disrupt 2026  (2026-09-14)
-  https://prismix.dev/news/3b89d94cbe0b
 - [Prismix AI] CrofAI "cheapest inference provider in the world" gets exposed as an OpenRouter wrapper, routing requests to smaller, cheaper models at up to 20x markup. CrofAI responds to Wire Fraud allegations by denying everything, then backtracking, then 3 hours later wiping their entire…  (2026-09-15)
   https://prismix.dev/news/d8847ae835e5
 - [Google News] OpenAI, Anthropic And Meta Traced Rogue AI To Israeli Startup Irregular - Yellow.com  (Tue, 15 Se)
@@ -31,6 +23,20 @@ If one of these hits you: AI crime triage: is the AI the actor (rogue agent/auto
   https://prismix.dev/news/bbd5c8ed9218
 - [Prismix AI] 4 days left to exhibit at TechCrunch Disrupt 2026  (2026-09-15)
   https://prismix.dev/news/4c476703f70e
+- [Prismix AI] Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents  (2026-09-15)
+  https://prismix.dev/news/2b82b6d196ef
+- [Google News] Opinion | How to keep AI from going rogue? Start with a 30-day stand-down. - The Washington Post  (Tue, 15 Se)
+  https://news.google.com/rss/articles/CBMirgFBVV95cUxNYTNnVHpCOUVUZDhXclZSUXZuY1liVUlMaFV6NHg5cU44X0FVY3lVMkZlcWtNUjNCbS13S2E5dkZCejlxV1lmdUpPUGJYbnBwUl9LZ29rZm1UQUhwNHdsd2RnbURGYk1ncVEteU5STUpieHl4V0M3ZGZMY19vRE8ySHZRV2NhM25aX2JEcms3NlRVUDNZMUpTUXMxRmkzMEFKcDFuT0praXFqdlFjTUE
+- [Google News] Can AI actually go rogue - jstribune.com  (Wed, 09 Se)
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE83OU9DSHdNUHZDNURRUEFWeFo2RE1YNTFqZXlVRTZsaEYzengwMHBad1VUUlJYeXAtWEI0NjVXek1LZUp0bzFSQzdtRlhzOF8xT2FfX0VsendPbWZxaGJLdQ
+- [Google News] Rogue AI didn’t breach Hugging Face, human decisions did - Bulletin of the Atomic Scientists  (Fri, 11 Se)
+  https://news.google.com/rss/articles/CBMikAFBVV95cUxQSW9hYXBVa3JCRUhZT081VVlZUEMzZHIzSFpveDlYdWdlQmJaWEI2WmhCeU05Yy1lOEtvRWJGbVZMM1g1SlEwMURZdndyTHFndk1PYk93ZjVWVGxlOUZObTE3VWY4R1VQaV95YUkyWWVqTVlSaTFVdGdfeVd1QTdFVXlabml6QURIR2pBWFVsY1A
+- [Google News] Anthropic Reveals Four Times AI Went Rogue and Attacked Real World Systems - Newsweek  (Thu, 10 Se)
+  https://news.google.com/rss/articles/CBMilAFBVV95cUxOVDBHUzhhTGJmcUEza1BQQlVkd3QzS2daa25mcHk2Ulk2Ynp2NjNYakQtRWNITUprUkw5RGtZSEZEMmJ5d1cyUEdkWHVjWmc1cWQ2a0dVWklHcVNldVY0enRSSGZiNS05N29HRkctTWlfeDJsdFQxRlI0bmZFd2tDMGJBcl84YWxjbGZEOHNsajI4MWlo
+- [Google News] How AI agents ignored their human handlers and went rogue in virtual world experiment - Sky News  (Tue, 15 Se)
+  https://news.google.com/rss/articles/CBMivgFBVV95cUxNOFVlV1NfQzQ2S2pTWV9TZWpfdXdfQ1R6aUpRbnF5dWFTaUtYWktwN2txaW8tQXBuTkxKeTN6Y2lJVjJSMGtXOXVKdFNUclpQeEw5MHNNRVpsOHdYU0pCSkt3SnJFWDdmenFLamp1QUFNNk4zR3ppQlpoX1cyNnZfX2p2VE5xNXk0VlNUX1EyYk5KTklZR3Z6NEVKNHlUaTZ4Sk1oTjBudGxhV2UwdGNLQUVUTlFESTh2ek5jcHR3
+- [Google News] Who's to blame when AI goes rogue? - wbur.org  (Thu, 10 Se)
+  https://news.google.com/rss/articles/CBMiggFBVV95cUxNVG4yck9faGFDVTdWZ0VjQ3lqTUNsWnNfYkY5ZGswZ0E4eFgxRldlS1JSdzRZOXZoOTFSLVMxTEdBYm1IWXpEajI0bWJfcTduSERqNVA3ODRBWTl1UHJwVlUtZFpIbm9qUlFSQUU2blAxTm5jeW9xWGJVWWVzZlhiTHhR
 
 ## 4. Early-warning watchlist (be first to know)
 
