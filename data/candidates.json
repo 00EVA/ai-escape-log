@@ -2798,5 +2798,45 @@
     "date": "Sun, 04 Oc",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaG44SjNGYXNHWEF2VkxVRnl5Q0lpbmdudW0tZmNfek1UcE1MalBiV1pmeEQ5OHpiS3YxNFRzeFhSMUJHUzZwVFZsR3JlR3JramZOUmxiZ3ZGbmpLa0FCa1lBUXZ3aUFHcHdCWWpFYTBxa1cyaHlDSlAyTWFFNmJQdUFNb1FJdndpQzQyVW05T3duTmlMa2l5dmU3LUU5MzhrSEl6VHBsbHhTdw?oc=5\" target=\"_blan",
     "first_seen": "2026-10-16"
+  },
+  {
+    "title": "Rogue AI agents broke into Indian firms' live systems",
+    "url": "https://www.reuters.com/legal/litigation/rogue-ai-agents-broke-into-indian-firms-live-systems-government-says-2026-10-16/",
+    "source": "Hacker News",
+    "date": "2026-10-16",
+    "snippet": "",
+    "first_seen": "2026-10-16"
+  },
+  {
+    "title": "FBI arrests Saudi OpenAI engineer over covert recording device, DOJ says - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjkxNVh4Vlg5aXhHdHJySlBhbC1iZVRDTTF1a2hiUk52eUlqUW1aWWtoeUg2TjQ0OWU1aURzNW5aWmZ1TEFBcGl4NTBIQVZSVnNPaFpFUnZqb2RjRzNQS0xLQjRkMmtJZWhuU1RLRXplcktzVnBHMVVhNThISzMxMVFYbXZoeWE2WFc3b2VzMlQ0Sl92Y0kwLXJ0MUxBOTdUNzFxdjR0VTI",
+    "source": "Google News",
+    "date": "Tue, 13 Oc",
+    "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjkxNVh4Vlg5aXhHdHJySlBhbC1iZVRDTTF1a2hiUk52eUlqUW1aWWtoeUg2TjQ0OWU1aURzNW5aWmZ1TEFBcGl4NTBIQVZSVnNPaFpFUnZqb2RjRzNQS0xLQjRkMmtJZWhuU1RLRXplcktzVnBHMVVhNThISzMxMVFYbXZoeWE2WFc3b2VzMlQ0Sl92Y0kwLXJ0MUxBOTdUNzFxdjR0VTI?oc=5\" target=\"",
+    "first_seen": "2026-10-16"
+  },
+  {
+    "title": "AI espionage fears rock Silicon Valley after OpenAI employee's arrest - Fox Business",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aYTQzRVRKUjAxbFhmZ3FDYmpKQ2tZU2IzQnBZWXFrcUFKZlNRcHFLbzlfTGNxNkl0ZlFtUGpPbEJZZE9MY0owVktQNUJ2UFFwZUlWQ3BOMkhOczA",
+    "source": "Google News",
+    "date": "Fri, 16 Oc",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aYTQzRVRKUjAxbFhmZ3FDYmpKQ2tZU2IzQnBZWXFrcUFKZlNRcHFLbzlfTGNxNkl0ZlFtUGpPbEJZZE9MY0owVktQNUJ2UFFwZUlWQ3BOMkhOczA?oc=5\" target=\"_blank\">AI espionage fears rock Silicon Valley after OpenAI employee's arrest</a>&nbsp;&nbsp;<font color=\"#6f6f6",
+    "first_seen": "2026-10-16"
+  },
+  {
+    "title": "CISA KEV: BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-102764",
+    "source": "CISA KEV catalog",
+    "date": "2026-10-16",
+    "snippet": "CVE-2026-102764 | BeyondTrust Remote Support | BeyondTrust Remote Support contains an authentication bypass by spoofing vulnerability that could allow a remote attacker to perform file operations on the appliance.",
+    "first_seen": "2026-10-16"
+  },
+  {
+    "title": "CISA KEV: Fortinet Multiple Products Path Traversal Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-61624",
+    "source": "CISA KEV catalog",
+    "date": "2026-10-16",
+    "snippet": "CVE-2025-61624 | Fortinet Multiple Products | FortiOS, FortiPAM, FortiProxy, and FortiSwitchManager contain a path traversal vulnerability that may allow an authenticated attacker with admin profile and at least read-write permissions to write or delete arbitrary files via specific CLI commands.",
+    "first_seen": "2026-10-16"
   }
 ]
