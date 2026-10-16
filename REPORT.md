@@ -1,6 +1,6 @@
-# AI Incident Briefing — 2026-10-15
+# AI Incident Briefing — 2026-10-16
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 369_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 347_
 
 ## 1. Latest verified incidents
 
@@ -11,32 +11,20 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=369)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=347)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [Prismix AI] CrofAI "cheapest inference provider in the world" gets exposed as an OpenRouter wrapper, routing requests to smaller, cheaper models at up to 20x markup. CrofAI responds to Wire Fraud allegations by denying everything, then backtracking, then 3 hours later wiping their entire…  (2026-09-15)
-  https://prismix.dev/news/d8847ae835e5
-- [Google News] OpenAI, Anthropic And Meta Traced Rogue AI To Israeli Startup Irregular - Yellow.com  (Tue, 15 Se)
-  https://news.google.com/rss/articles/CBMikgFBVV95cUxOVWZid1NMTlE3aVFwbkdOUE5KN1FhN2FIYlNWcFUxRkx2Q2prc0VCdEtmUmI4SnI0QlVyRndZdDAyM0pRbXFwNWRDNk9tdE9TVjNBaFZLLTFWT2RTRHBBUGthVWh2cnB2a1gyMXhyMWR3S2p6aFF5UjhyTUljY1BWU3Q3Q04xVmZwd3RxbE9OWWFRQQ
-- [Prismix AI] Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026  (2026-09-15)
-  https://prismix.dev/news/bbd5c8ed9218
-- [Prismix AI] 4 days left to exhibit at TechCrunch Disrupt 2026  (2026-09-15)
-  https://prismix.dev/news/4c476703f70e
-- [Prismix AI] Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents  (2026-09-15)
-  https://prismix.dev/news/2b82b6d196ef
-- [Google News] Opinion | How to keep AI from going rogue? Start with a 30-day stand-down. - The Washington Post  (Tue, 15 Se)
-  https://news.google.com/rss/articles/CBMirgFBVV95cUxNYTNnVHpCOUVUZDhXclZSUXZuY1liVUlMaFV6NHg5cU44X0FVY3lVMkZlcWtNUjNCbS13S2E5dkZCejlxV1lmdUpPUGJYbnBwUl9LZ29rZm1UQUhwNHdsd2RnbURGYk1ncVEteU5STUpieHl4V0M3ZGZMY19vRE8ySHZRV2NhM25aX2JEcms3NlRVUDNZMUpTUXMxRmkzMEFKcDFuT0praXFqdlFjTUE
-- [Google News] Can AI actually go rogue - jstribune.com  (Wed, 09 Se)
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTE83OU9DSHdNUHZDNURRUEFWeFo2RE1YNTFqZXlVRTZsaEYzengwMHBad1VUUlJYeXAtWEI0NjVXek1LZUp0bzFSQzdtRlhzOF8xT2FfX0VsendPbWZxaGJLdQ
-- [Google News] Rogue AI didn’t breach Hugging Face, human decisions did - Bulletin of the Atomic Scientists  (Fri, 11 Se)
-  https://news.google.com/rss/articles/CBMikAFBVV95cUxQSW9hYXBVa3JCRUhZT081VVlZUEMzZHIzSFpveDlYdWdlQmJaWEI2WmhCeU05Yy1lOEtvRWJGbVZMM1g1SlEwMURZdndyTHFndk1PYk93ZjVWVGxlOUZObTE3VWY4R1VQaV95YUkyWWVqTVlSaTFVdGdfeVd1QTdFVXlabml6QURIR2pBWFVsY1A
-- [Google News] Anthropic Reveals Four Times AI Went Rogue and Attacked Real World Systems - Newsweek  (Thu, 10 Se)
-  https://news.google.com/rss/articles/CBMilAFBVV95cUxOVDBHUzhhTGJmcUEza1BQQlVkd3QzS2daa25mcHk2Ulk2Ynp2NjNYakQtRWNITUprUkw5RGtZSEZEMmJ5d1cyUEdkWHVjWmc1cWQ2a0dVWklHcVNldVY0enRSSGZiNS05N29HRkctTWlfeDJsdFQxRlI0bmZFd2tDMGJBcl84YWxjbGZEOHNsajI4MWlo
-- [Google News] How AI agents ignored their human handlers and went rogue in virtual world experiment - Sky News  (Tue, 15 Se)
-  https://news.google.com/rss/articles/CBMivgFBVV95cUxNOFVlV1NfQzQ2S2pTWV9TZWpfdXdfQ1R6aUpRbnF5dWFTaUtYWktwN2txaW8tQXBuTkxKeTN6Y2lJVjJSMGtXOXVKdFNUclpQeEw5MHNNRVpsOHdYU0pCSkt3SnJFWDdmenFLamp1QUFNNk4zR3ppQlpoX1cyNnZfX2p2VE5xNXk0VlNUX1EyYk5KTklZR3Z6NEVKNHlUaTZ4Sk1oTjBudGxhV2UwdGNLQUVUTlFESTh2ek5jcHR3
-- [Google News] Who's to blame when AI goes rogue? - wbur.org  (Thu, 10 Se)
-  https://news.google.com/rss/articles/CBMiggFBVV95cUxNVG4yck9faGFDVTdWZ0VjQ3lqTUNsWnNfYkY5ZGswZ0E4eFgxRldlS1JSdzRZOXZoOTFSLVMxTEdBYm1IWXpEajI0bWJfcTduSERqNVA3ODRBWTl1UHJwVlUtZFpIbm9qUlFSQUU2blAxTm5jeW9xWGJVWWVzZlhiTHhR
+- [The Verge] The sexy AI-powered dating app scams are here  (2026-09-16)
+  https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams
+- [Google News] EXPLAINER – Human misuse or rogue machines? How advanced AI could threaten society - Anadolu Ajansı  (Wed, 16 Se)
+  https://news.google.com/rss/articles/CBMivgFBVV95cUxPRTVqZTNjbmF6QVlkUXhKTlRQaXllVFlmVnB3UjZxaHo1ek8tUWI3Q19LSV83RDZ5eW1lbDAtVl9FVEU3RkNHeFNwS2dUbng2R05fYUw3UHhxQld6NzJ1VlpaV19aTUg2Z3lGeUVNQS0yVF92OXF5QnA3bVJvLXZ0dzhvMlVMSmNralN2bTJKazdGN3cyMExJNVFWcmphT1ktMEpLVm9WVm41M0Q1RFBhOU5yTUx1Wmkxdm94M3ln
+- [Reddit r/singularity] EXCLUSIVE: OpenAI's rogue agents probed Hugging Face for weaknesses two months before major hack  (2026-09-16)
+  https://www.reddit.com/r/singularity/comments/1wi2uv5/exclusive_openais_rogue_agents_probed_hugging/
+- [Prismix AI] Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026  (2026-09-16)
+  https://prismix.dev/news/720bed5a556c
+- [Google News] Ransomware Attack Surface Protection With AI-Powered Defense - The Cryptonomist  (Wed, 16 Se)
+  https://news.google.com/rss/articles/CBMigAFBVV95cUxPQzl0eVE4UDd6YXdZWnZWZk5kNFVOQlNnbFg3dnhGb1pQOWV6bjlEWUxkbFJpd1E0NGlHMHFYWDlxUV81ekYxZTlmZ29uWWFOUU95ZVBhR2FDWHZoQndtUC01cWxxUV9iVUtkNEpGSzhvcS02NUx3TkhGdnFNTm5obA
 
 ## 4. Early-warning watchlist (be first to know)
 
