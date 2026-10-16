@@ -2918,5 +2918,69 @@
     "date": "2026-10-15",
     "snippet": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni S",
     "first_seen": "2026-10-15"
+  },
+  {
+    "title": "Show HN: Misalignments when using AI for hacking",
+    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
+    "source": "Hacker News",
+    "date": "2026-08-05",
+    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
+    "first_seen": "2026-10-15"
+  },
+  {
+    "title": "Disrupting ai espionage",
+    "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
+    "source": "Anthropic News (sitemap)",
+    "date": "2026-09-10",
+    "snippet": "",
+    "first_seen": "2026-10-15"
+  },
+  {
+    "title": "Perplexity AI open-sources its secure AI agent sandbox SPACE - SiliconANGLE",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRzYwUlNKRjB5dGNUak1GSmotZUxJeTZpbDZWZXlCYVZvRkd6LTluZ25Eb29URi02dk44ZTFHOTEwbXgxVHBDVTJVVGVEWGhmUXNKSldRbWtOcjNYYXVoVGtSVURVam9RRWw0X2VIaTZWTGo0SWYteEJVVFJyeGRkTm5vcnFjcnc4S0pvUFBZOFdYZ2FseGpnV2V1b0hBdw",
+    "source": "Google News",
+    "date": "Fri, 16 Oc",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQRzYwUlNKRjB5dGNUak1GSmotZUxJeTZpbDZWZXlCYVZvRkd6LTluZ25Eb29URi02dk44ZTFHOTEwbXgxVHBDVTJVVGVEWGhmUXNKSldRbWtOcjNYYXVoVGtSVURVam9RRWw0X2VIaTZWTGo0SWYteEJVVFJyeGRkTm5vcnFjcnc4S0pvUFBZOFdYZ2FseGpnV2V1b0hBdw?oc=5\" target=\"_blank\">Perplexity AI",
+    "first_seen": "2026-10-15"
+  },
+  {
+    "title": "OpenAI AI Agents Hijacked A German Wiki To Share Sandbox Escape Tricks - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjlIbVRJZndNY0c4RU5FSFFlNDVzZ0ktVng3S2lBVHlxQnVCWHd3cW1YRm5JQmJqeUF4ZlN4bnNSU1dmT1QwTzNCTjBtMXBlQnN2VnFaWEhiS0UwdjM4NFpUX3dPMFE2UnN5eWpud05Tcl9SUkFsTy1vazFkT0NBY1JJdXpPVHF3VUtDTjlYYlNvcm4wdms1SGlkdU5JaXUtckNQX3A0Zk1MZFhvNFAwYXNaUzFWNnpSOEhvaEllYw",
+    "source": "Google News",
+    "date": "Mon, 07 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjlIbVRJZndNY0c4RU5FSFFlNDVzZ0ktVng3S2lBVHlxQnVCWHd3cW1YRm5JQmJqeUF4ZlN4bnNSU1dmT1QwTzNCTjBtMXBlQnN2VnFaWEhiS0UwdjM4NFpUX3dPMFE2UnN5eWpud05Tcl9SUkFsTy1vazFkT0NBY1JJdXpPVHF3VUtDTjlYYlNvcm4wdms1SGlkdU5JaXUtckNQX3A0Zk1MZFhvNFAwYXNaUzFWNnpSOE",
+    "first_seen": "2026-10-15"
+  },
+  {
+    "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment - WIRED",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ",
+    "source": "Google News",
+    "date": "Thu, 06 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ?oc=5\" target=\"_blank\">One of China’s Most Powerful AI Models Has Also Escaped Containme",
+    "first_seen": "2026-10-15"
+  },
+  {
+    "title": "OpenAI’s Models Went Rogue. Investigating Them Required More AI - Time Magazine",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUlgxMWpockg1SkJwbUVKVENYVHRaM2pXZHg4al9STXJTZ2ttWk5DMFlCOEE1cGE5V25YZEc0LUlWajRGM2VFNlRlQ051dy10Q0xJZVJGdUxzUFhuTjlYZnpCcjVSbm9oenF5LW5DV1hncVNLVmNrZHROS3VTbzV3ag",
+    "source": "Google News",
+    "date": "Thu, 27 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQUlgxMWpockg1SkJwbUVKVENYVHRaM2pXZHg4al9STXJTZ2ttWk5DMFlCOEE1cGE5V25YZEc0LUlWajRGM2VFNlRlQ051dy10Q0xJZVJGdUxzUFhuTjlYZnpCcjVSbm9oenF5LW5DV1hncVNLVmNrZHROS3VTbzV3ag?oc=5\" target=\"_blank\">OpenAI’s Models Went Rogue. Investigating Them Requir",
+    "first_seen": "2026-10-15"
+  },
+  {
+    "title": "Ransomware Attacks Have Swept Japan. A.I. May Be Making Them Easier. - The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOTNCNXVKUG9UeXhyUGhiQmx1OFM4eFpHWjNTSjJBNTlFaU9ZYS1Bb0drQUh5VXFpVG90LTFUaklyNjBXOVlZazkwT01sNzM3dHBoYU45Vk5xcnhuWnVoNVdqdVR3UllkNk11R1ZzMjdnSmdSakZpaElHbjk0TV9GcHB0U1dIel8tbEpaU0pGSE1MVVhUNXVr",
+    "source": "Google News",
+    "date": "Tue, 13 Oc",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQOTNCNXVKUG9UeXhyUGhiQmx1OFM4eFpHWjNTSjJBNTlFaU9ZYS1Bb0drQUh5VXFpVG90LTFUaklyNjBXOVlZazkwT01sNzM3dHBoYU45Vk5xcnhuWnVoNVdqdVR3UllkNk11R1ZzMjdnSmdSakZpaElHbjk0TV9GcHB0U1dIel8tbEpaU0pGSE1MVVhUNXVr?oc=5\" target=\"_blank\">Ransomware Attacks Have",
+    "first_seen": "2026-10-15"
+  },
+  {
+    "title": "AI linked to 84% of ransomware attacks, new report finds - CBS News",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSDAxYjk0QWdGcUtHV2RHQklZNXhhdkJXaG9WZkRTZUNzTjJGYmlVX0xya09iMnBLcTB4S1VTR29yVTlLTWFXV3I5cU9CeHNZUURKMHRTcHFZV091MzF0Yk1FYmd1eE1RSy1JY01pV1ljYXdReHlvVDVtUVA5TGpVaUFCZmFjMVdiYXIySEpUX0c",
+    "source": "Google News",
+    "date": "Wed, 14 Oc",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOSDAxYjk0QWdGcUtHV2RHQklZNXhhdkJXaG9WZkRTZUNzTjJGYmlVX0xya09iMnBLcTB4S1VTR29yVTlLTWFXV3I5cU9CeHNZUURKMHRTcHFZV091MzF0Yk1FYmd1eE1RSy1JY01pV1ljYXdReHlvVDVtUVA5TGpVaUFCZmFjMVdiYXIySEpUX0c?oc=5\" target=\"_blank\">AI linked to 84% of ransomware a",
+    "first_seen": "2026-10-15"
   }
 ]
