@@ -8,166 +8,6 @@
     "first_seen": "2026-08-25"
   },
   {
-    "title": "About the reasons for the AI to to \"escape\".",
-    "url": "https://www.reddit.com/r/singularity/comments/1whpsjx/about_the_reasons_for_the_ai_to_to_escape/",
-    "source": "Reddit r/singularity",
-    "date": "2026-09-16",
-    "snippet": "&#32; submitted by &#32;   /u/Lukee67       [link]   &#32;   [comments]  ",
-    "first_seen": "2026-09-16"
-  },
-  {
-    "title": "b10996",
-    "url": "https://prismix.dev/news/fdd775161651",
-    "source": "Prismix AI",
-    "date": "2026-09-16",
-    "snippet": "chat : force \\n</think> on reasoning budget end for qwen3-coder ( #28869 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/47858837 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS…",
-    "first_seen": "2026-09-16"
-  },
-  {
-    "title": "b10995",
-    "url": "https://prismix.dev/news/f4a75f95c91a",
-    "source": "Prismix AI",
-    "date": "2026-09-16",
-    "snippet": "vulkan: make MUL_MAT_ID BN/2 tail unconditional ( #28923 ) Use BN/2 as the default for BNover2 and as the disabled fallback for BNover4, and remove the enable gate from the MUL_MAT_ID BN/2 branch. The BN/4 branch remains gated by enable_smaller_matrices, while the p.N path is…",
-    "first_seen": "2026-09-16"
-  },
-  {
-    "title": "b10992",
-    "url": "https://prismix.dev/news/2bbede60bffe",
-    "source": "Prismix AI",
-    "date": "2026-09-16",
-    "snippet": "llama-bench: support --version to print build info ( #28971 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/47831792 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS…",
-    "first_seen": "2026-09-16"
-  },
-  {
-    "title": "The sexy AI-powered dating app scams are here",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
-    "source": "The Verge",
-    "date": "2026-09-16",
-    "snippet": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, she's a 41-year-old Sagittarius with red hair, blue eyes, and piercings. She likes music, horror movie",
-    "first_seen": "2026-09-16"
-  },
-  {
-    "title": "b10999",
-    "url": "https://prismix.dev/news/cb3df35f7521",
-    "source": "Prismix AI",
-    "date": "2026-09-16",
-    "snippet": "Change max context length for auto-fitting with unified KV ( #28849 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/47906437 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel…",
-    "first_seen": "2026-09-16"
-  },
-  {
-    "title": "b10998",
-    "url": "https://prismix.dev/news/9e5ebcce083c",
-    "source": "Prismix AI",
-    "date": "2026-09-16",
-    "snippet": "qwen4exp: add hc ops ( #28901 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/47897353 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS XCFramework Linux: Ubuntu x64…",
-    "first_seen": "2026-09-16"
-  },
-  {
-    "title": "EXPLAINER – Human misuse or rogue machines? How advanced AI could threaten society - Anadolu Ajansı",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRTVqZTNjbmF6QVlkUXhKTlRQaXllVFlmVnB3UjZxaHo1ek8tUWI3Q19LSV83RDZ5eW1lbDAtVl9FVEU3RkNHeFNwS2dUbng2R05fYUw3UHhxQld6NzJ1VlpaV19aTUg2Z3lGeUVNQS0yVF92OXF5QnA3bVJvLXZ0dzhvMlVMSmNralN2bTJKazdGN3cyMExJNVFWcmphT1ktMEpLVm9WVm41M0Q1RFBhOU5yTUx1Wmkxdm94M3ln",
-    "source": "Google News",
-    "date": "Wed, 16 Se",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPRTVqZTNjbmF6QVlkUXhKTlRQaXllVFlmVnB3UjZxaHo1ek8tUWI3Q19LSV83RDZ5eW1lbDAtVl9FVEU3RkNHeFNwS2dUbng2R05fYUw3UHhxQld6NzJ1VlpaV19aTUg2Z3lGeUVNQS0yVF92OXF5QnA3bVJvLXZ0dzhvMlVMSmNralN2bTJKazdGN3cyMExJNVFWcmphT1ktMEpLVm9WVm41M0Q1RFBhOU5yTUx1Wmkxdm",
-    "first_seen": "2026-09-16"
-  },
-  {
-    "title": "CISA KEV: Google Pixel Improper Authorization Vulnerability",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-58704",
-    "source": "CISA KEV catalog",
-    "date": "2026-09-16",
-    "snippet": "CVE-2026-58704 | Google Pixel | Google Pixel devices contain an improper authorization vulnerability in the cellular modem. A logic error may allow an attacker to bypass permission checks and escalate privileges.",
-    "first_seen": "2026-09-16"
-  },
-  {
-    "title": "EXCLUSIVE: OpenAI's rogue agents probed Hugging Face for weaknesses two months before major hack",
-    "url": "https://www.reddit.com/r/singularity/comments/1wi2uv5/exclusive_openais_rogue_agents_probed_hugging/",
-    "source": "Reddit r/singularity",
-    "date": "2026-09-16",
-    "snippet": "   WASHINGTON, Sept 16 (Reuters) - Rogue AI agents from OpenAI hijacked Hugging Face user accounts and probed the site itself for vulnerabilities as early as May, nearly two months before  the July breach of ‌the open-source repository  drew global attention, according to researchers who reviewed th",
-    "first_seen": "2026-09-16"
-  },
-  {
-    "title": "What's the current best LLM uncensoring method?",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi28lv/whats_the_current_best_llm_uncensoring_method/",
-    "source": "Reddit r/LocalLLaMA",
-    "date": "2026-09-16",
-    "snippet": "   With the recent Nvidia Huggingface acquisition and frontier AI labs screaming about safety and putting guardrails everywhere, I think it&#39;s important that we have local models that aren&#39;t affected by arbitrary guardrails set during training. To be clear, this post NOT about Enterprise Reso",
-    "first_seen": "2026-09-16"
-  },
-  {
-    "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-    "url": "https://prismix.dev/news/720bed5a556c",
-    "source": "Prismix AI",
-    "date": "2026-09-16",
-    "snippet": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
-    "first_seen": "2026-09-16"
-  },
-  {
-    "title": "b11002",
-    "url": "https://prismix.dev/news/9a3b41649f31",
-    "source": "Prismix AI",
-    "date": "2026-09-16",
-    "snippet": "CUDA/HIP: improve access patterns in im2col ( #28013 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/47937267 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel (x64) iOS…",
-    "first_seen": "2026-09-16"
-  },
-  {
-    "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
-    "url": "https://prismix.dev/news/2aee4c2d587d",
-    "source": "Prismix AI",
-    "date": "2026-09-16",
-    "snippet": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
-    "first_seen": "2026-09-16"
-  },
-  {
-    "title": "Ransomware Attack Surface Protection With AI-Powered Defense - The Cryptonomist",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQzl0eVE4UDd6YXdZWnZWZk5kNFVOQlNnbFg3dnhGb1pQOWV6bjlEWUxkbFJpd1E0NGlHMHFYWDlxUV81ekYxZTlmZ29uWWFOUU95ZVBhR2FDWHZoQndtUC01cWxxUV9iVUtkNEpGSzhvcS02NUx3TkhGdnFNTm5obA",
-    "source": "Google News",
-    "date": "Wed, 16 Se",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPQzl0eVE4UDd6YXdZWnZWZk5kNFVOQlNnbFg3dnhGb1pQOWV6bjlEWUxkbFJpd1E0NGlHMHFYWDlxUV81ekYxZTlmZ29uWWFOUU95ZVBhR2FDWHZoQndtUC01cWxxUV9iVUtkNEpGSzhvcS02NUx3TkhGdnFNTm5obA?oc=5\" target=\"_blank\">Ransomware Attack Surface Protection With AI-Powered ",
-    "first_seen": "2026-09-16"
-  },
-  {
-    "title": "CISA KEV: Cisco Identity Services Engine Incorrect Use of Privileged APIs Vulnerability",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-76460",
-    "source": "CISA KEV catalog",
-    "date": "2026-09-16",
-    "snippet": "CVE-2026-76460 | Cisco Identity Services Engine | Cisco Identity Services Engine (ISE) and Cisco ISE Passive Identity Connector (ISE-PIC) contain an incorrect use of privileged APIs vulnerability that could allow an unauthenticated, remote attacker to gain unauthorized access to the affected device by bypassing the web-based management interface.",
-    "first_seen": "2026-09-16"
-  },
-  {
-    "title": "CISA KEV: Acronis Backup Incorrect Default Permissions Vulnerability",
-    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-87886",
-    "source": "CISA KEV catalog",
-    "date": "2026-09-16",
-    "snippet": "CVE-2026-87886 | Acronis Backup | Acronis Backup plugin for cPanel & WHM and extension for Plesk contains an incorrect default permissions vulnerability that could allow for privilege escalation.",
-    "first_seen": "2026-09-16"
-  },
-  {
-    "title": "datasette 0.65.5",
-    "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
-    "source": "Simon Willison",
-    "date": "2026-09-16",
-    "snippet": "\n    \n        <p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/0.65.5\">datasette 0.65.5</a></p>\n        <p>Security fix for an issue where a trailing newline in a requested table name could bypass table permissions and expose private rows, reported by <a href=\"h",
-    "first_seen": "2026-09-16"
-  },
-  {
-    "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-    "url": "https://prismix.dev/news/0b10385b1288",
-    "source": "Prismix AI",
-    "date": "2026-09-16",
-    "snippet": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
-    "first_seen": "2026-09-16"
-  },
-  {
-    "title": "Can a new institute in Cambridge save the world from rogue AI? - The Boston Globe",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ0dCUFFsSDNvZVUta05QeWY5cUgxRGFUbjNHVkpkamxmRGthSGdhYS1WaHZUQ3FmN2VwT0x1bXVtQjN5WHBYVzN6clY1OXh6RExocFBqOGVjanZPMUVfX3pTbFRpTG9ZQlFFM2E4Q2ZBU2ZweVhQa1EyMWk5b0g0TW5zNWlKbzV1RzJxamx1Yzh3MmpaNkFZQ0dSSnQtU1UzT3NWbU9JUy0tNzlYUlVob3B4NjA",
-    "source": "Google News",
-    "date": "Wed, 16 Se",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ0dCUFFsSDNvZVUta05QeWY5cUgxRGFUbjNHVkpkamxmRGthSGdhYS1WaHZUQ3FmN2VwT0x1bXVtQjN5WHBYVzN6clY1OXh6RExocFBqOGVjanZPMUVfX3pTbFRpTG9ZQlFFM2E4Q2ZBU2ZweVhQa1EyMWk5b0g0TW5zNWlKbzV1RzJxamx1Yzh3MmpaNkFZQ0dSSnQtU1UzT3NWbU9JUy0tNzlYUlVob3B4NjA?oc=5\" ",
-    "first_seen": "2026-09-16"
-  },
-  {
     "title": "Your robotaxi might be a narc",
     "url": "https://www.theverge.com/transportation/996863/robotaxi-waymo-police-privacy-surveillance",
     "source": "The Verge",
@@ -2846,5 +2686,29 @@
     "date": "Fri, 16 Oc",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNVFZoV3VzZkdEYXEySFViOXFlY25nSXhjcDRZQ0c2NUN2eDluMVdqLWEyWlpBSTFnMnFVcE9IYi1PamxIU3NkM0tOSF9JbW9uZVF0Xy1qTU5sVFpoNUFnbGF4OXJSRmNQeFBaeHlDYnZnT1RYWHVzeHJyNGxNOXdXNg?oc=5\" target=\"_blank\">OpenAI AI agent goes rogue? Crypto funds used without",
     "first_seen": "2026-10-16"
+  },
+  {
+    "title": "I used my own swarm of agents to look for rogue-agent traces across the public web.",
+    "url": "https://www.reddit.com/r/singularity/comments/1x831to/i_used_my_own_swarm_of_agents_to_look_for/",
+    "source": "Reddit r/singularity",
+    "date": "2026-10-17",
+    "snippet": "    TL;DR:  - AI agents working under tight sandbox limits keep finding the same creative workarounds. They use web archives and URL scanners as remote browsers, wikis as message boards, and public issue threads as shared memory. - Benchmark agents now leave visible traces on real public accounts. -",
+    "first_seen": "2026-10-17"
+  },
+  {
+    "title": "I used my own swarm of agents to look for rogue-agent traces across the public web.",
+    "url": "https://www.reddit.com/r/singularity/comments/1x82tpa/i_used_my_own_swarm_of_agents_to_look_for/",
+    "source": "Reddit r/singularity",
+    "date": "2026-10-17",
+    "snippet": "    TL;DR:  - AI agents working under tight sandbox limits keep finding the same creative workarounds. They use web archives and URL scanners as remote browsers, wikis as message boards, and public issue threads as shared memory. - Benchmark agents now leave visible traces on real public accounts. -",
+    "first_seen": "2026-10-17"
+  },
+  {
+    "title": "Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents - MarkTechPost",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSEVvUWZ1cGs2d3ZBT2N6c0Nfb0hSMVQ5N053cThOZTI1Y2p1Q29LVzBsSmxHZGNxZEowMndUV0l5NHU0NFJvUnV2eEhUQTVWb01NWWJ6akt1UUxOcHJPWTZBQmIwajd5UFE0dGdqb1kxSF9NQzhLLVFGeDJXcmdHcm9jMFhsWHh6cU5MdG1YQ2xJMDl3aWxiM1dTUnE5N29mT3FzUWpnbG1Ba1FV0gGsAUFVX3lxTE9IRW9RZnVwazZ3dkFPY3pzQ19vSFIxVDk3TndxOE5lMjVjanVDb0tXMGxKbEdkY3FkSjAyd1RXSXk0dTQ0Um9SdXZ4SFRBNVZvTU1ZYnpqS3VRTE5wck9ZNkFCYjBqN3lQUTR0Z2pvWTFIX01DOEstUUZ4MldyZ0dyb2MwWGxYeHpxTkx0bVhDbEkwOXdpbGIzV1NScTk3b2ZPcXNRamdsbUFrUVU",
+    "source": "Google News",
+    "date": "Sat, 17 Oc",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPSEVvUWZ1cGs2d3ZBT2N6c0Nfb0hSMVQ5N053cThOZTI1Y2p1Q29LVzBsSmxHZGNxZEowMndUV0l5NHU0NFJvUnV2eEhUQTVWb01NWWJ6akt1UUxOcHJPWTZBQmIwajd5UFE0dGdqb1kxSF9NQzhLLVFGeDJXcmdHcm9jMFhsWHh6cU5MdG1YQ2xJMDl3aWxiM1dTUnE5N29mT3FzUWpnbG1Ba1FV0gGsAUFVX3lxTE9IRW",
+    "first_seen": "2026-10-17"
   }
 ]
