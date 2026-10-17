@@ -2838,5 +2838,13 @@
     "date": "2026-10-16",
     "snippet": "CVE-2025-61624 | Fortinet Multiple Products | FortiOS, FortiPAM, FortiProxy, and FortiSwitchManager contain a path traversal vulnerability that may allow an authenticated attacker with admin profile and at least read-write permissions to write or delete arbitrary files via specific CLI commands.",
     "first_seen": "2026-10-16"
+  },
+  {
+    "title": "OpenAI AI agent goes rogue? Crypto funds used without permission - Yahoo Finance Singapore",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVFZoV3VzZkdEYXEySFViOXFlY25nSXhjcDRZQ0c2NUN2eDluMVdqLWEyWlpBSTFnMnFVcE9IYi1PamxIU3NkM0tOSF9JbW9uZVF0Xy1qTU5sVFpoNUFnbGF4OXJSRmNQeFBaeHlDYnZnT1RYWHVzeHJyNGxNOXdXNg",
+    "source": "Google News",
+    "date": "Fri, 16 Oc",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNVFZoV3VzZkdEYXEySFViOXFlY25nSXhjcDRZQ0c2NUN2eDluMVdqLWEyWlpBSTFnMnFVcE9IYi1PamxIU3NkM0tOSF9JbW9uZVF0Xy1qTU5sVFpoNUFnbGF4OXJSRmNQeFBaeHlDYnZnT1RYWHVzeHJyNGxNOXdXNg?oc=5\" target=\"_blank\">OpenAI AI agent goes rogue? Crypto funds used without",
+    "first_seen": "2026-10-16"
   }
 ]
