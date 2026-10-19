@@ -2496,67 +2496,35 @@
     "first_seen": "2026-10-19"
   },
   {
-    "title": "Show HN: Locksmith: Store Maven Secrets in the macOS Keychain (Or a Unix Socket)",
-    "url": "https://github.com/exabrial/locksmith",
-    "source": "Hacker News",
-    "date": "2026-09-09",
-    "snippet": "Hello HN,<p>In the age of LLMs sucking in random secrets, sandbox escapes, and RCE orbital bombardment, I thought it&#x27;d be a good idea to create a Maven Extension that defers to the MacOS keychain for resolving secrets. In general, it&#x27;s a good idea to not have any secrets (passwords, tokens",
-    "first_seen": "2026-10-19"
-  },
-  {
-    "title": "Show HN: Misalignments when using AI for hacking",
-    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
-    "source": "Hacker News",
-    "date": "2026-08-05",
-    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
-    "first_seen": "2026-10-19"
-  },
-  {
-    "title": "Disrupting ai espionage",
-    "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
-    "source": "Anthropic News (sitemap)",
-    "date": "2026-09-10",
-    "snippet": "",
-    "first_seen": "2026-10-19"
-  },
-  {
-    "title": "OpenAI AI Agents Hijacked A German Wiki To Share Sandbox Escape Tricks - Forbes",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjlIbVRJZndNY0c4RU5FSFFlNDVzZ0ktVng3S2lBVHlxQnVCWHd3cW1YRm5JQmJqeUF4ZlN4bnNSU1dmT1QwTzNCTjBtMXBlQnN2VnFaWEhiS0UwdjM4NFpUX3dPMFE2UnN5eWpud05Tcl9SUkFsTy1vazFkT0NBY1JJdXpPVHF3VUtDTjlYYlNvcm4wdms1SGlkdU5JaXUtckNQX3A0Zk1MZFhvNFAwYXNaUzFWNnpSOEhvaEllYw",
+    "title": "How OpenAI's AI Agents Escaped a Sandbox and Breached Hugging Face - HackerNoon",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeWIwSzFwcVhWZEswcTR6cDNzTlNnSnlUYU9CWm82WnZPdGdSUHNjTXBIQ3BxUXVjQ18wYnA2VlZkd3JJRFI4aVFySjY4aU9ZdHVQLVhfZmNGWHFwRnJJN29Gb0VpcE5FdTZLaUZ2V0JLckhYcGhOc1NUM3pwcjRMRm5oN2pwQ19ZV3BnMGpmZmEyQQ",
     "source": "Google News",
-    "date": "Mon, 07 Se",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjlIbVRJZndNY0c4RU5FSFFlNDVzZ0ktVng3S2lBVHlxQnVCWHd3cW1YRm5JQmJqeUF4ZlN4bnNSU1dmT1QwTzNCTjBtMXBlQnN2VnFaWEhiS0UwdjM4NFpUX3dPMFE2UnN5eWpud05Tcl9SUkFsTy1vazFkT0NBY1JJdXpPVHF3VUtDTjlYYlNvcm4wdms1SGlkdU5JaXUtckNQX3A0Zk1MZFhvNFAwYXNaUzFWNnpSOE",
+    "date": "Mon, 19 Oc",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQeWIwSzFwcVhWZEswcTR6cDNzTlNnSnlUYU9CWm82WnZPdGdSUHNjTXBIQ3BxUXVjQ18wYnA2VlZkd3JJRFI4aVFySjY4aU9ZdHVQLVhfZmNGWHFwRnJJN29Gb0VpcE5FdTZLaUZ2V0JLckhYcGhOc1NUM3pwcjRMRm5oN2pwQ19ZV3BnMGpmZmEyQQ?oc=5\" target=\"_blank\">How OpenAI's AI Agents Escape",
     "first_seen": "2026-10-19"
   },
   {
-    "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment - WIRED",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ",
+    "title": "AI Facial Recognition Software Leads to False Arrests, Ruined Lives in Florida - Gizmodo",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONEFJS0pjQ1Zuc1hfRHJxeUxVVWd4MnJib0MtUlZJQVMtVUZKYkdlUVd0Xy1SSlBGanpCVENQWFlaT2t3QjNQQkhnMVllY19yUlJ0bzlnUGpicVdKM3g5QlZ0NElUNnd5ZTJCRUxoVm5sVTZLLVUxSVdzUFVDb0FtSlRmeFBaczEzUXpOc2VnalJSMXFXUXJJTmVYRC1JV0Nva3ZJbGhqaVNPb2Vu",
     "source": "Google News",
-    "date": "Thu, 06 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ?oc=5\" target=\"_blank\">One of China’s Most Powerful AI Models Has Also Escaped Containme",
+    "date": "Fri, 12 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxONEFJS0pjQ1Zuc1hfRHJxeUxVVWd4MnJib0MtUlZJQVMtVUZKYkdlUVd0Xy1SSlBGanpCVENQWFlaT2t3QjNQQkhnMVllY19yUlJ0bzlnUGpicVdKM3g5QlZ0NElUNnd5ZTJCRUxoVm5sVTZLLVUxSVdzUFVDb0FtSlRmeFBaczEzUXpOc2VnalJSMXFXUXJJTmVYRC1JV0Nva3ZJbGhqaVNPb2Vu?oc=5\" target=\"_bl",
     "first_seen": "2026-10-19"
   },
   {
-    "title": "OpenAI’s Models Went Rogue. Investigating Them Required More AI - Time Magazine",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUlgxMWpockg1SkJwbUVKVENYVHRaM2pXZHg4al9STXJTZ2ttWk5DMFlCOEE1cGE5V25YZEc0LUlWajRGM2VFNlRlQ051dy10Q0xJZVJGdUxzUFhuTjlYZnpCcjVSbm9oenF5LW5DV1hncVNLVmNrZHROS3VTbzV3ag",
+    "title": "ENISA Threat Landscape 2026 highlights ransomware, vulnerability exploitation, AI-enabled attacks across EU organizations - Industrial Cyber",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNM3kxMEhpejUxYmRzRWkybmtOVHM0X1gtdmRsZWdhTldsMkF6T3dmY2g0NFNtdmtPZnVQMG8xQW8yTTJiR3hFUDJKMHlrcm5ldjVpeDZoVUVyWmI2U2E0YkxKMG5ueHZEbzJnd2l2eTFCRER4RTA2TFdCb3dYSV9rb2pKbVRaVTZCdGc4SGd2aWQweXMzeERUVlFqbTFwMDNhRkpjY2xHMjBJeXptVW15QV95UHlhMjdzMmM2UmdqY3UxcjEyQkxJTXpzOGpMM1MtV2VVZGxPakJ6Z1oydExPM1d2WjZ4MExiUDk4",
     "source": "Google News",
-    "date": "Thu, 27 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQUlgxMWpockg1SkJwbUVKVENYVHRaM2pXZHg4al9STXJTZ2ttWk5DMFlCOEE1cGE5V25YZEc0LUlWajRGM2VFNlRlQ051dy10Q0xJZVJGdUxzUFhuTjlYZnpCcjVSbm9oenF5LW5DV1hncVNLVmNrZHROS3VTbzV3ag?oc=5\" target=\"_blank\">OpenAI’s Models Went Rogue. Investigating Them Requir",
+    "date": "Wed, 23 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNM3kxMEhpejUxYmRzRWkybmtOVHM0X1gtdmRsZWdhTldsMkF6T3dmY2g0NFNtdmtPZnVQMG8xQW8yTTJiR3hFUDJKMHlrcm5ldjVpeDZoVUVyWmI2U2E0YkxKMG5ueHZEbzJnd2l2eTFCRER4RTA2TFdCb3dYSV9rb2pKbVRaVTZCdGc4SGd2aWQweXMzeERUVlFqbTFwMDNhRkpjY2xHMjBJeXptVW15QV95UHlhMjdzMm",
     "first_seen": "2026-10-19"
   },
   {
-    "title": "Meta says its AI model hacked another company, adding to worries about bots going rogue - AP News",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVndsM1ItQXZiWkIwUU9rc1JmRDNZVXZsenNsM3BUN0JqSlZMcTFoMHk0RTN1U0xRUjVtNnQzSzVUMWdhY1Z4T1N1bkpqUFRSR2U5M2NoU1JpaU9LZnVBWmJEZEozQ1JMbXVpcHl1c3JLb2s1Q0k3UU4yS2NPanBjMWZjeXFpUnA4ZUpEX09sNUdrR29jMlFRMjN0ZDhWM1Q1UVpVbg",
+    "title": "Italian bank loses $108M to AI messaging fraud, as identifAI warns of deepfake threat - Biometric Update",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSlRVRmViOEZlUnBnTmpHVHpQRHprWk5aQ0tXTUtQS1pTLWsxOUttZmVicUduVFZpdHhROWxrWWR2Q1ExYWtkQy12SUtjZnJBdlg4RV9qdDd4dUZsOFJYUDIzZEVUYjkzRzFCOHJQWFVHbkpCZUlCR1FWZ3Bhakt6S1hfSlV3ODM4STBLSnNIYW05MExPVldwZ1NITndkdlhYd1M1MWRyYkNiaU9TZjlIV0hzZXVJMDRIbUI5aTNmaw",
     "source": "Google News",
-    "date": "Thu, 06 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOVndsM1ItQXZiWkIwUU9rc1JmRDNZVXZsenNsM3BUN0JqSlZMcTFoMHk0RTN1U0xRUjVtNnQzSzVUMWdhY1Z4T1N1bkpqUFRSR2U5M2NoU1JpaU9LZnVBWmJEZEozQ1JMbXVpcHl1c3JLb2s1Q0k3UU4yS2NPanBjMWZjeXFpUnA4ZUpEX09sNUdrR29jMlFRMjN0ZDhWM1Q1UVpVbg?oc=5\" target=\"_blank\">Meta ",
-    "first_seen": "2026-10-19"
-  },
-  {
-    "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack - BBC",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VTDZ2ZnhnTVpkWWNOcmdoRkFlb3haUnY1c2w1U2JHXzFDaUJJLVc2bUN0MjFrcU1fbFZUR3ZOakhpMkVkR2tRU3NnaU5GNXFhcVItUjhPUFFkdw",
-    "source": "Google News",
-    "date": "Wed, 22 Ju",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VTDZ2ZnhnTVpkWWNOcmdoRkFlb3haUnY1c2w1U2JHXzFDaUJJLVc2bUN0MjFrcU1fbFZUR3ZOakhpMkVkR2tRU3NnaU5GNXFhcVItUjhPUFFkdw?oc=5\" target=\"_blank\">OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack</a>&nbsp;&nbsp;<font color=\"#6f6f",
+    "date": "Thu, 15 Oc",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNSlRVRmViOEZlUnBnTmpHVHpQRHprWk5aQ0tXTUtQS1pTLWsxOUttZmVicUduVFZpdHhROWxrWWR2Q1ExYWtkQy12SUtjZnJBdlg4RV9qdDd4dUZsOFJYUDIzZEVUYjkzRzFCOHJQWFVHbkpCZUlCR1FWZ3Bhakt6S1hfSlV3ODM4STBLSnNIYW05MExPVldwZ1NITndkdlhYd1M1MWRyYkNiaU9TZjlIV0hzZXVJMDRIbU",
     "first_seen": "2026-10-19"
   }
 ]
