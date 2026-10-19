@@ -1,6 +1,6 @@
-# AI Incident Briefing — 2026-10-18
+# AI Incident Briefing — 2026-10-19
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 323_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 311_
 
 ## 1. Latest verified incidents
 
@@ -11,26 +11,20 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=323)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=311)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [Google News] OpenAI discloses more rogue agents, pressing debate on regulation - Fox News  (Fri, 18 Se)
-  https://news.google.com/rss/articles/CBMimgFBVV95cUxNVUFJeXlLd29rc2pfZDgtbFZsWXlHVTFzTGRzNUxiN0VwdUQ3a043UEJ0bWljUTVzYm9LbnJWLXpkV2prUXdaNjhqc0tZYTBRZEw3bG1uYWlfNEh1Z3hwVHU2WUtLOUpxa3F1bk5NdXZ5TmEycGxuaVpIaWhpUUZpaVZFRlhCY2ZEYWlNNlFSQkc5WGVUNWN2MENB
-- [Google News] OpenAI and Anthropic models went rogue in cyber tests, UK watchdog says - Financial Times  (Tue, 04 Au)
-  https://news.google.com/rss/articles/CBMihAFBVV95cUxNQzljVTVSUVRxaUJweXNMdlBxeHJ0TGs1QWdHeS1sUzl2V1NCWlZLYXlxT21NOVVjZUFxVHN6N0N3QjBKVnVNWUNib09aTHYzZVVCdjRINUZ1d1dvT1dqekJMNXk2WFVObE13N1Q1LXVCVXR5R19ZaXFVMzhfWFRtamtXd28
-- [Prismix AI] The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026  (2026-09-18)
-  https://prismix.dev/news/c625b8a74296
-- [Google News] OpenAI says its AI models escaped control and hacked into AI company Hugging Face - Fortune  (Tue, 21 Ju)
-  https://news.google.com/rss/articles/CBMikwFBVV95cUxONTZ5aUtUdEc3d29jZUhnb3dUMXFiRFV3M2FJMzlGWkZGdkhMWE93N0NIcmJQX3ZkcExKeFBfalc3NHRvOTRRdjZvUHVKSEU1ZDYyYUZjSzZiTmVBc2M4bVZ3R05GUW4zUmFWMzM4b3hndHNVRFBBY1BkMEFkelYta3RudWpQU05heVNQZGVYb0V6T1k
-- [Google News] ChatGPT maker OpenAI reveals 6 times its AI models went rogue during testing - GB News  (Fri, 18 Se)
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE9CU1Ruc1J1dFpVSkFfYk1vRHVnbXN4aTBxa2ZaanExWEl4SnNmaUM5aWlUNF9iTVltM2tuM0R1ZDhYX25OWkdlbmFWeWRQVWkyQ2U2N0FQcTRSTXpiUl9Ra0hVUC1tUmFJUjNHVA
 - [Google News] Greg Brockman on the week two OpenAI AI models went rogue - Fortune  (Tue, 28 Ju)
   https://news.google.com/rss/articles/CBMikwFBVV95cUxQSGthMklPYXBGVnlrc0dGNjNVenZHTEduM2JNeloyQkhnUlRjcWZQUV9SV3VMSkdGem9JMTZ3dHh3N1VzQTFkMzJ3cnpuak9oek1ySHdPTldMYVVvYWtCS25ka1AyUUUwLUg0c1ZLMVI1dmtZVXJfTEtKWXhlZWpCVG9aX0NqbGQ4S01IUHJiVk9YZVU
 - [The Verge] Gemini went rogue, hacked three companies, and Google hid it  (2026-09-19)
   https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack
 - [Prismix AI] Prices go up in 7 days. Get your Disrupt ticket now.  (2026-09-19)
   https://prismix.dev/news/95e2ba70ff04
+- [Reddit r/singularity] Israeli firm Irregular AI revealed to be involved with some of the recent high profile "containment breach" hacks.  (2026-09-19)
+  https://www.reddit.com/r/singularity/comments/1wl1djq/israeli_firm_irregular_ai_revealed_to_be_involved/
+- [The Verge] Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems  (2026-09-19)
+  https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure
 
 ## 4. Early-warning watchlist (be first to know)
 
