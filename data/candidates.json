@@ -2470,5 +2470,29 @@
     "date": "Tue, 20 Oc",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5YTUw3Z3lNNjVZMG5fR1RvZWFlTWNhdjIyT2xTeEI2c0FxRmo1R0VhSmg1TEtYV2U0RTBRWGdvOUNEcDE5NUgyWnFWbC16eDc1VWJ6VnVoaWVCVFVQODFrbEthVUloVlBzYlNzSkVZb2dzWDZ20gF0QVVfeXFMTlhNTDdneU02NVkwbl9HVG9lYWVNY2F2MjJPbFN4QjZzQXFGajVHRWFKaDVMS1hXZTRFMFFYZ285Q0RwMT",
     "first_seen": "2026-10-20"
+  },
+  {
+    "title": "Claude code sandboxing",
+    "url": "https://www.anthropic.com/research/claude-code-sandboxing",
+    "source": "Anthropic News (sitemap)",
+    "date": "2026-10-18",
+    "snippet": "",
+    "first_seen": "2026-10-20"
+  },
+  {
+    "title": "Sabotage evaluations",
+    "url": "https://www.anthropic.com/research/sabotage-evaluations",
+    "source": "Anthropic News (sitemap)",
+    "date": "2026-10-09",
+    "snippet": "",
+    "first_seen": "2026-10-20"
+  },
+  {
+    "title": "Shade arena sabotage monitoring",
+    "url": "https://www.anthropic.com/research/shade-arena-sabotage-monitoring",
+    "source": "Anthropic News (sitemap)",
+    "date": "2026-10-08",
+    "snippet": "",
+    "first_seen": "2026-10-20"
   }
 ]
