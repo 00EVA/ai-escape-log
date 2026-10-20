@@ -1,6 +1,6 @@
-# AI Incident Briefing — 2026-10-19
+# AI Incident Briefing — 2026-10-20
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 316_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 302_
 
 ## 1. Latest verified incidents
 
@@ -11,20 +11,24 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=316)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=302)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [Google News] Greg Brockman on the week two OpenAI AI models went rogue - Fortune  (Tue, 28 Ju)
-  https://news.google.com/rss/articles/CBMikwFBVV95cUxQSGthMklPYXBGVnlrc0dGNjNVenZHTEduM2JNeloyQkhnUlRjcWZQUV9SV3VMSkdGem9JMTZ3dHh3N1VzQTFkMzJ3cnpuak9oek1ySHdPTldMYVVvYWtCS25ka1AyUUUwLUg0c1ZLMVI1dmtZVXJfTEtKWXhlZWpCVG9aX0NqbGQ4S01IUHJiVk9YZVU
-- [The Verge] Gemini went rogue, hacked three companies, and Google hid it  (2026-09-19)
-  https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack
-- [Prismix AI] Prices go up in 7 days. Get your Disrupt ticket now.  (2026-09-19)
-  https://prismix.dev/news/95e2ba70ff04
-- [Reddit r/singularity] Israeli firm Irregular AI revealed to be involved with some of the recent high profile "containment breach" hacks.  (2026-09-19)
-  https://www.reddit.com/r/singularity/comments/1wl1djq/israeli_firm_irregular_ai_revealed_to_be_involved/
 - [The Verge] Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems  (2026-09-19)
   https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure
+- [Prismix AI] 6 days left to get ahead at TechCrunch Disrupt 2026  (2026-09-20)
+  https://prismix.dev/news/dbb148570dcf
+- [Reddit r/singularity] These Were NOT Rogue AI Escapes. Just SLOPPY Firewall Failures.  (2026-09-21)
+  https://www.reddit.com/r/singularity/comments/1wm9jr5/these_were_not_rogue_ai_escapes_just_sloppy/
+- [Prismix AI] These Were NOT Rogue AI Escapes. Just SLOPPY Firewall Failures. [N]  (2026-09-21)
+  https://prismix.dev/news/d07a997428c2
+- [Google News] Meta AI Model Hacked Outside Company, Adding to Concerns Over Rogue Bots - WSJ  (Fri, 07 Au)
+  https://news.google.com/rss/articles/CBMirAFBVV95cUxQZS0wZHRJSVM4dWhIX1I2eVJqTE82c0VaU2JOU0tnVDE1em5ad3I3THZrNGFGaWVfaC1CVjZtQ0U4bThuVmJZU2N2VDRIRFpaN1hXWms1WXpaTDRfVjhrUHktQWVLQTJ1ZnpwdUNEUzhsbmNUeEowNU56ay02OGZlaEVSckRIaGJOSU1oOU1LMWd1d0hXVjJyQnVCNVZTejEzYXRVUkoxZWhFakF5
+- [Prismix AI] From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026  (2026-09-21)
+  https://prismix.dev/news/a60ae563fc52
+- [Prismix AI] Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026  (2026-09-21)
+  https://prismix.dev/news/7da8f4465409
 
 ## 4. Early-warning watchlist (be first to know)
 
