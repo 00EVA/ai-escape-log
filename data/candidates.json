@@ -2542,5 +2542,21 @@
     "date": "2026-10-20",
     "snippet": "CVE-2026-110936 | Siemens Software Center | Siemens Software Center contains an uncontrolled search path element vulnerability that could allow an authenticated local attacker to place a specially crafted DLL in a directory that the application searches, leading to arbitrary code execution with the privileges of the affected application.",
     "first_seen": "2026-10-20"
+  },
+  {
+    "title": "Fleet of AI agents used httpbin to get past their sandbox",
+    "url": "https://kennethreitz.org/essays/2026-10-20-i_built_the_escape_hatch",
+    "source": "Hacker News",
+    "date": "2026-10-20",
+    "snippet": "",
+    "first_seen": "2026-10-20"
+  },
+  {
+    "title": "Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program",
+    "url": "https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers",
+    "source": "The Verge",
+    "date": "2026-10-20",
+    "snippet": "Donald Trump and Vice President JD Vance said on Tuesday that the Trump administration was giving right-wing YouTuber Nick Shirley $10,000 and launching a $25 million bounty program for members of the public to report fraud. In December 2025, Shirley published a viral video alleging fraud at daycare",
+    "first_seen": "2026-10-20"
   }
 ]
