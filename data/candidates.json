@@ -2416,67 +2416,59 @@
     "first_seen": "2026-10-20"
   },
   {
-    "title": "Show HN: Locksmith: Store Maven Secrets in the macOS Keychain (Or a Unix Socket)",
-    "url": "https://github.com/exabrial/locksmith",
-    "source": "Hacker News",
-    "date": "2026-09-09",
-    "snippet": "Hello HN,<p>In the age of LLMs sucking in random secrets, sandbox escapes, and RCE orbital bombardment, I thought it&#x27;d be a good idea to create a Maven Extension that defers to the MacOS keychain for resolving secrets. In general, it&#x27;s a good idea to not have any secrets (passwords, tokens",
-    "first_seen": "2026-10-20"
-  },
-  {
-    "title": "Show HN: Misalignments when using AI for hacking",
-    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
-    "source": "Hacker News",
-    "date": "2026-08-05",
-    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
-    "first_seen": "2026-10-20"
-  },
-  {
-    "title": "Disrupting ai espionage",
-    "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
-    "source": "Anthropic News (sitemap)",
-    "date": "2026-09-10",
-    "snippet": "",
-    "first_seen": "2026-10-20"
-  },
-  {
-    "title": "OpenAI AI Agents Hijacked A German Wiki To Share Sandbox Escape Tricks - Forbes",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjlIbVRJZndNY0c4RU5FSFFlNDVzZ0ktVng3S2lBVHlxQnVCWHd3cW1YRm5JQmJqeUF4ZlN4bnNSU1dmT1QwTzNCTjBtMXBlQnN2VnFaWEhiS0UwdjM4NFpUX3dPMFE2UnN5eWpud05Tcl9SUkFsTy1vazFkT0NBY1JJdXpPVHF3VUtDTjlYYlNvcm4wdms1SGlkdU5JaXUtckNQX3A0Zk1MZFhvNFAwYXNaUzFWNnpSOEhvaEllYw",
-    "source": "Google News",
-    "date": "Mon, 07 Se",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjlIbVRJZndNY0c4RU5FSFFlNDVzZ0ktVng3S2lBVHlxQnVCWHd3cW1YRm5JQmJqeUF4ZlN4bnNSU1dmT1QwTzNCTjBtMXBlQnN2VnFaWEhiS0UwdjM4NFpUX3dPMFE2UnN5eWpud05Tcl9SUkFsTy1vazFkT0NBY1JJdXpPVHF3VUtDTjlYYlNvcm4wdms1SGlkdU5JaXUtckNQX3A0Zk1MZFhvNFAwYXNaUzFWNnpSOE",
-    "first_seen": "2026-10-20"
-  },
-  {
-    "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment - WIRED",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ",
-    "source": "Google News",
-    "date": "Thu, 06 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ?oc=5\" target=\"_blank\">One of China’s Most Powerful AI Models Has Also Escaped Containme",
-    "first_seen": "2026-10-20"
-  },
-  {
-    "title": "OpenAI’s Models Went Rogue. Investigating Them Required More AI - Time Magazine",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUlgxMWpockg1SkJwbUVKVENYVHRaM2pXZHg4al9STXJTZ2ttWk5DMFlCOEE1cGE5V25YZEc0LUlWajRGM2VFNlRlQ051dy10Q0xJZVJGdUxzUFhuTjlYZnpCcjVSbm9oenF5LW5DV1hncVNLVmNrZHROS3VTbzV3ag",
-    "source": "Google News",
-    "date": "Thu, 27 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQUlgxMWpockg1SkJwbUVKVENYVHRaM2pXZHg4al9STXJTZ2ttWk5DMFlCOEE1cGE5V25YZEc0LUlWajRGM2VFNlRlQ051dy10Q0xJZVJGdUxzUFhuTjlYZnpCcjVSbm9oenF5LW5DV1hncVNLVmNrZHROS3VTbzV3ag?oc=5\" target=\"_blank\">OpenAI’s Models Went Rogue. Investigating Them Requir",
-    "first_seen": "2026-10-20"
-  },
-  {
-    "title": "Meta says its AI model hacked another company, adding to worries about bots going rogue - AP News",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVndsM1ItQXZiWkIwUU9rc1JmRDNZVXZsenNsM3BUN0JqSlZMcTFoMHk0RTN1U0xRUjVtNnQzSzVUMWdhY1Z4T1N1bkpqUFRSR2U5M2NoU1JpaU9LZnVBWmJEZEozQ1JMbXVpcHl1c3JLb2s1Q0k3UU4yS2NPanBjMWZjeXFpUnA4ZUpEX09sNUdrR29jMlFRMjN0ZDhWM1Q1UVpVbg",
-    "source": "Google News",
-    "date": "Thu, 06 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOVndsM1ItQXZiWkIwUU9rc1JmRDNZVXZsenNsM3BUN0JqSlZMcTFoMHk0RTN1U0xRUjVtNnQzSzVUMWdhY1Z4T1N1bkpqUFRSR2U5M2NoU1JpaU9LZnVBWmJEZEozQ1JMbXVpcHl1c3JLb2s1Q0k3UU4yS2NPanBjMWZjeXFpUnA4ZUpEX09sNUdrR29jMlFRMjN0ZDhWM1Q1UVpVbg?oc=5\" target=\"_blank\">Meta ",
-    "first_seen": "2026-10-20"
-  },
-  {
     "title": "Former OpenAI employee arrested for alleged spying denied release - USA Today",
     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQLXV4UlpQRWRIQURxdWpKNmsyM0Y5czdhdzczRVdpQ1lmZ2QxNU01d1NXRWplWU1Yam0zZldTOFFMb2trdWpOVm5tTGw5QkhQdnNIeVFqczk0ZWoxTDJUWlFFTk1mSEFfbXRyZDZkSlFfUWxrdkRQTDVxcFJKS1M2aXFZV0hDSWRKdi1kSWVFSEpzUFVBY0xjNlUySUlZNUhsMDJBTlZRT0RsaG9QU3lCaWtBUzVmZFV4dTZfdGs3VEV4RzAxY3JSbU5sWFAxSW02eXhXcnZYN2tYZmxIdTJhalExbFRZVk9Qd1JxV1d4czRNSFRfY2U3NkVtNGJxLUZTSlpqc3R3",
     "source": "Google News",
     "date": "Mon, 19 Oc",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxQLXV4UlpQRWRIQURxdWpKNmsyM0Y5czdhdzczRVdpQ1lmZ2QxNU01d1NXRWplWU1Yam0zZldTOFFMb2trdWpOVm5tTGw5QkhQdnNIeVFqczk0ZWoxTDJUWlFFTk1mSEFfbXRyZDZkSlFfUWxrdkRQTDVxcFJKS1M2aXFZV0hDSWRKdi1kSWVFSEpzUFVBY0xjNlUySUlZNUhsMDJBTlZRT0RsaG9QU3lCaWtBUzVmZFV4dT",
+    "first_seen": "2026-10-20"
+  },
+  {
+    "title": "What kind of disruptive event could shift public sentiment to be in favor of AI?",
+    "url": "https://www.reddit.com/r/singularity/comments/1xat9xe/what_kind_of_disruptive_event_could_shift_public/",
+    "source": "Reddit r/singularity",
+    "date": "2026-10-20",
+    "snippet": "   For example, what if rogue hackers eliminate all medical debt or erase consumer credit scores so everyone has a fresh start.      &#32; submitted by &#32;   /u/Mr-and-Mrs       [link]   &#32;   [comments]  ",
+    "first_seen": "2026-10-20"
+  },
+  {
+    "title": "TikTok employees said they knew about child safety issues, but execs failed to act",
+    "url": "https://www.theverge.com/tech/1014250/tiktok-employees-internal-child-safety-warnings",
+    "source": "The Verge",
+    "date": "2026-10-20",
+    "snippet": "TikTok was repeatedly warned by its own staffers about risks its platform posed to child safety, according to court records obtained by NPR. The publication reports that employees were frustrated over TikTok executives failing to appropriately act on concerns they raised, including minors bypassing ",
+    "first_seen": "2026-10-20"
+  },
+  {
+    "title": "Why AI agents go rogue — and what it means for CFOs - CFO Dive",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcjdaeFdMXzRkZnJaZG5fZEh2SjF3R1R0S1o5OTdKcFBnVDRYS0VhNWNJRUx1dTRHbkNNVTc5V3FfZnVUd25QYjRfYXBMeWVpMWhFUHltQUtMY3ZVYVJrYUl1TWJHWWdGeTI4cVNqVWtpR3BpZTRwM1lCU0s5SnhqNXd1aEoxVkh3enk1WXpfbnhpODg",
+    "source": "Google News",
+    "date": "Tue, 20 Oc",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNcjdaeFdMXzRkZnJaZG5fZEh2SjF3R1R0S1o5OTdKcFBnVDRYS0VhNWNJRUx1dTRHbkNNVTc5V3FfZnVUd25QYjRfYXBMeWVpMWhFUHltQUtMY3ZVYVJrYUl1TWJHWWdGeTI4cVNqVWtpR3BpZTRwM1lCU0s5SnhqNXd1aEoxVkh3enk1WXpfbnhpODg?oc=5\" target=\"_blank\">Why AI agents go rogue — and",
+    "first_seen": "2026-10-20"
+  },
+  {
+    "title": "OpenAI employee arrested for listening device communicated with Saudi royal, feds say - ABC News - Breaking News, Latest News and Videos",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeHYwOU5SVHVGVm9UZUNVczl3a0xaa0I2Mkd5SlBBeFBJZjZhNTJNWEUwcE1rWDZEQ01iWF9ndTJ4WVBkc183NUthRURwaG5GNzE2V0FHc1lYdG5DUjk1ODl2TDlnanRGWl9oa3VmX014dk1fSFBkaGlnLV9WX2lyaFlmbF9zMUZpZWowS2MzTkdOY0dnc1dxODZsM0djTktETlpVNE16Qm5YQjlHNnfSAbMBQVVfeXFMTVdIMHVnUXlLdWtzNTR6RzJZOFhxMmpmUnAta09FOTNDcFFabUNvUUEzcnZFRU1FSEhvVTRDdDVGcnlWODRYX2lvUmdlbEZVWFBoSGcwOFhTWlVGT2FWeEdiczhTSDlPLVBEajV1NmJDT3ZVdEVhUnpkSFNncHh4WllrSG40UWhCeE5PdjFDNVhuNFBqUTZaUDhCSTdCNmtqMmt3YndYcFFmckJCVm1yOFJnc28",
+    "source": "Google News",
+    "date": "Tue, 20 Oc",
+    "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOeHYwOU5SVHVGVm9UZUNVczl3a0xaa0I2Mkd5SlBBeFBJZjZhNTJNWEUwcE1rWDZEQ01iWF9ndTJ4WVBkc183NUthRURwaG5GNzE2V0FHc1lYdG5DUjk1ODl2TDlnanRGWl9oa3VmX014dk1fSFBkaGlnLV9WX2lyaFlmbF9zMUZpZWowS2MzTkdOY0dnc1dxODZsM0djTktETlpVNE16Qm5YQjlHNnfSAbMBQV",
+    "first_seen": "2026-10-20"
+  },
+  {
+    "title": "Man arrested after telling AI chatbot about ‘plans for mass shooting’ - The Independent",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNXzdfakZFWG5qZVNacWdTdkRQd2F4bkd2RDdvTTRrM2dVNzM5blMydy1rd2xGN01KcUdDemdvZlJOV01za2ViUjZkSFNWaG1zbE40cXZRclRsSThnT1Z2cG94cVE2Z2ZMUGhvUktVcDVrWWhuaW45TWRlbWxON2NhSG9kWTFQSkx0VVFQQkEyS25FU0prcUtrNGk4U0drUnhFVTBObnNCVQ",
+    "source": "Google News",
+    "date": "Tue, 20 Oc",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNXzdfakZFWG5qZVNacWdTdkRQd2F4bkd2RDdvTTRrM2dVNzM5blMydy1rd2xGN01KcUdDemdvZlJOV01za2ViUjZkSFNWaG1zbE40cXZRclRsSThnT1Z2cG94cVE2Z2ZMUGhvUktVcDVrWWhuaW45TWRlbWxON2NhSG9kWTFQSkx0VVFQQkEyS25FU0prcUtrNGk4U0drUnhFVTBObnNCVQ?oc=5\" target=\"_blank\">M",
+    "first_seen": "2026-10-20"
+  },
+  {
+    "title": "Ransomware Gangs Use AI to Quickly Find and Steal the Most Sensitive Company Data - Cyber Press",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YTUw3Z3lNNjVZMG5fR1RvZWFlTWNhdjIyT2xTeEI2c0FxRmo1R0VhSmg1TEtYV2U0RTBRWGdvOUNEcDE5NUgyWnFWbC16eDc1VWJ6VnVoaWVCVFVQODFrbEthVUloVlBzYlNzSkVZb2dzWDZ20gF0QVVfeXFMTlhNTDdneU02NVkwbl9HVG9lYWVNY2F2MjJPbFN4QjZzQXFGajVHRWFKaDVMS1hXZTRFMFFYZ285Q0RwMTk1SDJacVZsLXp4NzVVYnpWdWhpZUJUVVA4MWtsS2FVSWhWUHNiU3NKRVlvZ3NYNnY",
+    "source": "Google News",
+    "date": "Tue, 20 Oc",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5YTUw3Z3lNNjVZMG5fR1RvZWFlTWNhdjIyT2xTeEI2c0FxRmo1R0VhSmg1TEtYV2U0RTBRWGdvOUNEcDE5NUgyWnFWbC16eDc1VWJ6VnVoaWVCVFVQODFrbEthVUloVlBzYlNzSkVZb2dzWDZ20gF0QVVfeXFMTlhNTDdneU02NVkwbl9HVG9lYWVNY2F2MjJPbFN4QjZzQXFGajVHRWFKaDVMS1hXZTRFMFFYZ285Q0RwMT",
     "first_seen": "2026-10-20"
   }
 ]
