@@ -2518,5 +2518,69 @@
     "date": "Thu, 01 Oc",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9LY1hadFVlekNuQTlpb0FQNHY2a0ZhSjE1N1BGeUV0QlNxLV9uQzBycWEycUJ0cmVBRW9PVFJ1Q2RLWlJ4R2lXSllkVV9OQmVZQWhodUhvOWVWcWtPOVY0RkZvWXdMMVVQYzhiNm4tYVZsQ3BzUVN4amV3?oc=5\" target=\"_blank\">How deepfake fraud is testing banks’ defences</a>&nbsp;&nbsp;<f",
     "first_seen": "2026-10-21"
+  },
+  {
+    "title": "Show HN: Misalignments when using AI for hacking",
+    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
+    "source": "Hacker News",
+    "date": "2026-08-05",
+    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
+    "first_seen": "2026-10-21"
+  },
+  {
+    "title": "Rogue AI Agents [video]",
+    "url": "https://www.youtube.com/watch?v=OwZrotHHn4I",
+    "source": "Hacker News",
+    "date": "2026-10-21",
+    "snippet": "",
+    "first_seen": "2026-10-21"
+  },
+  {
+    "title": "Disrupting ai espionage",
+    "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
+    "source": "Anthropic News (sitemap)",
+    "date": "2026-10-20",
+    "snippet": "",
+    "first_seen": "2026-10-21"
+  },
+  {
+    "title": "A critical PHP vulnerability may take websites down today",
+    "url": "https://www.theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress",
+    "source": "The Verge",
+    "date": "2026-10-21",
+    "snippet": "Security patches for the PHP programming language, widely used to build websites and web apps, are expected to roll out today, with the goal of fixing two critical vulnerabilities that could wreak havoc on the internet if left unchecked. In an advisory published on Tuesday, PHP developers said the v",
+    "first_seen": "2026-10-21"
+  },
+  {
+    "title": "OpenAI AI Agents Hijacked A German Wiki To Share Sandbox Escape Tricks - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjlIbVRJZndNY0c4RU5FSFFlNDVzZ0ktVng3S2lBVHlxQnVCWHd3cW1YRm5JQmJqeUF4ZlN4bnNSU1dmT1QwTzNCTjBtMXBlQnN2VnFaWEhiS0UwdjM4NFpUX3dPMFE2UnN5eWpud05Tcl9SUkFsTy1vazFkT0NBY1JJdXpPVHF3VUtDTjlYYlNvcm4wdms1SGlkdU5JaXUtckNQX3A0Zk1MZFhvNFAwYXNaUzFWNnpSOEhvaEllYw",
+    "source": "Google News",
+    "date": "Mon, 07 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjlIbVRJZndNY0c4RU5FSFFlNDVzZ0ktVng3S2lBVHlxQnVCWHd3cW1YRm5JQmJqeUF4ZlN4bnNSU1dmT1QwTzNCTjBtMXBlQnN2VnFaWEhiS0UwdjM4NFpUX3dPMFE2UnN5eWpud05Tcl9SUkFsTy1vazFkT0NBY1JJdXpPVHF3VUtDTjlYYlNvcm4wdms1SGlkdU5JaXUtckNQX3A0Zk1MZFhvNFAwYXNaUzFWNnpSOE",
+    "first_seen": "2026-10-21"
+  },
+  {
+    "title": "OpenAI’s Models Went Rogue. Investigating Them Required More AI - Time Magazine",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUlgxMWpockg1SkJwbUVKVENYVHRaM2pXZHg4al9STXJTZ2ttWk5DMFlCOEE1cGE5V25YZEc0LUlWajRGM2VFNlRlQ051dy10Q0xJZVJGdUxzUFhuTjlYZnpCcjVSbm9oenF5LW5DV1hncVNLVmNrZHROS3VTbzV3ag",
+    "source": "Google News",
+    "date": "Thu, 27 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQUlgxMWpockg1SkJwbUVKVENYVHRaM2pXZHg4al9STXJTZ2ttWk5DMFlCOEE1cGE5V25YZEc0LUlWajRGM2VFNlRlQ051dy10Q0xJZVJGdUxzUFhuTjlYZnpCcjVSbm9oenF5LW5DV1hncVNLVmNrZHROS3VTbzV3ag?oc=5\" target=\"_blank\">OpenAI’s Models Went Rogue. Investigating Them Requir",
+    "first_seen": "2026-10-21"
+  },
+  {
+    "title": "AI Ransomware Can Now Run Much of an Attack Without Human Help - Redmondmag.com",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZy12QU9KTzB2SDdZR3ZQdEVPSjlNVGU0TFFJUWZWeTluRGFiVkNqZV9panUwcXhOdXV4RmFHWFVfNkJkLTRuV29iYUZWbTRZUE01NTVWd2ItblZfRldQbHpBU21GY2tQMVlDRW5UakpHdVFCWk1IalphMGRncXd1eGNzV0w5b3R4dklwMDRuZkhsdUZhOXdtMm1VQjZoWFM2a2R2b0l5M3VUWm9FVk1n",
+    "source": "Google News",
+    "date": "Fri, 28 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOZy12QU9KTzB2SDdZR3ZQdEVPSjlNVGU0TFFJUWZWeTluRGFiVkNqZV9panUwcXhOdXV4RmFHWFVfNkJkLTRuV29iYUZWbTRZUE01NTVWd2ItblZfRldQbHpBU21GY2tQMVlDRW5UakpHdVFCWk1IalphMGRncXd1eGNzV0w5b3R4dklwMDRuZkhsdUZhOXdtMm1VQjZoWFM2a2R2b0l5M3VUWm9FVk1n?oc=5\" target=",
+    "first_seen": "2026-10-21"
+  },
+  {
+    "title": "Elder fraud rises as scammers use AI - Journal of Accountancy",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLTFhLUVsS1hOdFpUNS1JZ183OThqVFpTN0dfWi1zT1ZwQmxBbVFBV0NSSVNiajQ1YlpvWEhNUlhTT0N0LW9xUlN2YVh3blMwMVlaTmhsVERCRzVMVWxUTFRDcjBVV0RmcF9aWnZhLXJybkR1OG5icElrc21zb0h1WGo0TXVRdWNtNDRoQ2RtSGp2cEtu",
+    "source": "Google News",
+    "date": "Wed, 01 Ap",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQLTFhLUVsS1hOdFpUNS1JZ183OThqVFpTN0dfWi1zT1ZwQmxBbVFBV0NSSVNiajQ1YlpvWEhNUlhTT0N0LW9xUlN2YVh3blMwMVlaTmhsVERCRzVMVWxUTFRDcjBVV0RmcF9aWnZhLXJybkR1OG5icElrc21zb0h1WGo0TXVRdWNtNDRoQ2RtSGp2cEtu?oc=5\" target=\"_blank\">Elder fraud rises as scamme",
+    "first_seen": "2026-10-21"
   }
 ]
