@@ -2520,26 +2520,10 @@
     "first_seen": "2026-10-21"
   },
   {
-    "title": "Show HN: Misalignments when using AI for hacking",
-    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
-    "source": "Hacker News",
-    "date": "2026-08-05",
-    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
-    "first_seen": "2026-10-21"
-  },
-  {
     "title": "Rogue AI Agents [video]",
     "url": "https://www.youtube.com/watch?v=OwZrotHHn4I",
     "source": "Hacker News",
     "date": "2026-10-21",
-    "snippet": "",
-    "first_seen": "2026-10-21"
-  },
-  {
-    "title": "Disrupting ai espionage",
-    "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
-    "source": "Anthropic News (sitemap)",
-    "date": "2026-10-20",
     "snippet": "",
     "first_seen": "2026-10-21"
   },
@@ -2552,35 +2536,35 @@
     "first_seen": "2026-10-21"
   },
   {
-    "title": "OpenAI AI Agents Hijacked A German Wiki To Share Sandbox Escape Tricks - Forbes",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjlIbVRJZndNY0c4RU5FSFFlNDVzZ0ktVng3S2lBVHlxQnVCWHd3cW1YRm5JQmJqeUF4ZlN4bnNSU1dmT1QwTzNCTjBtMXBlQnN2VnFaWEhiS0UwdjM4NFpUX3dPMFE2UnN5eWpud05Tcl9SUkFsTy1vazFkT0NBY1JJdXpPVHF3VUtDTjlYYlNvcm4wdms1SGlkdU5JaXUtckNQX3A0Zk1MZFhvNFAwYXNaUzFWNnpSOEhvaEllYw",
-    "source": "Google News",
-    "date": "Mon, 07 Se",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjlIbVRJZndNY0c4RU5FSFFlNDVzZ0ktVng3S2lBVHlxQnVCWHd3cW1YRm5JQmJqeUF4ZlN4bnNSU1dmT1QwTzNCTjBtMXBlQnN2VnFaWEhiS0UwdjM4NFpUX3dPMFE2UnN5eWpud05Tcl9SUkFsTy1vazFkT0NBY1JJdXpPVHF3VUtDTjlYYlNvcm4wdms1SGlkdU5JaXUtckNQX3A0Zk1MZFhvNFAwYXNaUzFWNnpSOE",
+    "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+    "source": "The Verge",
+    "date": "2026-10-21",
+    "snippet": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The reference didn't confi",
     "first_seen": "2026-10-21"
   },
   {
-    "title": "OpenAI’s Models Went Rogue. Investigating Them Required More AI - Time Magazine",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUlgxMWpockg1SkJwbUVKVENYVHRaM2pXZHg4al9STXJTZ2ttWk5DMFlCOEE1cGE5V25YZEc0LUlWajRGM2VFNlRlQ051dy10Q0xJZVJGdUxzUFhuTjlYZnpCcjVSbm9oenF5LW5DV1hncVNLVmNrZHROS3VTbzV3ag",
+    "title": "GitLab AI Gateway CVE-2026-90970: a 9.9 sandbox escape - OrcaRouter",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zNm5wb1NVdi1OdUUwSVBYZVZYZ0h1S0pWZHhzd0pyUldJZFNQc1lUUnJjczMxMUpaamJkTmdUangybXdBYTdNdFM0SmtvemdEWWZmUXA2T2Y0UDhzVXZSck1EckwyYW9iZ0xGZ3JRS0xZTnNCY1E",
     "source": "Google News",
-    "date": "Thu, 27 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQUlgxMWpockg1SkJwbUVKVENYVHRaM2pXZHg4al9STXJTZ2ttWk5DMFlCOEE1cGE5V25YZEc0LUlWajRGM2VFNlRlQ051dy10Q0xJZVJGdUxzUFhuTjlYZnpCcjVSbm9oenF5LW5DV1hncVNLVmNrZHROS3VTbzV3ag?oc=5\" target=\"_blank\">OpenAI’s Models Went Rogue. Investigating Them Requir",
+    "date": "Wed, 21 Oc",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9zNm5wb1NVdi1OdUUwSVBYZVZYZ0h1S0pWZHhzd0pyUldJZFNQc1lUUnJjczMxMUpaamJkTmdUangybXdBYTdNdFM0SmtvemdEWWZmUXA2T2Y0UDhzVXZSck1EckwyYW9iZ0xGZ3JRS0xZTnNCY1E?oc=5\" target=\"_blank\">GitLab AI Gateway CVE-2026-90970: a 9.9 sandbox escape</a>&nbsp;&nbs",
     "first_seen": "2026-10-21"
   },
   {
-    "title": "AI Ransomware Can Now Run Much of an Attack Without Human Help - Redmondmag.com",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZy12QU9KTzB2SDdZR3ZQdEVPSjlNVGU0TFFJUWZWeTluRGFiVkNqZV9panUwcXhOdXV4RmFHWFVfNkJkLTRuV29iYUZWbTRZUE01NTVWd2ItblZfRldQbHpBU21GY2tQMVlDRW5UakpHdVFCWk1IalphMGRncXd1eGNzV0w5b3R4dklwMDRuZkhsdUZhOXdtMm1VQjZoWFM2a2R2b0l5M3VUWm9FVk1n",
+    "title": "AI expert reveals how to spot a deepfake scam call - The Independent",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRWJ3WGZOQzlHWXNJb2Q2cFV0T2VuT09fczNRdjVxTFJTa0paN2VDOW5naTVYbExFRGY0LUg4NWk2amhuaS1abjhnai1sRVJrcEtIR2RGeG5mMDBmUzEzbVNYMUhMRVJFMWJyYVFKWHpjaVdsUDk3clJqTzliZExTMFRmVU5wVWg5ajdSOVN6NVhUbEhW",
     "source": "Google News",
-    "date": "Fri, 28 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOZy12QU9KTzB2SDdZR3ZQdEVPSjlNVGU0TFFJUWZWeTluRGFiVkNqZV9panUwcXhOdXV4RmFHWFVfNkJkLTRuV29iYUZWbTRZUE01NTVWd2ItblZfRldQbHpBU21GY2tQMVlDRW5UakpHdVFCWk1IalphMGRncXd1eGNzV0w5b3R4dklwMDRuZkhsdUZhOXdtMm1VQjZoWFM2a2R2b0l5M3VUWm9FVk1n?oc=5\" target=",
+    "date": "Fri, 16 Oc",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPRWJ3WGZOQzlHWXNJb2Q2cFV0T2VuT09fczNRdjVxTFJTa0paN2VDOW5naTVYbExFRGY0LUg4NWk2amhuaS1abjhnai1sRVJrcEtIR2RGeG5mMDBmUzEzbVNYMUhMRVJFMWJyYVFKWHpjaVdsUDk3clJqTzliZExTMFRmVU5wVWg5ajdSOVN6NVhUbEhW?oc=5\" target=\"_blank\">AI expert reveals how to sp",
     "first_seen": "2026-10-21"
   },
   {
-    "title": "Elder fraud rises as scammers use AI - Journal of Accountancy",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLTFhLUVsS1hOdFpUNS1JZ183OThqVFpTN0dfWi1zT1ZwQmxBbVFBV0NSSVNiajQ1YlpvWEhNUlhTT0N0LW9xUlN2YVh3blMwMVlaTmhsVERCRzVMVWxUTFRDcjBVV0RmcF9aWnZhLXJybkR1OG5icElrc21zb0h1WGo0TXVRdWNtNDRoQ2RtSGp2cEtu",
+    "title": "Anthropic warns AI models may soon self-replicate and could wreak havoc on the web - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFZnZHFlY0QxWV9XbURPeDVpQnlMcWFqaTlDMHRjcWhhLXRhR1hfbTdNeVl3c3dyR3V6V211Wmp5aXNZT1VpN1kwdUs3ZFdBTXB5Z2tEN1JfV2FnUk5FRHpVa2lfRWxENndHaDdNWmRZVUJfQkFody00VG1BNk8wb29Sel9Wd011ampEWXlOQk9xM2x0bkVwTXBib0hEMndtOWNuZXdDWFlEcTRuZzVLRDYxUDFfek9XRTNna3dhZw",
     "source": "Google News",
-    "date": "Wed, 01 Ap",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQLTFhLUVsS1hOdFpUNS1JZ183OThqVFpTN0dfWi1zT1ZwQmxBbVFBV0NSSVNiajQ1YlpvWEhNUlhTT0N0LW9xUlN2YVh3blMwMVlaTmhsVERCRzVMVWxUTFRDcjBVV0RmcF9aWnZhLXJybkR1OG5icElrc21zb0h1WGo0TXVRdWNtNDRoQ2RtSGp2cEtu?oc=5\" target=\"_blank\">Elder fraud rises as scamme",
+    "date": "Tue, 13 Oc",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFZnZHFlY0QxWV9XbURPeDVpQnlMcWFqaTlDMHRjcWhhLXRhR1hfbTdNeVl3c3dyR3V6V211Wmp5aXNZT1VpN1kwdUs3ZFdBTXB5Z2tEN1JfV2FnUk5FRHpVa2lfRWxENndHaDdNWmRZVUJfQkFody00VG1BNk8wb29Sel9Wd011ampEWXlOQk9xM2x0bkVwTXBib0hEMndtOWNuZXdDWFlEcTRuZzVLRDYxUDFfek9XRT",
     "first_seen": "2026-10-21"
   }
 ]
