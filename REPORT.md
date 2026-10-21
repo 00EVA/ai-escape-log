@@ -1,6 +1,6 @@
-# AI Incident Briefing — 2026-10-20
+# AI Incident Briefing — 2026-10-21
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 320_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 313_
 
 ## 1. Latest verified incidents
 
@@ -11,14 +11,10 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=320)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=313)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [The Verge] Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems  (2026-09-19)
-  https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure
-- [Prismix AI] 6 days left to get ahead at TechCrunch Disrupt 2026  (2026-09-20)
-  https://prismix.dev/news/dbb148570dcf
 - [Reddit r/singularity] These Were NOT Rogue AI Escapes. Just SLOPPY Firewall Failures.  (2026-09-21)
   https://www.reddit.com/r/singularity/comments/1wm9jr5/these_were_not_rogue_ai_escapes_just_sloppy/
 - [Prismix AI] These Were NOT Rogue AI Escapes. Just SLOPPY Firewall Failures. [N]  (2026-09-21)
@@ -29,6 +25,14 @@ If one of these hits you: AI crime triage: is the AI the actor (rogue agent/auto
   https://prismix.dev/news/a60ae563fc52
 - [Prismix AI] Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026  (2026-09-21)
   https://prismix.dev/news/7da8f4465409
+- [Google News] Google AI models broke out of sandbox, hacked three companies - Cybersecurity Dive  (Mon, 21 Se)
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxNanlDUENybDN1a2lMNEN4eWR5ZTdLNC1ScXUxaG5UMFVPbFo5S0Q3YWhoR2hxQjVVZ1dYWTNlVEFBUDBBa2Z4N2hXRFVuSGh2ZE5sMS1KUEU5T2RjQmpYeER5Zlh2T003N3FodlBTaXl1UktnWWtBRWVDQm5KbGFKSUVlaUI3UkE
+- [Google News] How Gemini hacked into three companies. Google confirms its AI model went rogue during cybersecurity test - theweek.in  (Sat, 19 Se)
+  https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVHo3b1FWcGo5RXdWLW1VUEtTbnVuUng3TmpmQ2hFLThDazRQN3gxc3RpV0lteERfSnIzV243ZTE5TGh4QVNBRk9UMXE2OTlZMzZQaWI2RW41bi1lX2hXTUhreGp1OXQyS2E4THlxS1piQmF3WG03aHhHSGxQaktQVDNEdU1VNlhsNFZEMElKNVNVVldnTEhteVhlVnJYV3cyRjZVcTBGQkFMRExjXzYzNTgxd2s5NEpyMnNBWGlpbVh2cVZ3NWc2YjJoSWhYaC1MQTlxQVRfdXNYaGpzRmJJd3gyYl9FTzZtMnRGblB30gHzAUFVX3lxTE1sUF9EWFhaUm1NUkNQcmU0eEhkUHlpLVV2ZWROaU5uaTdRR2lGTnNHUHlSYmFkbkRNZzNqR0R2Rl9ybGNNY1F1cmN3M1ljemZWTko0clFXcGxWZDhnbEpBckhMa3pOeEk0SkgzZmpxeWZPNzlpanpLcHZfdnplaXdfRWlQRmFBbEtQYWtNS2J2ellaOHYyRV9hMXg3RFZCeWlzZEZONlRMTlljajFMXzk2VnItVmZhV1hLUk85blRnMzZBYWpfMjZtS2ZBUk5kcjVWd1JLTlhpNkNRY1hza25NaERTVTY0U2UyN2VoYW4taEt2MA
+- [The Verge] A cut cable disrupted hundreds of flights across the US  (2026-09-21)
+  https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us
+- [Prismix AI] Meta’s Muse Tries (and Fails) to Disrupt Amazon  (2026-09-22)
+  https://prismix.dev/news/357623f80f75
 
 ## 4. Early-warning watchlist (be first to know)
 
