@@ -2448,30 +2448,6 @@
     "first_seen": "2026-10-22"
   },
   {
-    "title": "Show HN: Misalignments when using AI for hacking",
-    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
-    "source": "Hacker News",
-    "date": "2026-08-05",
-    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
-    "first_seen": "2026-10-22"
-  },
-  {
-    "title": "Disrupting ai espionage",
-    "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
-    "source": "Anthropic News (sitemap)",
-    "date": "2026-10-20",
-    "snippet": "",
-    "first_seen": "2026-10-22"
-  },
-  {
-    "title": "Google AI models broke out of sandbox, hacked three companies - Cybersecurity Dive",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNanlDUENybDN1a2lMNEN4eWR5ZTdLNC1ScXUxaG5UMFVPbFo5S0Q3YWhoR2hxQjVVZ1dYWTNlVEFBUDBBa2Z4N2hXRFVuSGh2ZE5sMS1KUEU5T2RjQmpYeER5Zlh2T003N3FodlBTaXl1UktnWWtBRWVDQm5KbGFKSUVlaUI3UkE",
-    "source": "Google News",
-    "date": "Mon, 21 Se",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNanlDUENybDN1a2lMNEN4eWR5ZTdLNC1ScXUxaG5UMFVPbFo5S0Q3YWhoR2hxQjVVZ1dYWTNlVEFBUDBBa2Z4N2hXRFVuSGh2ZE5sMS1KUEU5T2RjQmpYeER5Zlh2T003N3FodlBTaXl1UktnWWtBRWVDQm5KbGFKSUVlaUI3UkE?oc=5\" target=\"_blank\">Google AI models broke out of sandbox, hacke",
-    "first_seen": "2026-10-22"
-  },
-  {
     "title": "New DeepSeek AI Model Built an Exploit to Escape Chrome Sandbox Security - Android Headlines",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMjlHUEo4M216cEptUHMwWjVJRTFlb1JtT003WlVybFVQbHFnMkxRNzVWcUtSRDlKTm9idkN5LVdfdXctV2xRYjhoVjV0TmRPYVJVN3hwb0p6WVZFTHh1aGtyYlEzRjk0a2dhSUJWVG1xZXZobDJVWHhmSS1mUkNVU281U0pfcGswVVFCSi1XaXg",
     "source": "Google News",
@@ -2480,35 +2456,11 @@
     "first_seen": "2026-10-22"
   },
   {
-    "title": "OpenAI AI Agents Hijacked A German Wiki To Share Sandbox Escape Tricks - Forbes",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjlIbVRJZndNY0c4RU5FSFFlNDVzZ0ktVng3S2lBVHlxQnVCWHd3cW1YRm5JQmJqeUF4ZlN4bnNSU1dmT1QwTzNCTjBtMXBlQnN2VnFaWEhiS0UwdjM4NFpUX3dPMFE2UnN5eWpud05Tcl9SUkFsTy1vazFkT0NBY1JJdXpPVHF3VUtDTjlYYlNvcm4wdms1SGlkdU5JaXUtckNQX3A0Zk1MZFhvNFAwYXNaUzFWNnpSOEhvaEllYw",
+    "title": "DeepSeek’s V4.1-Flash-1017 Model Just Built An Exploit That Escapes Chrome’s Sandbox, As The AI-Driven Assault On The Open Web Goes On An Overdrive - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRklqZUtieWhhWUpzS0Y4VXZ0b1RXbFlvczBaZ1kxTUxDM3BWRFM5XzFXMzJQX3o0RVcxeFhFdC1hVmVCbnRQUWhvMjZHZi1mZVFBa1F1UjhvZUVRWUdfSnhXOXZWazhWbWxWUWlCRm5QRWZFUkVudU1lWWZjc1p5RkZFTzZZazRrYWFXdWlVMDZNYXhFRU9wUjZxZUY4ZEVTNnNXTGxCRktUbVVkdllzRFB4M3JjYnBrSXNlWnY3ejBOZDJxTEFGQ0Fic0RqZlY4R1J0UXhILVFhZzVYbkVsWlJKRWwzMW5aaTZuWFo4RTVBclJxNlNfY3h30gH_AUFVX3lxTFBENmt5V1hOTU94QnJzc1o0OHE0Qm9tNVhJV19MVG5NaHpHdkJldHRpNlZQbFRaZ3gxTXhXb2pyeDJjZWE3eUVHdUM3MVY3WU12a1Jaa2E0cTY5bjdoQTBscWFack9rdDFnN1diOTV3Vi1NaEJ6V0FfUFBEekpRcGpPRjU1cGJKU29fS293aGZ4SkREQVpLNXpBOFR4RkFXc3hhLVVpeXhsYVlVNEpVbGk4SWM3YnhScUtzRjByWEZ3MlBWeGxFSndkOThqUkxlc1Y0ZU5NMjJUcjRuMGNZS2MzM0IxWUtmN19HRnhGY3V1STVoVnFRUjVTdThDMV92VQ",
     "source": "Google News",
-    "date": "Mon, 07 Se",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjlIbVRJZndNY0c4RU5FSFFlNDVzZ0ktVng3S2lBVHlxQnVCWHd3cW1YRm5JQmJqeUF4ZlN4bnNSU1dmT1QwTzNCTjBtMXBlQnN2VnFaWEhiS0UwdjM4NFpUX3dPMFE2UnN5eWpud05Tcl9SUkFsTy1vazFkT0NBY1JJdXpPVHF3VUtDTjlYYlNvcm4wdms1SGlkdU5JaXUtckNQX3A0Zk1MZFhvNFAwYXNaUzFWNnpSOE",
-    "first_seen": "2026-10-22"
-  },
-  {
-    "title": "CVE-2026-82533: DeepSeek Harness Vulnerability Lets AI Agents Escape Their Own Sandbox - OX Security",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1ptSVFXeUQzc1gtNzhzQmpsbGJSdHd1RndnSm0zMWRkcWV5dHNVZk5pWUFzaUZyQzlPZ25GMHhRemY4cVBUUkFhU1JoeUo4Z0RWVlZVNHhnRV9mYWlBNlJXNjZUcC1Dd2dnQ0tmZVMxTkdHMEhhazFuazBQRTlWeUsxWHZwSU0zZE1UZTNn",
-    "source": "Google News",
-    "date": "Tue, 08 Se",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1ptSVFXeUQzc1gtNzhzQmpsbGJSdHd1RndnSm0zMWRkcWV5dHNVZk5pWUFzaUZyQzlPZ25GMHhRemY4cVBUUkFhU1JoeUo4Z0RWVlZVNHhnRV9mYWlBNlJXNjZUcC1Dd2dnQ0tmZVMxTkdHMEhhazFuazBQRTlWeUsxWHZwSU0zZE1UZTNn?oc=5\" target=\"_blank\">CVE-2026-82533: DeepSeek Harness Vu",
-    "first_seen": "2026-10-22"
-  },
-  {
-    "title": "Irregular says ‘human oversight’ responsible for AI sandbox escape incidents - CyberScoop",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14dHp5VTM1c0VfVmhHWmhRdEhEb2NHVnVyWWJtelNCcmtYNGxfS0Z5anNPOG9peGZHZGJhMUNWYndobUtneVMxS2VrTktSQ0hLNEgzblI2TVI2OXdmWWo5MmU0cVJCdXBlVFNUbWtVU1NxR2FmVUE",
-    "source": "Google News",
-    "date": "Mon, 17 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE14dHp5VTM1c0VfVmhHWmhRdEhEb2NHVnVyWWJtelNCcmtYNGxfS0Z5anNPOG9peGZHZGJhMUNWYndobUtneVMxS2VrTktSQ0hLNEgzblI2TVI2OXdmWWo5MmU0cVJCdXBlVFNUbWtVU1NxR2FmVUE?oc=5\" target=\"_blank\">Irregular says ‘human oversight’ responsible for AI sandbox escape i",
-    "first_seen": "2026-10-22"
-  },
-  {
-    "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack - BBC",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VTDZ2ZnhnTVpkWWNOcmdoRkFlb3haUnY1c2w1U2JHXzFDaUJJLVc2bUN0MjFrcU1fbFZUR3ZOakhpMkVkR2tRU3NnaU5GNXFhcVItUjhPUFFkdw",
-    "source": "Google News",
-    "date": "Wed, 22 Ju",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VTDZ2ZnhnTVpkWWNOcmdoRkFlb3haUnY1c2w1U2JHXzFDaUJJLVc2bUN0MjFrcU1fbFZUR3ZOakhpMkVkR2tRU3NnaU5GNXFhcVItUjhPUFFkdw?oc=5\" target=\"_blank\">OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack</a>&nbsp;&nbsp;<font color=\"#6f6f",
+    "date": "Thu, 22 Oc",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRklqZUtieWhhWUpzS0Y4VXZ0b1RXbFlvczBaZ1kxTUxDM3BWRFM5XzFXMzJQX3o0RVcxeFhFdC1hVmVCbnRQUWhvMjZHZi1mZVFBa1F1UjhvZUVRWUdfSnhXOXZWazhWbWxWUWlCRm5QRWZFUkVudU1lWWZjc1p5RkZFTzZZazRrYWFXdWlVMDZNYXhFRU9wUjZxZUY4ZEVTNnNXTGxCRktUbVVkdllzRFB4M3JjYnBrSX",
     "first_seen": "2026-10-22"
   }
 ]
