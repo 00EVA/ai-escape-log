@@ -2438,5 +2438,21 @@
     "date": "2026-10-23",
     "snippet": "CVE-2026-110447 | Collabora Collabora Online – Built-in CODE Server | Collabora Collabora Online – Built-in CODE Server when used within the NextCloud platform contains an OS command injection vulnerability that allows for remote code execution when the CODE server isn't running.",
     "first_seen": "2026-10-23"
+  },
+  {
+    "title": "One AI to rule them all?",
+    "url": "https://www.reddit.com/r/singularity/comments/1xds9d9/one_ai_to_rule_them_all/",
+    "source": "Reddit r/singularity",
+    "date": "2026-10-23",
+    "snippet": "   The title of this thread even makes me uncomfortable, but hear me out. I&#39;m in the camp that unregulated models (local models) pose the biggest threat in the near-term. A local model can have guardrails removed and enable a crazy person to make Covid but 10x more deadly, or at least, could hyp",
+    "first_seen": "2026-10-23"
+  },
+  {
+    "title": "OpenAI now trains its frontier AI models with no internet access",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+    "source": "The Verge",
+    "date": "2026-10-23",
+    "snippet": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external",
+    "first_seen": "2026-10-23"
   }
 ]
