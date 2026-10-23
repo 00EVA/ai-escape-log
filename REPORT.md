@@ -1,6 +1,6 @@
 # AI Incident Briefing — 2026-10-23
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 333_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 301_
 
 ## 1. Latest verified incidents
 
@@ -11,22 +11,34 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=333)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=301)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [Google News] OpenAI Admits 6 AI Models Went Rogue: 2.15% Rate [2026] - tech-insider.org  (Tue, 22 Se)
-  https://news.google.com/rss/articles/CBMieEFVX3lxTFAtcDJsanhPWl8xTnNJMUN5MnRKVHRpODdIc2ZCajVGLVVxRzFyenpqS1V2YklUZGRVbng4eGt0ZFFlN3BiZVYzRUliYVNIeEpJZWM3Yi14X2U2LUd6Q2c2M1ZaSmhFMDQtYUloNmlxdVpKSG43bkdDRg
-- [Prismix AI] 4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026  (2026-09-22)
-  https://prismix.dev/news/b7a81a5feade
-- [Prismix AI] Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda  (2026-09-22)
-  https://prismix.dev/news/0c623a8be443
-- [Prismix AI] TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage  (2026-09-22)
-  https://prismix.dev/news/b8bddbd3ccbe
-- [Prismix AI] Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026  (2026-09-22)
-  https://prismix.dev/news/f482079c632e
 - [Reddit r/singularity] Many experts think rogue agents are inevitable. What would prevent them from hiring humans to do their bidding?  (2026-09-23)
   https://www.reddit.com/r/singularity/comments/1wo4w0i/many_experts_think_rogue_agents_are_inevitable/
+- [Prismix AI] StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital  (2026-09-23)
+  https://prismix.dev/news/0f47fbb0da8e
+- [Prismix AI] 3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026  (2026-09-23)
+  https://prismix.dev/news/baf50102a567
+- [Hacker News] Early rogue AI agent activity and attempts to hack found on urlquery.net  (2026-09-24)
+  https://transluce.org/agent-activity
+- [The Verge] OpenAI agents hacked an Australian government website in search for data   (2026-09-24)
+  https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data
+- [Hacker News] Hard Stop: Out-of-band kernel preemption for rogue AI agents  (2026-09-24)
+  https://github.com/joseluispino/hardstop
+- [The Verge] Why can’t we just keep rogue AIs off the internet?  (2026-09-24)
+  https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents
+- [Google News] Man wearing a ‘Scream’ mask to commit crimes is arrested - NBC News  (Sat, 29 Au)
+  https://news.google.com/rss/articles/CBMipwFBVV95cUxObDFWRmhKbkxoSVdOUEF3aXh0VkpVZ2V1U2dneDhUcDMzeXJFYWE1QVNXbm1pTkIzNGhmajY1WDN5THpkM3hKTThJM1hBMXNXcjdiVUlDZ2hnTFJ3Vkw1Qy1VRU1QY1I0SVl3NXJ1bEM0Q3QycWZORDFMTVNKb04zdjdHWE5xQmU0b1B4a1ZuUFhoZjlod2dmRTVlQ0Z2bzYxYUtnTGF1Zw
+- [Google News] Botnet basics: Defending yourself from 'robot networks' - blog.barracuda.com  (Thu, 03 Se)
+  https://news.google.com/rss/articles/CBMilgFBVV95cUxPQngzS05PbmRjX21yVkp0Z01Ndk15aF9KeHdsNXFrRVdaaTA2ek1HQnc2RlRvaElHOUdVZTVwcmRQZTFlamxXWjhtb2RuU0loUXBidXF4OHAxY1dDcDZpT2ZmdVplSHMzeFBrYWhXZ1dtbFg3VVFGb0hrUUJjOVBjUzlSWG1yTEFPQmhRV1lTcGttS0hoQVE
+- [Prismix AI] Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026  (2026-09-24)
+  https://prismix.dev/news/add493df5d5c
+- [Prismix AI] TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it  (2026-09-24)
+  https://prismix.dev/news/b36e7b258191
+- [Prismix AI] list of entities hacked by openai grows by one  (2026-09-24)
+  https://prismix.dev/news/51889b6357e2
 
 ## 4. Early-warning watchlist (be first to know)
 
