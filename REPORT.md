@@ -1,6 +1,6 @@
-# AI Incident Briefing — 2026-10-26
+# AI Incident Briefing — 2026-10-27
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 280_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 265_
 
 ## 1. Latest verified incidents
 
@@ -11,24 +11,24 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=280)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=265)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [Google News] How OpenAI’s Rogue A.I. Agents Tried to Trick a Robot Detector - The New York Times  (Fri, 25 Se)
-  https://news.google.com/rss/articles/CBMigAFBVV95cUxOVG9HSV92eUxmd0dtSEZBaDRKcDFwRUhYQTVXaWZKelk3ZEFRVVg5NmdfMS1rMmlvVVNpakNuZ2VLU2lZa01KckQ1TjlTaEYxelY0ci1Ia3F0cXdUSEtaRkJOOGptbC1CUzkzeDdvYnBnTWtkQlBlOGY0SU1QNU5mMw
-- [Google News] AI Deepfake Scam: €95 Million Stolen From Italy’s Fideuram Using Fake Executive Calls - News Mobile  (Sat, 26 Se)
-  https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMVY2aTZGcHJWU0p3ZG1YaTJvaVE4c1JLRE1TOFU3LUU3RnF2Vlpac2NRQTFnMVdBSVVHdnZ1U3hpTGQtNDRjWVZENWVMbzhlbXV4dE53cDhuUF9EbWhyYldHdTNjQlRjdlVLemZaNWVXTTVuVlpsaDRyRWhHOUtzektvRFpYQWFmMmNRdl9xOUNidlJVeFlLZHRRWjl2eGwtUVAyYjF5UXF4YTVDOVV6SVRkOHFROW9NYng4dDRkSzBBMDg
-- [Google News] Fraudsters cloned a lawyer's voice and drained 95 million euros from Fideuram - Startup Fortune  (Fri, 25 Se)
-  https://news.google.com/rss/articles/CBMipwFBVV95cUxNb0hTQ181a0dOUG1QSVNWUTNuQkJVeHktQ2RSX0xIOGRuejFSXzliek9mb3Bockd2WGN0MkNWUkhNc1hDYnV1QklkdUJleWpzS0Y3MEVSLUU3bTlKOHZHbV93R2lZNnZnQnFIRXJhajR5VW9HRVBVQ0NPVWhlMGFtcEpNVjRXelRmckNmZmJhSS16eVZaa3N2ZDVmWVFLV2NpYnU3RFhEZw
-- [Google News] OpenAI says its AI agents escaped a secure ‘sandbox’ again last weekend and it is pausing training for a second time - Fortune  (Sat, 26 Se)
-  https://news.google.com/rss/articles/CBMitgFBVV95cUxQUFNfUWZES3NOQWlYakpDa2RwT18tWXZOX0YteUxUY0MzQi0wQmNwb3N5ZjRXekFHVmdBSFB5RTkwcUpETUdVM0JfM3B6czhCRzJUa1VKZzJDS3dyRm9ZaUYtSmFQd3FWeHFpUnhVdThZMVJLRlRhNlBlRmZaWUtWaUJlVWVBckNaOXpPalVBVXdiOWtySVVxMjR0U2cyVC1FVE1nRDk5Y25YdU1aZHhVUm1JRFZ4UQ
-- [Hacker News] Show HN: AI Agents gone rogue – A timeline of real-world incidents  (2026-09-26)
-  https://www.crawlspider.com/pages/ai-agents-gone-rogue/
-- [Google News] OpenAI Halts AI Training Again: Agent Escaped Sandbox, Multiple Privilege Escalation Incidents Uncovered - eu.36kr.com  (Sun, 27 Se)
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDQUVoOWV3UUluYzVfbmpQNEM2eGZSY0poLVBOTnlSbGRsTFFSNDl4aklOY1B1TUFITFR4N0NvcmRLcmtOYVBKYlhKMzVuVV91eENz
 - [Google News] OpenAI halts training of latest models as reports mount of AI agents going rogue - The Guardian  (Sun, 27 Se)
   https://news.google.com/rss/articles/CBMiywFBVV95cUxQdWZCRDBDd0E2YnBTeGJZNXhZLURBOXlJZTR2dGhwY0c1bWlNX3N6MkhWcVRiSF9oNjJLWmJfY0Nwcy05SFB0RGJ2ckhaNjdueWFxMjdnWHhodFM1MEJkRXVnUzJZTTJidXdGckk1ZkI0RDZRNmVQQXYyTmxtbnJKZFdMNFRMbFhwcWY5RHdFeGpIY3prOVo1RWstRWhPVVRldXgyV1E1Q2FaOEZxSC1rTld2eFFHWnJTcXk2WmgxRG15a0ViblgzYzh3TQ
+- [Hacker News] OpenAI halts training of latest models as reports mount of AI agents going rogue  (2026-09-27)
+  https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue
+- [Hacker News] There are no "rogue" AI agents  (2026-09-27)
+  https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents
+- [Hacker News] Who's liable when AI agents go rogue?  (2026-09-28)
+  https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/
+- [Hacker News] OpenAI pauses some training amid allegations its rogue agents behaved more  (2026-09-28)
+  https://www.theregister.com/ai-and-ml/2026/09/28/openai-pauses-some-training-amid-allegations-its-rogue-agents-behaved-more-badly-than-first-thought/5299350
+- [The Verge] Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’  (2026-09-28)
+  https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents
+- [Google News] OpenAI hack sparks further concern over AI models going rogue - CBS News  (Mon, 28 Se)
+  https://news.google.com/rss/articles/CBMilwFBVV95cUxPRm1KOUpOUEpPd0N0U1ZNNGdCYndzQXpWNWgtNEREQTA2SlA4WjdoNFVWNWFKRXBHR201UF9Wal8zRWNZbFkycWdraWlPLXEzN2F5aFRMZEVEa3Q2YkRqTWRNTDlSWnVhbEF0UEtHempqWkFwdVlGbXJhS3d4NW55MTBqU194SkVLSzVkUzVIOTR4QnIyVFh3
 
 ## 4. Early-warning watchlist (be first to know)
 
