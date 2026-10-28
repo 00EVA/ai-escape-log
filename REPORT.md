@@ -1,6 +1,6 @@
-# AI Incident Briefing — 2026-10-27
+# AI Incident Briefing — 2026-10-28
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 278_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 268_
 
 ## 1. Latest verified incidents
 
@@ -11,16 +11,10 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=278)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=268)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [Google News] OpenAI halts training of latest models as reports mount of AI agents going rogue - The Guardian  (Sun, 27 Se)
-  https://news.google.com/rss/articles/CBMiywFBVV95cUxQdWZCRDBDd0E2YnBTeGJZNXhZLURBOXlJZTR2dGhwY0c1bWlNX3N6MkhWcVRiSF9oNjJLWmJfY0Nwcy05SFB0RGJ2ckhaNjdueWFxMjdnWHhodFM1MEJkRXVnUzJZTTJidXdGckk1ZkI0RDZRNmVQQXYyTmxtbnJKZFdMNFRMbFhwcWY5RHdFeGpIY3prOVo1RWstRWhPVVRldXgyV1E1Q2FaOEZxSC1rTld2eFFHWnJTcXk2WmgxRG15a0ViblgzYzh3TQ
-- [Hacker News] OpenAI halts training of latest models as reports mount of AI agents going rogue  (2026-09-27)
-  https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue
-- [Hacker News] There are no "rogue" AI agents  (2026-09-27)
-  https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents
 - [Hacker News] Who's liable when AI agents go rogue?  (2026-09-28)
   https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/
 - [Hacker News] OpenAI pauses some training amid allegations its rogue agents behaved more  (2026-09-28)
@@ -29,6 +23,20 @@ If one of these hits you: AI crime triage: is the AI the actor (rogue agent/auto
   https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents
 - [Google News] OpenAI hack sparks further concern over AI models going rogue - CBS News  (Mon, 28 Se)
   https://news.google.com/rss/articles/CBMilwFBVV95cUxPRm1KOUpOUEpPd0N0U1ZNNGdCYndzQXpWNWgtNEREQTA2SlA4WjdoNFVWNWFKRXBHR201UF9Wal8zRWNZbFkycWdraWlPLXEzN2F5aFRMZEVEa3Q2YkRqTWRNTDlSWnVhbEF0UEtHempqWkFwdVlGbXJhS3d4NW55MTBqU194SkVLSzVkUzVIOTR4QnIyVFh3
+- [Hacker News] Nvidia launches platform to quarantine rogue AI agents in 'milliseconds'  (2026-09-28)
+  https://www.euronews.com/2026/09/28/nvidia-launches-platform-to-quarantine-rogue-ai-agents-in-milliseconds
+- [Hacker News] The Download: rogue agent liability and the AI Hype Index  (2026-09-28)
+  https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/
+- [Prismix AI] Nvidia launches new platform for reining in rogue AI agents  (2026-09-28)
+  https://prismix.dev/news/5a99ebb20294
+- [Prismix AI] OpenAI still doesn&#8217;t seem to have a handle on all of its rogue AI activity  (2026-09-28)
+  https://prismix.dev/news/db3dfcf2b649
+- [Hacker News] Nvidia launches new tool to keep AI agents from going rogue  (2026-09-28)
+  https://www.cnn.com/2026/09/28/business/nvidia-ai-safety-system
+- [Hacker News] Nvidia launched a tool designed to stop AI agents from going rogue. How it works  (2026-09-28)
+  https://www.businessinsider.com/nvidia-launches-open-agent-safety-platform-ai-going-rogue-2026-9
+- [Google News] OpenAI still doesn’t seem to have a handle on all of its rogue AI activity - TechCrunch  (Mon, 28 Se)
+  https://news.google.com/rss/articles/CBMirAFBVV95cUxQMW9uQ3RpSUdhQXM1UkROdklueFNrNDUwcWxjSDNRWEVqYUhnUG5WLWdER0pKcDZOWVFiNnlSczI2Si1JOWRlV0FvVm9uSGxJemE3VkJ2UmEtRlRHQTBQWGFXYm9KdDJVLVEyODg3ZDlKekZzaEhUYzB6Z1V1ZzlKUGVFbUg3UmhvOWUtOHctQVZwbHRCYTJEbHA2UVRTX3c4M3Vrdl9hVlBlN2dT
 
 ## 4. Early-warning watchlist (be first to know)
 
