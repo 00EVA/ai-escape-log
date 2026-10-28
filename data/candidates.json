@@ -2142,5 +2142,29 @@
     "date": "Tue, 27 Oc",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNVTktWVU0bDhDRmw1M1VYemhCN1d1b2xwQXN1SWVhUUlkYV9CendHd2ptYmpkTmY2Tl9OUVk3SkgxUnRXNV9lX19MYUVqNmkwa0hHM1U3aFI4MEZzakVkRktIaE03WnIxcW5ldnFEa214RDR4aWlaU3F2TXl1WWUzTm96NEVLWUFBZ0J3X2ZNbzI?oc=5\" target=\"_blank\">VisionQuest is what happens when",
     "first_seen": "2026-10-27"
+  },
+  {
+    "title": "Anthropic's secret AI extracted data from a locked Android phone and escaped Chrome's sandbox - Notebookcheck",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbFlua2gwWmJfMjRldUV5S0RCRkVFREhtekhUUW95WU1kOURBTFFlUF96c1hIWnZ2dklaaHY3NW94LUg0Si1adTNWNjl4SGhJVTN0SUxzZW5UUDl6VlB6blZJbFg3LWJBOXY0RXdLNDI4ZXlEQTd6akFPamF4WlJJWG9yRWJGUVlDajRid01sRVFiY294RFBHQnotYi0xMDVmX19IYm1HTjQ5ZllrbzM2aHNsN3VlRGoyZmUtajZnUlNwZDZXcmFkN2cydE82MGRfeUlWeg",
+    "source": "Google News",
+    "date": "Wed, 28 Oc",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbFlua2gwWmJfMjRldUV5S0RCRkVFREhtekhUUW95WU1kOURBTFFlUF96c1hIWnZ2dklaaHY3NW94LUg0Si1adTNWNjl4SGhJVTN0SUxzZW5UUDl6VlB6blZJbFg3LWJBOXY0RXdLNDI4ZXlEQTd6akFPamF4WlJJWG9yRWJGUVlDajRid01sRVFiY294RFBHQnotYi0xMDVmX19IYm1HTjQ5ZllrbzM2aHNsN3VlRGoyZm",
+    "first_seen": "2026-10-28"
+  },
+  {
+    "title": "CISA KEV: Broadcom VMWare ESX Insufficient Logging Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-41709",
+    "source": "CISA KEV catalog",
+    "date": "2026-10-28",
+    "snippet": "CVE-2026-41709 | Broadcom VMware ESX | Broadcom VMWare ESX contains an insufficient logging vulnerability that could allow a malicious actor with admin access to perform certain operations without being logged.",
+    "first_seen": "2026-10-28"
+  },
+  {
+    "title": "CISA KEV: Linux Kernel Missing Initialization of a Variable Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-46300",
+    "source": "CISA KEV catalog",
+    "date": "2026-10-28",
+    "snippet": "CVE-2026-46300 | Linux Kernel | Linux Kernel contains a missing initialization of a variable vulnerability that could allow for unintended modification of page-cache-backed data via failure to preserve the shared-fragment marker during socket buffer coalescing, causing ESP input processing to decrypt shared fragments in place. Thi",
+    "first_seen": "2026-10-28"
   }
 ]
