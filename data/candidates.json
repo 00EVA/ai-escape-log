@@ -2038,5 +2038,21 @@
     "date": "Tue, 29 Se",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YbnhEOHRlcGZ6Wjd4WmdzX2FranpQSy1HTHFYaXBpUVBlMUkwRHQ1akJZbEt1eHp5Z3U0THVNOVNYVlgyV0JETzhLWUtxcElBYkNBZ254bGc3Z0E?oc=5\" target=\"_blank\">ShinyHunters: Dutch police arrest suspected member of group that claimed FBI hack</a>&nbsp;&nbsp;<font c",
     "first_seen": "2026-10-28"
+  },
+  {
+    "title": "CISA KEV: GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-97229",
+    "source": "CISA KEV catalog",
+    "date": "2026-10-29",
+    "snippet": "CVE-2026-97229 | GitLab Community Edition and Enterprise Edition | GitLab Community Edition and Enterprise Edition contain a integer overflow or wraparound vulnerability that could allow an unauthenticated user to execute arbitrary code on the GitLab server via a specially crafted regular expression in a CI/CD configuration, due to insufficient regular expression v",
+    "first_seen": "2026-10-29"
+  },
+  {
+    "title": "CISA KEV: Cisco Secure Firewall ASA Software and Cisco Secure FTD Software Unchecked Return Value to NULL Pointer Dereference Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-76418",
+    "source": "CISA KEV catalog",
+    "date": "2026-10-29",
+    "snippet": "CVE-2026-76418 | Cisco Secure Firewall ASA Software and Cisco Secure FTD Software | Cisco Secure Firewall ASA Software and Cisco Secure FTD Software contains an unchecked return value to NULL pointer dereference vulnerability that could allow an unauthenticated, remote attacker to cause the device to reload unexpectedly, resulting in a denial of service (DoS) condition.",
+    "first_seen": "2026-10-29"
   }
 ]
