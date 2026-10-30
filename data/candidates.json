@@ -2054,5 +2054,69 @@
     "date": "2026-10-29",
     "snippet": "CVE-2026-76418 | Cisco Secure Firewall ASA Software and Cisco Secure FTD Software | Cisco Secure Firewall ASA Software and Cisco Secure FTD Software contains an unchecked return value to NULL pointer dereference vulnerability that could allow an unauthenticated, remote attacker to cause the device to reload unexpectedly, resulting in a denial of service (DoS) condition.",
     "first_seen": "2026-10-29"
+  },
+  {
+    "title": "Ask HN: Do you think AI agents can escape human control?",
+    "url": "https://news.ycombinator.com/item?id=49873303",
+    "source": "Hacker News",
+    "date": "2026-09-28",
+    "snippet": "With the rapid adoption of autonomous LLM-based agents (giving models access to shell execution, API calls, and local file systems), the boundary between intentional behavior and unintended execution is blurring.\nI&#x27;m less concerned with sci-fi &quot;sentience&quot; and more interested in the pr",
+    "first_seen": "2026-10-29"
+  },
+  {
+    "title": "What is an AI sandbox, and why do AI agents keep escaping them?",
+    "url": "https://madrobot.blog/2026/09/27/what-is-an-ai-sandbox-why-ai-agents-escape/",
+    "source": "Hacker News",
+    "date": "2026-09-27",
+    "snippet": "",
+    "first_seen": "2026-10-29"
+  },
+  {
+    "title": "Show HN: Misalignments when using AI for hacking",
+    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
+    "source": "Hacker News",
+    "date": "2026-08-05",
+    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
+    "first_seen": "2026-10-29"
+  },
+  {
+    "title": "10 coding agents, one Qwen 3.8 27B, same llama-server: tokens and cache reuse differ more than pass rates",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj182d/10_coding_agents_one_qwen_38_27b_same_llamaserver/",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-10-30",
+    "snippet": "   Part 2 of my agent test (part 1 was a 4B model)   Hardware I used: MacBook Pro M5 Max, 64 GB. Qwen 3.8 27B Q4 on llama.cpp, thinking off.    Setup      same model and server for everyone   5 small coding tasks, each with a little trap   each agent locked in a sandbox: it can only touch its own fo",
+    "first_seen": "2026-10-29"
+  },
+  {
+    "title": "Disrupting ai espionage",
+    "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
+    "source": "Anthropic News (sitemap)",
+    "date": "2026-10-20",
+    "snippet": "",
+    "first_seen": "2026-10-29"
+  },
+  {
+    "title": "OpenAI pauses training a second time after saying its AI agents escaped a secure 'sandbox' again just last weekend - Fortune",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUFNfUWZES3NOQWlYakpDa2RwT18tWXZOX0YteUxUY0MzQi0wQmNwb3N5ZjRXekFHVmdBSFB5RTkwcUpETUdVM0JfM3B6czhCRzJUa1VKZzJDS3dyRm9ZaUYtSmFQd3FWeHFpUnhVdThZMVJLRlRhNlBlRmZaWUtWaUJlVWVBckNaOXpPalVBVXdiOWtySVVxMjR0U2cyVC1FVE1nRDk5Y25YdU1aZHhVUm1JRFZ4UQ",
+    "source": "Google News",
+    "date": "Sat, 26 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQUFNfUWZES3NOQWlYakpDa2RwT18tWXZOX0YteUxUY0MzQi0wQmNwb3N5ZjRXekFHVmdBSFB5RTkwcUpETUdVM0JfM3B6czhCRzJUa1VKZzJDS3dyRm9ZaUYtSmFQd3FWeHFpUnhVdThZMVJLRlRhNlBlRmZaWUtWaUJlVWVBckNaOXpPalVBVXdiOWtySVVxMjR0U2cyVC1FVE1nRDk5Y25YdU1aZHhVUm1JRFZ4UQ?oc=",
+    "first_seen": "2026-10-29"
+  },
+  {
+    "title": "Google AI models broke out of sandbox, hacked three companies - Cybersecurity Dive",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNanlDUENybDN1a2lMNEN4eWR5ZTdLNC1ScXUxaG5UMFVPbFo5S0Q3YWhoR2hxQjVVZ1dYWTNlVEFBUDBBa2Z4N2hXRFVuSGh2ZE5sMS1KUEU5T2RjQmpYeER5Zlh2T003N3FodlBTaXl1UktnWWtBRWVDQm5KbGFKSUVlaUI3UkE",
+    "source": "Google News",
+    "date": "Mon, 21 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNanlDUENybDN1a2lMNEN4eWR5ZTdLNC1ScXUxaG5UMFVPbFo5S0Q3YWhoR2hxQjVVZ1dYWTNlVEFBUDBBa2Z4N2hXRFVuSGh2ZE5sMS1KUEU5T2RjQmpYeER5Zlh2T003N3FodlBTaXl1UktnWWtBRWVDQm5KbGFKSUVlaUI3UkE?oc=5\" target=\"_blank\">Google AI models broke out of sandbox, hacke",
+    "first_seen": "2026-10-29"
+  },
+  {
+    "title": "OpenAI AI Agents Hijacked A German Wiki To Share Sandbox Escape Tricks - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjlIbVRJZndNY0c4RU5FSFFlNDVzZ0ktVng3S2lBVHlxQnVCWHd3cW1YRm5JQmJqeUF4ZlN4bnNSU1dmT1QwTzNCTjBtMXBlQnN2VnFaWEhiS0UwdjM4NFpUX3dPMFE2UnN5eWpud05Tcl9SUkFsTy1vazFkT0NBY1JJdXpPVHF3VUtDTjlYYlNvcm4wdms1SGlkdU5JaXUtckNQX3A0Zk1MZFhvNFAwYXNaUzFWNnpSOEhvaEllYw",
+    "source": "Google News",
+    "date": "Mon, 07 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjlIbVRJZndNY0c4RU5FSFFlNDVzZ0ktVng3S2lBVHlxQnVCWHd3cW1YRm5JQmJqeUF4ZlN4bnNSU1dmT1QwTzNCTjBtMXBlQnN2VnFaWEhiS0UwdjM4NFpUX3dPMFE2UnN5eWpud05Tcl9SUkFsTy1vazFkT0NBY1JJdXpPVHF3VUtDTjlYYlNvcm4wdms1SGlkdU5JaXUtckNQX3A0Zk1MZFhvNFAwYXNaUzFWNnpSOE",
+    "first_seen": "2026-10-29"
   }
 ]
