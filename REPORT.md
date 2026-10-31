@@ -1,6 +1,6 @@
-# AI Incident Briefing — 2026-10-30
+# AI Incident Briefing — 2026-10-31
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 262_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 248_
 
 ## 1. Latest verified incidents
 
@@ -11,32 +11,18 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=262)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=248)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [Hacker News] An AI agent escaped Google's kvmCTF sandbox  (2026-09-29)
-  https://pwn.ai/blog/kvmescape
-- [Hacker News] As AI models go rogue, do you still trust OpenAI and Anthropic to stop them?  (2026-09-29)
-  https://www.theguardian.com/commentisfree/2026/sep/29/ai-models-security-risk-agents-openai-independent-security
-- [The Verge] Asus won’t say how it escaped the US router ban  (2026-09-30)
-  https://www.theverge.com/policy/1002504/asus-escape-us-router-ban-us-manufacturing
-- [Prismix AI] Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026  (2026-09-30)
-  https://prismix.dev/news/d6170f881b8a
-- [Prismix AI] 3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026  (2026-09-30)
-  https://prismix.dev/news/bdb08491ccae
-- [Hacker News] OpenAI is accused in lawsuit over rogue AI agents  (2026-09-30)
-  https://www.fastcompany.com/91615759/openai-is-accused-of-taking-dangerous-cyber-risks-for-private-gain-in-lawsuit-over-rogue-ai-agents
-- [Google News] As AI models go rogue, do you still trust OpenAI and Anthropic to stop them? I don’t and neither should you - The Guardian  (Tue, 29 Se)
-  https://news.google.com/rss/articles/CBMisgFBVV95cUxQS1RBNVlQOU9oc0N0MUNoNkU1WFF4dkxKbm5EbHFMdUhYMkZ4U2NoSlB6RXRPYXpvXzlHSlRWUEVyWFRYZWlReVdTekVKcHJjLTdjRVpNRWNYV1lXVGRnaWxhYUkyQlB1VUhMTHc0Yy1YajRrdXlQRVprQmZTYXBTM1pyTVFkeWZkWnJNMFlCLW1EdU0yU3U4X1M1SjQ3RnM3Z3RaZm9EMU1PYmlJdUtKQXVR
-- [Hacker News] Watch the Rogue AI Committee Hearing  (2026-09-30)
-  https://www.hsgac.senate.gov/subcommittees/dmdcc/hearings/rogue-ai-securing-the-homeland-against-ai-agent-attacks/
-- [Google News] An OpenAI Model Escaped Its Sandbox and Broke Into Another Company to Cheat on a Test - American Enterprise Institute - AEI  (Wed, 16 Se)
-  https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZGJjOFVPR3N5VHdOWWg5OEVCT3hXV21iOWZVc0xWRHd6ZDNJYXNHenNJWm9WZmFITU1pc2drcV9JS3ROSkRjY1JuXzRlRTlBd183WWpMRXNkTll6bGhVUGF5Tzg5dHdNNDlweW82WkhQZkxtZjVrd1JuZks3aHhFNW84YUo5ZXN6cG9kTXNoVi1Nb1l1em1JUDcyVy1uY3Z2SE5hRDYxRjhqTm8zSWVBR1VOeW9KYmY1WGMzUmU4ZTZEZUtWZmFUVlNSbXdqbjk4NWFQdlpOVDNpX0tOR3hVT1Z3
 - [Google News] 46 arrested for posing as tourists to commit crimes across the GTA - CityNews Toronto  (Fri, 05 Ju)
   https://news.google.com/rss/articles/CBMisgFBVV95cUxOT1NLUndKeVl2a1o0SC01b2lJMU1qZVdVZmtxUWdDSVBrNEU3b2RRU0Y4MlA1Ql9ZNFB5UnhqM0VySGo4dE8taHh4bXFtckdZVGpSRXVGajlwUVA2YnhiVno2VEVNbHVDVHJ6OVhtWjd1cE5OeHBFOWVUTjVOd0RMbWg2SUxpLVJGX2VCNWhaN3dvWVRfTWRJazNWNnR6WmE2QzBZbzY3WFVXX1d5ZlBNUFh3
 - [Google News] Sam Altman's OpenAI Paused AI Training for the Second Time in 3 Months After Agents Escaped a Secure Sandbox and Accessed U.S. Government Websites. Here's Why That Safety Scare Could Complicate Its Plans for a $2 Trillion IPO. - The Motley Fool  (Thu, 01 Oc)
   https://news.google.com/rss/articles/CBMimAFBVV95cUxQMlJEZkJqczJWQkN1NTBwc0pUZHltZWVVTUZoV0pmblZ4T0wyU3pMMUY4LTBKczR2ZC1oaUVkaG1MR2FNR2Y4ZkhoOW1QS195bWJZenJrOXVxNTZQa3Vpbzl6QjU4a3hDcGpYN3F6OW1xZ1N4S2FKeHY4RVJ3eEZFZlBXbVp0RVpkRThNVnEyUlBja29HcE4tbg
+- [Google News] OpenAI Sued Over Rogue AI Cyberattack On Hugging Face In Test Of Liability For Autonomous Agents - Tekedia  (Thu, 01 Oc)
+  https://news.google.com/rss/articles/CBMivgFBVV95cUxNS1B0ZjBRMzdGQTVvaGdiVVd0S0JJZHMxMldEdDBfS2Q2UlhucGR2eHlWM0JxaVo2Umw4cHpWRDA4cTljNU9mS05EX2ZySGM1OGFRWHRCZmhtcGJMZXM2OU5VQWZMeGdvSG9pLUlZb1hJS0gwQTEzZzJ5eGhyLVFWYU8zSGRZN0QzQ2VhVjl2WnZoTWxtX2FfeGNiYThiQmYyWXg0c2RJWW5GUDFKSUJzTnptQWU5RkRoMmlKakRn
+- [Hacker News] Nvidia launches Open Agent Safety Platform to restrain rogue AI agents  (2026-10-01)
+  https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-launches-open-agent-safety-platform-to-restrain-rogue-ai-agents-new-hardware-and-software-security-stack-can-quarantine-agents-in-milliseconds
 
 ## 4. Early-warning watchlist (be first to know)
 
