@@ -1,6 +1,6 @@
 # AI Incident Briefing — 2026-11-01
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 248_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 237_
 
 ## 1. Latest verified incidents
 
@@ -11,18 +11,16 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=248)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=237)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [Google News] 46 arrested for posing as tourists to commit crimes across the GTA - CityNews Toronto  (Fri, 05 Ju)
-  https://news.google.com/rss/articles/CBMisgFBVV95cUxOT1NLUndKeVl2a1o0SC01b2lJMU1qZVdVZmtxUWdDSVBrNEU3b2RRU0Y4MlA1Ql9ZNFB5UnhqM0VySGo4dE8taHh4bXFtckdZVGpSRXVGajlwUVA2YnhiVno2VEVNbHVDVHJ6OVhtWjd1cE5OeHBFOWVUTjVOd0RMbWg2SUxpLVJGX2VCNWhaN3dvWVRfTWRJazNWNnR6WmE2QzBZbzY3WFVXX1d5ZlBNUFh3
-- [Google News] Sam Altman's OpenAI Paused AI Training for the Second Time in 3 Months After Agents Escaped a Secure Sandbox and Accessed U.S. Government Websites. Here's Why That Safety Scare Could Complicate Its Plans for a $2 Trillion IPO. - The Motley Fool  (Thu, 01 Oc)
-  https://news.google.com/rss/articles/CBMimAFBVV95cUxQMlJEZkJqczJWQkN1NTBwc0pUZHltZWVVTUZoV0pmblZ4T0wyU3pMMUY4LTBKczR2ZC1oaUVkaG1MR2FNR2Y4ZkhoOW1QS195bWJZenJrOXVxNTZQa3Vpbzl6QjU4a3hDcGpYN3F6OW1xZ1N4S2FKeHY4RVJ3eEZFZlBXbVp0RVpkRThNVnEyUlBja29HcE4tbg
-- [Google News] OpenAI Sued Over Rogue AI Cyberattack On Hugging Face In Test Of Liability For Autonomous Agents - Tekedia  (Thu, 01 Oc)
-  https://news.google.com/rss/articles/CBMivgFBVV95cUxNS1B0ZjBRMzdGQTVvaGdiVVd0S0JJZHMxMldEdDBfS2Q2UlhucGR2eHlWM0JxaVo2Umw4cHpWRDA4cTljNU9mS05EX2ZySGM1OGFRWHRCZmhtcGJMZXM2OU5VQWZMeGdvSG9pLUlZb1hJS0gwQTEzZzJ5eGhyLVFWYU8zSGRZN0QzQ2VhVjl2WnZoTWxtX2FfeGNiYThiQmYyWXg0c2RJWW5GUDFKSUJzTnptQWU5RkRoMmlKakRn
-- [Hacker News] Nvidia launches Open Agent Safety Platform to restrain rogue AI agents  (2026-10-01)
-  https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-launches-open-agent-safety-platform-to-restrain-rogue-ai-agents-new-hardware-and-software-security-stack-can-quarantine-agents-in-milliseconds
+- [Prismix AI] Affected by layoffs? Don&#8217;t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass  (2026-10-02)
+  https://prismix.dev/news/32cf0543bf39
+- [Google News] AI makes costly spearphishing attacks easier, cyber insurer says - Cybersecurity Dive  (Tue, 04 Au)
+  https://news.google.com/rss/articles/CBMijwFBVV95cUxQa09uckhwMEoydWdTTnlfQVhFak1haFM0b0NCZ1JCQUNfX19fcEVTVXYyWTN6UTdwVWRCMllRN1FZOXMyVk1XUG0tcmhidk5PLUphTVJDM2xBM1g4ZTNJTDVWMTc3QVpQOTVldkY1R3R3WnotOFVzdVVrM2d3cE8zQVl0Um96eUNRM0I4T3ZDaw
+- [Google News] Intesa Sanpaolo Loses €95 Million to an A.I. Deepfake Scam - trendingtopics.eu  (Sat, 26 Se)
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE84ZGs0eHZiamdPV1FMVVpDbUxsUXJiLTBQVkdtQWQwUEMzRWExRXZjYUhKN0RGT3BMTHlnd2p6WGFJZkF4WjBVV2FsZFZLZkJJZmc3NVVqUGRYeDRSRjA3amZsVEEwUGNyaDNJNUhJOUZvVUxL
 
 ## 4. Early-warning watchlist (be first to know)
 
