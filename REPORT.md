@@ -1,6 +1,6 @@
 # AI Incident Briefing — 2026-11-02
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 237_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 222_
 
 ## 1. Latest verified incidents
 
@@ -11,16 +11,28 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=237)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=222)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [Prismix AI] Affected by layoffs? Don&#8217;t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass  (2026-10-02)
-  https://prismix.dev/news/32cf0543bf39
-- [Google News] AI makes costly spearphishing attacks easier, cyber insurer says - Cybersecurity Dive  (Tue, 04 Au)
-  https://news.google.com/rss/articles/CBMijwFBVV95cUxQa09uckhwMEoydWdTTnlfQVhFak1haFM0b0NCZ1JCQUNfX19fcEVTVXYyWTN6UTdwVWRCMllRN1FZOXMyVk1XUG0tcmhidk5PLUphTVJDM2xBM1g4ZTNJTDVWMTc3QVpQOTVldkY1R3R3WnotOFVzdVVrM2d3cE8zQVl0Um96eUNRM0I4T3ZDaw
 - [Google News] Intesa Sanpaolo Loses €95 Million to an A.I. Deepfake Scam - trendingtopics.eu  (Sat, 26 Se)
   https://news.google.com/rss/articles/CBMidEFVX3lxTE84ZGs0eHZiamdPV1FMVVpDbUxsUXJiLTBQVkdtQWQwUEMzRWExRXZjYUhKN0RGT3BMTHlnd2p6WGFJZkF4WjBVV2FsZFZLZkJJZmc3NVVqUGRYeDRSRjA3amZsVEEwUGNyaDNJNUhJOUZvVUxL
+- [Prismix AI] AI Agents Are Going Rogue. Novel Legal Battles Are Next  (2026-10-03)
+  https://prismix.dev/news/ba62efde1e47
+- [Hacker News] A.I. Is Going Rogue. Who Should Be Held Responsible?  (2026-10-04)
+  https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html
+- [Prismix AI] Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026  (2026-10-05)
+  https://prismix.dev/news/fb4a44bb6384
+- [Prismix AI] Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026  (2026-10-05)
+  https://prismix.dev/news/b1e6c3300622
+- [Google News] 'Rogue' AI Isn't Going Anywhere - Lawfare  (Fri, 02 Oc)
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE9pa1dFbWQ1NEhSMktOWnZKTzNqSFZiYmlxSURkRDVWU2R6eHlKVUZiZTJRNUsyOE9Xb2cySUY2Q3dKVW9KQzlmajBYZTlOWElrbUR4UkFLX2otb0VmV2E0a0VMMlZwT1gybld6N3pmWVFfdWszWXc
+- [Google News] Are AI Agents Going Rogue? Here’s What Business Leaders Should Know - Forbes  (Thu, 01 Oc)
+  https://news.google.com/rss/articles/CBMivgFBVV95cUxPamFNVGk5NlZOVVZ2aXNJX3Rhd2N3b2tLRnd2OWVKNE44emVNWWh0SlRabWZWbVNIaThzLTNHWTFlWDFDblJhUC16NVBlUFl6cE1KbXN0bDE1TzRwbG00cGxJWnJfTlN0dDBUYlpEM3YtcW1OekZ3aUZXYTR4VDBBNkpvRXJOTHlBZ1F6Z0tNclpTUDAxLTNqY0NpY2tIb1FuZzJPX2F2bmw0OTE5azBuV1JsRDlTUHA0SnpqVFpB
+- [Google News] The Sleuths Who Expose When AI Goes Rogue - WSJ  (Sat, 03 Oc)
+  https://news.google.com/rss/articles/CBMihAFBVV95cUxPX0dISjgxYkJlRzBQczRicDdQTDA3b0RUWFhfc0FuRW9RMHR1Nm0xeC1FU29SR2JLSWcxTURYZGRRQTU4dUlyNEhpSmhkTE8yUFNhMVpxcWJGcDhqM3YwcXk2M3huWjJIZHBfUkpVUWF1MjVDTFhwbkU2N19lT3pUQ2xjLTk
+- [The Verge] Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage  (2026-10-05)
+  https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage
 
 ## 4. Early-warning watchlist (be first to know)
 
