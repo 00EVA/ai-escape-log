@@ -1774,5 +1774,53 @@
     "date": "2026-11-02",
     "snippet": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the companies that run New ",
     "first_seen": "2026-11-02"
+  },
+  {
+    "title": "NVD: CVE-2026-103093",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-103093",
+    "source": "NVD (CVE)",
+    "date": "2026-10-29",
+    "snippet": "ServiceNow has remediated a sandbox escape security issue that was identified in the ServiceNow AI Platform. This vulnerability could enable an authenticated user with the admin role to bypass Rhino sandbox restrictions and execute arbitrary code on the underlying host operating system, potentially ",
+    "first_seen": "2026-11-02"
+  },
+  {
+    "title": "NVD: CVE-2026-108670",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-108670",
+    "source": "NVD (CVE)",
+    "date": "2026-10-10",
+    "snippet": "JeecgBoot through 3.9.5 contains a missing authorization vulnerability in the promptExperiment handler of AiragPromptsController that allows any authenticated user to run AI prompt experiments. Low-privileged attackers can supply other users' prompt template and dataset ids to trigger large language",
+    "first_seen": "2026-11-02"
+  },
+  {
+    "title": "NVD: CVE-2026-117574",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-117574",
+    "source": "NVD (CVE)",
+    "date": "2026-10-28",
+    "snippet": "A flaw was found in ai-gateway-payload-processing. An authenticated remote attacker can exploit this vulnerability by submitting a request specifying another tenant's model identifier in the request body or header. Because the service does not verify authorization before retrieving credentials from ",
+    "first_seen": "2026-11-02"
+  },
+  {
+    "title": "NVD: CVE-2026-61707",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-61707",
+    "source": "NVD (CVE)",
+    "date": "2026-10-29",
+    "snippet": "SOCFortress CoPilot focuses on providing a single pane of glass for all your security operations needs. Prior to 0.1.76, in the reported deployment, case-report templates uploaded by `customer_user`, the lowest-privilege portal role, are later executed by non-sandboxed Jinja2 engines when an admin o",
+    "first_seen": "2026-11-02"
+  },
+  {
+    "title": "One of Google&#8217;s Android partners turned 1.3 million set-top boxes into a botnet",
+    "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+    "source": "The Verge",
+    "date": "2026-11-02",
+    "snippet": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufacturer, the Shenzhen, China-based Videostrong Technology Co., which has been banned ",
+    "first_seen": "2026-11-02"
+  },
+  {
+    "title": "AI agents don't have to break security controls to go rogue. Here's how to keep them in check - VentureBeat",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdFNUa2VUODV4eEZqVHd2bmtJZTFxclhQSFB6c3FsRlZTNUpvanJpc1I2bXpOT2lFSUNnMTJSRTZybGNCMFdKckx5dVdsRVVuSGxrV3NKcjhPalNHN2p2M3Y0V1BMT0JDLUI0M1RPWWVMVk82YnN0OEpBSG9mZXV1SDBRVmkweFpSdWJ4TW0wOFkwR1RaNHRFdlFlT3Riby0zR2s3RS1rc1NRY3Jyc1VuQk1kSV93V1BIZ2lHQ2FYSUs",
+    "source": "Google News",
+    "date": "Sun, 01 No",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdFNUa2VUODV4eEZqVHd2bmtJZTFxclhQSFB6c3FsRlZTNUpvanJpc1I2bXpOT2lFSUNnMTJSRTZybGNCMFdKckx5dVdsRVVuSGxrV3NKcjhPalNHN2p2M3Y0V1BMT0JDLUI0M1RPWWVMVk82YnN0OEpBSG9mZXV1SDBRVmkweFpSdWJ4TW0wOFkwR1RaNHRFdlFlT3Riby0zR2s3RS1rc1NRY3Jyc1VuQk1kSV93V1BIZ2",
+    "first_seen": "2026-11-02"
   }
 ]
