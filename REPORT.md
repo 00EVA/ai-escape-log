@@ -1,6 +1,6 @@
 # AI Incident Briefing — 2026-11-03
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 228_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 222_
 
 ## 1. Latest verified incidents
 
@@ -11,14 +11,10 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=228)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=222)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [Google News] Intesa Sanpaolo Loses €95 Million to an A.I. Deepfake Scam - trendingtopics.eu  (Sat, 26 Se)
-  https://news.google.com/rss/articles/CBMidEFVX3lxTE84ZGs0eHZiamdPV1FMVVpDbUxsUXJiLTBQVkdtQWQwUEMzRWExRXZjYUhKN0RGT3BMTHlnd2p6WGFJZkF4WjBVV2FsZFZLZkJJZmc3NVVqUGRYeDRSRjA3amZsVEEwUGNyaDNJNUhJOUZvVUxL
-- [Prismix AI] AI Agents Are Going Rogue. Novel Legal Battles Are Next  (2026-10-03)
-  https://prismix.dev/news/ba62efde1e47
 - [Hacker News] A.I. Is Going Rogue. Who Should Be Held Responsible?  (2026-10-04)
   https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html
 - [Prismix AI] Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026  (2026-10-05)
@@ -33,6 +29,16 @@ If one of these hits you: AI crime triage: is the AI the actor (rogue agent/auto
   https://news.google.com/rss/articles/CBMihAFBVV95cUxPX0dISjgxYkJlRzBQczRicDdQTDA3b0RUWFhfc0FuRW9RMHR1Nm0xeC1FU29SR2JLSWcxTURYZGRRQTU4dUlyNEhpSmhkTE8yUFNhMVpxcWJGcDhqM3YwcXk2M3huWjJIZHBfUkpVUWF1MjVDTFhwbkU2N19lT3pUQ2xjLTk
 - [The Verge] Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage  (2026-10-05)
   https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage
+- [Prismix AI] OpenAI "rogue" agent activities found on Wikimedia projects  (2026-10-05)
+  https://prismix.dev/news/0bf65300a2ec
+- [Google News] Rogue OpenAI agents targeted three separate US government websites - CNN  (Sat, 26 Se)
+  https://news.google.com/rss/articles/CBMigAFBVV95cUxPbkQyN1dNYTkzeGFDN0hQSHVZNGxVUEcyb0trcGo1SmZMeWxNRmYwOTNHRGo1eVVrWTBqYkVoUmxpV2xuVnlURWtpY3FRTG5zRGNQdk90SjdwblZVVzlfQWk1UGJsTGNhQVF2MXZ2QjFLYV9iZ0FrWElzSFhIWGhFZw
+- [Google News] Why AI Keeps Going ‘Rogue’ - Pirate Wires  (Tue, 06 Oc)
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uQ05sVnVPRHMyeWU4QW8wT0dsUm91YS1UQ0lzMkZGeThMRHhIT0VsdDVDaVN5TTJWQmcwV2M5dHNEYmxYcDQ1Y1JkNGViTnFteXRha2hLcnBiMWJJYWlqRUt3ZFQ
+- [Hacker News] The WarGames problem: AI agents don't go rogue  (2026-10-06)
+  https://mappingignorance.org/2026/10/06/the-wargames-problem-ai-agents-dont-go-rogue/
+- [Prismix AI] Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed  (2026-10-06)
+  https://prismix.dev/news/caf99c60829d
 
 ## 4. Early-warning watchlist (be first to know)
 
