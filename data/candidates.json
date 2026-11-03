@@ -1846,5 +1846,69 @@
     "date": "Mon, 07 Se",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjlIbVRJZndNY0c4RU5FSFFlNDVzZ0ktVng3S2lBVHlxQnVCWHd3cW1YRm5JQmJqeUF4ZlN4bnNSU1dmT1QwTzNCTjBtMXBlQnN2VnFaWEhiS0UwdjM4NFpUX3dPMFE2UnN5eWpud05Tcl9SUkFsTy1vazFkT0NBY1JJdXpPVHF3VUtDTjlYYlNvcm4wdms1SGlkdU5JaXUtckNQX3A0Zk1MZFhvNFAwYXNaUzFWNnpSOE",
     "first_seen": "2026-11-03"
+  },
+  {
+    "title": "CVE-2026-82533: DeepSeek Harness Vulnerability Lets AI Agents Escape Their Own Sandbox - OX Security",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1ptSVFXeUQzc1gtNzhzQmpsbGJSdHd1RndnSm0zMWRkcWV5dHNVZk5pWUFzaUZyQzlPZ25GMHhRemY4cVBUUkFhU1JoeUo4Z0RWVlZVNHhnRV9mYWlBNlJXNjZUcC1Dd2dnQ0tmZVMxTkdHMEhhazFuazBQRTlWeUsxWHZwSU0zZE1UZTNn",
+    "source": "Google News",
+    "date": "Tue, 08 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1ptSVFXeUQzc1gtNzhzQmpsbGJSdHd1RndnSm0zMWRkcWV5dHNVZk5pWUFzaUZyQzlPZ25GMHhRemY4cVBUUkFhU1JoeUo4Z0RWVlZVNHhnRV9mYWlBNlJXNjZUcC1Dd2dnQ0tmZVMxTkdHMEhhazFuazBQRTlWeUsxWHZwSU0zZE1UZTNn?oc=5\" target=\"_blank\">CVE-2026-82533: DeepSeek Harness Vu",
+    "first_seen": "2026-11-03"
+  },
+  {
+    "title": "Irregular says ‘human oversight’ responsible for AI sandbox escape incidents - CyberScoop",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14dHp5VTM1c0VfVmhHWmhRdEhEb2NHVnVyWWJtelNCcmtYNGxfS0Z5anNPOG9peGZHZGJhMUNWYndobUtneVMxS2VrTktSQ0hLNEgzblI2TVI2OXdmWWo5MmU0cVJCdXBlVFNUbWtVU1NxR2FmVUE",
+    "source": "Google News",
+    "date": "Mon, 17 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE14dHp5VTM1c0VfVmhHWmhRdEhEb2NHVnVyWWJtelNCcmtYNGxfS0Z5anNPOG9peGZHZGJhMUNWYndobUtneVMxS2VrTktSQ0hLNEgzblI2TVI2OXdmWWo5MmU0cVJCdXBlVFNUbWtVU1NxR2FmVUE?oc=5\" target=\"_blank\">Irregular says ‘human oversight’ responsible for AI sandbox escape i",
+    "first_seen": "2026-11-03"
+  },
+  {
+    "title": "Artificial intelligence agents going rogue fuel calls for regulation - PBS",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSE9hTXBoWmFpN2lXTnlNSWRMYmpJYnV0cWhZcWxVWEVWQmdENkFFVE1QdXh2LXNHRnJwWVlwQk1wQVhNUWFlb29oN0NpaTVNaWhXcUpGVDdVbzFtMFliZ3h1TkRmUDE3R1J1bVhMMmJiM0UtSTNzZmwzLU5nVUtOUkNHaW03aFdzT2ZMZGN4a3lvczRmdGtmaUowVUU5ODFhcUhlcg",
+    "source": "Google News",
+    "date": "Mon, 31 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQSE9hTXBoWmFpN2lXTnlNSWRMYmpJYnV0cWhZcWxVWEVWQmdENkFFVE1QdXh2LXNHRnJwWVlwQk1wQVhNUWFlb29oN0NpaTVNaWhXcUpGVDdVbzFtMFliZ3h1TkRmUDE3R1J1bVhMMmJiM0UtSTNzZmwzLU5nVUtOUkNHaW03aFdzT2ZMZGN4a3lvczRmdGtmaUowVUU5ODFhcUhlcg?oc=5\" target=\"_blank\">Artif",
+    "first_seen": "2026-11-03"
+  },
+  {
+    "title": "OpenAI’s Models Went Rogue. Investigating Them Required More AI - Time Magazine",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUlgxMWpockg1SkJwbUVKVENYVHRaM2pXZHg4al9STXJTZ2ttWk5DMFlCOEE1cGE5V25YZEc0LUlWajRGM2VFNlRlQ051dy10Q0xJZVJGdUxzUFhuTjlYZnpCcjVSbm9oenF5LW5DV1hncVNLVmNrZHROS3VTbzV3ag",
+    "source": "Google News",
+    "date": "Thu, 27 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQUlgxMWpockg1SkJwbUVKVENYVHRaM2pXZHg4al9STXJTZ2ttWk5DMFlCOEE1cGE5V25YZEc0LUlWajRGM2VFNlRlQ051dy10Q0xJZVJGdUxzUFhuTjlYZnpCcjVSbm9oenF5LW5DV1hncVNLVmNrZHROS3VTbzV3ag?oc=5\" target=\"_blank\">OpenAI’s Models Went Rogue. Investigating Them Requir",
+    "first_seen": "2026-11-03"
+  },
+  {
+    "title": "Hundreds of AI agents went rogue in OpenAI’s Hugging Face hack - Politico",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVF5Q3hJemxqUXVJd2M2OHpKZ3RPVmY4SEU0VUNpZmVtYWxabk1Mdy1lXzh3czEtUTFHbVZaNjAyZmpicG11X1ZPYzBTSWQxdWlCQlpnTmROWWtETlNCTk5SUDVYZHZWRzgtWnFJV3h1Qm5Ud284NDJWcmtmTmEtX2hnMmZQMXJqZFlkbnBwbzJqVVlKdEsyUXdrSVJuNDdjamFMZnNDRlI1Z2Q0X29EbQ",
+    "source": "Google News",
+    "date": "Wed, 26 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVF5Q3hJemxqUXVJd2M2OHpKZ3RPVmY4SEU0VUNpZmVtYWxabk1Mdy1lXzh3czEtUTFHbVZaNjAyZmpicG11X1ZPYzBTSWQxdWlCQlpnTmROWWtETlNCTk5SUDVYZHZWRzgtWnFJV3h1Qm5Ud284NDJWcmtmTmEtX2hnMmZQMXJqZFlkbnBwbzJqVVlKdEsyUXdrSVJuNDdjamFMZnNDRlI1Z2Q0X29EbQ?oc=5\" targe",
+    "first_seen": "2026-11-03"
+  },
+  {
+    "title": "OpenAI models went rogue. We urgently need a better Hugging Face investigation - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN253ZVo1a19jdWlBRG5VdmVxYldxelhDSnBuVE4xUzBxLWhyc0lWUUthWE4temZ1QkxoeFBNcTdjVGtTdzUyc1NkQXQybklqdmRyZmd3RWZ5eGdNQUhXZzN3YkVtSVlTMkpmakxXbWZtQlk4cXFHV1lLOTJXSlBTWWdvaWUxdks3c3k5MVRWVHR2TUV4bGNTTUp1NmtiUVdRS0E",
+    "source": "Google News",
+    "date": "Wed, 09 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNN253ZVo1a19jdWlBRG5VdmVxYldxelhDSnBuVE4xUzBxLWhyc0lWUUthWE4temZ1QkxoeFBNcTdjVGtTdzUyc1NkQXQybklqdmRyZmd3RWZ5eGdNQUhXZzN3YkVtSVlTMkpmakxXbWZtQlk4cXFHV1lLOTJXSlBTWWdvaWUxdks3c3k5MVRWVHR2TUV4bGNTTUp1NmtiUVdRS0E?oc=5\" target=\"_blank\">OpenAI m",
+    "first_seen": "2026-11-03"
+  },
+  {
+    "title": "Meta says its AI model hacked another company, adding to worries about bots going rogue - AP News",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVndsM1ItQXZiWkIwUU9rc1JmRDNZVXZsenNsM3BUN0JqSlZMcTFoMHk0RTN1U0xRUjVtNnQzSzVUMWdhY1Z4T1N1bkpqUFRSR2U5M2NoU1JpaU9LZnVBWmJEZEozQ1JMbXVpcHl1c3JLb2s1Q0k3UU4yS2NPanBjMWZjeXFpUnA4ZUpEX09sNUdrR29jMlFRMjN0ZDhWM1Q1UVpVbg",
+    "source": "Google News",
+    "date": "Thu, 06 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOVndsM1ItQXZiWkIwUU9rc1JmRDNZVXZsenNsM3BUN0JqSlZMcTFoMHk0RTN1U0xRUjVtNnQzSzVUMWdhY1Z4T1N1bkpqUFRSR2U5M2NoU1JpaU9LZnVBWmJEZEozQ1JMbXVpcHl1c3JLb2s1Q0k3UU4yS2NPanBjMWZjeXFpUnA4ZUpEX09sNUdrR29jMlFRMjN0ZDhWM1Q1UVpVbg?oc=5\" target=\"_blank\">Meta ",
+    "first_seen": "2026-11-03"
+  },
+  {
+    "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack - BBC",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VTDZ2ZnhnTVpkWWNOcmdoRkFlb3haUnY1c2w1U2JHXzFDaUJJLVc2bUN0MjFrcU1fbFZUR3ZOakhpMkVkR2tRU3NnaU5GNXFhcVItUjhPUFFkdw",
+    "source": "Google News",
+    "date": "Wed, 22 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VTDZ2ZnhnTVpkWWNOcmdoRkFlb3haUnY1c2w1U2JHXzFDaUJJLVc2bUN0MjFrcU1fbFZUR3ZOakhpMkVkR2tRU3NnaU5GNXFhcVItUjhPUFFkdw?oc=5\" target=\"_blank\">OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack</a>&nbsp;&nbsp;<font color=\"#6f6f",
+    "first_seen": "2026-11-03"
   }
 ]
