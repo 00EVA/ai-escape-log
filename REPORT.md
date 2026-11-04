@@ -1,6 +1,6 @@
 # AI Incident Briefing — 2026-11-04
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 231_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 226_
 
 ## 1. Latest verified incidents
 
@@ -11,12 +11,10 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=231)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=226)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [Hacker News] A.I. Is Going Rogue. Who Should Be Held Responsible?  (2026-10-04)
-  https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html
 - [Prismix AI] Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026  (2026-10-05)
   https://prismix.dev/news/fb4a44bb6384
 - [Prismix AI] Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026  (2026-10-05)
@@ -39,6 +37,10 @@ If one of these hits you: AI crime triage: is the AI the actor (rogue agent/auto
   https://mappingignorance.org/2026/10/06/the-wargames-problem-ai-agents-dont-go-rogue/
 - [Prismix AI] Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed  (2026-10-06)
   https://prismix.dev/news/caf99c60829d
+- [Google News] Insurance claims to test Altman and Amodei liability for ‘rogue’ AI - Financial Times  (Tue, 06 Oc)
+  https://news.google.com/rss/articles/CBMihAFBVV95cUxNZTRNTmlQbGppQWtHdEFzYnhyYUw4ZUNWdlBjNDVvcWdEUWRaVFJ3NnFQcjZCVXVMNWQ2U1VGYWNmZUhZcUFrb3RqZkg2Qjl0cGZRNkdPeTRGVG9za3o3QklxMV9TTnAzazhiLVUyVm93bTZoNTY2N0RBQlZiRUd0eHZnU2U
+- [Hacker News] Biology, Buddhism and AI: the Platonic space model and the rogue agent swarm  (2026-10-07)
+  https://okossa.com/biology-buddhism-and-ai-ff213a852eb4
 
 ## 4. Early-warning watchlist (be first to know)
 
