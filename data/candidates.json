@@ -1784,131 +1784,67 @@
     "first_seen": "2026-11-03"
   },
   {
-    "title": "Show HN: Spens sandboxed, observable coding agents",
-    "url": "https://spens.refwd.ai/",
-    "source": "Hacker News",
-    "date": "2026-10-02",
-    "snippet": "Spens is a tool created to standardized sandboxing (good enough) and observability around coding agents. It leverages docker, nono and mitmproxy to create a reproducible sandbox environment for agents, that captures all traffic and helps you understand what your coding agent is doing and when. Right",
-    "first_seen": "2026-11-03"
-  },
-  {
-    "title": "Ask HN: Do you think AI agents can escape human control?",
-    "url": "https://news.ycombinator.com/item?id=49873303",
-    "source": "Hacker News",
-    "date": "2026-09-28",
-    "snippet": "With the rapid adoption of autonomous LLM-based agents (giving models access to shell execution, API calls, and local file systems), the boundary between intentional behavior and unintended execution is blurring.\nI&#x27;m less concerned with sci-fi &quot;sentience&quot; and more interested in the pr",
-    "first_seen": "2026-11-03"
-  },
-  {
-    "title": "What is an AI sandbox, and why do AI agents keep escaping them?",
-    "url": "https://madrobot.blog/2026/09/27/what-is-an-ai-sandbox-why-ai-agents-escape/",
-    "source": "Hacker News",
-    "date": "2026-09-27",
-    "snippet": "",
-    "first_seen": "2026-11-03"
-  },
-  {
-    "title": "Show HN: Misalignments when using AI for hacking",
-    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
-    "source": "Hacker News",
-    "date": "2026-08-05",
-    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
-    "first_seen": "2026-11-03"
-  },
-  {
-    "title": "Disrupting ai espionage",
-    "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
-    "source": "Anthropic News (sitemap)",
-    "date": "2026-10-20",
-    "snippet": "",
-    "first_seen": "2026-11-03"
-  },
-  {
-    "title": "OpenAI pauses training a second time after saying its AI agents escaped a secure 'sandbox' again just last weekend - Fortune",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUFNfUWZES3NOQWlYakpDa2RwT18tWXZOX0YteUxUY0MzQi0wQmNwb3N5ZjRXekFHVmdBSFB5RTkwcUpETUdVM0JfM3B6czhCRzJUa1VKZzJDS3dyRm9ZaUYtSmFQd3FWeHFpUnhVdThZMVJLRlRhNlBlRmZaWUtWaUJlVWVBckNaOXpPalVBVXdiOWtySVVxMjR0U2cyVC1FVE1nRDk5Y25YdU1aZHhVUm1JRFZ4UQ",
+    "title": "FBI Omaha Press Conference: Arrest of Ten Most Wanted Fugitive Anibal Alexander Canelon Aguirre - FBI (.gov)",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE12S000U05HeE9xb1lVeXRlQ1ZMZEZ2TWg4NTdxNS1lTjRwQjdHLUo0LTNWYnFtaExXbEh6clUyeHpFdC1xc1huZVlHU3pDTWlYLXRBRTZNSWtMVTFiazBnQkQ4T2dSenloT0NqWWxNbEx6dw",
     "source": "Google News",
-    "date": "Sat, 26 Se",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQUFNfUWZES3NOQWlYakpDa2RwT18tWXZOX0YteUxUY0MzQi0wQmNwb3N5ZjRXekFHVmdBSFB5RTkwcUpETUdVM0JfM3B6czhCRzJUa1VKZzJDS3dyRm9ZaUYtSmFQd3FWeHFpUnhVdThZMVJLRlRhNlBlRmZaWUtWaUJlVWVBckNaOXpPalVBVXdiOWtySVVxMjR0U2cyVC1FVE1nRDk5Y25YdU1aZHhVUm1JRFZ4UQ?oc=",
+    "date": "Mon, 05 Oc",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE12S000U05HeE9xb1lVeXRlQ1ZMZEZ2TWg4NTdxNS1lTjRwQjdHLUo0LTNWYnFtaExXbEh6clUyeHpFdC1xc1huZVlHU3pDTWlYLXRBRTZNSWtMVTFiazBnQkQ4T2dSenloT0NqWWxNbEx6dw?oc=5\" target=\"_blank\">FBI Omaha Press Conference: Arrest of Ten Most Wanted Fugitive Anibal Ale",
     "first_seen": "2026-11-03"
   },
   {
-    "title": "Google AI models broke out of sandbox, hacked three companies - Cybersecurity Dive",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNanlDUENybDN1a2lMNEN4eWR5ZTdLNC1ScXUxaG5UMFVPbFo5S0Q3YWhoR2hxQjVVZ1dYWTNlVEFBUDBBa2Z4N2hXRFVuSGh2ZE5sMS1KUEU5T2RjQmpYeER5Zlh2T003N3FodlBTaXl1UktnWWtBRWVDQm5KbGFKSUVlaUI3UkE",
+    "title": "Archived: ICE ERO immigration arrests climb nearly 40% - ICE | U.S. Immigration and Customs Enforcement (.gov)",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MLW1NWGw0c0hMeHRVZWlwUS0xdkYtS2kyd0JPZF9TYW1CUkV0U1Fxd3oySEV6MHVHQ0gyMkdpTlV5UE1NcEVhcnExXzVUQQ",
     "source": "Google News",
-    "date": "Mon, 21 Se",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNanlDUENybDN1a2lMNEN4eWR5ZTdLNC1ScXUxaG5UMFVPbFo5S0Q3YWhoR2hxQjVVZ1dYWTNlVEFBUDBBa2Z4N2hXRFVuSGh2ZE5sMS1KUEU5T2RjQmpYeER5Zlh2T003N3FodlBTaXl1UktnWWtBRWVDQm5KbGFKSUVlaUI3UkE?oc=5\" target=\"_blank\">Google AI models broke out of sandbox, hacke",
+    "date": "Mon, 18 Ma",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MLW1NWGw0c0hMeHRVZWlwUS0xdkYtS2kyd0JPZF9TYW1CUkV0U1Fxd3oySEV6MHVHQ0gyMkdpTlV5UE1NcEVhcnExXzVUQQ?oc=5\" target=\"_blank\">Archived: ICE ERO immigration arrests climb nearly 40%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ICE | U.S. Immigration and Cu",
     "first_seen": "2026-11-03"
   },
   {
-    "title": "OpenAI AI Agents Hijacked A German Wiki To Share Sandbox Escape Tricks - Forbes",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjlIbVRJZndNY0c4RU5FSFFlNDVzZ0ktVng3S2lBVHlxQnVCWHd3cW1YRm5JQmJqeUF4ZlN4bnNSU1dmT1QwTzNCTjBtMXBlQnN2VnFaWEhiS0UwdjM4NFpUX3dPMFE2UnN5eWpud05Tcl9SUkFsTy1vazFkT0NBY1JJdXpPVHF3VUtDTjlYYlNvcm4wdms1SGlkdU5JaXUtckNQX3A0Zk1MZFhvNFAwYXNaUzFWNnpSOEhvaEllYw",
-    "source": "Google News",
-    "date": "Mon, 07 Se",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjlIbVRJZndNY0c4RU5FSFFlNDVzZ0ktVng3S2lBVHlxQnVCWHd3cW1YRm5JQmJqeUF4ZlN4bnNSU1dmT1QwTzNCTjBtMXBlQnN2VnFaWEhiS0UwdjM4NFpUX3dPMFE2UnN5eWpud05Tcl9SUkFsTy1vazFkT0NBY1JJdXpPVHF3VUtDTjlYYlNvcm4wdms1SGlkdU5JaXUtckNQX3A0Zk1MZFhvNFAwYXNaUzFWNnpSOE",
+    "title": "CISA KEV: WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-119977",
+    "source": "CISA KEV catalog",
+    "date": "2026-11-03",
+    "snippet": "CVE-2026-119977 | WordPress WordPress Core | WordPress WordPress Core contains a time-of-check time-of-use (TOCTOU) race condition vulnerability that could allow unauthenticated attackers to execute code on the server during the upgrade window. This is due to predictable, web-accessible staging paths used during full-package core upgrades.",
     "first_seen": "2026-11-03"
   },
   {
-    "title": "CVE-2026-82533: DeepSeek Harness Vulnerability Lets AI Agents Escape Their Own Sandbox - OX Security",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1ptSVFXeUQzc1gtNzhzQmpsbGJSdHd1RndnSm0zMWRkcWV5dHNVZk5pWUFzaUZyQzlPZ25GMHhRemY4cVBUUkFhU1JoeUo4Z0RWVlZVNHhnRV9mYWlBNlJXNjZUcC1Dd2dnQ0tmZVMxTkdHMEhhazFuazBQRTlWeUsxWHZwSU0zZE1UZTNn",
+    "title": "Ransomware Attacks Move Beyond Enterprise Systems to Theaten Employees' Families - THE Journal: Technological Horizons in Education",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZmk1NWtxVUgzR3RBVXNtZUVKOEYzQUtlV1RLZmFnSmZCc2dFYXVGTnVlUzhsWUZBbFZ0aTZKdF85YU1WQnRuamJ5cjZQX1JoVmNkVmgzdDFsX1JHeFlBeXZxYVFJS1ptaWdZSXZTeXNMUHBiWTRydDRVY19oWDBWNlowUlBnRG1GalNiUG9veWJpSHJPODlxWEJzc3o5a0JuaExJdXBHYUM3V2lkWkcwYzdCUENKSnN3UGpMM3VZYjNmTXhzTXc",
     "source": "Google News",
-    "date": "Tue, 08 Se",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1ptSVFXeUQzc1gtNzhzQmpsbGJSdHd1RndnSm0zMWRkcWV5dHNVZk5pWUFzaUZyQzlPZ25GMHhRemY4cVBUUkFhU1JoeUo4Z0RWVlZVNHhnRV9mYWlBNlJXNjZUcC1Dd2dnQ0tmZVMxTkdHMEhhazFuazBQRTlWeUsxWHZwSU0zZE1UZTNn?oc=5\" target=\"_blank\">CVE-2026-82533: DeepSeek Harness Vu",
+    "date": "Thu, 29 Oc",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNZmk1NWtxVUgzR3RBVXNtZUVKOEYzQUtlV1RLZmFnSmZCc2dFYXVGTnVlUzhsWUZBbFZ0aTZKdF85YU1WQnRuamJ5cjZQX1JoVmNkVmgzdDFsX1JHeFlBeXZxYVFJS1ptaWdZSXZTeXNMUHBiWTRydDRVY19oWDBWNlowUlBnRG1GalNiUG9veWJpSHJPODlxWEJzc3o5a0JuaExJdXBHYUM3V2lkWkcwYzdCUENKSnN3UG",
     "first_seen": "2026-11-03"
   },
   {
-    "title": "Irregular says ‘human oversight’ responsible for AI sandbox escape incidents - CyberScoop",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14dHp5VTM1c0VfVmhHWmhRdEhEb2NHVnVyWWJtelNCcmtYNGxfS0Z5anNPOG9peGZHZGJhMUNWYndobUtneVMxS2VrTktSQ0hLNEgzblI2TVI2OXdmWWo5MmU0cVJCdXBlVFNUbWtVU1NxR2FmVUE",
+    "title": "FMA warns AI deepfake scams cost NZ $265m with no law to stop them - B2B News",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOWlFQWNxd2V4aUdkLS1GX2Jyd3Y5Mm9mQlBKOV94WUpHajZJdW05eVRKSWNxWHAzVE9ydTB3dWdaZVhpenhWQjRLcjJMWlB3c0hzRDVrUV90MHNWVnV3WVNtYXp1U3h4bW0zS0g0WU5ROFZpVEdyZDBHVHFabDFwT2pyTEVxMi1fUkxhelpReE83R29NWl90cw",
     "source": "Google News",
-    "date": "Mon, 17 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE14dHp5VTM1c0VfVmhHWmhRdEhEb2NHVnVyWWJtelNCcmtYNGxfS0Z5anNPOG9peGZHZGJhMUNWYndobUtneVMxS2VrTktSQ0hLNEgzblI2TVI2OXdmWWo5MmU0cVJCdXBlVFNUbWtVU1NxR2FmVUE?oc=5\" target=\"_blank\">Irregular says ‘human oversight’ responsible for AI sandbox escape i",
+    "date": "Fri, 12 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOOWlFQWNxd2V4aUdkLS1GX2Jyd3Y5Mm9mQlBKOV94WUpHajZJdW05eVRKSWNxWHAzVE9ydTB3dWdaZVhpenhWQjRLcjJMWlB3c0hzRDVrUV90MHNWVnV3WVNtYXp1U3h4bW0zS0g0WU5ROFZpVEdyZDBHVHFabDFwT2pyTEVxMi1fUkxhelpReE83R29NWl90cw?oc=5\" target=\"_blank\">FMA warns AI deepfake",
     "first_seen": "2026-11-03"
   },
   {
-    "title": "Artificial intelligence agents going rogue fuel calls for regulation - PBS",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSE9hTXBoWmFpN2lXTnlNSWRMYmpJYnV0cWhZcWxVWEVWQmdENkFFVE1QdXh2LXNHRnJwWVlwQk1wQVhNUWFlb29oN0NpaTVNaWhXcUpGVDdVbzFtMFliZ3h1TkRmUDE3R1J1bVhMMmJiM0UtSTNzZmwzLU5nVUtOUkNHaW03aFdzT2ZMZGN4a3lvczRmdGtmaUowVUU5ODFhcUhlcg",
+    "title": "Google Bans Partner After 1.3M Android Boxes Turned Botnet - The Tech Buzz",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUHpUSmtMcWYtRWVRTkpxUEVLaEVTeHhNX0JuTEhMMmVVRVF1UzBsbjJqdlU4TnEtOERtbTZsYXFUcDZZQ3ZWbjJnWE1pbHd0TGY1ZEZ3d1lRck1FNXQ4cUo5LXRYRFI0VHF2WlhfUExxMlBaTkVua0c4WmN6aTg3WjltejI5aW9BMEVucWZxb1JUMm5oR3c",
     "source": "Google News",
-    "date": "Mon, 31 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQSE9hTXBoWmFpN2lXTnlNSWRMYmpJYnV0cWhZcWxVWEVWQmdENkFFVE1QdXh2LXNHRnJwWVlwQk1wQVhNUWFlb29oN0NpaTVNaWhXcUpGVDdVbzFtMFliZ3h1TkRmUDE3R1J1bVhMMmJiM0UtSTNzZmwzLU5nVUtOUkNHaW03aFdzT2ZMZGN4a3lvczRmdGtmaUowVUU5ODFhcUhlcg?oc=5\" target=\"_blank\">Artif",
+    "date": "Mon, 02 No",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPUHpUSmtMcWYtRWVRTkpxUEVLaEVTeHhNX0JuTEhMMmVVRVF1UzBsbjJqdlU4TnEtOERtbTZsYXFUcDZZQ3ZWbjJnWE1pbHd0TGY1ZEZ3d1lRck1FNXQ4cUo5LXRYRFI0VHF2WlhfUExxMlBaTkVua0c4WmN6aTg3WjltejI5aW9BMEVucWZxb1JUMm5oR3c?oc=5\" target=\"_blank\">Google Bans Partner Afte",
     "first_seen": "2026-11-03"
   },
   {
-    "title": "OpenAI’s Models Went Rogue. Investigating Them Required More AI - Time Magazine",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUlgxMWpockg1SkJwbUVKVENYVHRaM2pXZHg4al9STXJTZ2ttWk5DMFlCOEE1cGE5V25YZEc0LUlWajRGM2VFNlRlQ051dy10Q0xJZVJGdUxzUFhuTjlYZnpCcjVSbm9oenF5LW5DV1hncVNLVmNrZHROS3VTbzV3ag",
+    "title": "Hackers hijack D-Link and Ubiquiti devices to resell bandwidth as residential proxies - Pasquale Pillitteri",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUmM0V19vdDRKMUdJS3Q1Y3FZUHhGaUowdmNkZmhqeU1pMUNGVDFsbXU3QVhIZ0NBWE1HXzVZQVRnYjdtQWc3cWl5Z2YwVmR4OG1landrQWRENTNqb0x3NkZYWWk3UU8ydzdjTVA3Y0k4T0RZUVVySUpnUDhiTENGNHoyVnM1ZTZlUFlMZmUxaFVHUQ",
     "source": "Google News",
-    "date": "Thu, 27 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQUlgxMWpockg1SkJwbUVKVENYVHRaM2pXZHg4al9STXJTZ2ttWk5DMFlCOEE1cGE5V25YZEc0LUlWajRGM2VFNlRlQ051dy10Q0xJZVJGdUxzUFhuTjlYZnpCcjVSbm9oenF5LW5DV1hncVNLVmNrZHROS3VTbzV3ag?oc=5\" target=\"_blank\">OpenAI’s Models Went Rogue. Investigating Them Requir",
+    "date": "Fri, 30 Oc",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOUmM0V19vdDRKMUdJS3Q1Y3FZUHhGaUowdmNkZmhqeU1pMUNGVDFsbXU3QVhIZ0NBWE1HXzVZQVRnYjdtQWc3cWl5Z2YwVmR4OG1landrQWRENTNqb0x3NkZYWWk3UU8ydzdjTVA3Y0k4T0RZUVVySUpnUDhiTENGNHoyVnM1ZTZlUFlMZmUxaFVHUQ?oc=5\" target=\"_blank\">Hackers hijack D-Link and Ubi",
     "first_seen": "2026-11-03"
   },
   {
-    "title": "Hundreds of AI agents went rogue in OpenAI’s Hugging Face hack - Politico",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVF5Q3hJemxqUXVJd2M2OHpKZ3RPVmY4SEU0VUNpZmVtYWxabk1Mdy1lXzh3czEtUTFHbVZaNjAyZmpicG11X1ZPYzBTSWQxdWlCQlpnTmROWWtETlNCTk5SUDVYZHZWRzgtWnFJV3h1Qm5Ud284NDJWcmtmTmEtX2hnMmZQMXJqZFlkbnBwbzJqVVlKdEsyUXdrSVJuNDdjamFMZnNDRlI1Z2Q0X29EbQ",
+    "title": "OpenMandriva Linux says contributor tried to sabotage the project - BleepingComputer",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdWxtWWR5cHdEeGpfR2lSRW1haGd6bG56SEJxd045Sy1LQU9CVVk1M0c3Z0pISUZ5M0NUX2JNTXRrc0xEUXdKZUhTWEFyOV9sSndHcmtqYy1ncU8zMmNxZG1tb2ZKMkRkQlozX2kwVUFjb2wwQlhlSi12OE9QSGYxMG9Xd1lDaWJGS083LV9RWGRuR0ZUbTY2cDhNVlBjMUdpLUNhcm9yUnVhN1hRcEk5eVJIONIBuAFBVV95cUxQSE5nLUJqSUJLWGVsTEFLYzI2TXJMN3RqRFJwVW9qVlhXLWpIaUZfZnAyaHNlR0ZSaDB0ei11U1VkNFZfaUxnZVFiR1RERE9EVkxQZDhXSDZ5aW9PNWVVMWVOaFJ5ejlMekpITmg4WHlha3dxc1JMbGNMU3hNWjZ0TzJWelNwdHZGd3d0VVhXVmhPdXh1MFFaRFVoRUVPYUxrWlU0RHRjVkU0S0dsT1hQN2x1SWRLUXda",
     "source": "Google News",
-    "date": "Wed, 26 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVF5Q3hJemxqUXVJd2M2OHpKZ3RPVmY4SEU0VUNpZmVtYWxabk1Mdy1lXzh3czEtUTFHbVZaNjAyZmpicG11X1ZPYzBTSWQxdWlCQlpnTmROWWtETlNCTk5SUDVYZHZWRzgtWnFJV3h1Qm5Ud284NDJWcmtmTmEtX2hnMmZQMXJqZFlkbnBwbzJqVVlKdEsyUXdrSVJuNDdjamFMZnNDRlI1Z2Q0X29EbQ?oc=5\" targe",
-    "first_seen": "2026-11-03"
-  },
-  {
-    "title": "OpenAI models went rogue. We urgently need a better Hugging Face investigation - The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN253ZVo1a19jdWlBRG5VdmVxYldxelhDSnBuVE4xUzBxLWhyc0lWUUthWE4temZ1QkxoeFBNcTdjVGtTdzUyc1NkQXQybklqdmRyZmd3RWZ5eGdNQUhXZzN3YkVtSVlTMkpmakxXbWZtQlk4cXFHV1lLOTJXSlBTWWdvaWUxdks3c3k5MVRWVHR2TUV4bGNTTUp1NmtiUVdRS0E",
-    "source": "Google News",
-    "date": "Wed, 09 Se",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNN253ZVo1a19jdWlBRG5VdmVxYldxelhDSnBuVE4xUzBxLWhyc0lWUUthWE4temZ1QkxoeFBNcTdjVGtTdzUyc1NkQXQybklqdmRyZmd3RWZ5eGdNQUhXZzN3YkVtSVlTMkpmakxXbWZtQlk4cXFHV1lLOTJXSlBTWWdvaWUxdks3c3k5MVRWVHR2TUV4bGNTTUp1NmtiUVdRS0E?oc=5\" target=\"_blank\">OpenAI m",
-    "first_seen": "2026-11-03"
-  },
-  {
-    "title": "Meta says its AI model hacked another company, adding to worries about bots going rogue - AP News",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVndsM1ItQXZiWkIwUU9rc1JmRDNZVXZsenNsM3BUN0JqSlZMcTFoMHk0RTN1U0xRUjVtNnQzSzVUMWdhY1Z4T1N1bkpqUFRSR2U5M2NoU1JpaU9LZnVBWmJEZEozQ1JMbXVpcHl1c3JLb2s1Q0k3UU4yS2NPanBjMWZjeXFpUnA4ZUpEX09sNUdrR29jMlFRMjN0ZDhWM1Q1UVpVbg",
-    "source": "Google News",
-    "date": "Thu, 06 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOVndsM1ItQXZiWkIwUU9rc1JmRDNZVXZsenNsM3BUN0JqSlZMcTFoMHk0RTN1U0xRUjVtNnQzSzVUMWdhY1Z4T1N1bkpqUFRSR2U5M2NoU1JpaU9LZnVBWmJEZEozQ1JMbXVpcHl1c3JLb2s1Q0k3UU4yS2NPanBjMWZjeXFpUnA4ZUpEX09sNUdrR29jMlFRMjN0ZDhWM1Q1UVpVbg?oc=5\" target=\"_blank\">Meta ",
-    "first_seen": "2026-11-03"
-  },
-  {
-    "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack - BBC",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VTDZ2ZnhnTVpkWWNOcmdoRkFlb3haUnY1c2w1U2JHXzFDaUJJLVc2bUN0MjFrcU1fbFZUR3ZOakhpMkVkR2tRU3NnaU5GNXFhcVItUjhPUFFkdw",
-    "source": "Google News",
-    "date": "Wed, 22 Ju",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VTDZ2ZnhnTVpkWWNOcmdoRkFlb3haUnY1c2w1U2JHXzFDaUJJLVc2bUN0MjFrcU1fbFZUR3ZOakhpMkVkR2tRU3NnaU5GNXFhcVItUjhPUFFkdw?oc=5\" target=\"_blank\">OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack</a>&nbsp;&nbsp;<font color=\"#6f6f",
+    "date": "Thu, 09 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOdWxtWWR5cHdEeGpfR2lSRW1haGd6bG56SEJxd045Sy1LQU9CVVk1M0c3Z0pISUZ5M0NUX2JNTXRrc0xEUXdKZUhTWEFyOV9sSndHcmtqYy1ncU8zMmNxZG1tb2ZKMkRkQlozX2kwVUFjb2wwQlhlSi12OE9QSGYxMG9Xd1lDaWJGS083LV9RWGRuR0ZUbTY2cDhNVlBjMUdpLUNhcm9yUnVhN1hRcEk5eVJIONIBuAFBVV",
     "first_seen": "2026-11-03"
   }
 ]
