@@ -1806,5 +1806,21 @@
     "date": "Thu, 09 Ju",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOdWxtWWR5cHdEeGpfR2lSRW1haGd6bG56SEJxd045Sy1LQU9CVVk1M0c3Z0pISUZ5M0NUX2JNTXRrc0xEUXdKZUhTWEFyOV9sSndHcmtqYy1ncU8zMmNxZG1tb2ZKMkRkQlozX2kwVUFjb2wwQlhlSi12OE9QSGYxMG9Xd1lDaWJGS083LV9RWGRuR0ZUbTY2cDhNVlBjMUdpLUNhcm9yUnVhN1hRcEk5eVJIONIBuAFBVV",
     "first_seen": "2026-11-03"
+  },
+  {
+    "title": "CISA KEV: Apple Multiple Products Improper Authentication Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-27834",
+    "source": "CISA KEV catalog",
+    "date": "2026-11-04",
+    "snippet": "CVE-2024-27834 | Apple Multiple Products | Apple iOS, iPadOS, macOS, Safari, tvOS and watchOS 10.5 contain an improper authentication vulnerability which could allow an attacker with arbitrary read and write capability to bypass pointer authentication.",
+    "first_seen": "2026-11-04"
+  },
+  {
+    "title": "Congresswoman States The Party's Day 1 Priority Is To Pause Advanced AI development and Ban \"Artificial Superintelligence\"",
+    "url": "https://www.reddit.com/r/singularity/comments/1xo1122/congresswoman_states_the_partys_day_1_priority_is/",
+    "source": "Reddit r/singularity",
+    "date": "2026-11-04",
+    "snippet": "     Top of the Democratic agenda on day 1 needs to be a pause on advanced AI development, regulation of this out of control industry, and a ban on artificial superintelligence.      https://x.com/RepYassAnsari/status/2118054336077127797      &#32; submitted by &#32;   /u/Neurogence       [link]   &",
+    "first_seen": "2026-11-04"
   }
 ]
