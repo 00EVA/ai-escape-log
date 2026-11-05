@@ -1,6 +1,6 @@
-# AI Incident Briefing — 2026-11-04
+# AI Incident Briefing — 2026-11-05
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 229_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 217_
 
 ## 1. Latest verified incidents
 
@@ -11,28 +11,10 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=229)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=217)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [Prismix AI] Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026  (2026-10-05)
-  https://prismix.dev/news/fb4a44bb6384
-- [Prismix AI] Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026  (2026-10-05)
-  https://prismix.dev/news/b1e6c3300622
-- [Google News] 'Rogue' AI Isn't Going Anywhere - Lawfare  (Fri, 02 Oc)
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE9pa1dFbWQ1NEhSMktOWnZKTzNqSFZiYmlxSURkRDVWU2R6eHlKVUZiZTJRNUsyOE9Xb2cySUY2Q3dKVW9KQzlmajBYZTlOWElrbUR4UkFLX2otb0VmV2E0a0VMMlZwT1gybld6N3pmWVFfdWszWXc
-- [Google News] Are AI Agents Going Rogue? Here’s What Business Leaders Should Know - Forbes  (Thu, 01 Oc)
-  https://news.google.com/rss/articles/CBMivgFBVV95cUxPamFNVGk5NlZOVVZ2aXNJX3Rhd2N3b2tLRnd2OWVKNE44emVNWWh0SlRabWZWbVNIaThzLTNHWTFlWDFDblJhUC16NVBlUFl6cE1KbXN0bDE1TzRwbG00cGxJWnJfTlN0dDBUYlpEM3YtcW1OekZ3aUZXYTR4VDBBNkpvRXJOTHlBZ1F6Z0tNclpTUDAxLTNqY0NpY2tIb1FuZzJPX2F2bmw0OTE5azBuV1JsRDlTUHA0SnpqVFpB
-- [Google News] The Sleuths Who Expose When AI Goes Rogue - WSJ  (Sat, 03 Oc)
-  https://news.google.com/rss/articles/CBMihAFBVV95cUxPX0dISjgxYkJlRzBQczRicDdQTDA3b0RUWFhfc0FuRW9RMHR1Nm0xeC1FU29SR2JLSWcxTURYZGRRQTU4dUlyNEhpSmhkTE8yUFNhMVpxcWJGcDhqM3YwcXk2M3huWjJIZHBfUkpVUWF1MjVDTFhwbkU2N19lT3pUQ2xjLTk
-- [The Verge] Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage  (2026-10-05)
-  https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage
-- [Prismix AI] OpenAI "rogue" agent activities found on Wikimedia projects  (2026-10-05)
-  https://prismix.dev/news/0bf65300a2ec
-- [Google News] Rogue OpenAI agents targeted three separate US government websites - CNN  (Sat, 26 Se)
-  https://news.google.com/rss/articles/CBMigAFBVV95cUxPbkQyN1dNYTkzeGFDN0hQSHVZNGxVUEcyb0trcGo1SmZMeWxNRmYwOTNHRGo1eVVrWTBqYkVoUmxpV2xuVnlURWtpY3FRTG5zRGNQdk90SjdwblZVVzlfQWk1UGJsTGNhQVF2MXZ2QjFLYV9iZ0FrWElzSFhIWGhFZw
-- [Google News] Why AI Keeps Going ‘Rogue’ - Pirate Wires  (Tue, 06 Oc)
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uQ05sVnVPRHMyeWU4QW8wT0dsUm91YS1UQ0lzMkZGeThMRHhIT0VsdDVDaVN5TTJWQmcwV2M5dHNEYmxYcDQ1Y1JkNGViTnFteXRha2hLcnBiMWJJYWlqRUt3ZFQ
 - [Hacker News] The WarGames problem: AI agents don't go rogue  (2026-10-06)
   https://mappingignorance.org/2026/10/06/the-wargames-problem-ai-agents-dont-go-rogue/
 - [Prismix AI] Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed  (2026-10-06)
@@ -41,6 +23,16 @@ If one of these hits you: AI crime triage: is the AI the actor (rogue agent/auto
   https://news.google.com/rss/articles/CBMihAFBVV95cUxNZTRNTmlQbGppQWtHdEFzYnhyYUw4ZUNWdlBjNDVvcWdEUWRaVFJ3NnFQcjZCVXVMNWQ2U1VGYWNmZUhZcUFrb3RqZkg2Qjl0cGZRNkdPeTRGVG9za3o3QklxMV9TTnAzazhiLVUyVm93bTZoNTY2N0RBQlZiRUd0eHZnU2U
 - [Hacker News] Biology, Buddhism and AI: the Platonic space model and the rogue agent swarm  (2026-10-07)
   https://okossa.com/biology-buddhism-and-ai-ff213a852eb4
+- [Simon Willison] OpenAI “rogue” agent activities found on Wikimedia projects  (2026-10-07)
+  https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/
+- [Prismix AI] OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots  (2026-10-07)
+  https://prismix.dev/news/5ff7eb3ed8e1
+- [Prismix AI] Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026  (2026-10-07)
+  https://prismix.dev/news/c153ead68f31
+- [Prismix AI] Outstreaming Taylor Swift is easy with 10K bots and AI songs, fraudster admits  (2026-10-07)
+  https://prismix.dev/news/29f74145ae18
+- [Google News] Investing in America: AI companies fuel economic growth, but will they be accountable for rogue agents? - NEWS10 ABC  (Wed, 07 Oc)
+  https://news.google.com/rss/articles/CBMi6AFBVV95cUxQd3pJLXhQMFl0M2h4SnJyeXh2akZLdVNQemNhbVZFYXFES3hYZkhiUmlFZTFhZm5tSGFTcWpKdnRvR3JtUVpiQy1aeklwdWlPWmd2SHdfbGo0blp2ajdrRmtxWjQ1VmQ0Y205NXN1b29ocTd5UHNmcUNTOFczeFY5M0ItUFZFN1hCUkVFUWRsd3I2cUpPR0E0STJlTDZaZGdqSFhjVGJ3NzRqdDFFeEhmb3hISGFXQk1UOUNBRGVVLV9tRzBpNVo5WEtHZG81MnIwTEFsMEJyLVlzOVc1SVlNVFM5a29OUHhG0gHoAUFVX3lxTFB3ekkteFAwWXQzaHhKcnJ5eHZqRkt1U1B6Y2FtVkVhcURLeFhmSGJSaUVlMWFmbm1IYVNxakp2dG9Hcm1RWmJDLVp6SXB1aU9aZ3ZId19sajRuWnZqN2tGa3FaNDVWZDRjbTk1c3Vvb2hxN3lQc2ZxQ1M4VzN4VjkzQi1QVkU3WEJSRUVRZGx3cjZxSk9HQTRJMmVMNlpkZ2pIWGNUYnc3NGp0MUV4SGZveEhIYVdCTVQ5Q0FEZVUtX21HMGk1WjlYS0dkbzUycjBMQWwwQnItWXM5VzVJWU1UUzlrb05QeEY
 
 ## 4. Early-warning watchlist (be first to know)
 
