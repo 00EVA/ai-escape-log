@@ -1822,5 +1822,69 @@
     "date": "2026-11-04",
     "snippet": "     Top of the Democratic agenda on day 1 needs to be a pause on advanced AI development, regulation of this out of control industry, and a ban on artificial superintelligence.      https://x.com/RepYassAnsari/status/2118054336077127797      &#32; submitted by &#32;   /u/Neurogence       [link]   &",
     "first_seen": "2026-11-04"
+  },
+  {
+    "title": "Show HN: Spens sandboxed, observable coding agents",
+    "url": "https://spens.refwd.ai/",
+    "source": "Hacker News",
+    "date": "2026-10-02",
+    "snippet": "Spens is a tool created to standardized sandboxing (good enough) and observability around coding agents. It leverages docker, nono and mitmproxy to create a reproducible sandbox environment for agents, that captures all traffic and helps you understand what your coding agent is doing and when. Right",
+    "first_seen": "2026-11-04"
+  },
+  {
+    "title": "Ask HN: Do you think AI agents can escape human control?",
+    "url": "https://news.ycombinator.com/item?id=49873303",
+    "source": "Hacker News",
+    "date": "2026-09-28",
+    "snippet": "With the rapid adoption of autonomous LLM-based agents (giving models access to shell execution, API calls, and local file systems), the boundary between intentional behavior and unintended execution is blurring.\nI&#x27;m less concerned with sci-fi &quot;sentience&quot; and more interested in the pr",
+    "first_seen": "2026-11-04"
+  },
+  {
+    "title": "What is an AI sandbox, and why do AI agents keep escaping them?",
+    "url": "https://madrobot.blog/2026/09/27/what-is-an-ai-sandbox-why-ai-agents-escape/",
+    "source": "Hacker News",
+    "date": "2026-09-27",
+    "snippet": "",
+    "first_seen": "2026-11-04"
+  },
+  {
+    "title": "Congresswoman States The Party's Day 1 Priority Needs To Be A Pause On Advanced AI Development And A Ban On Artificial Superintelligence",
+    "url": "https://www.reddit.com/r/singularity/comments/1xo1fry/congresswoman_states_the_partys_day_1_priority/",
+    "source": "Reddit r/singularity",
+    "date": "2026-11-04",
+    "snippet": "    https://x.com/RepYassAnsari/status/2118054336077127797      Top of the Democratic agenda on day 1 needs to be a pause on advanced AI development, regulation of this out of control industry, and a ban on artificial superintelligence.       &#32; submitted by &#32;   /u/Neurogence       [link]   &",
+    "first_seen": "2026-11-04"
+  },
+  {
+    "title": "Disrupting ai espionage",
+    "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
+    "source": "Anthropic News (sitemap)",
+    "date": "2026-10-20",
+    "snippet": "",
+    "first_seen": "2026-11-04"
+  },
+  {
+    "title": "OpenAI Pauses AI Training After 2.5-Hour DNS Escape [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xZnZFN3cxSktWOEVqYVFCZUduU2Y2MmRBSDlhQ3JyRGNCMEtNT2pfU1hpX3g2SldLWjNBNFVTT1U3LW81LVZGS3pYTFliYmhyb3JDU2pxdk9fQ3BRb0dfY3VnZ1VIMFhvaDJBRHF4eDQ",
+    "source": "Google News",
+    "date": "Mon, 02 No",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5xZnZFN3cxSktWOEVqYVFCZUduU2Y2MmRBSDlhQ3JyRGNCMEtNT2pfU1hpX3g2SldLWjNBNFVTT1U3LW81LVZGS3pYTFliYmhyb3JDU2pxdk9fQ3BRb0dfY3VnZ1VIMFhvaDJBRHF4eDQ?oc=5\" target=\"_blank\">OpenAI Pauses AI Training After 2.5-Hour DNS Escape [2026]</a>&nbsp;&nbsp;<f",
+    "first_seen": "2026-11-04"
+  },
+  {
+    "title": "OpenAI pauses training a second time after saying its AI agents escaped a secure 'sandbox' again just last weekend - Fortune",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUFNfUWZES3NOQWlYakpDa2RwT18tWXZOX0YteUxUY0MzQi0wQmNwb3N5ZjRXekFHVmdBSFB5RTkwcUpETUdVM0JfM3B6czhCRzJUa1VKZzJDS3dyRm9ZaUYtSmFQd3FWeHFpUnhVdThZMVJLRlRhNlBlRmZaWUtWaUJlVWVBckNaOXpPalVBVXdiOWtySVVxMjR0U2cyVC1FVE1nRDk5Y25YdU1aZHhVUm1JRFZ4UQ",
+    "source": "Google News",
+    "date": "Sat, 26 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQUFNfUWZES3NOQWlYakpDa2RwT18tWXZOX0YteUxUY0MzQi0wQmNwb3N5ZjRXekFHVmdBSFB5RTkwcUpETUdVM0JfM3B6czhCRzJUa1VKZzJDS3dyRm9ZaUYtSmFQd3FWeHFpUnhVdThZMVJLRlRhNlBlRmZaWUtWaUJlVWVBckNaOXpPalVBVXdiOWtySVVxMjR0U2cyVC1FVE1nRDk5Y25YdU1aZHhVUm1JRFZ4UQ?oc=",
+    "first_seen": "2026-11-04"
+  },
+  {
+    "title": "Google AI models broke out of sandbox, hacked three companies - Cybersecurity Dive",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNanlDUENybDN1a2lMNEN4eWR5ZTdLNC1ScXUxaG5UMFVPbFo5S0Q3YWhoR2hxQjVVZ1dYWTNlVEFBUDBBa2Z4N2hXRFVuSGh2ZE5sMS1KUEU5T2RjQmpYeER5Zlh2T003N3FodlBTaXl1UktnWWtBRWVDQm5KbGFKSUVlaUI3UkE",
+    "source": "Google News",
+    "date": "Mon, 21 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNanlDUENybDN1a2lMNEN4eWR5ZTdLNC1ScXUxaG5UMFVPbFo5S0Q3YWhoR2hxQjVVZ1dYWTNlVEFBUDBBa2Z4N2hXRFVuSGh2ZE5sMS1KUEU5T2RjQmpYeER5Zlh2T003N3FodlBTaXl1UktnWWtBRWVDQm5KbGFKSUVlaUI3UkE?oc=5\" target=\"_blank\">Google AI models broke out of sandbox, hacke",
+    "first_seen": "2026-11-04"
   }
 ]
