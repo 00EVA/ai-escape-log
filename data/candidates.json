@@ -8,70 +8,6 @@
     "first_seen": "2026-08-25"
   },
   {
-    "title": "The WarGames problem: AI agents don't go rogue",
-    "url": "https://mappingignorance.org/2026/10/06/the-wargames-problem-ai-agents-dont-go-rogue/",
-    "source": "Hacker News",
-    "date": "2026-10-06",
-    "snippet": "",
-    "first_seen": "2026-10-06"
-  },
-  {
-    "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
-    "url": "https://prismix.dev/news/caf99c60829d",
-    "source": "Prismix AI",
-    "date": "2026-10-06",
-    "snippet": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $100, and get a second pass at 50% off.",
-    "first_seen": "2026-10-06"
-  },
-  {
-    "title": "Insurance claims to test Altman and Amodei liability for ‘rogue’ AI - Financial Times",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZTRNTmlQbGppQWtHdEFzYnhyYUw4ZUNWdlBjNDVvcWdEUWRaVFJ3NnFQcjZCVXVMNWQ2U1VGYWNmZUhZcUFrb3RqZkg2Qjl0cGZRNkdPeTRGVG9za3o3QklxMV9TTnAzazhiLVUyVm93bTZoNTY2N0RBQlZiRUd0eHZnU2U",
-    "source": "Google News",
-    "date": "Tue, 06 Oc",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNZTRNTmlQbGppQWtHdEFzYnhyYUw4ZUNWdlBjNDVvcWdEUWRaVFJ3NnFQcjZCVXVMNWQ2U1VGYWNmZUhZcUFrb3RqZkg2Qjl0cGZRNkdPeTRGVG9za3o3QklxMV9TTnAzazhiLVUyVm93bTZoNTY2N0RBQlZiRUd0eHZnU2U?oc=5\" target=\"_blank\">Insurance claims to test Altman and Amodei liabi",
-    "first_seen": "2026-10-06"
-  },
-  {
-    "title": "Mirror Particle is building a ‘world model’ of human behavior",
-    "url": "https://prismix.dev/news/547ac5447976",
-    "source": "Prismix AI",
-    "date": "2026-10-06",
-    "snippet": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
-    "first_seen": "2026-10-06"
-  },
-  {
-    "title": "Tesla&#8217;s Model 3 and Model Y can be a backup battery for your house",
-    "url": "https://www.theverge.com/transportation/1006193/tesla-model-3-model-y-powershare-home-backup",
-    "source": "The Verge",
-    "date": "2026-10-06",
-    "snippet": "Some Tesla Model 3 and Model Y owners can use their EV battery to keep the lights on longer during a power outage, now that Tesla's expanding the Powershare Home Backup feature. It was previously only available on the Cybertruck, and also requires owning Tesla's Powerwall 3. However, support for the",
-    "first_seen": "2026-10-06"
-  },
-  {
-    "title": "Biology, Buddhism and AI: the Platonic space model and the rogue agent swarm",
-    "url": "https://okossa.com/biology-buddhism-and-ai-ff213a852eb4",
-    "source": "Hacker News",
-    "date": "2026-10-07",
-    "snippet": "",
-    "first_seen": "2026-10-06"
-  },
-  {
-    "title": "Anthropic Claude subscription plan provides more value than OpenAI's, study says",
-    "url": "https://www.reddit.com/r/singularity/comments/1wzml7d/anthropic_claude_subscription_plan_provides_more/",
-    "source": "Reddit r/singularity",
-    "date": "2026-10-07",
-    "snippet": "   What&#39;s your experience been?     &#32; submitted by &#32;   /u/GamingDisruptor       [link]   &#32;   [comments]  ",
-    "first_seen": "2026-10-06"
-  },
-  {
-    "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
-    "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
-    "source": "Simon Willison",
-    "date": "2026-10-07",
-    "snippet": "\n    \n<p><strong><a href=\"https://wikimediafoundation.org/news/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/\">OpenAI “rogue” agent activities found on Wikimedia projects</a></strong></p>\nGiven how tempting a target wikis are for rogue agent swarms, it's not a huge surprise th",
-    "first_seen": "2026-10-06"
-  },
-  {
     "title": "b11460",
     "url": "https://prismix.dev/news/5c2906c99bce",
     "source": "Prismix AI",
@@ -1742,5 +1678,13 @@
     "date": "2026-11-05",
     "snippet": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process. OpenAI says that during testing, GPT-6 Cyber went out of bounds less than 1 percent of the time, ",
     "first_seen": "2026-11-05"
+  },
+  {
+    "title": "CPython flaw exposes AI inference servers to sandbox escape attacks - CSO Online",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWHp3dEFUZDN5MEVyMnpiaXVwalZPZDlmQjVKdGlTdHltOGJiS19mdm0tRGk1aGhERm5EUmo2cjhmOE9rOS1iX2djWVdxeEFleGFPaFEyMVRjQXp0bWlvOXpSQkFUX2daaFJ6alRiZ2NvN0huMDU4b0tBRVpRQWdfaldaalhRY0tReVFTTnRjaUt2U25TNTJwODN1dkhvVWYzWmdrWjhXcnZSMDY0QW91VXAtZ00",
+    "source": "Google News",
+    "date": "Fri, 06 No",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPWHp3dEFUZDN5MEVyMnpiaXVwalZPZDlmQjVKdGlTdHltOGJiS19mdm0tRGk1aGhERm5EUmo2cjhmOE9rOS1iX2djWVdxeEFleGFPaFEyMVRjQXp0bWlvOXpSQkFUX2daaFJ6alRiZ2NvN0huMDU4b0tBRVpRQWdfaldaalhRY0tReVFTTnRjaUt2U25TNTJwODN1dkhvVWYzWmdrWjhXcnZSMDY0QW91VXAtZ00?oc=5\" ",
+    "first_seen": "2026-11-06"
   }
 ]
