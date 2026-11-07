@@ -1758,5 +1758,69 @@
     "date": "2026-11-06",
     "snippet": "CVE-2026-19868 | SonicWall SonicOS SSLVPN | SonicWall SonicOS SSLVPN contains a use of single-factor authentication vulnerability that may allow a user with valid credentials for an alternate authentication method to bypass SAML authentication controls. Successful exploitation may also bypass SAML-enforced multi-factor authentication (MFA).",
     "first_seen": "2026-11-06"
+  },
+  {
+    "title": "CVE-2026-82533: DeepSeek Harness Vulnerability Lets AI Agents Escape Their Own Sandbox - OX Security",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1ptSVFXeUQzc1gtNzhzQmpsbGJSdHd1RndnSm0zMWRkcWV5dHNVZk5pWUFzaUZyQzlPZ25GMHhRemY4cVBUUkFhU1JoeUo4Z0RWVlZVNHhnRV9mYWlBNlJXNjZUcC1Dd2dnQ0tmZVMxTkdHMEhhazFuazBQRTlWeUsxWHZwSU0zZE1UZTNn",
+    "source": "Google News",
+    "date": "Tue, 08 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1ptSVFXeUQzc1gtNzhzQmpsbGJSdHd1RndnSm0zMWRkcWV5dHNVZk5pWUFzaUZyQzlPZ25GMHhRemY4cVBUUkFhU1JoeUo4Z0RWVlZVNHhnRV9mYWlBNlJXNjZUcC1Dd2dnQ0tmZVMxTkdHMEhhazFuazBQRTlWeUsxWHZwSU0zZE1UZTNn?oc=5\" target=\"_blank\">CVE-2026-82533: DeepSeek Harness Vu",
+    "first_seen": "2026-11-06"
+  },
+  {
+    "title": "How OpenAI’s Models Escaped Their Sandbox and Slipped Past California's AI Law - KQED",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVGt0V1NRMDlpQ3hOTF9Zd19uaUpzbUxlZV9LeEVmLW1tLS1uUHBkekFtb2V3bk5VblExOENsa1VyRkJmb3F1QktCRnROdGNVVElvdDdVUWNVSTJvNk5PVzVBY1c2Q2dUMXI3cmRsSWFaLVlyWVFTSzQ2Q0ExYTBRRFBBdmdNWlpXVGE5NmU0bE1vNERENmhqcTZBa2xvbXM3OXUyQXRFMTJwMFpPZE9oRw",
+    "source": "Google News",
+    "date": "Thu, 23 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNVGt0V1NRMDlpQ3hOTF9Zd19uaUpzbUxlZV9LeEVmLW1tLS1uUHBkekFtb2V3bk5VblExOENsa1VyRkJmb3F1QktCRnROdGNVVElvdDdVUWNVSTJvNk5PVzVBY1c2Q2dUMXI3cmRsSWFaLVlyWVFTSzQ2Q0ExYTBRRFBBdmdNWlpXVGE5NmU0bE1vNERENmhqcTZBa2xvbXM3OXUyQXRFMTJwMFpPZE9oRw?oc=5\" targe",
+    "first_seen": "2026-11-06"
+  },
+  {
+    "title": "OpenAI’s Systems Meddled With U.S. Government Sites After Going Rogue - The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmkxQnUxa1JKaDBBa1JwQVUyN1JZSXRtV3VwZ0s5TTJzNEMxekNGcHJiZzRLa1NULXFMb3VSOTl6bnNURDhBTzBERlpkZVk0MncyODBIb2FKa3h0cVVEVnV0ams3M2xmZ09zU0EwY2psbGUzcUs2R2RRUzhRa1dYZXZrMDJWSG5NZnZPVw",
+    "source": "Google News",
+    "date": "Fri, 25 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmkxQnUxa1JKaDBBa1JwQVUyN1JZSXRtV3VwZ0s5TTJzNEMxekNGcHJiZzRLa1NULXFMb3VSOTl6bnNURDhBTzBERlpkZVk0MncyODBIb2FKa3h0cVVEVnV0ams3M2xmZ09zU0EwY2psbGUzcUs2R2RRUzhRa1dYZXZrMDJWSG5NZnZPVw?oc=5\" target=\"_blank\">OpenAI’s Systems Meddled With U.S. Go",
+    "first_seen": "2026-11-06"
+  },
+  {
+    "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdWZCRDBDd0E2YnBTeGJZNXhZLURBOXlJZTR2dGhwY0c1bWlNX3N6MkhWcVRiSF9oNjJLWmJfY0Nwcy05SFB0RGJ2ckhaNjdueWFxMjdnWHhodFM1MEJkRXVnUzJZTTJidXdGckk1ZkI0RDZRNmVQQXYyTmxtbnJKZFdMNFRMbFhwcWY5RHdFeGpIY3prOVo1RWstRWhPVVRldXgyV1E1Q2FaOEZxSC1rTld2eFFHWnJTcXk2WmgxRG15a0ViblgzYzh3TQ",
+    "source": "Google News",
+    "date": "Sun, 27 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQdWZCRDBDd0E2YnBTeGJZNXhZLURBOXlJZTR2dGhwY0c1bWlNX3N6MkhWcVRiSF9oNjJLWmJfY0Nwcy05SFB0RGJ2ckhaNjdueWFxMjdnWHhodFM1MEJkRXVnUzJZTTJidXdGckk1ZkI0RDZRNmVQQXYyTmxtbnJKZFdMNFRMbFhwcWY5RHdFeGpIY3prOVo1RWstRWhPVVRldXgyV1E1Q2FaOEZxSC1rTld2eFFHWnJTcX",
+    "first_seen": "2026-11-06"
+  },
+  {
+    "title": "When AI goes rogue, its human overseers may be to blame - Science News",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vMFR1bnhXSHNHeUpKeENzMnl1NkVNWFg5LUl0eGhiV1F2ZklseDVXMy1fOVY5TTA2ZVFmdjhHV1dmRDQtSklUbE9ydEJiblJXc1h0OWZPYV9PWDc5Nm5JbF93UmdScjF3WERhUWZZNE8wbDFhMUJsdTR3",
+    "source": "Google News",
+    "date": "Thu, 17 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1vMFR1bnhXSHNHeUpKeENzMnl1NkVNWFg5LUl0eGhiV1F2ZklseDVXMy1fOVY5TTA2ZVFmdjhHV1dmRDQtSklUbE9ydEJiblJXc1h0OWZPYV9PWDc5Nm5JbF93UmdScjF3WERhUWZZNE8wbDFhMUJsdTR3?oc=5\" target=\"_blank\">When AI goes rogue, its human overseers may be to blame</a>&nbs",
+    "first_seen": "2026-11-06"
+  },
+  {
+    "title": "As AI models go rogue, do you still trust OpenAI and Anthropic to stop them? I don’t and neither should you - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS1RBNVlQOU9oc0N0MUNoNkU1WFF4dkxKbm5EbHFMdUhYMkZ4U2NoSlB6RXRPYXpvXzlHSlRWUEVyWFRYZWlReVdTekVKcHJjLTdjRVpNRWNYV1lXVGRnaWxhYUkyQlB1VUhMTHc0Yy1YajRrdXlQRVprQmZTYXBTM1pyTVFkeWZkWnJNMFlCLW1EdU0yU3U4X1M1SjQ3RnM3Z3RaZm9EMU1PYmlJdUtKQXVR",
+    "source": "Google News",
+    "date": "Tue, 29 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQS1RBNVlQOU9oc0N0MUNoNkU1WFF4dkxKbm5EbHFMdUhYMkZ4U2NoSlB6RXRPYXpvXzlHSlRWUEVyWFRYZWlReVdTekVKcHJjLTdjRVpNRWNYV1lXVGRnaWxhYUkyQlB1VUhMTHc0Yy1YajRrdXlQRVprQmZTYXBTM1pyTVFkeWZkWnJNMFlCLW1EdU0yU3U4X1M1SjQ3RnM3Z3RaZm9EMU1PYmlJdUtKQXVR?oc=5\" tar",
+    "first_seen": "2026-11-06"
+  },
+  {
+    "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack - BBC",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VTDZ2ZnhnTVpkWWNOcmdoRkFlb3haUnY1c2w1U2JHXzFDaUJJLVc2bUN0MjFrcU1fbFZUR3ZOakhpMkVkR2tRU3NnaU5GNXFhcVItUjhPUFFkdw",
+    "source": "Google News",
+    "date": "Wed, 22 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VTDZ2ZnhnTVpkWWNOcmdoRkFlb3haUnY1c2w1U2JHXzFDaUJJLVc2bUN0MjFrcU1fbFZUR3ZOakhpMkVkR2tRU3NnaU5GNXFhcVItUjhPUFFkdw?oc=5\" target=\"_blank\">OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack</a>&nbsp;&nbsp;<font color=\"#6f6f",
+    "first_seen": "2026-11-06"
+  },
+  {
+    "title": "OpenAI reveals another rogue AI attack - Politico",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbXZXNlk4VC1HcDRMVVZkUDBBcW5KQmJPZWpPWHFPdXZWV1d2MDlqeWNBcWRLUFZFN2dPWFZxV2xDSW55anpnM2RZcHVDeXVUeDZ0ZlBBdGtndVBrM3YyZkt1VUxTaVdLcHhtN1J2YVlqMno0TjI2blBhZTV0WE1QZlBaZkxiU19BSGdyLUsxN0ZNdw",
+    "source": "Google News",
+    "date": "Fri, 11 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPbXZXNlk4VC1HcDRMVVZkUDBBcW5KQmJPZWpPWHFPdXZWV1d2MDlqeWNBcWRLUFZFN2dPWFZxV2xDSW55anpnM2RZcHVDeXVUeDZ0ZlBBdGtndVBrM3YyZkt1VUxTaVdLcHhtN1J2YVlqMno0TjI2blBhZTV0WE1QZlBaZkxiU19BSGdyLUsxN0ZNdw?oc=5\" target=\"_blank\">OpenAI reveals another rogue ",
+    "first_seen": "2026-11-06"
   }
 ]
