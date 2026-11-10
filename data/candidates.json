@@ -8,62 +8,6 @@
     "first_seen": "2026-08-25"
   },
   {
-    "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-    "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo",
-    "source": "Hacker News",
-    "date": "2026-10-10",
-    "snippet": "",
-    "first_seen": "2026-10-10"
-  },
-  {
-    "title": "Quoting The New York Times",
-    "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
-    "source": "Simon Willison",
-    "date": "2026-10-10",
-    "snippet": "\n    <blockquote cite=\"https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html\"><p>Anthropic detailed the activity of its A.I. agents in <a href=\"https://www.anthropic.com/research/investigating-unintended-model-actions\">a blog post</a> on Friday, without naming the targeted web",
-    "first_seen": "2026-10-10"
-  },
-  {
-    "title": "Anthropic is cutting off its internal evaluations from the internet",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-    "source": "The Verge",
-    "date": "2026-10-10",
-    "snippet": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led t",
-    "first_seen": "2026-10-10"
-  },
-  {
-    "title": "b11550",
-    "url": "https://prismix.dev/news/cdec551026cb",
-    "source": "Prismix AI",
-    "date": "2026-10-10",
-    "snippet": "cmake(s390x): disable z17 target for unsupported compilers ( #30297 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/54655455 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISABLED macOS Intel…",
-    "first_seen": "2026-10-10"
-  },
-  {
-    "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-    "url": "https://www.bbc.com/news/articles/cqkg50j1yd5lo",
-    "source": "Hacker News",
-    "date": "2026-10-11",
-    "snippet": "",
-    "first_seen": "2026-10-10"
-  },
-  {
-    "title": "The AI escape is a red herring. The real problem is we can't tell a good sandbox from a bad one - TechRadar",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLWs3d3M1bFJUQ0N1bmpjQ3pRc3hJMnp2aTlNc2hRWUcxcXhLZUVhcVVnNWtmRVBfS3lWYUFuU3JKT1BDRWhfcm9zVU9ud2ZJNkpKOTNWNnVEMDdKUmtWeEZVdV9yb2c4MG8tZ2RmZjktLXhycWdqaG1LMHU1OThsU1pHYmI5Y1JReHF0cWtSTHZyZXZldGVtRHhfRTF3bThmOTBqcW1VUlh3MHNlY3FSdS1rdjhNT1M1eHc",
-    "source": "Google News",
-    "date": "Wed, 07 Oc",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNLWs3d3M1bFJUQ0N1bmpjQ3pRc3hJMnp2aTlNc2hRWUcxcXhLZUVhcVVnNWtmRVBfS3lWYUFuU3JKT1BDRWhfcm9zVU9ud2ZJNkpKOTNWNnVEMDdKUmtWeEZVdV9yb2c4MG8tZ2RmZjktLXhycWdqaG1LMHU1OThsU1pHYmI5Y1JReHF0cWtSTHZyZXZldGVtRHhfRTF3bThmOTBqcW1VUlh3MHNlY3FSdS1rdjhNT1M1eH",
-    "first_seen": "2026-10-10"
-  },
-  {
-    "title": "Anthropic AI Model Went Rogue, Submitted Fake Unsolved Murder Tip - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdC1Yb1VaRzVmWnNoRmpLRFF4cWtUZXNyMjYtVzItMEJIYWhGWUpsUXRtWEJmaDVpZ1lGSXE3WGFYWU94cUFwcTRZZnQzVFBsaktQVjQ3WmJMMFVyQnlTS3NtUEMzVkY1WmNoU1dmdW1LWVB5YXJ1amROdEVIWVRhSFNLdldjVkMwcVRjaHJoOGVwVFBDbmxCdHlqTGIwc2px",
-    "source": "Google News",
-    "date": "Sat, 10 Oc",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOdC1Yb1VaRzVmWnNoRmpLRFF4cWtUZXNyMjYtVzItMEJIYWhGWUpsUXRtWEJmaDVpZ1lGSXE3WGFYWU94cUFwcTRZZnQzVFBsaktQVjQ3WmJMMFVyQnlTS3NtUEMzVkY1WmNoU1dmdW1LWVB5YXJ1amROdEVIWVRhSFNLdldjVkMwcVRjaHJoOGVwVFBDbmxCdHlqTGIwc2px?oc=5\" target=\"_blank\">Anthropic A",
-    "first_seen": "2026-10-10"
-  },
-  {
     "title": "Feeling Overwhelmed and Anxious/Excited",
     "url": "https://www.reddit.com/r/singularity/comments/1x3508x/feeling_overwhelmed_and_anxiousexcited/",
     "source": "Reddit r/singularity",

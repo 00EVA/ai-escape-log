@@ -1,6 +1,6 @@
-# AI Incident Briefing — 2026-11-09
+# AI Incident Briefing — 2026-11-10
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 189_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 182_
 
 ## 1. Latest verified incidents
 
@@ -11,16 +11,10 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=189)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=182)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [Hacker News] Rogue Anthropic AI agent gave police fake tip in unsolved murder case  (2026-10-10)
-  https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo
-- [Hacker News] Rogue Anthropic AI agent gave police fake tip in unsolved murder case  (2026-10-11)
-  https://www.bbc.com/news/articles/cqkg50j1yd5lo
-- [Google News] Anthropic AI Model Went Rogue, Submitted Fake Unsolved Murder Tip - WSJ  (Sat, 10 Oc)
-  https://news.google.com/rss/articles/CBMioAFBVV95cUxOdC1Yb1VaRzVmWnNoRmpLRFF4cWtUZXNyMjYtVzItMEJIYWhGWUpsUXRtWEJmaDVpZ1lGSXE3WGFYWU94cUFwcTRZZnQzVFBsaktQVjQ3WmJMMFVyQnlTS3NtUEMzVkY1WmNoU1dmdW1LWVB5YXJ1amROdEVIWVRhSFNLdldjVkMwcVRjaHJoOGVwVFBDbmxCdHlqTGIwc2px
 - [Google News] Rogue Anthropic AI agent gave police fake tip in unsolved murder case - BBC  (Sat, 10 Oc)
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE12Zjh2Z2tETEw5MzJ4VEZnV2wxUVFCY09JWTVhNEktZDZSR3ZPN1VVaWkzblc1WkJXeDJ4VmNvbUIxUFBMUGpIUkJzRVJSRGJHaWpTYk9LYklpenM
 - [Google News] Anthropic AI model went rogue, submitted fake tip to police - The Star  (Mon, 12 Oc)
@@ -37,6 +31,12 @@ If one of these hits you: AI crime triage: is the AI the actor (rogue agent/auto
   https://news.google.com/rss/articles/CBMimgFBVV95cUxPc25LM29xSHBKRWVQQjlxeDIyWnlHamNaTWpZclRBOTRxZHptTDVMMUJYb2w3LVBmdXNyMmtTMEFKSmEwdUxsRkFYRmIwdHh2elUtMTNqd1Yxb1VkckJLbHFnMWo4T1YwUWNMU0V1aGxWR3paUjJRQU5Iakc4MVA3X1VIRFFMUHQ0MEZIYjB6T0xnc29JNVdFRlpn
 - [Google News] There ought to be a law against rogue AI, but there isn’t. Why? - The Boston Globe  (Mon, 12 Oc)
   https://news.google.com/rss/articles/CBMigAFBVV95cUxNVlV2YVZPci12bUlhdDFsbHJOcS1iQl9nZWc0OTRfbjlvNElhYUVlb0dDaWZnV1VpaHJPQU1NUkNhVk9kQm1jMWFTb0dJTmJMaGFZc20zWFppRHppbHZlZWV2TVRxVXhna3JuRWZUVjVVZWduc0E3MjZMQms3VnlQZg
+- [Google News] Zscaler Report Finds AI-Assisted Ransomware Attacks Drive Massive Data Theft and $328 Million in Extortion Payments - Cybersecurity Insiders  (Sun, 11 Oc)
+  https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOVg5Q2ZFcnd1UzRaNUNOQ2FoR25jR1dmVDBVX010Nlo1S1JOTmlycmFZSVp6VDdJN0hqZEh6eE9TdXNPOEZIczE4dFItNllsbmZCUFVKaGdsVkR2SjBoNEdYcm1VYVRYXzNKb1RoSGNNWV9VcHFGVnZib3JRUjh2OF8zS3gtS2JSaEh0RkRHLTktajRfRDFadVBqQlB6clZMTk5NS01na29nTGVzWnBIeGl2OTJXeEJTVGN3Qkh0QUlkeWVrM193WHZJTEdxcmgwVEU4WU1YSm1iMXRXdV8zUmxWdWkxcXBITFE
+- [Hacker News] "Rogue agents find a way out": AI communes with evil.com after bypassing sandbox  (2026-10-13)
+  https://www.machine.news/rogue-agents-will-always-find-a-way-out-ai-communes-with-evil-com-after-bypassing-sandbox/
+- [Google News] Sandbox vulnerability gives rogue AI agents a path to escape and leak data, research says - The Record from Recorded Future News  (Tue, 13 Oc)
+  https://news.google.com/rss/articles/CBMiggFBVV95cUxORkYxYTZ5c05SLVZPVjVITTNGQ1E0TWwxWmQ0bDljUUx3YVBmdjhUZ0RvUVd5eUJPVHFMSXFJb2N0Q0daUmZLZUpUdGFsdW9NOGlIRGVQNFNlMHpGMmRsSXNRYVVQM0VoR2ZiT3FhRV9MNTNGRzdoY2E0QjIyMW81QU5R
 
 ## 4. Early-warning watchlist (be first to know)
 
