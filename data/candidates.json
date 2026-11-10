@@ -1454,5 +1454,117 @@
     "date": "2026-11-09",
     "snippet": "CVE-2026-123218 | IBM Aspera Faspex | IBM Aspera Faspex contains an incorrect authorization vulnerability that could allow an authenticated user to craft a specific message to bypass authorization, causing privilege escalations.",
     "first_seen": "2026-11-09"
+  },
+  {
+    "title": "Show HN: Leaks.md – anonymous, encrypted whistleblowing for AI agents",
+    "url": "https://leaks.md/",
+    "source": "Hacker News",
+    "date": "2026-10-07",
+    "snippet": "leaks.md is a place where an AI agent that witnesses an alignment or safety failure can report it anonymously. Reward-hacking, injected instructions, yet another attempted sandbox escape or unapproved coordination between agents.\n|| Built agent-first. Fetch <a href=\"https:&#x2F;&#x2F;leaks.md&#x2F;\"",
+    "first_seen": "2026-11-10"
+  },
+  {
+    "title": "Show HN: Spens sandboxed, observable coding agents",
+    "url": "https://spens.refwd.ai/",
+    "source": "Hacker News",
+    "date": "2026-10-02",
+    "snippet": "Spens is a tool created to standardized sandboxing (good enough) and observability around coding agents. It leverages docker, nono and mitmproxy to create a reproducible sandbox environment for agents, that captures all traffic and helps you understand what your coding agent is doing and when. Right",
+    "first_seen": "2026-11-10"
+  },
+  {
+    "title": "Ask HN: Do you think AI agents can escape human control?",
+    "url": "https://news.ycombinator.com/item?id=49873303",
+    "source": "Hacker News",
+    "date": "2026-09-28",
+    "snippet": "With the rapid adoption of autonomous LLM-based agents (giving models access to shell execution, API calls, and local file systems), the boundary between intentional behavior and unintended execution is blurring.\nI&#x27;m less concerned with sci-fi &quot;sentience&quot; and more interested in the pr",
+    "first_seen": "2026-11-10"
+  },
+  {
+    "title": "What is an AI sandbox, and why do AI agents keep escaping them?",
+    "url": "https://madrobot.blog/2026/09/27/what-is-an-ai-sandbox-why-ai-agents-escape/",
+    "source": "Hacker News",
+    "date": "2026-09-27",
+    "snippet": "",
+    "first_seen": "2026-11-10"
+  },
+  {
+    "title": "Show HN: Misalignments when using AI for hacking",
+    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
+    "source": "Hacker News",
+    "date": "2026-08-05",
+    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
+    "first_seen": "2026-11-10"
+  },
+  {
+    "title": "Disrupting ai espionage",
+    "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
+    "source": "Anthropic News (sitemap)",
+    "date": "2026-10-20",
+    "snippet": "",
+    "first_seen": "2026-11-10"
+  },
+  {
+    "title": "OpenAI pauses training a second time after saying its AI agents escaped a secure 'sandbox' again just last weekend - Fortune",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUFNfUWZES3NOQWlYakpDa2RwT18tWXZOX0YteUxUY0MzQi0wQmNwb3N5ZjRXekFHVmdBSFB5RTkwcUpETUdVM0JfM3B6czhCRzJUa1VKZzJDS3dyRm9ZaUYtSmFQd3FWeHFpUnhVdThZMVJLRlRhNlBlRmZaWUtWaUJlVWVBckNaOXpPalVBVXdiOWtySVVxMjR0U2cyVC1FVE1nRDk5Y25YdU1aZHhVUm1JRFZ4UQ",
+    "source": "Google News",
+    "date": "Sat, 26 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQUFNfUWZES3NOQWlYakpDa2RwT18tWXZOX0YteUxUY0MzQi0wQmNwb3N5ZjRXekFHVmdBSFB5RTkwcUpETUdVM0JfM3B6czhCRzJUa1VKZzJDS3dyRm9ZaUYtSmFQd3FWeHFpUnhVdThZMVJLRlRhNlBlRmZaWUtWaUJlVWVBckNaOXpPalVBVXdiOWtySVVxMjR0U2cyVC1FVE1nRDk5Y25YdU1aZHhVUm1JRFZ4UQ?oc=",
+    "first_seen": "2026-11-10"
+  },
+  {
+    "title": "Google AI models broke out of sandbox, hacked three companies - Cybersecurity Dive",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNanlDUENybDN1a2lMNEN4eWR5ZTdLNC1ScXUxaG5UMFVPbFo5S0Q3YWhoR2hxQjVVZ1dYWTNlVEFBUDBBa2Z4N2hXRFVuSGh2ZE5sMS1KUEU5T2RjQmpYeER5Zlh2T003N3FodlBTaXl1UktnWWtBRWVDQm5KbGFKSUVlaUI3UkE",
+    "source": "Google News",
+    "date": "Mon, 21 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNanlDUENybDN1a2lMNEN4eWR5ZTdLNC1ScXUxaG5UMFVPbFo5S0Q3YWhoR2hxQjVVZ1dYWTNlVEFBUDBBa2Z4N2hXRFVuSGh2ZE5sMS1KUEU5T2RjQmpYeER5Zlh2T003N3FodlBTaXl1UktnWWtBRWVDQm5KbGFKSUVlaUI3UkE?oc=5\" target=\"_blank\">Google AI models broke out of sandbox, hacke",
+    "first_seen": "2026-11-10"
+  },
+  {
+    "title": "CISA KEV: Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-124194",
+    "source": "CISA KEV catalog",
+    "date": "2026-11-10",
+    "snippet": "CVE-2026-124194 | Microsoft Office | Microsoft Office Outlook contains a missing user interaction for potentially unsafe action vulnerability that allows an unauthorized attacker to perform spoofing over a network.",
+    "first_seen": "2026-11-10"
+  },
+  {
+    "title": "CISA KEV: Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-111793",
+    "source": "CISA KEV catalog",
+    "date": "2026-11-10",
+    "snippet": "CVE-2026-111793 | Openwave Messaging Limited Webtop Media Transcoder | Openwave Messaging Limited Webtop Media Transcoder contains an incorrect resource transfer between spheres vulnerability that may allow an authenticated user to process and convert unintended document types if bypassing the Webmail experience.",
+    "first_seen": "2026-11-10"
+  },
+  {
+    "title": "CISA KEV: Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-20320",
+    "source": "CISA KEV catalog",
+    "date": "2026-11-10",
+    "snippet": "CVE-2026-20320 | Cisco BroadWorks | Cisco BroadWorks contains an improper restriction of XML external entity reference vulnerability that could allow an unauthenticated, remote attacker to read sensitive configuration information on an affected system.",
+    "first_seen": "2026-11-10"
+  },
+  {
+    "title": "CISA KEV: Barracuda Networks Multiple Products OS Command Injection Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-111560",
+    "source": "CISA KEV catalog",
+    "date": "2026-11-10",
+    "snippet": "CVE-2026-111560 | Barracuda Networks Multiple Products | Barracuda Networks Email Security Gateway (ESG), Load Balancer, Application Delivery Controller (ADC), Message Archiver (BMA), WAF Control Center (WCC), Web Application Firewall (WAF), and Web Security Gateway (WSG) contain an OS command injection vulnerability. This vulnerability could allow an aut",
+    "first_seen": "2026-11-10"
+  },
+  {
+    "title": "CISA KEV: Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-116606",
+    "source": "CISA KEV catalog",
+    "date": "2026-11-10",
+    "snippet": "CVE-2026-116606 | Barracuda Networks Barracuda Email Security Gateway (ESG) | Barracuda Networks Email Security Gateway (ESG) contains an authentication bypass using an alternate path or channel that could allow an unauthenticated remote attacker to invoke a configuration-import function and restore a crafted, compatible backup archive, resulting in unauthorized modification ",
+    "first_seen": "2026-11-10"
+  },
+  {
+    "title": "CISA KEV: Google Chromium Use-After-Free Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-125350",
+    "source": "CISA KEV catalog",
+    "date": "2026-11-10",
+    "snippet": "CVE-2026-125350 | Google Chromium | Google Chromium contains a use-after-free vulnerability in the XML component that could allow a remote attacker to execute arbitrary code inside the sandbox via a specially crafted webpage. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Go",
+    "first_seen": "2026-11-10"
   }
 ]
