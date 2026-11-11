@@ -1,6 +1,6 @@
-# AI Incident Briefing — 2026-11-10
+# AI Incident Briefing — 2026-11-11
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 189_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 184_
 
 ## 1. Latest verified incidents
 
@@ -11,14 +11,10 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=189)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=184)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [Google News] Rogue Anthropic AI agent gave police fake tip in unsolved murder case - BBC  (Sat, 10 Oc)
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE12Zjh2Z2tETEw5MzJ4VEZnV2wxUVFCY09JWTVhNEktZDZSR3ZPN1VVaWkzblc1WkJXeDJ4VmNvbUIxUFBMUGpIUkJzRVJSRGJHaWpTYk9LYklpenM
-- [Google News] Anthropic AI model went rogue, submitted fake tip to police - The Star  (Mon, 12 Oc)
-  https://news.google.com/rss/articles/CBMisAFBVV95cUxOdUE0WVFMc3hhelpLQlN1OFVrUWJ4c3ZueTUxUFVDcEFjdHNYT3UwTk5YdkIxbGlEU0taclEzajFnOW1Ua2M4b1JQaXBwUFg2WFNET3RhTUlzMzFyZGRfSjlSdzJ6RzgwRUY2emFWOXhCOFhITlktS1JZbTJScGxGaG5CSmtRVmFQWnByaFVHUllkT0N5VUZzdUcxRjh4X3BtSmhfOFJYY1E0OUVaN05saA
 - [The Verge] The Yandex outage probably didn’t blitz Russian bots  (2026-10-12)
   https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk
 - [Prismix AI] TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings  (2026-10-12)
@@ -37,6 +33,10 @@ If one of these hits you: AI crime triage: is the AI the actor (rogue agent/auto
   https://www.machine.news/rogue-agents-will-always-find-a-way-out-ai-communes-with-evil-com-after-bypassing-sandbox/
 - [Google News] Sandbox vulnerability gives rogue AI agents a path to escape and leak data, research says - The Record from Recorded Future News  (Tue, 13 Oc)
   https://news.google.com/rss/articles/CBMiggFBVV95cUxORkYxYTZ5c05SLVZPVjVITTNGQ1E0TWwxWmQ0bDljUUx3YVBmdjhUZ0RvUVd5eUJPVHFMSXFJb2N0Q0daUmZLZUpUdGFsdW9NOGlIRGVQNFNlMHpGMmRsSXNRYVVQM0VoR2ZiT3FhRV9MNTNGRzdoY2E0QjIyMW81QU5R
+- [The Verge] Xbox is officially embracing the chaos of AI-powered game ports  (2026-10-13)
+  https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration
+- [Google News] Watch Anthropic AI Model Goes Rogue, Gives Cops a Fake Tip - Bloomberg.com  (Mon, 12 Oc)
+  https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRktSSGFHZndpSmg5MFdJWWM2Z0IwU1dKbEM2YTBuUkQxMXctRFVia0l4ODZhVHhDU2IyRks5NU5rY0txNG14MGRlbEFURWZaMGwzcmlyTFk4QnkyR2RpN1dUREJVMHNPM3MxTUdoZ2NUVU1PanZkeFpjbFZPM2Z4XzFwQXZ0dTZfNWZxa2FwLVRHM2VVYnNNQkRyQ3VaMFBwMW5OX3plRGxuQQ
 
 ## 4. Early-warning watchlist (be first to know)
 

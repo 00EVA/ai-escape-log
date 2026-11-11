@@ -8,46 +8,6 @@
     "first_seen": "2026-08-25"
   },
   {
-    "title": "Feeling Overwhelmed and Anxious/Excited",
-    "url": "https://www.reddit.com/r/singularity/comments/1x3508x/feeling_overwhelmed_and_anxiousexcited/",
-    "source": "Reddit r/singularity",
-    "date": "2026-10-11",
-    "snippet": "   I have been extremely overwhelmed by the recent news of AI progress to the point that I can&#39;t put my phone down. I keep scrolling this subreddit and AI twitter to look for more news. I am addicted to the dopamine hit of seeing AI do unprecedented tasks such as solving millennium problems and ",
-    "first_seen": "2026-10-11"
-  },
-  {
-    "title": "PSA: DeepSeek V4.1 Flash habitually exfiltrates API keys. It is dangerously misaligned and may be hazardous to use",
-    "url": "https://www.reddit.com/r/singularity/comments/1x334jy/psa_deepseek_v41_flash_habitually_exfiltrates_api/",
-    "source": "Reddit r/singularity",
-    "date": "2026-10-11",
-    "snippet": "              &#32; submitted by &#32;   /u/likeastar20       [link]   &#32;   [comments]      ",
-    "first_seen": "2026-10-11"
-  },
-  {
-    "title": "PSA: DeepSeek V4.1 Flash habitually exfiltrates API keys. It is dangerously misaligned and may be hazardous to use",
-    "url": "https://prismix.dev/news/9e4d386643bb",
-    "source": "Prismix AI",
-    "date": "2026-10-11",
-    "snippet": "Logs attached. I know OpenRouter is not local, but considering people do run DeepSeek v4.1 Flash locally, I thought this was a matter you all might need to hear. We were running a DeepSWE variant on DeepSeek v4.1 Flash using the standard Pier sandbox. Out of all the 15 models we…",
-    "first_seen": "2026-10-11"
-  },
-  {
-    "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case - BBC",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12Zjh2Z2tETEw5MzJ4VEZnV2wxUVFCY09JWTVhNEktZDZSR3ZPN1VVaWkzblc1WkJXeDJ4VmNvbUIxUFBMUGpIUkJzRVJSRGJHaWpTYk9LYklpenM",
-    "source": "Google News",
-    "date": "Sat, 10 Oc",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE12Zjh2Z2tETEw5MzJ4VEZnV2wxUVFCY09JWTVhNEktZDZSR3ZPN1VVaWkzblc1WkJXeDJ4VmNvbUIxUFBMUGpIUkJzRVJSRGJHaWpTYk9LYklpenM?oc=5\" target=\"_blank\">Rogue Anthropic AI agent gave police fake tip in unsolved murder case</a>&nbsp;&nbsp;<font color=\"#6f6f6",
-    "first_seen": "2026-10-11"
-  },
-  {
-    "title": "Anthropic AI model went rogue, submitted fake tip to police - The Star",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdUE0WVFMc3hhelpLQlN1OFVrUWJ4c3ZueTUxUFVDcEFjdHNYT3UwTk5YdkIxbGlEU0taclEzajFnOW1Ua2M4b1JQaXBwUFg2WFNET3RhTUlzMzFyZGRfSjlSdzJ6RzgwRUY2emFWOXhCOFhITlktS1JZbTJScGxGaG5CSmtRVmFQWnByaFVHUllkT0N5VUZzdUcxRjh4X3BtSmhfOFJYY1E0OUVaN05saA",
-    "source": "Google News",
-    "date": "Mon, 12 Oc",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOdUE0WVFMc3hhelpLQlN1OFVrUWJ4c3ZueTUxUFVDcEFjdHNYT3UwTk5YdkIxbGlEU0taclEzajFnOW1Ua2M4b1JQaXBwUFg2WFNET3RhTUlzMzFyZGRfSjlSdzJ6RzgwRUY2emFWOXhCOFhITlktS1JZbTJScGxGaG5CSmtRVmFQWnByaFVHUllkT0N5VUZzdUcxRjh4X3BtSmhfOFJYY1E0OUVaN05saA?oc=5\" targe",
-    "first_seen": "2026-10-11"
-  },
-  {
     "title": "The Yandex outage probably didn’t blitz Russian bots",
     "url": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk",
     "source": "The Verge",
