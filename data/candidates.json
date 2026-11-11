@@ -1502,5 +1502,13 @@
     "date": "2026-11-10",
     "snippet": "CVE-2026-125350 | Google Chromium | Google Chromium contains a use-after-free vulnerability in the XML component that could allow a remote attacker to execute arbitrary code inside the sandbox via a specially crafted webpage. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Go",
     "first_seen": "2026-11-10"
+  },
+  {
+    "title": "2 days in a row?",
+    "url": "https://www.reddit.com/r/singularity/comments/1xt9ccu/2_days_in_a_row/",
+    "source": "Reddit r/singularity",
+    "date": "2026-11-11",
+    "snippet": "                 Hydrogen? Xexon?     &#32; submitted by &#32;   /u/GamingDisruptor       [link]   &#32;   [comments]      ",
+    "first_seen": "2026-11-10"
   }
 ]
