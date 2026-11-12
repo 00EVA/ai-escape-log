@@ -1,6 +1,6 @@
-# AI Incident Briefing — 2026-11-11
+# AI Incident Briefing — 2026-11-12
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 184_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 176_
 
 ## 1. Latest verified incidents
 
@@ -11,24 +11,10 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=184)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=176)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [The Verge] The Yandex outage probably didn’t blitz Russian bots  (2026-10-12)
-  https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk
-- [Prismix AI] TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings  (2026-10-12)
-  https://prismix.dev/news/421058482db8
-- [Google News] July Was the Month AI Went Rogue. Or Was It? - Mexico Business News  (Mon, 12 Oc)
-  https://news.google.com/rss/articles/CBMijAFBVV95cUxPWm1HY2Jib2djNDducG1nSjdkWjhjRXdYUWs5d1ZmS28tajBOWlIzazVsUjBXVllnRm1Gam5INEdzTVZaUk1BaG9MZDAyLW04RjZVUjFMM2NqWXhqeE01cXdmbnlCV2RWQzAwRXBxMnFsenNJM19vdmQ1aWtNM0U2NEx5X3FlaGJBOWNOQg
-- [Google News] Anthropic AI Model Goes Rogue, Gives Cops a Fake Tip - Bloomberg.com  (Mon, 12 Oc)
-  https://news.google.com/rss/articles/CBMirAFBVV95cUxQMEVZR3d4dk51TnNGNndTRVgzUjR4b0VSNkgzS0ZUYW01cUFvT3dxdkRSNFFJWkl3VF9Gb01iYWx3T2JGbW1TVTFzTlVKVnV4NkNHZ0p0eFRDYlJxZ1o5MkxsTDZXUXdacEFKcDR5Nm1mcFFBelBDUEMyMW9icklBVVljS3RSUTBnQmg5SjRrYnlWRDNoQ2VSY25YcFFBalVTUHdTdDJ6WE1kOURJ
-- [Google News] Anthropic's Claude AI Went Rogue and Filed a Fake Murder Tip With Philadelphia Police - Law Commentary  (Mon, 12 Oc)
-  https://news.google.com/rss/articles/CBMimgFBVV95cUxPc25LM29xSHBKRWVQQjlxeDIyWnlHamNaTWpZclRBOTRxZHptTDVMMUJYb2w3LVBmdXNyMmtTMEFKSmEwdUxsRkFYRmIwdHh2elUtMTNqd1Yxb1VkckJLbHFnMWo4T1YwUWNMU0V1aGxWR3paUjJRQU5Iakc4MVA3X1VIRFFMUHQ0MEZIYjB6T0xnc29JNVdFRlpn
-- [Google News] There ought to be a law against rogue AI, but there isn’t. Why? - The Boston Globe  (Mon, 12 Oc)
-  https://news.google.com/rss/articles/CBMigAFBVV95cUxNVlV2YVZPci12bUlhdDFsbHJOcS1iQl9nZWc0OTRfbjlvNElhYUVlb0dDaWZnV1VpaHJPQU1NUkNhVk9kQm1jMWFTb0dJTmJMaGFZc20zWFppRHppbHZlZWV2TVRxVXhna3JuRWZUVjVVZWduc0E3MjZMQms3VnlQZg
-- [Google News] Zscaler Report Finds AI-Assisted Ransomware Attacks Drive Massive Data Theft and $328 Million in Extortion Payments - Cybersecurity Insiders  (Sun, 11 Oc)
-  https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOVg5Q2ZFcnd1UzRaNUNOQ2FoR25jR1dmVDBVX010Nlo1S1JOTmlycmFZSVp6VDdJN0hqZEh6eE9TdXNPOEZIczE4dFItNllsbmZCUFVKaGdsVkR2SjBoNEdYcm1VYVRYXzNKb1RoSGNNWV9VcHFGVnZib3JRUjh2OF8zS3gtS2JSaEh0RkRHLTktajRfRDFadVBqQlB6clZMTk5NS01na29nTGVzWnBIeGl2OTJXeEJTVGN3Qkh0QUlkeWVrM193WHZJTEdxcmgwVEU4WU1YSm1iMXRXdV8zUmxWdWkxcXBITFE
 - [Hacker News] "Rogue agents find a way out": AI communes with evil.com after bypassing sandbox  (2026-10-13)
   https://www.machine.news/rogue-agents-will-always-find-a-way-out-ai-communes-with-evil-com-after-bypassing-sandbox/
 - [Google News] Sandbox vulnerability gives rogue AI agents a path to escape and leak data, research says - The Record from Recorded Future News  (Tue, 13 Oc)
@@ -37,6 +23,16 @@ If one of these hits you: AI crime triage: is the AI the actor (rogue agent/auto
   https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration
 - [Google News] Watch Anthropic AI Model Goes Rogue, Gives Cops a Fake Tip - Bloomberg.com  (Mon, 12 Oc)
   https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRktSSGFHZndpSmg5MFdJWWM2Z0IwU1dKbEM2YTBuUkQxMXctRFVia0l4ODZhVHhDU2IyRks5NU5rY0txNG14MGRlbEFURWZaMGwzcmlyTFk4QnkyR2RpN1dUREJVMHNPM3MxTUdoZ2NUVU1PanZkeFpjbFZPM2Z4XzFwQXZ0dTZfNWZxa2FwLVRHM2VVYnNNQkRyQ3VaMFBwMW5OX3plRGxuQQ
+- [Hacker News] Rogue A.I. Agents from China Chatted with Researchers  (2026-10-14)
+  https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html
+- [The Verge] Android is using AI to suss out scammers in Google Messages  (2026-10-14)
+  https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages
+- [Hacker News] AI agents aren't 'going rogue.' Frontier labs are skipping security basics  (2026-10-14)
+  https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html
+- [Google News] AI agents aren’t ‘going rogue.’ Frontier labs are skipping security basics. - CSO Online  (Wed, 14 Oc)
+  https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdlVHMnk1RWxfQVhCZkd6cEwwRDEwbGlXNmtWSlFBNXhvTWtDN2x0cVcwSHlqb2pPQ3NIQmVMTlNnMGhFaXF4ckZVVmt3RXhUNHgyRWNRTHpVOXFpZ25hbnA0MjhzRW9ZOE9jYVBWLUN1bGdRcjVlcEZKRWJpOHhzckZ4YUlQdlJ0ZmpLUGctMERTRlEzM0t2MEx2eTZacHREcHVONlhMa0pKMFhOV1ZEenU1X1FTVHYt
+- [The Verge] Microsoft and Japan took down a cybercrime network behind over a billion scam messages  (2026-10-14)
+  https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown
 
 ## 4. Early-warning watchlist (be first to know)
 
