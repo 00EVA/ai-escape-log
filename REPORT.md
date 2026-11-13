@@ -1,6 +1,6 @@
-# AI Incident Briefing — 2026-11-12
+# AI Incident Briefing — 2026-11-13
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 179_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 166_
 
 ## 1. Latest verified incidents
 
@@ -11,18 +11,10 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=179)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=166)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [Hacker News] "Rogue agents find a way out": AI communes with evil.com after bypassing sandbox  (2026-10-13)
-  https://www.machine.news/rogue-agents-will-always-find-a-way-out-ai-communes-with-evil-com-after-bypassing-sandbox/
-- [Google News] Sandbox vulnerability gives rogue AI agents a path to escape and leak data, research says - The Record from Recorded Future News  (Tue, 13 Oc)
-  https://news.google.com/rss/articles/CBMiggFBVV95cUxORkYxYTZ5c05SLVZPVjVITTNGQ1E0TWwxWmQ0bDljUUx3YVBmdjhUZ0RvUVd5eUJPVHFMSXFJb2N0Q0daUmZLZUpUdGFsdW9NOGlIRGVQNFNlMHpGMmRsSXNRYVVQM0VoR2ZiT3FhRV9MNTNGRzdoY2E0QjIyMW81QU5R
-- [The Verge] Xbox is officially embracing the chaos of AI-powered game ports  (2026-10-13)
-  https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration
-- [Google News] Watch Anthropic AI Model Goes Rogue, Gives Cops a Fake Tip - Bloomberg.com  (Mon, 12 Oc)
-  https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRktSSGFHZndpSmg5MFdJWWM2Z0IwU1dKbEM2YTBuUkQxMXctRFVia0l4ODZhVHhDU2IyRks5NU5rY0txNG14MGRlbEFURWZaMGwzcmlyTFk4QnkyR2RpN1dUREJVMHNPM3MxTUdoZ2NUVU1PanZkeFpjbFZPM2Z4XzFwQXZ0dTZfNWZxa2FwLVRHM2VVYnNNQkRyQ3VaMFBwMW5OX3plRGxuQQ
 - [Hacker News] Rogue A.I. Agents from China Chatted with Researchers  (2026-10-14)
   https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html
 - [The Verge] Android is using AI to suss out scammers in Google Messages  (2026-10-14)
@@ -33,6 +25,12 @@ If one of these hits you: AI crime triage: is the AI the actor (rogue agent/auto
   https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdlVHMnk1RWxfQVhCZkd6cEwwRDEwbGlXNmtWSlFBNXhvTWtDN2x0cVcwSHlqb2pPQ3NIQmVMTlNnMGhFaXF4ckZVVmt3RXhUNHgyRWNRTHpVOXFpZ25hbnA0MjhzRW9ZOE9jYVBWLUN1bGdRcjVlcEZKRWJpOHhzckZ4YUlQdlJ0ZmpLUGctMERTRlEzM0t2MEx2eTZacHREcHVONlhMa0pKMFhOV1ZEenU1X1FTVHYt
 - [The Verge] Microsoft and Japan took down a cybercrime network behind over a billion scam messages  (2026-10-14)
   https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown
+- [Google News] FBI gives update on spy device found at OpenAI's office; says: Saudi National arrested; shares 'crime pho - The Times of India  (Thu, 15 Oc)
+  https://news.google.com/rss/articles/CBMilAJBVV95cUxPbmlXaW1PYnZqQzJqczFQSVRkSW94WXZDbThFWXBIWW9VRUZ3d0VYWXlYcGZYcTdCQ2tRdGNISTFOQ01jVlh5RnlQeW53STFPTXFVcWhlS3pMN2x4TWg5OTRpUDdNRlpZUmVFWUh6LUtfRERvbXU2UUhleWhLQzdNVVJrU21oNHl4ZEh1ZGZUbDBaSlYtYzh6VEw2RzdzYVhaUERuVkZURXRzVlYxYWZPRFJrUEZLSmtwMi04MzdLYzVQM1FuOHBNTTd0LTE0Z29BS2k3MHNRZS1pUUdVYm5DTURybTRBWE9lbElTMEZmclp3MXZTNDVQRS1KY0NYb1NLaXIwcXQ4aHpIWTVpRFF2dHpjcFXSAZoCQVVfeXFMT056b193TkVIYklWWnRJSWNCZU5IRHpka25qbTItMC1tR0lES0hxcXctUU5TdmxnR2Z4aW1XWFU4VFdwOU51YTJyRW1WOEpZUHBSLWQ4NVpWWVVSQkhMV25fVG1NMDNkOXJlLWxJVWdTRTN3aFppSGFIYkdYZlI5eXFCNDZRNFF0eWtiWFJKaEN3UmpGQkRfZjd4dWpRQXBHb1VSQlFKeE5CRjdudjE3LXVKbjRFVXY4OGIxaUNpa1A3SmRFM1JGemVlbHlDc3FyVEd6VmMzSGZKelYybjNjMjAwNGdSNHhRYU5LWGVhcHZ5a0hIVUxheUQ5LVd5NW94X2tSdHlYaUxpZEhhWVAyWjJ4ZVM3bW1wcVRR
+- [Google News] Ransomware Attacks Have Swept Japan. A.I. May Be Making Them Easier. - The New York Times  (Tue, 13 Oc)
+  https://news.google.com/rss/articles/CBMilwFBVV95cUxQOTNCNXVKUG9UeXhyUGhiQmx1OFM4eFpHWjNTSjJBNTlFaU9ZYS1Bb0drQUh5VXFpVG90LTFUaklyNjBXOVlZazkwT01sNzM3dHBoYU45Vk5xcnhuWnVoNVdqdVR3UllkNk11R1ZzMjdnSmdSakZpaElHbjk0TV9GcHB0U1dIel8tbEpaU0pGSE1MVVhUNXVr
+- [Google News] AI linked to 84% of ransomware attacks, new report finds - CBS News  (Wed, 14 Oc)
+  https://news.google.com/rss/articles/CBMikAFBVV95cUxOSDAxYjk0QWdGcUtHV2RHQklZNXhhdkJXaG9WZkRTZUNzTjJGYmlVX0xya09iMnBLcTB4S1VTR29yVTlLTWFXV3I5cU9CeHNZUURKMHRTcHFZV091MzF0Yk1FYmd1eE1RSy1JY01pV1ljYXdReHlvVDVtUVA5TGpVaUFCZmFjMVdiYXIySEpUX0c
 
 ## 4. Early-warning watchlist (be first to know)
 
