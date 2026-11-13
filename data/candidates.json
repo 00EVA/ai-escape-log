@@ -1334,5 +1334,29 @@
     "date": "2026-11-13",
     "snippet": "Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degradated state, some people (including Verge staffers) are reporting that access to their emails h",
     "first_seen": "2026-11-13"
+  },
+  {
+    "title": "Nvidia should hire Lisa. AMD should hire Jensen. Both win. We all win. AI bubble cancelled.",
+    "url": "https://www.reddit.com/r/singularity/comments/1xvf4gd/nvidia_should_hire_lisa_amd_should_hire_jensen/",
+    "source": "Reddit r/singularity",
+    "date": "2026-11-13",
+    "snippet": "              &#32; submitted by &#32;   /u/GamingDisruptor       [link]   &#32;   [comments]      ",
+    "first_seen": "2026-11-13"
+  },
+  {
+    "title": "CISA KEV: UnrealIRCd Improper Neutralization of Delimiters Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-114713",
+    "source": "CISA KEV catalog",
+    "date": "2026-11-13",
+    "snippet": "CVE-2026-114713 | UnrealIRCd UnrealIRCd | UnrealIRCd UnrealIRCd contains an improper neutralization of delimiters vulnerability that allows any user on a network with two or more linked servers to inject server-to-server commands that are executed with server authority.",
+    "first_seen": "2026-11-13"
+  },
+  {
+    "title": "CISA KEV: Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-123039",
+    "source": "CISA KEV catalog",
+    "date": "2026-11-13",
+    "snippet": "CVE-2026-123039 | Check Point Multiple Products | Check Point Firewall, Multi-Domain Security Management Server, Scalable Platforms, Security Gateway, and Security Management Server contain an incorrect permissions assignment for critical resources vulnerability when the Gaia OS DynamicCLI daemon runs as root and listens on a world-writable local s",
+    "first_seen": "2026-11-13"
   }
 ]
