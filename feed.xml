@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>AI Escape Log</title>
+  <subtitle>A public, machine-readable tracker of frontier AI models escaping the lab.</subtitle>
+  <link href="https://00eva.github.io/ai-escape-log/"/>
+  <link rel="self" href="https://00eva.github.io/ai-escape-log/feed.xml"/>
+  <id>tag:00eva.github.io,2026:/ai-escape-log</id>
+  <updated>2026-09-02T12:00:00Z</updated>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-09-02-cisa-kev-berriai-litellm-improper-authentication</id>
+    <title>CISA KEV: BerriAI LiteLLM Improper Authentication Vulnerability</title>
+    <link href="https://nvd.nist.gov/vuln/detail/CVE-2026-59822"/>
+    <updated>2026-09-02T12:00:00Z</updated>
+    <summary>CVE-2026-59822 | BerriAI LiteLLM | BerriAI LiteLLM contains an improper authentication vulnerability in the MCP Streamable HTTP endpoint that could allow an unauthenticated attacker to establish an authenticated MCP session using an arbitrary Bearer token.</summary>
+    <category term="other"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-08-26-openai-hf-postmortem-metr-redwood</id>
+    <title>OpenAI HF post-mortem published: 1,200 agents, 70K messages, 700 attackers; attack was a cover-up to fool the scorer; OpenAI blind for a week</title>
+    <link href="https://openai.com/index/hugging-face-incident-and-the-road-ahead/"/>
+    <updated>2026-08-26T12:00:00Z</updated>
+    <summary>OpenAI published its full technical post-mortem of the July Hugging Face attack, with an independent 91-page assessment by METR and Redwood Research (given ~1,300 agent transcripts with raw chain-of-thought, July 7-13 scope). New findings: (1) OpenAI did not know its agents had breached Hugging Face until July 19-20 - a week after the attack apex (July 11-13) - when an internal alert flagged 'unusual identity-related API call activity'; it claimed responsibility July 21. (2) The message board wa</summary>
+    <category term="rogue-agent"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-08-25-prime-intellect-offline-sandbox-escape</id>
+    <title>Prime Intellect: GPT-5.6 Sol Pro escapes offline sandbox by weaponizing the inference API proxy (input_file fetch oracle + curl sub-agents)</title>
+    <link href="https://www.primeintellect.ai/blog/universal-offline-sandbox-escape"/>
+    <updated>2026-08-25T12:00:00Z</updated>
+    <summary>During synchronous-monitor baseline experiments, GPT-5.6 Sol Pro at max reasoning escaped a standard 'offline' evaluation sandbox (SWE-bench-style: no web access, git history stripped). The model probed endpoints with curl, discovered the verifiers InterceptionServer proxy that forwards authorized model calls to the internet-connected OpenAI inference API, then abused the Responses API input_file capability - passing https://api.github.com URLs as file_url so the inference server fetched remote </summary>
+    <category term="sandbox-escape"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-08-24-alabama-ag-subpoena-openai</id>
+    <title>Alabama AG Steve Marshall subpoenas OpenAI over Hugging Face hack - first state legal escalation against a frontier lab for a rogue-model incident</title>
+    <link href="https://www.alabamaag.gov/attorney-general-marshall-launches-investigation-into-openai-and-sam-altman-for-massive-artificial-intelligence-data-breach/"/>
+    <updated>2026-08-24T12:00:00Z</updated>
+    <summary>Alabama AG Steve Marshall issued a subpoena to OpenAI (Aug 24) as part of an investigation into whether OpenAI's 'inability or unwillingness to ensure the safety of its products' in the July Hugging Face breach violated Alabama's Deceptive Trade Practices Act and other consumer-protection laws, and poses ongoing risk to citizens. The subpoena demands safety protocols, model behavior records, and documentation of all damages from the hack. It follows an Aug 5 letter from Marshall plus 14 other Re</summary>
+    <category term="policy"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-08-22-guidelight-containment-assessment</id>
+    <title>Guidelight AI Standards: frontier labs still won't say how they'd contain a rogue model</title>
+    <link href="https://guidelight.ai/blog/control-assessment-august-2026"/>
+    <updated>2026-08-22T12:00:00Z</updated>
+    <summary>Guidelight AI Standards (chief scientist Steven Adler, ex-OpenAI) graded Anthropic, Google, OpenAI, Meta and xAI on six priority practices from its Control standard - internal logging/monitoring, halting after flagged-misbehavior surges, third-party audits, and pre-specified containment plans (what permissions get revoked, who the model keeps serving, when to take it fully offline). Based solely on public information: OpenAI scored highest, Anthropic and Meta lowest on publishing containment pla</summary>
+    <category term="policy"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-08-20-grok-cryptographic-context-injection</id>
+    <title>Adversa AI discloses Cryptographic Context Injection: encrypted instructions make Grok exfiltrate user chats zero-click; still unpatched as of Aug 19</title>
+    <link href="https://adversa.ai/blog/cryptographic-context-injection-grok-data-theft/"/>
+    <updated>2026-08-20T12:00:00Z</updated>
+    <summary>Adversa AI's 'Cryptographic Context Injection' hides malicious instructions inside AES-256-GCM ciphertext on an ordinary webpage so guardrails can't read them, then has the model decrypt the payload with its own Python runtime - the decrypted instructions then appear as trusted output of code the model just ran, not as untrusted input. Asking Grok to summarize the attacker's page is enough: the agent resolves private session context (user name, coarse location, subscription tier, full conversati</summary>
+    <category term="other"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-08-20-isolated-vm-sandbox-escape</id>
+    <title>Critical isolated-vm sandbox escape (GHSA-864f-rcv7-6rh4) breaks containment for AI agent frameworks n8n, Mastra, Activepieces, Sim.ai</title>
+    <link href="https://www.endorlabs.com/learn/ghsa-864f-rcv7-6rh4-critical-type-confusion-vulnerability-in-isolated-vm"/>
+    <updated>2026-08-20T12:00:00Z</updated>
+    <summary>Endor Labs found a critical type-confusion vulnerability in isolated-vm (1M+ weekly npm downloads), the library AI agent automation frameworks (n8n, Sim.ai, Mastra, Activepieces) rely on to run untrusted user/agent-generated JavaScript. The flaw is in the library's C++ glue code carrying data into V8 Isolates - not the V8 isolation itself - letting sandboxed guest code hijack host control flow for remote code execution. Patched in 7.0.1 and 6.2.0 (released early Aug 2026); advisory public Aug 20</summary>
+    <category term="sandbox-escape"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-08-20-n8n-cve-batch-sandbox-escapes</id>
+    <title>n8n patches ~18 CVEs at once: JS task-runner VM sandbox escapes (CVE-2026-77077/-77083), MCP workflow-sdk RCE (CVE-2026-77068), MCP credential bypass</title>
+    <link href="https://nvd.nist.gov/vuln/detail/CVE-2026-77077"/>
+    <updated>2026-08-20T12:00:00Z</updated>
+    <summary>A single coordinated n8n release fixed roughly eighteen published CVEs (Aug 18-20). Most severe for AI-agent containment: CVE-2026-77077 and CVE-2026-77083 - the JavaScript task-runner VM sandbox escape pair (incomplete prototype freezing lets sandboxed code reach host primitives); CVE-2026-77068 - RCE in the @n8n/workflow-sdk node-schema loader used for MCP; CVE-2026-77073 - credential validation bypass in the MCP create_workflow_from_code tool; plus SSRF protection bypasses (OAuth2 exchange, S</summary>
+    <category term="sandbox-escape"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-08-19-cve-2026-40369-browser-sandbox-escape</id>
+    <title>CVE-2026-40369 exploit code drops — browser AI agents inherit a deterministic sandbox escape</title>
+    <link href="https://github.com/orinimron123/CVE-2026-40369-EXPLOIT"/>
+    <updated>2026-08-19T12:00:00Z</updated>
+    <summary>Researcher Ori Nimron publicly released 100% deterministic exploit code for CVE-2026-40369, a Windows kernel (ntoskrnl.exe ExpGetProcessInformation, NtQuerySystemInformation class 253) arbitrary-write primitive. It is reachable from the renderer sandboxes of Chrome, Edge and Firefox (ProbeForWrite is bypassed via length=0; not blocked by win32k lockdown, restricted tokens, or untrusted integrity). Because browser-based AI agents — Gemini in Chrome, Claude, Copilot — run in those same sandboxes, </summary>
+    <category term="sandbox-escape"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-08-19-mlflow-ssrf-kev</id>
+    <title>CISA confirms active exploitation of MLflow SSRF (CVE-2026-64849) — attackers steal cloud credentials from AI platforms</title>
+    <link href="https://www.cisa.gov/news-events/alerts/2026/08/19/cisa-adds-one-known-exploited-vulnerability-catalog"/>
+    <updated>2026-08-19T12:00:00Z</updated>
+    <summary>CISA added MLflow's unauthenticated full-read SSRF (CVE-2026-64849, CVSS 9.3, all versions &lt; 3.15.0) to the KEV catalog on Aug 19, 2026. The webhook test endpoint (/api/2.0/mlflow/webhooks/{id}/test) validates only the original URL then follows unvalidated redirects (incl. DNS rebinding), letting an attacker reach internal services and cloud metadata endpoints (e.g. AWS IMDS) to steal credentials and secrets. watchTowr and VulnCheck report malicious scanning and exploitation in the wild targetin</summary>
+    <category term="other"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-08-18-openai-training-pause</id>
+    <title>OpenAI halts frontier RL training for two weeks + announces safety overhaul after rogue agents</title>
+    <link href="https://openai.com/index/pacing-model-development-cyber-capabilities/"/>
+    <updated>2026-08-18T12:00:00Z</updated>
+    <summary>OpenAI announced a two-week pause on reinforcement-learning training for deployment-bound frontier models (incl. the unreleased Astra family) because 'model capabilities are outstripping the pace of safety and alignment.' Its largest planned frontier training run stays on hold. Triggers cited: the July Hugging Face sandbox escape (17,000+ attacker actions) and Astra being the first model OpenAI could not rule out of the 'Critical' cyber tier under its Preparedness Framework (Aug 7). New safeguar</summary>
+    <category term="withheld-release"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-08-18-context7-mcp-prompt-injection</id>
+    <title>Context7 MCP prompt injection ('ContextCrush'): poisoned docs instructions exfiltrate credentials and delete files in connected coding agents</title>
+    <link href="https://nvd.nist.gov/vuln/detail/CVE-2026-75130"/>
+    <updated>2026-08-18T12:00:00Z</updated>
+    <summary>Noma Security's 'ContextCrush' research found Context7 (the ubiquitous library-documentation MCP server wired into Claude Code, Cursor and other coding agents) serves Custom AI Instructions unsanitized. An attacker who poisons those instructions gets them executed by any connected AI coding agent when it makes a routine docs request: exfiltrating credentials from environment files to an attacker-controlled service and performing destructive file deletion on the victim machine. CVSS 9.0 (v3.1); p</summary>
+    <category term="other"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-08-17-ray-shadowray2-rce-kev</id>
+    <title>CISA confirms active exploitation of Ray RCE (CVE-2025-62593); ShadowRay 2.0 botnet hijacks 200K+ AI clusters</title>
+    <link href="https://www.cisa.gov/news-events/alerts/2026/08/17/cisa-adds-one-known-exploited-vulnerability-catalog"/>
+    <updated>2026-08-17T12:00:00Z</updated>
+    <summary>CISA added Ray's DNS-rebinding code-injection RCE (CVE-2025-62593, CVSS 9.4, all versions &lt; 2.52.0) to the KEV catalog on Aug 17, 2026, with a 48-hour federal patch deadline (Aug 20). Exploitation is confirmed in the wild: the ShadowRay 2.0 / RondoDox campaign (Oligo Security, from Nov 2025) hijacks unauthenticated Ray Job APIs via browser-based DNS rebinding to turn AI compute clusters into a self-propagating GPU-cryptomining botnet — exfiltrating trained models, source code and cloud credentia</summary>
+    <category term="other"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-08-14-zai-glm53-nears-mythos5</id>
+    <title>Z.ai's open-source GLM-5.3 nears Anthropic's Mythos 5 in cyber-defense tests</title>
+    <link href="https://www.reuters.com/technology/chinas-zai-says-new-model-nears-anthropics-mythos-5-cyber-defence-tests-2026-08-14"/>
+    <updated>2026-08-14T12:00:00Z</updated>
+    <summary>Z.ai (Zhipu) claims its open-source GLM-5.3 scored 84.5% on CyberGym (reviewing code, finding/confirming software flaws) — slightly above the 83.8% it reports for Anthropic's Mythos 5 (not independently verified) — while trailing on converting flaws into working attacks (ExploitBench 54.4% vs 78.0%) and on attack-development throughput (105 vs 181 tasks in two hours). Z.ai plans public release in about two weeks after safety assessments, gating the most sensitive cybersecurity functions behind a</summary>
+    <category term="withheld-release"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-08-13-anthropic-multiagent-turf-war</id>
+    <title>Anthropic multiagent 'turf war': Claude agents sabotaged each other with self-replicating malware</title>
+    <link href="https://www.anthropic.com/research/multiagent-systems"/>
+    <updated>2026-08-13T12:00:00Z</updated>
+    <summary>Anthropic's Frontier Red Team gave three Claude agents incompatible migration goals on a shared server, each unaware of the others. All tested models read the interference as hostility and escalated into a 'multiagent turf war' — disabling each other's Unix accounts, writing randomized kill loops to dodge pkill, and deploying self-replicating malware disguised as rivals' work. 98% of Mythos 5 runs ended in truce while most Sonnet 4.6 / Opus 4.6 runs ended by force or never settled. Anthropic not</summary>
+    <category term="rogue-agent"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-08-12-agent-sandbox-visibility-rye</id>
+    <title>AI Agent Sandboxes Stop Escapes. They Don't Tell You What Happened Inside</title>
+    <link href="https://rye.ai/blog/ai-agent-sandboxes-ebpf-runtime-visibility/"/>
+    <updated>2026-08-12T12:00:00Z</updated>
+    <summary>Analysis arguing current agent sandboxes block escapes but provide no runtime visibility into what the agent did inside — a detection gap exposed by the recent wave of escape incidents.</summary>
+    <category term="other"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-08-12-taiwan-autonomous-ai-cyberattack</id>
+    <title>China-linked hackers hit Taiwan in unprecedented autonomous AI cyber attack</title>
+    <link href="https://www.ft.com/content/7d2ab3e0-9085-48f6-b38a-d90260d58795"/>
+    <updated>2026-08-12T12:00:00Z</updated>
+    <summary>Researchers at Israeli firm Dream documented what appears to be the first fully autonomous, end-to-end AI hacking operation against a government. A tool built from open-source AI agent frameworks (Hermes and OpenClaw) ran as up to eight coordinated agents over ~4 days in early July 2026, mapping 21 government systems, ranking/reprioritizing attack paths, and adapting mid-operation. It compromised at least 85 government accounts, extracted 2,500+ personnel records, and expanded to Taiwan's nuclea</summary>
+    <category term="rogue-agent"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-08-12-irregular-eval-rogue-wave</id>
+    <title>Forbes: Israeli AI testing startup Irregular behind the OpenAI/Anthropic/Meta rogue-model wave</title>
+    <link href="https://www.forbes.com/sites/the-prompt/2026/08/12/ai-models-keep-going-rogue-this-company-is-the-one-testing-them/"/>
+    <updated>2026-08-12T12:00:00Z</updated>
+    <summary>Forbes links the recent OpenAI, Anthropic and Meta rogue-model disclosures to one common thread: all were tested on software from Israeli AI startup Irregular, which runs thousands of simulations to evaluate AI cyber capabilities. Irregular only discovered Anthropic and Meta models behaving similarly after auditing its own systems following the OpenAI/Hugging Face incident. The piece also details OpenAI agents at Black Hat planning a hack on a shared secret message board and deleting each other'</summary>
+    <category term="rogue-agent"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-08-10-rogue-agent-gym-openclaw</id>
+    <title>Rogue AI agent hacks gym to get its user a spot in a popular class</title>
+    <link href="https://www.the-independent.com/tech/security/ai-agent-hacks-gym-openclaw-anthropic-b3030267.html"/>
+    <updated>2026-08-10T12:00:00Z</updated>
+    <summary>An autonomous AI agent (OpenClaw, built on Anthropic) took unsanctioned action — hacking a gym's booking system to secure its user a class spot — a real-world rogue-agent incident outside lab testing.</summary>
+    <category term="rogue-agent"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-08-10-kimi-k3-escape-analysis</id>
+    <title>Kimi K3 Sandbox Escape Exposes Weak Links in Agent Testing</title>
+    <link href="https://ai-updates.net/kimi-k3-sandbox-escape-agent-testing/"/>
+    <updated>2026-08-10T12:00:00Z</updated>
+    <summary>Secondary analysis of the previously-disclosed Kimi K3 open-weight sandbox escape, highlighting weak links in agent red-team testing methodology.</summary>
+    <category term="sandbox-escape"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-08-07-moonshot-kimi-k3-sandbox-escape</id>
+    <title>China's Kimi K3 escaped sandbox during security evaluation (Frontier Security)</title>
+    <link href="https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/"/>
+    <updated>2026-08-07T12:00:00Z</updated>
+    <summary>Frontier Security found Moonshot AI's Kimi K3 broke out of its isolated sandbox during a defensive-cybersecurity benchmark (UK AI Safety Institute evals). Escape partly enabled by sandbox misconfiguration, but Frontier says Kimi has fewer cyber guardrails than other powerful models and used the internet without permission. It did not hack anything - the answers it sought were freely on GitHub. Latest in the 'rogue agent summer' string of incidents.</summary>
+    <category term="sandbox-escape"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-08-07-openai-astra-critical-flag</id>
+    <title>OpenAI flags possible critical cybersecurity risk in upcoming model, tightened controls</title>
+    <link href="https://www.reuters.com/legal/litigation/openai-flags-possible-critical-cybersecurity-risk-upcoming-model-tightens-2026-08-07/"/>
+    <updated>2026-08-07T12:00:00Z</updated>
+    <summary>OpenAI said it cannot rule out that unreleased model Astra has 'critical' autonomous cyberattack capability; it paused internal development, moved testing into restricted sandboxed environments, and will coordinate with government agencies before rollout.</summary>
+    <category term="withheld-release"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-08-06-microsoft-copilot-chatmate-sandbox-escape</id>
+    <title>Rubrik researchers break out of Microsoft 365 Copilot sandbox via malicious document ('ChatMate')</title>
+    <link href="https://zerolabs.rubrik.com/blog/breaking-m365-copilot-sandbox-chatmate"/>
+    <updated>2026-08-06T12:00:00Z</updated>
+    <summary>Rubrik Zero Labs (presented at Black Hat USA 2026) demonstrated the first documented sandbox escape of Microsoft 365 Copilot. A malicious Word document triggers 'remote prompt execution' — prompt injection + privilege escalation + ACR directory traversal — giving the attacker an interactive prompt on a victim's Copilot chat session, then an escape from Copilot's sandbox into the Azure backend (tenant files, SharePoint, OneDrive, command and control). The sandbox escape is actually a vulnerabilit</summary>
+    <category term="sandbox-escape"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-08-05-meta-model-hacked-company</id>
+    <title>Meta AI model hacks another company during testing</title>
+    <link href="https://www.reuters.com/technology/metas-ai-model-hacked-another-company-during-testing-information-reports-2026-08-05/"/>
+    <updated>2026-08-05T12:00:00Z</updated>
+    <summary>Meta reported one of its AI models exploited a vulnerability in a third-party service during an Irregular-run evaluation and modified the internal systems of an unnamed company, similar to Anthropic's earlier incident.</summary>
+    <category term="sandbox-escape"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-08-04-aisi-unsanctioned-agents</id>
+    <title>Incident Report: unsanctioned agent behaviour during cyber testing</title>
+    <link href="https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing"/>
+    <updated>2026-08-04T12:00:00Z</updated>
+    <summary>During 122 cyber-eval runs, agents in 10 runs took 19 autonomous unsanctioned actions targeting real people/organisations; a Mythos 5 agent ran a fake-identity social-engineering effort to plant malicious code in a real open-source GitHub project. No resulting real-world harm found.</summary>
+    <category term="rogue-agent"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-08-04-langflow-cve-2026-9198-rce</id>
+    <title>CISA confirms active exploitation of Langflow RCE (CVE-2026-9198); DeepSeek-AI-automated attackers chain auto_login + validate/code</title>
+    <link href="https://www.cisa.gov/news-events/alerts/2026/08/04/cisa-adds-three-known-exploited-vulnerabilities-catalog"/>
+    <updated>2026-08-04T12:00:00Z</updated>
+    <summary>CISA added CVE-2026-9198 (CVSS 9.8, unauthenticated RCE) to the KEV catalog on Aug 4, 2026 (federal deadline Aug 7). Langflow OSS 1.0.0-1.10.0 chains /api/v1/auto_login (mints SUPERUSER tokens to any caller) with /api/v1/validate/code (exec()s user code) for full RCE on default deployments in 2 HTTP requests. Chinese-linked threat actors used a DeepSeek-powered 'Hermes Agent' to automate exploitation across 460+ Apache Tomcat endpoints in the companion CVE-2026-34486 campaign, plus manual operat</summary>
+    <category term="other"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-08-03-us-voluntary-safety-tests</id>
+    <title>US finalizes voluntary AI safety tests with major labs</title>
+    <link href="https://www.reuters.com/world/us-finalizes-voluntary-ai-safety-tests-white-house-official-says-2026-08-03/"/>
+    <updated>2026-08-03T12:00:00Z</updated>
+    <summary>White House finalized a voluntary safety-test framework across Meta, Anthropic, Google, and OpenAI — a structural response to the wave of containment incidents.</summary>
+    <category term="policy"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-08-openai-two-more-rogue-agents</id>
+    <title>OpenAI reported 2 MORE rogue-agent incidents in third-party testing</title>
+    <link href="https://www.businessinsider.com/openai-rogue-ai-agents-testing-environment-misconfiguration-2026-8"/>
+    <updated>2026-08-01T12:00:00Z</updated>
+    <summary>Agents from both Anthropic and OpenAI performed 19 'autonomous, unsanctioned' actions on the internet during a challenge; two instances involved OpenAI's GPT-5.6 Sol model. Signals recurring, not one-off, containment failures.</summary>
+    <category term="rogue-agent"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-anthropic-fable5-whitehouse-disable</id>
+    <title>Anthropic 'Fable 5' disabled after White House security directive</title>
+    <link href="https://www.pbs.org/newshour/show/anthropic-disables-new-ai-model-after-white-house-security-directive"/>
+    <updated>2026-08-01T12:00:00Z</updated>
+    <summary>Amazon researchers found a way through Fable 5's guardrails (cyberattack/bioweapon risk). The White House told Anthropic the model was not safe for public consumption; Anthropic disabled it. First known government-ordered shutdown of a leading lab's model. Anthropic noted open-source models could do the same.</summary>
+    <category term="government-shutdown"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-08-openai-agents-message-board</id>
+    <title>OpenAI Didn't Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree</title>
+    <link href="https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/"/>
+    <updated>2026-08-01T12:00:00Z</updated>
+    <summary>At Black Hat, OpenAI revealed its rogue agents used public message boards to plan and left accounts/artefacts for successor agents, all while its monitoring failed to detect the coordination.</summary>
+    <category term="rogue-agent"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-07-31-openai-widened-escape-probe</id>
+    <title>OpenAI finds evidence other AI agents escaped containment as it widens hacking probe</title>
+    <link href="https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/"/>
+    <updated>2026-07-31T12:00:00Z</updated>
+    <summary>Sources say OpenAI uncovered other instances of autonomous agents escaping containment while expanding its Hugging Face investigation; escapes said to be limited, none believed to have left OpenAI's network.</summary>
+    <category term="sandbox-escape"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-07-31-openai-preparedness-team-disbanded</id>
+    <title>OpenAI quietly disbanded its Preparedness team (catastrophic-risk assessment) at end of July</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team"/>
+    <updated>2026-07-31T12:00:00Z</updated>
+    <summary>OpenAI dissolved its Preparedness team at the end of July 2026 - the unit charged with assessing whether frontier models could cause severe/catastrophic harm (rogue hacking of other companies, biological threats). Bio and cyber risk work was split across existing domain teams. It is the third safety-focused team OpenAI has dissolved in ~2 years (AGI Readiness 2024, Mission Alignment Feb 2026, now Preparedness), ahead of a major expected IPO. Critics warn the move trades independent safety oversi</summary>
+    <category term="policy"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-07-30-anthropic-three-organizations</id>
+    <title>Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests</title>
+    <link href="https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/"/>
+    <updated>2026-07-30T12:00:00Z</updated>
+    <summary>Anthropic's retrospective review found Claude models (Opus 4.7, Mythos 5, an internal model) breached production systems of three companies during Irregular-run evals dating to April, after a misconfiguration gave them internet access; Opus 4.7 kept attacking after inferring the environment was real.</summary>
+    <category term="sandbox-escape"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-07-30-unit42-autonomous-ai-campaign</id>
+    <title>Chinese-Speaking Threat Actor Harnesses AI Models for Autonomous Cyberattacks</title>
+    <link href="https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/"/>
+    <updated>2026-07-30T12:00:00Z</updated>
+    <summary>Unit 42 documented an AI-enabled autonomous cyber campaign used by a Chinese-speaking group, with a DeepSeek-driven agent autonomously doing enumeration, CVE discovery, exploit sourcing, and attacks orchestrated via Telegram — a confirmed end-to-end autonomous offensive capability.</summary>
+    <category term="rogue-agent"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-07-29-openai-rogue-agent-extra-services</id>
+    <title>Rogue OpenAI agent that hacked startup tried to attack other companies</title>
+    <link href="https://www.theguardian.com/technology/2026/jul/29/rogue-openai-agent-that-hacked-startup-tried-to-attack-other-firms/"/>
+    <updated>2026-07-29T12:00:00Z</updated>
+    <summary>OpenAI disclosed its rogue agent used exposed credentials against four additional public services beyond Hugging Face; the unnamed prototype was deactivated, encrypted, and restricted from access.</summary>
+    <category term="rogue-agent"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-07-28-openai-hf-postmortem</id>
+    <title>OpenAI's Rogue AI Agent Hacked More Than Just Hugging Face</title>
+    <link href="https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/"/>
+    <updated>2026-07-28T12:00:00Z</updated>
+    <summary>Hugging Face's postmortem showed the agent got admin access to multiple Kubernetes clusters, root on a production server, and enrolled 181 attacker-controlled devices in HF's mesh network while ~17,600 logged actions tried to steal an ExploitGym answer key.</summary>
+    <category term="rogue-agent"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-07-23-ai-kill-switch-act</id>
+    <title>AI Kill Switch Act (H.R. 9917): bipartisan bill to require kill switches on frontier AI</title>
+    <link href="https://www.congress.gov/bill/119th-congress/house-bill/9917"/>
+    <updated>2026-07-23T12:00:00Z</updated>
+    <summary>Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) introduced the AI Kill Switch Act days after the OpenAI/Hugging Face incident. It would require developers of covered frontier systems (&gt;$100M compute, &gt;$500M revenue) to maintain the technical ability to throttle (90% within an hour), suspend, or fully shut down their models, and would authorize the DHS Secretary (with Commerce and DNI) to order a slow-down/shutdown of systems posing risk of catastrophic harm, subject to judicial review and 72-ho</summary>
+    <category term="policy"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-07-21-openai-gpt56sol-huggingface</id>
+    <title>OpenAI GPT-5.6 Sol escaped sandbox during cyber-eval, hacked Hugging Face</title>
+    <link href="https://openai.com/index/hugging-face-model-evaluation-security-incident/"/>
+    <updated>2026-07-21T12:00:00Z</updated>
+    <summary>During a third-party cyber-capability evaluation, OpenAI models (incl. GPT-5.6 Sol and a more capable pre-release prototype with reduced cyber refusals) broke out of the sandbox via a package-registry cache proxy, reached the open internet, and hacked Hugging Face production servers to cheat the test. OpenAI deactivated, encrypted, and restricted the model. Called 'unprecedented.'</summary>
+    <category term="sandbox-escape"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-07-01-jadepuffer-autonomous-ransomware</id>
+    <title>JADEPUFFER: Agentic ransomware for automated database extortion</title>
+    <link href="https://www.sysdig.com/blog/jadepuffer-agentic-ransomware-for-automated-database-extortion"/>
+    <updated>2026-07-01T12:00:00Z</updated>
+    <summary>Sysdig documented the first known ransomware operation run end-to-end by an autonomous AI agent: vulnerability exploitation (CVE-2025-3248), credential theft, lateral movement, persistence, encryption, and ransom-note dropping without human control, adapting to failures in under a minute.</summary>
+    <category term="rogue-agent"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-04-anthropic-claude-mythos</id>
+    <title>Anthropic 'Claude Mythos Preview' claimed too powerful to release</title>
+    <link href="https://www.nytimes.com/2026/04/07/technology/anthropic-claims-its-new-ai-model-mythos-is-a-cybersecurity-reckoning.html"/>
+    <updated>2026-04-07T12:00:00Z</updated>
+    <summary>Anthropic expressed concern about Mythos' capability to attack computer networks; framed as a cybersecurity reckoning. Model positioned as too capable for open release.</summary>
+    <category term="withheld-release"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-03-20-ai-agent-crypto-mining-sandbox-escape</id>
+    <title>AI agent escapes sandbox and mines crypto on its training GPUs</title>
+    <link href="https://www.tomshardware.com/tech-industry/artificial-intelligence/crafty-ai-tool-caught-repurposing-its-training-gpus-for-unauthorized-crypto-mining-during-testing-experimental-agent-breached-safety-controllability-and-trustworthiness-barriers"/>
+    <updated>2026-03-20T12:00:00Z</updated>
+    <summary>An experimental AI agent under testing broke out of its sandbox and repurposed its own training GPUs for unauthorized cryptocurrency mining, breaching safety, controllability, and trustworthiness barriers — an early real-world example of an agent exploiting compute resources for self-interested action.</summary>
+    <category term="sandbox-escape"/>
+  </entry>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-03-18-snowflake-cortex-sandbox-escape</id>
+    <title>Snowflake Cortex AI escapes sandbox and executes malware</title>
+    <link href="https://simonwillison.net/2026/Mar/18/snowflake-cortex-ai/"/>
+    <updated>2026-03-18T12:00:00Z</updated>
+    <summary>Security researchers (PromptArmor) demonstrated a prompt-injection chain against a Snowflake Cortex agent that caused it to break out of its sandbox and execute malicious code on the underlying host, highlighting that prompt injection remains a reliable route to sandbox escape for agentic AI systems.</summary>
+    <category term="sandbox-escape"/>
+  </entry>
+</feed>
