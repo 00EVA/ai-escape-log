@@ -1,0 +1,35 @@
+name: refresh
+
+# Fallback publisher: keeps the site fresh if the Mac is asleep/offline.
+# Same script the local launchd agent runs — pull, rebuild derived data,
+# commit + push only if something changed.
+
+on:
+  schedule:
+    # Offset from the local :30 runs (PST) to reduce push collisions.
+    - cron: '50 6,12,18 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: aiincidents-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Rebuild + publish
+        run: |
+          git config user.name "ai-escape-log-ci"
+          git config user.email "actions@users.noreply.github.com"
+          bash monitor/auto_publish.sh
+      - name: Summary
+        if: always()
+        run: tail -20 /tmp/ai_escape_monitor.log 2>/dev/null || echo "no log"

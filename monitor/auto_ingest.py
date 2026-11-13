@@ -281,9 +281,13 @@ def main():
     msg = (f"[auto-ingest] +{len(promoted)} incidents, -{len(pruned)} expired, "
            f"queue {len(cands)}->{len(remaining)}, archive {len(archive)}\n\n" +
            "\n".join(f"- {c['title']}" for c in promoted[:20]))
-    git("add", "data/incidents.json", "data/incidents.csv", "data/incidents.db",
-        "data/candidates.json", "data/ingested_archive.json", "data/spotlight.json",
-        "data/human_decisions.json", "REPORT.md")
+    paths = ["data/incidents.json", "data/incidents.csv", "data/incidents.db",
+             "data/candidates.json", "data/ingested_archive.json", "data/spotlight.json",
+             "data/human_decisions.json", "REPORT.md"]
+    # git add fails FATALLY (staging nothing) on a missing pathspec; spotlight.json
+    # and human_decisions.json only exist after a review.html export, so filter first.
+    existing = [p for p in paths if os.path.exists(os.path.join(ROOT, p))]
+    git("add", "--", *existing)
     c = git("commit", "-m", msg)
     if c.returncode == 0:
         git("pull", "--rebase", "-q", "origin", "main")

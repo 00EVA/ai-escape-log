@@ -5,14 +5,24 @@
 # in data/incidents.json plus the latest candidate queue.
 set -u
 cd /Users/tony/AIincidents || exit 1
-LOG=/Users/tony/Library/Logs/ai_escape_monitor.log
+LOG="${AI_ESCAPE_LOG:-/Users/tony/Library/Logs/ai_escape_monitor.log}"
+mkdir -p "$(dirname "$LOG")" 2>/dev/null || LOG=/tmp/ai_escape_monitor.log
 {
   echo "[$(date '+%F %T')] [auto_publish] start"
   git pull --ff-only origin main >/dev/null 2>&1 || echo "[auto_publish] pull skipped/failed (continuing)"
   python3 build_csv.py || exit 1
   python3 db.py || exit 1
   python3 monitor/incident_report.py || exit 1
-  git add data/incidents.json data/incidents.csv data/incidents.db data/candidates.json REPORT.md seen_urls.json HOTLIST.md 2>/dev/null
+  python3 monitor/build_feed.py || exit 1
+  # git add fails fatally on a missing pathspec and stalls on gitignored files,
+  # so stage only files that actually exist (spotlight/human_decisions are
+  # optional review.html exports; feed.xml/link_health.json come from Lane D).
+  for f in data/incidents.json data/incidents.csv data/candidates.json \
+           data/ingested_archive.json data/spotlight.json data/human_decisions.json \
+           REPORT.md seen_urls.json HOTLIST.md feed.xml DIGEST.md \
+           data/link_health.json; do
+    [ -f "$f" ] && git add -- "$f"
+  done
   if git diff --cached --quiet; then
     echo "[auto_publish] no changes to publish"
   else

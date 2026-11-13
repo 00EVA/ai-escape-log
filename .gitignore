@@ -1,5 +1,4 @@
 # Local secrets / caches
-.Dockerfile
 *.log
 .DS_Store
 __pycache__/
