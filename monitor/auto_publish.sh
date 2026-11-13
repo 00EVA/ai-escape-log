@@ -4,7 +4,9 @@
 # the anti-misinformation gate needs judgment); it only publishes what is already
 # in data/incidents.json plus the latest candidate queue.
 set -u
-cd /Users/tony/AIincidents || exit 1
+# Location-independent: works locally AND in GitHub Actions CI
+ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+cd "$ROOT" || exit 1
 LOG="${AI_ESCAPE_LOG:-/Users/tony/Library/Logs/ai_escape_monitor.log}"
 mkdir -p "$(dirname "$LOG")" 2>/dev/null || LOG=/tmp/ai_escape_monitor.log
 {
