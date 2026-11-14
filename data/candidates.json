@@ -1358,5 +1358,13 @@
     "date": "2026-11-13",
     "snippet": "CVE-2026-123039 | Check Point Multiple Products | Check Point Firewall, Multi-Domain Security Management Server, Scalable Platforms, Security Gateway, and Security Management Server contain an incorrect permissions assignment for critical resources vulnerability when the Gaia OS DynamicCLI daemon runs as root and listens on a world-writable local s",
     "first_seen": "2026-11-13"
+  },
+  {
+    "title": "Anthropic Rolls Out Mythos 5.2 With Improved Bug Hunting, Fewer Sandbox Escapes - SecurityWeek",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFQ4WDh5Z0t4SnRFVE1JQlBxSDBJT2ZacjBiNlNrYlpoSTROSGxoNC1mY1hKYnRzd2JNa2p2QS1LYkt1X0g0aGlOb0xuSjFtMl9iYl9Yb2Zzb3VYVDN5bmU2UE9yT1NnTUdDM3RVRjB5a1pZclFDb2RsdTVsQXBKUGZ4aTNnMzNIMVpEcmpCSDJUYzJCNE01Y1loSTJsQV9MNm5hQkwxQmt2VGd0",
+    "source": "Google News",
+    "date": "Tue, 10 No",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFQ4WDh5Z0t4SnRFVE1JQlBxSDBJT2ZacjBiNlNrYlpoSTROSGxoNC1mY1hKYnRzd2JNa2p2QS1LYkt1X0g0aGlOb0xuSjFtMl9iYl9Yb2Zzb3VYVDN5bmU2UE9yT1NnTUdDM3RVRjB5a1pZclFDb2RsdTVsQXBKUGZ4aTNnMzNIMVpEcmpCSDJUYzJCNE01Y1loSTJsQV9MNm5hQkwxQmt2VGd0?oc=5\" target=\"_bl",
+    "first_seen": "2026-11-13"
   }
 ]
