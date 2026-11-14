@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-11-13 09:09:53",
+  "checked_at": "2026-11-14 09:07:04",
   "counts": {
-    "blocked": 7,
-    "ok": 34,
+    "blocked": 8,
+    "ok": 33,
     "unreachable": 1
   },
   "results": [
@@ -11,294 +11,294 @@
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
       "state": "blocked",
       "code": 403,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-08-openai-two-more-rogue-agents",
       "url": "https://www.businessinsider.com/openai-rogue-ai-agents-testing-environment-misconfiguration-2026-8",
       "state": "ok",
       "code": 200,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-anthropic-fable5-whitehouse-disable",
       "url": "https://www.pbs.org/newshour/show/anthropic-disables-new-ai-model-after-white-house-security-directive",
       "state": "ok",
       "code": 200,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-04-anthropic-claude-mythos",
       "url": "https://www.nytimes.com/2026/04/07/technology/anthropic-claims-its-new-ai-model-mythos-is-a-cybersecurity-reckoning.html",
-      "state": "ok",
-      "code": 200,
-      "checked_at": "2026-11-13 09:09:53"
+      "state": "blocked",
+      "code": 403,
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-08-03-us-voluntary-safety-tests",
       "url": "https://www.reuters.com/world/us-finalizes-voluntary-ai-safety-tests-white-house-official-says-2026-08-03/",
       "state": "ok",
       "code": 401,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-08-07-moonshot-kimi-k3-sandbox-escape",
       "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
       "state": "ok",
       "code": 200,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-08-04-aisi-unsanctioned-agents",
       "url": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
       "state": "ok",
       "code": 200,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-07-31-openai-widened-escape-probe",
       "url": "https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/",
       "state": "ok",
       "code": 401,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-07-29-openai-rogue-agent-extra-services",
       "url": "https://www.theguardian.com/technology/2026/jul/29/rogue-openai-agent-that-hacked-startup-tried-to-attack-other-firms/",
       "state": "ok",
       "code": 200,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-07-28-openai-hf-postmortem",
       "url": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
       "state": "ok",
       "code": 200,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-07-30-anthropic-three-organizations",
       "url": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
       "state": "ok",
       "code": 200,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-08-05-meta-model-hacked-company",
       "url": "https://www.reuters.com/technology/metas-ai-model-hacked-another-company-during-testing-information-reports-2026-08-05/",
       "state": "ok",
       "code": 401,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-08-07-openai-astra-critical-flag",
       "url": "https://www.reuters.com/legal/litigation/openai-flags-possible-critical-cybersecurity-risk-upcoming-model-tightens-2026-08-07/",
       "state": "ok",
       "code": 401,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-07-01-jadepuffer-autonomous-ransomware",
       "url": "https://www.sysdig.com/blog/jadepuffer-agentic-ransomware-for-automated-database-extortion",
       "state": "unreachable",
       "code": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version ",
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-07-30-unit42-autonomous-ai-campaign",
       "url": "https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/",
       "state": "ok",
       "code": 200,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-08-openai-agents-message-board",
       "url": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
       "state": "ok",
       "code": 200,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-08-10-rogue-agent-gym-openclaw",
       "url": "https://www.the-independent.com/tech/security/ai-agent-hacks-gym-openclaw-anthropic-b3030267.html",
       "state": "ok",
       "code": 200,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-08-12-agent-sandbox-visibility-rye",
       "url": "https://rye.ai/blog/ai-agent-sandboxes-ebpf-runtime-visibility/",
       "state": "ok",
       "code": 200,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-08-10-kimi-k3-escape-analysis",
       "url": "https://ai-updates.net/kimi-k3-sandbox-escape-agent-testing/",
       "state": "ok",
       "code": 200,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-08-12-taiwan-autonomous-ai-cyberattack",
       "url": "https://www.ft.com/content/7d2ab3e0-9085-48f6-b38a-d90260d58795",
       "state": "blocked",
       "code": 403,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-08-13-anthropic-multiagent-turf-war",
       "url": "https://www.anthropic.com/research/multiagent-systems",
       "state": "ok",
       "code": 200,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-07-23-ai-kill-switch-act",
       "url": "https://www.congress.gov/bill/119th-congress/house-bill/9917",
       "state": "blocked",
       "code": 403,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-03-18-snowflake-cortex-sandbox-escape",
       "url": "https://simonwillison.net/2026/Mar/18/snowflake-cortex-ai/",
       "state": "ok",
       "code": 200,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-03-20-ai-agent-crypto-mining-sandbox-escape",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/crafty-ai-tool-caught-repurposing-its-training-gpus-for-unauthorized-crypto-mining-during-testing-experimental-agent-breached-safety-controllability-and-trustworthiness-barriers",
       "state": "ok",
       "code": 200,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-08-14-zai-glm53-nears-mythos5",
       "url": "https://www.reuters.com/technology/chinas-zai-says-new-model-nears-anthropics-mythos-5-cyber-defence-tests-2026-08-14",
       "state": "ok",
       "code": 401,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-08-12-irregular-eval-rogue-wave",
       "url": "https://www.forbes.com/sites/the-prompt/2026/08/12/ai-models-keep-going-rogue-this-company-is-the-one-testing-them/",
       "state": "blocked",
       "code": 403,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-07-31-openai-preparedness-team-disbanded",
       "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
       "state": "ok",
       "code": 200,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-08-18-openai-training-pause",
       "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
       "state": "blocked",
       "code": 403,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-08-06-microsoft-copilot-chatmate-sandbox-escape",
       "url": "https://zerolabs.rubrik.com/blog/breaking-m365-copilot-sandbox-chatmate",
       "state": "blocked",
       "code": 403,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-08-19-cve-2026-40369-browser-sandbox-escape",
       "url": "https://github.com/orinimron123/CVE-2026-40369-EXPLOIT",
       "state": "ok",
       "code": 200,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-08-17-ray-shadowray2-rce-kev",
       "url": "https://www.cisa.gov/news-events/alerts/2026/08/17/cisa-adds-one-known-exploited-vulnerability-catalog",
       "state": "ok",
       "code": 200,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-08-19-mlflow-ssrf-kev",
       "url": "https://www.cisa.gov/news-events/alerts/2026/08/19/cisa-adds-one-known-exploited-vulnerability-catalog",
       "state": "ok",
       "code": 200,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-08-04-langflow-cve-2026-9198-rce",
       "url": "https://www.cisa.gov/news-events/alerts/2026/08/04/cisa-adds-three-known-exploited-vulnerabilities-catalog",
       "state": "ok",
       "code": 200,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-08-20-grok-cryptographic-context-injection",
       "url": "https://adversa.ai/blog/cryptographic-context-injection-grok-data-theft/",
       "state": "ok",
       "code": 200,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-08-20-isolated-vm-sandbox-escape",
       "url": "https://www.endorlabs.com/learn/ghsa-864f-rcv7-6rh4-critical-type-confusion-vulnerability-in-isolated-vm",
       "state": "ok",
       "code": 200,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-08-22-guidelight-containment-assessment",
       "url": "https://guidelight.ai/blog/control-assessment-august-2026",
       "state": "ok",
       "code": 308,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-08-20-n8n-cve-batch-sandbox-escapes",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-77077",
       "state": "ok",
       "code": 200,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-08-18-context7-mcp-prompt-injection",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-75130",
       "state": "ok",
       "code": 200,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-08-24-alabama-ag-subpoena-openai",
       "url": "https://www.alabamaag.gov/attorney-general-marshall-launches-investigation-into-openai-and-sam-altman-for-massive-artificial-intelligence-data-breach/",
       "state": "ok",
       "code": 200,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-08-25-prime-intellect-offline-sandbox-escape",
       "url": "https://www.primeintellect.ai/blog/universal-offline-sandbox-escape",
       "state": "ok",
       "code": 200,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-08-26-openai-hf-postmortem-metr-redwood",
       "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
       "state": "blocked",
       "code": 403,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     },
     {
       "id": "2026-09-02-cisa-kev-berriai-litellm-improper-authentication",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-59822",
       "state": "ok",
       "code": 200,
-      "checked_at": "2026-11-13 09:09:53"
+      "checked_at": "2026-11-14 09:07:04"
     }
   ]
 }
