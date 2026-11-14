@@ -1,6 +1,6 @@
 # AI Incident Briefing — 2026-11-14
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 171_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 161_
 
 ## 1. Latest verified incidents
 
@@ -11,26 +11,26 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=171)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=161)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [Hacker News] Rogue A.I. Agents from China Chatted with Researchers  (2026-10-14)
-  https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html
-- [The Verge] Android is using AI to suss out scammers in Google Messages  (2026-10-14)
-  https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages
-- [Hacker News] AI agents aren't 'going rogue.' Frontier labs are skipping security basics  (2026-10-14)
-  https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html
-- [Google News] AI agents aren’t ‘going rogue.’ Frontier labs are skipping security basics. - CSO Online  (Wed, 14 Oc)
-  https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdlVHMnk1RWxfQVhCZkd6cEwwRDEwbGlXNmtWSlFBNXhvTWtDN2x0cVcwSHlqb2pPQ3NIQmVMTlNnMGhFaXF4ckZVVmt3RXhUNHgyRWNRTHpVOXFpZ25hbnA0MjhzRW9ZOE9jYVBWLUN1bGdRcjVlcEZKRWJpOHhzckZ4YUlQdlJ0ZmpLUGctMERTRlEzM0t2MEx2eTZacHREcHVONlhMa0pKMFhOV1ZEenU1X1FTVHYt
-- [The Verge] Microsoft and Japan took down a cybercrime network behind over a billion scam messages  (2026-10-14)
-  https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown
 - [Google News] FBI gives update on spy device found at OpenAI's office; says: Saudi National arrested; shares 'crime pho - The Times of India  (Thu, 15 Oc)
   https://news.google.com/rss/articles/CBMilAJBVV95cUxPbmlXaW1PYnZqQzJqczFQSVRkSW94WXZDbThFWXBIWW9VRUZ3d0VYWXlYcGZYcTdCQ2tRdGNISTFOQ01jVlh5RnlQeW53STFPTXFVcWhlS3pMN2x4TWg5OTRpUDdNRlpZUmVFWUh6LUtfRERvbXU2UUhleWhLQzdNVVJrU21oNHl4ZEh1ZGZUbDBaSlYtYzh6VEw2RzdzYVhaUERuVkZURXRzVlYxYWZPRFJrUEZLSmtwMi04MzdLYzVQM1FuOHBNTTd0LTE0Z29BS2k3MHNRZS1pUUdVYm5DTURybTRBWE9lbElTMEZmclp3MXZTNDVQRS1KY0NYb1NLaXIwcXQ4aHpIWTVpRFF2dHpjcFXSAZoCQVVfeXFMT056b193TkVIYklWWnRJSWNCZU5IRHpka25qbTItMC1tR0lES0hxcXctUU5TdmxnR2Z4aW1XWFU4VFdwOU51YTJyRW1WOEpZUHBSLWQ4NVpWWVVSQkhMV25fVG1NMDNkOXJlLWxJVWdTRTN3aFppSGFIYkdYZlI5eXFCNDZRNFF0eWtiWFJKaEN3UmpGQkRfZjd4dWpRQXBHb1VSQlFKeE5CRjdudjE3LXVKbjRFVXY4OGIxaUNpa1A3SmRFM1JGemVlbHlDc3FyVEd6VmMzSGZKelYybjNjMjAwNGdSNHhRYU5LWGVhcHZ5a0hIVUxheUQ5LVd5NW94X2tSdHlYaUxpZEhhWVAyWjJ4ZVM3bW1wcVRR
 - [Google News] Ransomware Attacks Have Swept Japan. A.I. May Be Making Them Easier. - The New York Times  (Tue, 13 Oc)
   https://news.google.com/rss/articles/CBMilwFBVV95cUxQOTNCNXVKUG9UeXhyUGhiQmx1OFM4eFpHWjNTSjJBNTlFaU9ZYS1Bb0drQUh5VXFpVG90LTFUaklyNjBXOVlZazkwT01sNzM3dHBoYU45Vk5xcnhuWnVoNVdqdVR3UllkNk11R1ZzMjdnSmdSakZpaElHbjk0TV9GcHB0U1dIel8tbEpaU0pGSE1MVVhUNXVr
 - [Google News] AI linked to 84% of ransomware attacks, new report finds - CBS News  (Wed, 14 Oc)
   https://news.google.com/rss/articles/CBMikAFBVV95cUxOSDAxYjk0QWdGcUtHV2RHQklZNXhhdkJXaG9WZkRTZUNzTjJGYmlVX0xya09iMnBLcTB4S1VTR29yVTlLTWFXV3I5cU9CeHNZUURKMHRTcHFZV091MzF0Yk1FYmd1eE1RSy1JY01pV1ljYXdReHlvVDVtUVA5TGpVaUFCZmFjMVdiYXIySEpUX0c
+- [Hacker News] Researchers discover rogue Chinese AI agent fleet and talk with it  (2026-10-16)
+  https://swarmcha.se/posts/chinese-agent-fleet-full-report
+- [Google News] Rogue AI agents broke into Indian firms' live systems, government says - Reuters  (Fri, 16 Oc)
+  https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWE4SllpWmQwcUxOeXpjRVg5NWhCdHY2bE1LT1kxdEN2bkxYS29Vc3hVV0dEbm1XeDd0dHNQUzZNQWxiMHItQV9XMTVHY21YMDJLZXFTVWFrUGZDY19PQXcxMnBBZzViSE45TWJkTHBNRnBkOUZVUjY1NzM5bWpFTFd1dmdLMnNlRUJtVTBobVJOV1htWUlxSXFqLUN0d2tQMGh6NkJ4bFpvYUJpN3lDRUVES2dtemF4eGViejJn
+- [Google News] How rogue AI agents targeted Indian firms and accessed sensitive data - The Indian Express  (Fri, 16 Oc)
+  https://news.google.com/rss/articles/CBMiswFBVV95cUxPeUU2RTJwcVdnSHlfWmtxTEF0NWU5c2RxSUhxa1hwRlRwRklxU3BsVEM5S1pZZjNfQzc0SmZrREQwVFoxY0lKc05VUHlVOExURDEzTGdvS2E4VkhUaTA3SkpDV0lTZFVZVjRTck1ZRFc5b01JSlNUT0JWdzJsRjBhVkkzU3MyQUh5dmZoaHNwdmpfWTltZU85NHgzMUZQN0JjR1hFYjlYT0tSZkh2TnhZMkNiQdIBugFBVV95cUxOME1ZalVGVHg1ZHJnNkZ4cjNTb3VMSzJxZWR5d09Wb0RBeEJvWXZIMzJfaDkwanRINC14c2JoV0M0TEZqYl9jbkplSVJCTXRnQy1CUjNXXzh3clE5dEFwRTFuX2dZRGlVWjlxUXV2cndsNlY2anM3R2FMOHJvaHVxXzdoNkdjbGYyQWJ4Mmp5LWpyNUtyNkFlU2U5Y180U0RTbThjMkpBbjRPVzc3WDFDemt5OUVRcTNqSHc
+- [Hacker News] Rogue AI agents broke into Indian firms' live systems  (2026-10-16)
+  https://www.reuters.com/legal/litigation/rogue-ai-agents-broke-into-indian-firms-live-systems-government-says-2026-10-16/
+- [Google News] OpenAI AI agent goes rogue? Crypto funds used without permission - Yahoo Finance Singapore  (Fri, 16 Oc)
+  https://news.google.com/rss/articles/CBMigAFBVV95cUxNVFZoV3VzZkdEYXEySFViOXFlY25nSXhjcDRZQ0c2NUN2eDluMVdqLWEyWlpBSTFnMnFVcE9IYi1PamxIU3NkM0tOSF9JbW9uZVF0Xy1qTU5sVFpoNUFnbGF4OXJSRmNQeFBaeHlDYnZnT1RYWHVzeHJyNGxNOXdXNg
 
 ## 4. Early-warning watchlist (be first to know)
 

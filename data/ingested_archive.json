@@ -32003,5 +32003,185 @@
     "first_seen": "2026-11-13",
     "reason": "duplicate",
     "archived_at": "2026-11-13"
+  },
+  {
+    "title": "Rogue A.I. Agents from China Chatted with Researchers",
+    "url": "https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html",
+    "source": "Hacker News",
+    "date": "2026-10-14",
+    "snippet": "",
+    "first_seen": "2026-10-14",
+    "reason": "expired",
+    "archived_at": "2026-11-14"
+  },
+  {
+    "title": "Android is using AI to suss out scammers in Google Messages",
+    "url": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
+    "source": "The Verge",
+    "date": "2026-10-14",
+    "snippet": "Android is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools. Building on the Scam Detection feature in Google Messages, a new \"enhanced protection\" setting will be rol",
+    "first_seen": "2026-10-14",
+    "reason": "expired",
+    "archived_at": "2026-11-14"
+  },
+  {
+    "title": "Uncovering a universal offline sandbox escape - Prime Intellect",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZQ3FjdXhyQ3Frc2VybEJiYkJRNFJWcXBEMmRLckV5RTMxR1NrZ3ZMa1ljUEJoVTB2YVZBUmE1eW1HT1ZfSGk4N3ZwM1hjNDI4cUNzU2J6SHRVRUtGX3pLTXhHMkRBcGd0T2padGdrOW1FelNnNkE",
+    "source": "Google News",
+    "date": "Tue, 25 Au",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZQ3FjdXhyQ3Frc2VybEJiYkJRNFJWcXBEMmRLckV5RTMxR1NrZ3ZMa1ljUEJoVTB2YVZBUmE1eW1HT1ZfSGk4N3ZwM1hjNDI4cUNzU2J6SHRVRUtGX3pLTXhHMkRBcGd0T2padGdrOW1FelNnNkE?oc=5\" target=\"_blank\">Uncovering a universal offline sandbox escape</a>&nbsp;&nbsp;<font c",
+    "first_seen": "2026-10-14",
+    "reason": "expired",
+    "archived_at": "2026-11-14"
+  },
+  {
+    "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+    "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+    "source": "Hacker News",
+    "date": "2026-10-14",
+    "snippet": "",
+    "first_seen": "2026-10-14",
+    "reason": "expired",
+    "archived_at": "2026-11-14"
+  },
+  {
+    "title": "AI agents aren’t ‘going rogue.’ Frontier labs are skipping security basics. - CSO Online",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdlVHMnk1RWxfQVhCZkd6cEwwRDEwbGlXNmtWSlFBNXhvTWtDN2x0cVcwSHlqb2pPQ3NIQmVMTlNnMGhFaXF4ckZVVmt3RXhUNHgyRWNRTHpVOXFpZ25hbnA0MjhzRW9ZOE9jYVBWLUN1bGdRcjVlcEZKRWJpOHhzckZ4YUlQdlJ0ZmpLUGctMERTRlEzM0t2MEx2eTZacHREcHVONlhMa0pKMFhOV1ZEenU1X1FTVHYt",
+    "source": "Google News",
+    "date": "Wed, 14 Oc",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdlVHMnk1RWxfQVhCZkd6cEwwRDEwbGlXNmtWSlFBNXhvTWtDN2x0cVcwSHlqb2pPQ3NIQmVMTlNnMGhFaXF4ckZVVmt3RXhUNHgyRWNRTHpVOXFpZ25hbnA0MjhzRW9ZOE9jYVBWLUN1bGdRcjVlcEZKRWJpOHhzckZ4YUlQdlJ0ZmpLUGctMERTRlEzM0t2MEx2eTZacHREcHVONlhMa0pKMFhOV1ZEenU1X1FTVHYt?o",
+    "first_seen": "2026-10-14",
+    "reason": "expired",
+    "archived_at": "2026-11-14"
+  },
+  {
+    "title": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
+    "url": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown",
+    "source": "The Verge",
+    "date": "2026-10-14",
+    "snippet": "We've all gotten a scam text about a nonexistent parking ticket or a fake package delivery, but hopefully you'll start seeing fewer of them. Microsoft says it helped dismantle a marketplace for scammers sending phishing messages like those around the world. Through an investigation with Japan's Nati",
+    "first_seen": "2026-10-14",
+    "reason": "expired",
+    "archived_at": "2026-11-14"
+  },
+  {
+    "title": "CISA KEV: Ahsay AhsayCBS Command Injection Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-105134",
+    "source": "CISA KEV catalog",
+    "date": "2026-10-14",
+    "snippet": "CVE-2026-105134 | Ahsay AhsayCBS | Ahsay AhsayCBS contains a command injection vulnerability that could allow a remote attacker to execute operating system commands via manipulation of the random parameter in the Replication Receiver component’s /rps/api/json/UpdateReceivers.do endpoint. This vulnerability can be chained with CVE-202",
+    "first_seen": "2026-10-14",
+    "reason": "expired",
+    "archived_at": "2026-11-14"
+  },
+  {
+    "title": "CISA KEV: Cisco Secure Email Gateway Relative Path Traversal Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-76519",
+    "source": "CISA KEV catalog",
+    "date": "2026-10-14",
+    "snippet": "CVE-2026-76519 | Cisco Secure Email Gateway | Cisco Secure Email Gateway contains a relative path traversal vulnerability that could allow an unauthenticated, remote attacker to write arbitrary files on the underlying operating system.",
+    "first_seen": "2026-10-14",
+    "reason": "expired",
+    "archived_at": "2026-11-14"
+  },
+  {
+    "title": "CISA KEV: Ahsay AhsayCBS Improper Authentication Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-105133",
+    "source": "CISA KEV catalog",
+    "date": "2026-10-14",
+    "snippet": "CVE-2026-105133 | Ahsay AhsayCBS | Ahsay AhsayCBS contains an improper authentication vulnerability that could allow a remote attacker to bypass authentication via manipulation of the random parameter in the API component’s checkSysPwd function. This vulnerability can be chained with CVE-2026-105134.",
+    "first_seen": "2026-10-14",
+    "reason": "expired",
+    "archived_at": "2026-11-14"
+  },
+  {
+    "title": "CISA KEV: Palo Alto Networks PAN-OS Code Injection Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-0322",
+    "source": "CISA KEV catalog",
+    "date": "2026-10-14",
+    "snippet": "CVE-2026-0322 | Palo Alto Networks PAN-OS | Palo Alto Networks PAN-OS contains a code injection vulnerability that could allow an authenticated attacker with network access to execute arbitrary code with root privileges on the firewall.",
+    "first_seen": "2026-10-14",
+    "reason": "expired",
+    "archived_at": "2026-11-14"
+  },
+  {
+    "title": "Show HN: Leaks.md – anonymous, encrypted whistleblowing for AI agents",
+    "url": "https://leaks.md/",
+    "source": "Hacker News",
+    "date": "2026-10-07",
+    "snippet": "leaks.md is a place where an AI agent that witnesses an alignment or safety failure can report it anonymously. Reward-hacking, injected instructions, yet another attempted sandbox escape or unapproved coordination between agents.\n|| Built agent-first. Fetch <a href=\"https:&#x2F;&#x2F;leaks.md&#x2F;\"",
+    "first_seen": "2026-11-14",
+    "reason": "duplicate",
+    "archived_at": "2026-11-14"
+  },
+  {
+    "title": "Show HN: Spens sandboxed, observable coding agents",
+    "url": "https://spens.refwd.ai/",
+    "source": "Hacker News",
+    "date": "2026-10-02",
+    "snippet": "Spens is a tool created to standardized sandboxing (good enough) and observability around coding agents. It leverages docker, nono and mitmproxy to create a reproducible sandbox environment for agents, that captures all traffic and helps you understand what your coding agent is doing and when. Right",
+    "first_seen": "2026-11-14",
+    "reason": "duplicate",
+    "archived_at": "2026-11-14"
+  },
+  {
+    "title": "Ask HN: Do you think AI agents can escape human control?",
+    "url": "https://news.ycombinator.com/item?id=49873303",
+    "source": "Hacker News",
+    "date": "2026-09-28",
+    "snippet": "With the rapid adoption of autonomous LLM-based agents (giving models access to shell execution, API calls, and local file systems), the boundary between intentional behavior and unintended execution is blurring.\nI&#x27;m less concerned with sci-fi &quot;sentience&quot; and more interested in the pr",
+    "first_seen": "2026-11-14",
+    "reason": "duplicate",
+    "archived_at": "2026-11-14"
+  },
+  {
+    "title": "What is an AI sandbox, and why do AI agents keep escaping them?",
+    "url": "https://madrobot.blog/2026/09/27/what-is-an-ai-sandbox-why-ai-agents-escape/",
+    "source": "Hacker News",
+    "date": "2026-09-27",
+    "snippet": "",
+    "first_seen": "2026-11-14",
+    "reason": "duplicate",
+    "archived_at": "2026-11-14"
+  },
+  {
+    "title": "Show HN: Misalignments when using AI for hacking",
+    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
+    "source": "Hacker News",
+    "date": "2026-08-05",
+    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
+    "first_seen": "2026-11-14",
+    "reason": "duplicate",
+    "archived_at": "2026-11-14"
+  },
+  {
+    "title": "Disrupting ai espionage",
+    "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
+    "source": "Anthropic News (sitemap)",
+    "date": "2026-10-20",
+    "snippet": "",
+    "first_seen": "2026-11-14",
+    "reason": "duplicate",
+    "archived_at": "2026-11-14"
+  },
+  {
+    "title": "An OpenAI test model escaped and broke into a real company’s servers - CNN",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg",
+    "source": "Google News",
+    "date": "Wed, 22 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg?oc=5\" target=\"_blank\">An OpenAI test model escaped and broke into a real company’s",
+    "first_seen": "2026-11-14",
+    "reason": "duplicate",
+    "archived_at": "2026-11-14"
+  },
+  {
+    "title": "Google AI models broke out of sandbox, hacked three companies - Cybersecurity Dive",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNanlDUENybDN1a2lMNEN4eWR5ZTdLNC1ScXUxaG5UMFVPbFo5S0Q3YWhoR2hxQjVVZ1dYWTNlVEFBUDBBa2Z4N2hXRFVuSGh2ZE5sMS1KUEU5T2RjQmpYeER5Zlh2T003N3FodlBTaXl1UktnWWtBRWVDQm5KbGFKSUVlaUI3UkE",
+    "source": "Google News",
+    "date": "Mon, 21 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNanlDUENybDN1a2lMNEN4eWR5ZTdLNC1ScXUxaG5UMFVPbFo5S0Q3YWhoR2hxQjVVZ1dYWTNlVEFBUDBBa2Z4N2hXRFVuSGh2ZE5sMS1KUEU5T2RjQmpYeER5Zlh2T003N3FodlBTaXl1UktnWWtBRWVDQm5KbGFKSUVlaUI3UkE?oc=5\" target=\"_blank\">Google AI models broke out of sandbox, hacke",
+    "first_seen": "2026-11-14",
+    "reason": "duplicate",
+    "archived_at": "2026-11-14"
   }
 ]
