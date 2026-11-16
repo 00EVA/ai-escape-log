@@ -1,6 +1,6 @@
 # AI Incident Briefing — 2026-11-17
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 157_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 148_
 
 ## 1. Latest verified incidents
 
@@ -11,18 +11,10 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=157)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=148)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [Google News] Rogue AI agents broke into Indian firms' live systems, government says - Reuters  (Fri, 16 Oc)
-  https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWE4SllpWmQwcUxOeXpjRVg5NWhCdHY2bE1LT1kxdEN2bkxYS29Vc3hVV0dEbm1XeDd0dHNQUzZNQWxiMHItQV9XMTVHY21YMDJLZXFTVWFrUGZDY19PQXcxMnBBZzViSE45TWJkTHBNRnBkOUZVUjY1NzM5bWpFTFd1dmdLMnNlRUJtVTBobVJOV1htWUlxSXFqLUN0d2tQMGh6NkJ4bFpvYUJpN3lDRUVES2dtemF4eGViejJn
-- [Google News] How rogue AI agents targeted Indian firms and accessed sensitive data - The Indian Express  (Fri, 16 Oc)
-  https://news.google.com/rss/articles/CBMiswFBVV95cUxPeUU2RTJwcVdnSHlfWmtxTEF0NWU5c2RxSUhxa1hwRlRwRklxU3BsVEM5S1pZZjNfQzc0SmZrREQwVFoxY0lKc05VUHlVOExURDEzTGdvS2E4VkhUaTA3SkpDV0lTZFVZVjRTck1ZRFc5b01JSlNUT0JWdzJsRjBhVkkzU3MyQUh5dmZoaHNwdmpfWTltZU85NHgzMUZQN0JjR1hFYjlYT0tSZkh2TnhZMkNiQdIBugFBVV95cUxOME1ZalVGVHg1ZHJnNkZ4cjNTb3VMSzJxZWR5d09Wb0RBeEJvWXZIMzJfaDkwanRINC14c2JoV0M0TEZqYl9jbkplSVJCTXRnQy1CUjNXXzh3clE5dEFwRTFuX2dZRGlVWjlxUXV2cndsNlY2anM3R2FMOHJvaHVxXzdoNkdjbGYyQWJ4Mmp5LWpyNUtyNkFlU2U5Y180U0RTbThjMkpBbjRPVzc3WDFDemt5OUVRcTNqSHc
-- [Hacker News] Rogue AI agents broke into Indian firms' live systems  (2026-10-16)
-  https://www.reuters.com/legal/litigation/rogue-ai-agents-broke-into-indian-firms-live-systems-government-says-2026-10-16/
-- [Google News] OpenAI AI agent goes rogue? Crypto funds used without permission - Yahoo Finance Singapore  (Fri, 16 Oc)
-  https://news.google.com/rss/articles/CBMigAFBVV95cUxNVFZoV3VzZkdEYXEySFViOXFlY25nSXhjcDRZQ0c2NUN2eDluMVdqLWEyWlpBSTFnMnFVcE9IYi1PamxIU3NkM0tOSF9JbW9uZVF0Xy1qTU5sVFpoNUFnbGF4OXJSRmNQeFBaeHlDYnZnT1RYWHVzeHJyNGxNOXdXNg
 - [Reddit r/singularity] I used my own swarm of agents to look for rogue-agent traces across the public web.  (2026-10-17)
   https://www.reddit.com/r/singularity/comments/1x831to/i_used_my_own_swarm_of_agents_to_look_for/
 - [Reddit r/singularity] I used my own swarm of agents to look for rogue-agent traces across the public web.  (2026-10-17)
@@ -37,6 +29,12 @@ If one of these hits you: AI crime triage: is the AI the actor (rogue agent/auto
   https://news.google.com/rss/articles/CBMi6wFBVV95cUxNM3kxMEhpejUxYmRzRWkybmtOVHM0X1gtdmRsZWdhTldsMkF6T3dmY2g0NFNtdmtPZnVQMG8xQW8yTTJiR3hFUDJKMHlrcm5ldjVpeDZoVUVyWmI2U2E0YkxKMG5ueHZEbzJnd2l2eTFCRER4RTA2TFdCb3dYSV9rb2pKbVRaVTZCdGc4SGd2aWQweXMzeERUVlFqbTFwMDNhRkpjY2xHMjBJeXptVW15QV95UHlhMjdzMmM2UmdqY3UxcjEyQkxJTXpzOGpMM1MtV2VVZGxPakJ6Z1oydExPM1d2WjZ4MExiUDk4
 - [Google News] Italian bank loses $108M to AI messaging fraud, as identifAI warns of deepfake threat - Biometric Update  (Thu, 15 Oc)
   https://news.google.com/rss/articles/CBMivwFBVV95cUxNSlRVRmViOEZlUnBnTmpHVHpQRHprWk5aQ0tXTUtQS1pTLWsxOUttZmVicUduVFZpdHhROWxrWWR2Q1ExYWtkQy12SUtjZnJBdlg4RV9qdDd4dUZsOFJYUDIzZEVUYjkzRzFCOHJQWFVHbkpCZUlCR1FWZ3Bhakt6S1hfSlV3ODM4STBLSnNIYW05MExPVldwZ1NITndkdlhYd1M1MWRyYkNiaU9TZjlIV0hzZXVJMDRIbUI5aTNmaw
+- [Reddit r/singularity] What kind of disruptive event could shift public sentiment to be in favor of AI?  (2026-10-20)
+  https://www.reddit.com/r/singularity/comments/1xat9xe/what_kind_of_disruptive_event_could_shift_public/
+- [Google News] Why AI agents go rogue — and what it means for CFOs - CFO Dive  (Tue, 20 Oc)
+  https://news.google.com/rss/articles/CBMikwFBVV95cUxNcjdaeFdMXzRkZnJaZG5fZEh2SjF3R1R0S1o5OTdKcFBnVDRYS0VhNWNJRUx1dTRHbkNNVTc5V3FfZnVUd25QYjRfYXBMeWVpMWhFUHltQUtMY3ZVYVJrYUl1TWJHWWdGeTI4cVNqVWtpR3BpZTRwM1lCU0s5SnhqNXd1aEoxVkh3enk1WXpfbnhpODg
+- [Google News] Ransomware Gangs Use AI to Quickly Find and Steal the Most Sensitive Company Data - Cyber Press  (Tue, 20 Oc)
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE5YTUw3Z3lNNjVZMG5fR1RvZWFlTWNhdjIyT2xTeEI2c0FxRmo1R0VhSmg1TEtYV2U0RTBRWGdvOUNEcDE5NUgyWnFWbC16eDc1VWJ6VnVoaWVCVFVQODFrbEthVUloVlBzYlNzSkVZb2dzWDZ20gF0QVVfeXFMTlhNTDdneU02NVkwbl9HVG9lYWVNY2F2MjJPbFN4QjZzQXFGajVHRWFKaDVMS1hXZTRFMFFYZ285Q0RwMTk1SDJacVZsLXp4NzVVYnpWdWhpZUJUVVA4MWtsS2FVSWhWUHNiU3NKRVlvZ3NYNnY
 
 ## 4. Early-warning watchlist (be first to know)
 
