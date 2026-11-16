@@ -7,3 +7,9 @@
   - CISA KEV catalog: 10
   - Reddit r/singularity: 4
 - _Generated 2026-11-13 02:42 _
+
+## Week of 2026-11-16
+- New verified incidents: 0
+- Queue: 148 live candidates (0 added this week) | Archive: 3424
+- Hot signals this week: 0
+- _Generated 2026-11-16 09:56 _
