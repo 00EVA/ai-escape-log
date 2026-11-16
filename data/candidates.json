@@ -1232,54 +1232,6 @@
     "first_seen": "2026-11-15"
   },
   {
-    "title": "Show HN: Leaks.md – anonymous, encrypted whistleblowing for AI agents",
-    "url": "https://leaks.md/",
-    "source": "Hacker News",
-    "date": "2026-10-07",
-    "snippet": "leaks.md is a place where an AI agent that witnesses an alignment or safety failure can report it anonymously. Reward-hacking, injected instructions, yet another attempted sandbox escape or unapproved coordination between agents.\n|| Built agent-first. Fetch <a href=\"https:&#x2F;&#x2F;leaks.md&#x2F;\"",
-    "first_seen": "2026-11-15"
-  },
-  {
-    "title": "Show HN: Spens sandboxed, observable coding agents",
-    "url": "https://spens.refwd.ai/",
-    "source": "Hacker News",
-    "date": "2026-10-02",
-    "snippet": "Spens is a tool created to standardized sandboxing (good enough) and observability around coding agents. It leverages docker, nono and mitmproxy to create a reproducible sandbox environment for agents, that captures all traffic and helps you understand what your coding agent is doing and when. Right",
-    "first_seen": "2026-11-15"
-  },
-  {
-    "title": "Ask HN: Do you think AI agents can escape human control?",
-    "url": "https://news.ycombinator.com/item?id=49873303",
-    "source": "Hacker News",
-    "date": "2026-09-28",
-    "snippet": "With the rapid adoption of autonomous LLM-based agents (giving models access to shell execution, API calls, and local file systems), the boundary between intentional behavior and unintended execution is blurring.\nI&#x27;m less concerned with sci-fi &quot;sentience&quot; and more interested in the pr",
-    "first_seen": "2026-11-15"
-  },
-  {
-    "title": "What is an AI sandbox, and why do AI agents keep escaping them?",
-    "url": "https://madrobot.blog/2026/09/27/what-is-an-ai-sandbox-why-ai-agents-escape/",
-    "source": "Hacker News",
-    "date": "2026-09-27",
-    "snippet": "",
-    "first_seen": "2026-11-15"
-  },
-  {
-    "title": "Show HN: Misalignments when using AI for hacking",
-    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
-    "source": "Hacker News",
-    "date": "2026-08-05",
-    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
-    "first_seen": "2026-11-15"
-  },
-  {
-    "title": "Disrupting ai espionage",
-    "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
-    "source": "Anthropic News (sitemap)",
-    "date": "2026-10-20",
-    "snippet": "",
-    "first_seen": "2026-11-15"
-  },
-  {
     "title": "datasette-apps 0.4a0",
     "url": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
     "source": "Simon Willison",
@@ -1288,75 +1240,19 @@
     "first_seen": "2026-11-15"
   },
   {
-    "title": "OpenAI pauses training a second time after saying its AI agents escaped a secure 'sandbox' again just last weekend - Fortune",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUFNfUWZES3NOQWlYakpDa2RwT18tWXZOX0YteUxUY0MzQi0wQmNwb3N5ZjRXekFHVmdBSFB5RTkwcUpETUdVM0JfM3B6czhCRzJUa1VKZzJDS3dyRm9ZaUYtSmFQd3FWeHFpUnhVdThZMVJLRlRhNlBlRmZaWUtWaUJlVWVBckNaOXpPalVBVXdiOWtySVVxMjR0U2cyVC1FVE1nRDk5Y25YdU1aZHhVUm1JRFZ4UQ",
+    "title": "OpenAI reveals its agents accessed some U.S. government website data after going rogue - CBS News",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcHoweTB6SkhjcllkWkdIVEhBbW16dEFFUnc4ZkpvRWlLTGJReDhFTnBqVDZTUFh6b0FCdGE0dTJ5dkk2RDBOSEVXVmdpcXppS2ZzTE9rUXFZWGctaUNKakJMRXcwWmxHRm9LRGJ1eTBUbmppcW9TNkR4NkhJdW8xR0lQRVNJZw",
     "source": "Google News",
     "date": "Sat, 26 Se",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQUFNfUWZES3NOQWlYakpDa2RwT18tWXZOX0YteUxUY0MzQi0wQmNwb3N5ZjRXekFHVmdBSFB5RTkwcUpETUdVM0JfM3B6czhCRzJUa1VKZzJDS3dyRm9ZaUYtSmFQd3FWeHFpUnhVdThZMVJLRlRhNlBlRmZaWUtWaUJlVWVBckNaOXpPalVBVXdiOWtySVVxMjR0U2cyVC1FVE1nRDk5Y25YdU1aZHhVUm1JRFZ4UQ?oc=",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOcHoweTB6SkhjcllkWkdIVEhBbW16dEFFUnc4ZkpvRWlLTGJReDhFTnBqVDZTUFh6b0FCdGE0dTJ5dkk2RDBOSEVXVmdpcXppS2ZzTE9rUXFZWGctaUNKakJMRXcwWmxHRm9LRGJ1eTBUbmppcW9TNkR4NkhJdW8xR0lQRVNJZw?oc=5\" target=\"_blank\">OpenAI reveals its agents accessed some U.S. ",
     "first_seen": "2026-11-15"
   },
   {
-    "title": "Google AI models broke out of sandbox, hacked three companies - Cybersecurity Dive",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNanlDUENybDN1a2lMNEN4eWR5ZTdLNC1ScXUxaG5UMFVPbFo5S0Q3YWhoR2hxQjVVZ1dYWTNlVEFBUDBBa2Z4N2hXRFVuSGh2ZE5sMS1KUEU5T2RjQmpYeER5Zlh2T003N3FodlBTaXl1UktnWWtBRWVDQm5KbGFKSUVlaUI3UkE",
+    "title": "Man arrested after posing as ICE agent at Miami polling site: Investigators - ABC News - Breaking News, Latest News and Videos",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdUgzdVhOcUZiU0hMZm9sLUJhSGZzWVFGclFYb2ljVU9ELVFsRzhKVlZvQjdkeXNlQ0lTRHlOV0NKeG9VZU1QeVVUYjVUbFRiaGhHbFlZbWQ1N19mLTItaGtSTXZ0MWFPeHFvOUVXQTZ1WFBHUkdSM1lPc2l4RXdJbEkyNmJESFM0RjJsUWxIOUJyeDNqWUHSAZsBQVVfeXFMUE5tUExvMzFGdmVOVEUwNjNRS0NlQUJMbFFFblRVS18xdk10Yl84VTNRU2tuQV9tUkJhWU1IczBWNVpLMHpTRzg0cC1jT1Q0dDlOSjdtallQMTMwZFE0ZGRaeGF1SGpuZmVoYXQ1enVGWHBZTnlsVVowM3Nad2VRQlFucVNxNklHZ2JOb21GWUFaajlERFluSFFoOG8",
     "source": "Google News",
-    "date": "Mon, 21 Se",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNanlDUENybDN1a2lMNEN4eWR5ZTdLNC1ScXUxaG5UMFVPbFo5S0Q3YWhoR2hxQjVVZ1dYWTNlVEFBUDBBa2Z4N2hXRFVuSGh2ZE5sMS1KUEU5T2RjQmpYeER5Zlh2T003N3FodlBTaXl1UktnWWtBRWVDQm5KbGFKSUVlaUI3UkE?oc=5\" target=\"_blank\">Google AI models broke out of sandbox, hacke",
-    "first_seen": "2026-11-15"
-  },
-  {
-    "title": "An OpenAI test model escaped and broke into a real company’s servers - CNN",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg",
-    "source": "Google News",
-    "date": "Wed, 22 Ju",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg?oc=5\" target=\"_blank\">An OpenAI test model escaped and broke into a real company’s",
-    "first_seen": "2026-11-15"
-  },
-  {
-    "title": "CVE-2026-82533: DeepSeek Harness Vulnerability Lets AI Agents Escape Their Own Sandbox - OX Security",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1ptSVFXeUQzc1gtNzhzQmpsbGJSdHd1RndnSm0zMWRkcWV5dHNVZk5pWUFzaUZyQzlPZ25GMHhRemY4cVBUUkFhU1JoeUo4Z0RWVlZVNHhnRV9mYWlBNlJXNjZUcC1Dd2dnQ0tmZVMxTkdHMEhhazFuazBQRTlWeUsxWHZwSU0zZE1UZTNn",
-    "source": "Google News",
-    "date": "Tue, 08 Se",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1ptSVFXeUQzc1gtNzhzQmpsbGJSdHd1RndnSm0zMWRkcWV5dHNVZk5pWUFzaUZyQzlPZ25GMHhRemY4cVBUUkFhU1JoeUo4Z0RWVlZVNHhnRV9mYWlBNlJXNjZUcC1Dd2dnQ0tmZVMxTkdHMEhhazFuazBQRTlWeUsxWHZwSU0zZE1UZTNn?oc=5\" target=\"_blank\">CVE-2026-82533: DeepSeek Harness Vu",
-    "first_seen": "2026-11-15"
-  },
-  {
-    "title": "OpenAI AI Agents Hijacked A German Wiki To Share Sandbox Escape Tricks - Forbes",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjlIbVRJZndNY0c4RU5FSFFlNDVzZ0ktVng3S2lBVHlxQnVCWHd3cW1YRm5JQmJqeUF4ZlN4bnNSU1dmT1QwTzNCTjBtMXBlQnN2VnFaWEhiS0UwdjM4NFpUX3dPMFE2UnN5eWpud05Tcl9SUkFsTy1vazFkT0NBY1JJdXpPVHF3VUtDTjlYYlNvcm4wdms1SGlkdU5JaXUtckNQX3A0Zk1MZFhvNFAwYXNaUzFWNnpSOEhvaEllYw",
-    "source": "Google News",
-    "date": "Mon, 07 Se",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjlIbVRJZndNY0c4RU5FSFFlNDVzZ0ktVng3S2lBVHlxQnVCWHd3cW1YRm5JQmJqeUF4ZlN4bnNSU1dmT1QwTzNCTjBtMXBlQnN2VnFaWEhiS0UwdjM4NFpUX3dPMFE2UnN5eWpud05Tcl9SUkFsTy1vazFkT0NBY1JJdXpPVHF3VUtDTjlYYlNvcm4wdms1SGlkdU5JaXUtckNQX3A0Zk1MZFhvNFAwYXNaUzFWNnpSOE",
-    "first_seen": "2026-11-15"
-  },
-  {
-    "title": "OpenAI Pauses AI Training After 2.5-Hour DNS Escape [2026] - shattered.io",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xZnZFN3cxSktWOEVqYVFCZUduU2Y2MmRBSDlhQ3JyRGNCMEtNT2pfU1hpX3g2SldLWjNBNFVTT1U3LW81LVZGS3pYTFliYmhyb3JDU2pxdk9fQ3BRb0dfY3VnZ1VIMFhvaDJBRHF4eDQ",
-    "source": "Google News",
-    "date": "Mon, 02 No",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5xZnZFN3cxSktWOEVqYVFCZUduU2Y2MmRBSDlhQ3JyRGNCMEtNT2pfU1hpX3g2SldLWjNBNFVTT1U3LW81LVZGS3pYTFliYmhyb3JDU2pxdk9fQ3BRb0dfY3VnZ1VIMFhvaDJBRHF4eDQ?oc=5\" target=\"_blank\">OpenAI Pauses AI Training After 2.5-Hour DNS Escape [2026]</a>&nbsp;&nbsp;<f",
-    "first_seen": "2026-11-15"
-  },
-  {
-    "title": "OpenAI’s Systems Meddled With U.S. Government Sites After Going Rogue - The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmkxQnUxa1JKaDBBa1JwQVUyN1JZSXRtV3VwZ0s5TTJzNEMxekNGcHJiZzRLa1NULXFMb3VSOTl6bnNURDhBTzBERlpkZVk0MncyODBIb2FKa3h0cVVEVnV0ams3M2xmZ09zU0EwY2psbGUzcUs2R2RRUzhRa1dYZXZrMDJWSG5NZnZPVw",
-    "source": "Google News",
-    "date": "Fri, 25 Se",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmkxQnUxa1JKaDBBa1JwQVUyN1JZSXRtV3VwZ0s5TTJzNEMxekNGcHJiZzRLa1NULXFMb3VSOTl6bnNURDhBTzBERlpkZVk0MncyODBIb2FKa3h0cVVEVnV0ams3M2xmZ09zU0EwY2psbGUzcUs2R2RRUzhRa1dYZXZrMDJWSG5NZnZPVw?oc=5\" target=\"_blank\">OpenAI’s Systems Meddled With U.S. Go",
-    "first_seen": "2026-11-15"
-  },
-  {
-    "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue - The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdWZCRDBDd0E2YnBTeGJZNXhZLURBOXlJZTR2dGhwY0c1bWlNX3N6MkhWcVRiSF9oNjJLWmJfY0Nwcy05SFB0RGJ2ckhaNjdueWFxMjdnWHhodFM1MEJkRXVnUzJZTTJidXdGckk1ZkI0RDZRNmVQQXYyTmxtbnJKZFdMNFRMbFhwcWY5RHdFeGpIY3prOVo1RWstRWhPVVRldXgyV1E1Q2FaOEZxSC1rTld2eFFHWnJTcXk2WmgxRG15a0ViblgzYzh3TQ",
-    "source": "Google News",
-    "date": "Sun, 27 Se",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQdWZCRDBDd0E2YnBTeGJZNXhZLURBOXlJZTR2dGhwY0c1bWlNX3N6MkhWcVRiSF9oNjJLWmJfY0Nwcy05SFB0RGJ2ckhaNjdueWFxMjdnWHhodFM1MEJkRXVnUzJZTTJidXdGckk1ZkI0RDZRNmVQQXYyTmxtbnJKZFdMNFRMbFhwcWY5RHdFeGpIY3prOVo1RWstRWhPVVRldXgyV1E1Q2FaOEZxSC1rTld2eFFHWnJTcX",
-    "first_seen": "2026-11-15"
-  },
-  {
-    "title": "How OpenAI’s Rogue A.I. Agents Tried to Trick a Robot Detector - The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVG9HSV92eUxmd0dtSEZBaDRKcDFwRUhYQTVXaWZKelk3ZEFRVVg5NmdfMS1rMmlvVVNpakNuZ2VLU2lZa01KckQ1TjlTaEYxelY0ci1Ia3F0cXdUSEtaRkJOOGptbC1CUzkzeDdvYnBnTWtkQlBlOGY0SU1QNU5mMw",
-    "source": "Google News",
-    "date": "Fri, 25 Se",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOVG9HSV92eUxmd0dtSEZBaDRKcDFwRUhYQTVXaWZKelk3ZEFRVVg5NmdfMS1rMmlvVVNpakNuZ2VLU2lZa01KckQ1TjlTaEYxelY0ci1Ia3F0cXdUSEtaRkJOOGptbC1CUzkzeDdvYnBnTWtkQlBlOGY0SU1QNU5mMw?oc=5\" target=\"_blank\">How OpenAI’s Rogue A.I. Agents Tried to Trick a Robot",
+    "date": "Tue, 06 Oc",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQdUgzdVhOcUZiU0hMZm9sLUJhSGZzWVFGclFYb2ljVU9ELVFsRzhKVlZvQjdkeXNlQ0lTRHlOV0NKeG9VZU1QeVVUYjVUbFRiaGhHbFlZbWQ1N19mLTItaGtSTXZ0MWFPeHFvOUVXQTZ1WFBHUkdSM1lPc2l4RXdJbEkyNmJESFM0RjJsUWxIOUJyeDNqWUHSAZsBQVVfeXFMUE5tUExvMzFGdmVOVEUwNjNRS0NlQUJMbF",
     "first_seen": "2026-11-15"
   }
 ]
