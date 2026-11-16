@@ -1198,5 +1198,21 @@
     "date": "2026-11-16",
     "snippet": "Microsoft's worldwide 365 and Outlook outage had real-world consequences after it cut off email alerts for a German hotel's pool safety system. The German outlet Westdeutscher Rundfunk (WDR) said several people were injured at a Phantasialand hotel on Friday after its email system failed to deliver ",
     "first_seen": "2026-11-16"
+  },
+  {
+    "title": "California is suing OpenAI over its 'rogue' AI agent hack",
+    "url": "https://calmatters.org/economy/technology/2026/11/california-is-suing-openai-over-hugging-face-hack/",
+    "source": "Hacker News",
+    "date": "2026-11-16",
+    "snippet": "",
+    "first_seen": "2026-11-16"
+  },
+  {
+    "title": "California sues OpenAI over rogue AI hacking incidents",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+    "source": "The Verge",
+    "date": "2026-11-16",
+    "snippet": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit on Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper ove",
+    "first_seen": "2026-11-16"
   }
 ]
