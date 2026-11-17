@@ -1286,5 +1286,13 @@
     "date": "2026-11-17",
     "snippet": "At 9AM last Thursday, everything seemed normal. Microsoft employees were arriving on campus, ready for a regular day of emails and meetings. But barely an hour later, one of Microsoft's worst outages in history started to unfold, leaving employees, businesses, and many governments without access to ",
     "first_seen": "2026-11-17"
+  },
+  {
+    "title": "CISA KEV: Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-115731",
+    "source": "CISA KEV catalog",
+    "date": "2026-11-17",
+    "snippet": "CVE-2026-115731 | Perforce Puppet Enterprise | Perforce Puppet Enterprise contains a deserialization of untrusted data vulnerability in Puppet’s report-processing code that allows a client with any CA-signed agent certificate to execute arbitrary code on the Puppet Server as the service user by submitting a report containing a crafted rich-data ",
+    "first_seen": "2026-11-17"
   }
 ]
