@@ -1270,5 +1270,21 @@
     "date": "Tue, 17 No",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE52T0dtTGlteW04Z0pHV1JyeGxrWGp3Q0o5R0xyT0xuYV91ZmZFS25HaVhsVXNxVUdyZ2xtYTB2bnlLdzZTQU9fN3ZrVXdORlNOejhMTTBfdm5ad08tRlNyM1FJcGhudXN1VVFRZXktOTFyaTh1d1pKeUQ2OA?oc=5\" target=\"_blank\">California Hits OpenAI With Lawsuit Over AI Sandbox Escape</a",
     "first_seen": "2026-11-17"
+  },
+  {
+    "title": "Break My Guardrails – AI sandbox escape challenge",
+    "url": "https://playground.haikeilabs.com/",
+    "source": "Hacker News",
+    "date": "2026-11-17",
+    "snippet": "",
+    "first_seen": "2026-11-17"
+  },
+  {
+    "title": "Inside Microsoft’s giant Outlook outage",
+    "url": "https://www.theverge.com/tech/1035364/microsoft-outlook-outage-notepad",
+    "source": "The Verge",
+    "date": "2026-11-17",
+    "snippet": "At 9AM last Thursday, everything seemed normal. Microsoft employees were arriving on campus, ready for a regular day of emails and meetings. But barely an hour later, one of Microsoft's worst outages in history started to unfold, leaving employees, businesses, and many governments without access to ",
+    "first_seen": "2026-11-17"
   }
 ]
