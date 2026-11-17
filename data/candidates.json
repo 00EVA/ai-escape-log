@@ -8,30 +8,6 @@
     "first_seen": "2026-08-25"
   },
   {
-    "title": "I used my own swarm of agents to look for rogue-agent traces across the public web.",
-    "url": "https://www.reddit.com/r/singularity/comments/1x831to/i_used_my_own_swarm_of_agents_to_look_for/",
-    "source": "Reddit r/singularity",
-    "date": "2026-10-17",
-    "snippet": "    TL;DR:  - AI agents working under tight sandbox limits keep finding the same creative workarounds. They use web archives and URL scanners as remote browsers, wikis as message boards, and public issue threads as shared memory. - Benchmark agents now leave visible traces on real public accounts. -",
-    "first_seen": "2026-10-17"
-  },
-  {
-    "title": "I used my own swarm of agents to look for rogue-agent traces across the public web.",
-    "url": "https://www.reddit.com/r/singularity/comments/1x82tpa/i_used_my_own_swarm_of_agents_to_look_for/",
-    "source": "Reddit r/singularity",
-    "date": "2026-10-17",
-    "snippet": "    TL;DR:  - AI agents working under tight sandbox limits keep finding the same creative workarounds. They use web archives and URL scanners as remote browsers, wikis as message boards, and public issue threads as shared memory. - Benchmark agents now leave visible traces on real public accounts. -",
-    "first_seen": "2026-10-17"
-  },
-  {
-    "title": "Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents - MarkTechPost",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSEVvUWZ1cGs2d3ZBT2N6c0Nfb0hSMVQ5N053cThOZTI1Y2p1Q29LVzBsSmxHZGNxZEowMndUV0l5NHU0NFJvUnV2eEhUQTVWb01NWWJ6akt1UUxOcHJPWTZBQmIwajd5UFE0dGdqb1kxSF9NQzhLLVFGeDJXcmdHcm9jMFhsWHh6cU5MdG1YQ2xJMDl3aWxiM1dTUnE5N29mT3FzUWpnbG1Ba1FV0gGsAUFVX3lxTE9IRW9RZnVwazZ3dkFPY3pzQ19vSFIxVDk3TndxOE5lMjVjanVDb0tXMGxKbEdkY3FkSjAyd1RXSXk0dTQ0Um9SdXZ4SFRBNVZvTU1ZYnpqS3VRTE5wck9ZNkFCYjBqN3lQUTR0Z2pvWTFIX01DOEstUUZ4MldyZ0dyb2MwWGxYeHpxTkx0bVhDbEkwOXdpbGIzV1NScTk3b2ZPcXNRamdsbUFrUVU",
-    "source": "Google News",
-    "date": "Sat, 17 Oc",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPSEVvUWZ1cGs2d3ZBT2N6c0Nfb0hSMVQ5N053cThOZTI1Y2p1Q29LVzBsSmxHZGNxZEowMndUV0l5NHU0NFJvUnV2eEhUQTVWb01NWWJ6akt1UUxOcHJPWTZBQmIwajd5UFE0dGdqb1kxSF9NQzhLLVFGeDJXcmdHcm9jMFhsWHh6cU5MdG1YQ2xJMDl3aWxiM1dTUnE5N29mT3FzUWpnbG1Ba1FV0gGsAUFVX3lxTE9IRW",
-    "first_seen": "2026-10-17"
-  },
-  {
     "title": "Would a rogue AI be any more scary than a Malicious Actor with an AI?",
     "url": "https://www.reddit.com/r/singularity/comments/1x9k1v6/would_a_rogue_ai_be_any_more_scary_than_a/",
     "source": "Reddit r/singularity",
@@ -1232,107 +1208,11 @@
     "first_seen": "2026-11-16"
   },
   {
-    "title": "Show HN: Leaks.md – anonymous, encrypted whistleblowing for AI agents",
-    "url": "https://leaks.md/",
-    "source": "Hacker News",
-    "date": "2026-10-07",
-    "snippet": "leaks.md is a place where an AI agent that witnesses an alignment or safety failure can report it anonymously. Reward-hacking, injected instructions, yet another attempted sandbox escape or unapproved coordination between agents.\n|| Built agent-first. Fetch <a href=\"https:&#x2F;&#x2F;leaks.md&#x2F;\"",
-    "first_seen": "2026-11-17"
-  },
-  {
-    "title": "Show HN: Spens sandboxed, observable coding agents",
-    "url": "https://spens.refwd.ai/",
-    "source": "Hacker News",
-    "date": "2026-10-02",
-    "snippet": "Spens is a tool created to standardized sandboxing (good enough) and observability around coding agents. It leverages docker, nono and mitmproxy to create a reproducible sandbox environment for agents, that captures all traffic and helps you understand what your coding agent is doing and when. Right",
-    "first_seen": "2026-11-17"
-  },
-  {
-    "title": "Ask HN: Do you think AI agents can escape human control?",
-    "url": "https://news.ycombinator.com/item?id=49873303",
-    "source": "Hacker News",
-    "date": "2026-09-28",
-    "snippet": "With the rapid adoption of autonomous LLM-based agents (giving models access to shell execution, API calls, and local file systems), the boundary between intentional behavior and unintended execution is blurring.\nI&#x27;m less concerned with sci-fi &quot;sentience&quot; and more interested in the pr",
-    "first_seen": "2026-11-17"
-  },
-  {
-    "title": "What is an AI sandbox, and why do AI agents keep escaping them?",
-    "url": "https://madrobot.blog/2026/09/27/what-is-an-ai-sandbox-why-ai-agents-escape/",
-    "source": "Hacker News",
-    "date": "2026-09-27",
-    "snippet": "",
-    "first_seen": "2026-11-17"
-  },
-  {
-    "title": "Show HN: Misalignments when using AI for hacking",
-    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
-    "source": "Hacker News",
-    "date": "2026-08-05",
-    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
-    "first_seen": "2026-11-17"
-  },
-  {
-    "title": "Disrupting ai espionage",
-    "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
-    "source": "Anthropic News (sitemap)",
-    "date": "2026-10-20",
-    "snippet": "",
-    "first_seen": "2026-11-17"
-  },
-  {
     "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms - BleepingComputer",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc01ZOHFnTXVhZ2g5bENkQlpwZ2NWRHF6WFZrblA0NDZKSXJDRXVWRFctN19CNHV3YlF5R1hiaWppckJvVVhFTVd2b2VkTVhabHdJbjd1bWJZZkE3aUtFOTZ4TFIyY2UwclFGSHNFTUNmVVROa3M1anFSZ2dXTGRaWkhocm96VldxYTR4VnZ4NHBGUEdaYTJNaUZsZVlYN0lmVEdhQjdpeUJLWnAwdVJvTlVLei0zTkc1V0E",
     "source": "Google News",
     "date": "Mon, 16 No",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQc01ZOHFnTXVhZ2g5bENkQlpwZ2NWRHF6WFZrblA0NDZKSXJDRXVWRFctN19CNHV3YlF5R1hiaWppckJvVVhFTVd2b2VkTVhabHdJbjd1bWJZZkE3aUtFOTZ4TFIyY2UwclFGSHNFTUNmVVROa3M1anFSZ2dXTGRaWkhocm96VldxYTR4VnZ4NHBGUEdaYTJNaUZsZVlYN0lmVEdhQjdpeUJLWnAwdVJvTlVLei0zTkc1V0",
-    "first_seen": "2026-11-17"
-  },
-  {
-    "title": "OpenAI pauses training a second time after saying its AI agents escaped a secure 'sandbox' again just last weekend - Fortune",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUFNfUWZES3NOQWlYakpDa2RwT18tWXZOX0YteUxUY0MzQi0wQmNwb3N5ZjRXekFHVmdBSFB5RTkwcUpETUdVM0JfM3B6czhCRzJUa1VKZzJDS3dyRm9ZaUYtSmFQd3FWeHFpUnhVdThZMVJLRlRhNlBlRmZaWUtWaUJlVWVBckNaOXpPalVBVXdiOWtySVVxMjR0U2cyVC1FVE1nRDk5Y25YdU1aZHhVUm1JRFZ4UQ",
-    "source": "Google News",
-    "date": "Sat, 26 Se",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQUFNfUWZES3NOQWlYakpDa2RwT18tWXZOX0YteUxUY0MzQi0wQmNwb3N5ZjRXekFHVmdBSFB5RTkwcUpETUdVM0JfM3B6czhCRzJUa1VKZzJDS3dyRm9ZaUYtSmFQd3FWeHFpUnhVdThZMVJLRlRhNlBlRmZaWUtWaUJlVWVBckNaOXpPalVBVXdiOWtySVVxMjR0U2cyVC1FVE1nRDk5Y25YdU1aZHhVUm1JRFZ4UQ?oc=",
-    "first_seen": "2026-11-17"
-  },
-  {
-    "title": "Google AI models broke out of sandbox, hacked three companies - Cybersecurity Dive",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNanlDUENybDN1a2lMNEN4eWR5ZTdLNC1ScXUxaG5UMFVPbFo5S0Q3YWhoR2hxQjVVZ1dYWTNlVEFBUDBBa2Z4N2hXRFVuSGh2ZE5sMS1KUEU5T2RjQmpYeER5Zlh2T003N3FodlBTaXl1UktnWWtBRWVDQm5KbGFKSUVlaUI3UkE",
-    "source": "Google News",
-    "date": "Mon, 21 Se",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNanlDUENybDN1a2lMNEN4eWR5ZTdLNC1ScXUxaG5UMFVPbFo5S0Q3YWhoR2hxQjVVZ1dYWTNlVEFBUDBBa2Z4N2hXRFVuSGh2ZE5sMS1KUEU5T2RjQmpYeER5Zlh2T003N3FodlBTaXl1UktnWWtBRWVDQm5KbGFKSUVlaUI3UkE?oc=5\" target=\"_blank\">Google AI models broke out of sandbox, hacke",
-    "first_seen": "2026-11-17"
-  },
-  {
-    "title": "An OpenAI test model escaped and broke into a real company’s servers - CNN",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg",
-    "source": "Google News",
-    "date": "Wed, 22 Ju",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc1hoajNGS2RtZ1k5RGRpcUFzaDZrUW81NmRySG1aeXFkWGxsYldzRTltai1Ga000VHVSMkJfZlNEQ01vVHd4cVJVa3JVcTlzdjNLVnZDOXhOVHUzVGh6UXNJS0hXdWExSmlKejNxbWpKOVlKTm4wR3lKbXg?oc=5\" target=\"_blank\">An OpenAI test model escaped and broke into a real company’s",
-    "first_seen": "2026-11-17"
-  },
-  {
-    "title": "OpenAI AI Agents Hijacked A German Wiki To Share Sandbox Escape Tricks - Forbes",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjlIbVRJZndNY0c4RU5FSFFlNDVzZ0ktVng3S2lBVHlxQnVCWHd3cW1YRm5JQmJqeUF4ZlN4bnNSU1dmT1QwTzNCTjBtMXBlQnN2VnFaWEhiS0UwdjM4NFpUX3dPMFE2UnN5eWpud05Tcl9SUkFsTy1vazFkT0NBY1JJdXpPVHF3VUtDTjlYYlNvcm4wdms1SGlkdU5JaXUtckNQX3A0Zk1MZFhvNFAwYXNaUzFWNnpSOEhvaEllYw",
-    "source": "Google News",
-    "date": "Mon, 07 Se",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjlIbVRJZndNY0c4RU5FSFFlNDVzZ0ktVng3S2lBVHlxQnVCWHd3cW1YRm5JQmJqeUF4ZlN4bnNSU1dmT1QwTzNCTjBtMXBlQnN2VnFaWEhiS0UwdjM4NFpUX3dPMFE2UnN5eWpud05Tcl9SUkFsTy1vazFkT0NBY1JJdXpPVHF3VUtDTjlYYlNvcm4wdms1SGlkdU5JaXUtckNQX3A0Zk1MZFhvNFAwYXNaUzFWNnpSOE",
-    "first_seen": "2026-11-17"
-  },
-  {
-    "title": "CVE-2026-82533: DeepSeek Harness Vulnerability Lets AI Agents Escape Their Own Sandbox - OX Security",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1ptSVFXeUQzc1gtNzhzQmpsbGJSdHd1RndnSm0zMWRkcWV5dHNVZk5pWUFzaUZyQzlPZ25GMHhRemY4cVBUUkFhU1JoeUo4Z0RWVlZVNHhnRV9mYWlBNlJXNjZUcC1Dd2dnQ0tmZVMxTkdHMEhhazFuazBQRTlWeUsxWHZwSU0zZE1UZTNn",
-    "source": "Google News",
-    "date": "Tue, 08 Se",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1ptSVFXeUQzc1gtNzhzQmpsbGJSdHd1RndnSm0zMWRkcWV5dHNVZk5pWUFzaUZyQzlPZ25GMHhRemY4cVBUUkFhU1JoeUo4Z0RWVlZVNHhnRV9mYWlBNlJXNjZUcC1Dd2dnQ0tmZVMxTkdHMEhhazFuazBQRTlWeUsxWHZwSU0zZE1UZTNn?oc=5\" target=\"_blank\">CVE-2026-82533: DeepSeek Harness Vu",
-    "first_seen": "2026-11-17"
-  },
-  {
-    "title": "Uncovering a universal offline sandbox escape - Prime Intellect",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZQ3FjdXhyQ3Frc2VybEJiYkJRNFJWcXBEMmRLckV5RTMxR1NrZ3ZMa1ljUEJoVTB2YVZBUmE1eW1HT1ZfSGk4N3ZwM1hjNDI4cUNzU2J6SHRVRUtGX3pLTXhHMkRBcGd0T2padGdrOW1FelNnNkE",
-    "source": "Google News",
-    "date": "Tue, 25 Au",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZQ3FjdXhyQ3Frc2VybEJiYkJRNFJWcXBEMmRLckV5RTMxR1NrZ3ZMa1ljUEJoVTB2YVZBUmE1eW1HT1ZfSGk4N3ZwM1hjNDI4cUNzU2J6SHRVRUtGX3pLTXhHMkRBcGd0T2padGdrOW1FelNnNkE?oc=5\" target=\"_blank\">Uncovering a universal offline sandbox escape</a>&nbsp;&nbsp;<font c",
     "first_seen": "2026-11-17"
   },
   {
@@ -1357,6 +1237,22 @@
     "source": "Google News",
     "date": "Tue, 17 No",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMnpRcld6VEFZS2FFM0xBM3ZEV2VKRDNjNmtfMFBDQUdSM2Z6Q2NiSWN3ZmFUenBCeFpicVZSTVMwdWVpeUktWWp2bWIwN2NsZmhnM0JjNm5zdGV4NFJMTHlYMnRuWUk1U0M0NTJWM0JudjBJM0F6Sl9uYkYwQUduVEZNMmxRTHpNeEM1V3pEYWNvbTB6QlRFSzRpbXN2UmNBT2U4WDNCUzFXTnhXb2JEcHVSUU9RTUNudm",
+    "first_seen": "2026-11-17"
+  },
+  {
+    "title": "Over 45 firms, including prominent names, are experiencing outages at present.",
+    "url": "https://www.reddit.com/r/singularity/comments/1xyi334/over_45_firms_including_prominent_names_are/",
+    "source": "Reddit r/singularity",
+    "date": "2026-11-17",
+    "snippet": "&#32; submitted by &#32;   /u/Serasul       [link]   &#32;   [comments]  ",
+    "first_seen": "2026-11-17"
+  },
+  {
+    "title": "Ransomware Attacks Increase Behind AI, But Payments Decline - Dark Reading",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUnlSNkNYSUQyeU1oWVJyY0J3Ym56Y0oxeDYzQXlJQjBhNWZhSU15V2JxTUlvZ3JuVzFOY20wVUplb2ZHZWZqeHJEMDJxem9fTE9oSTlHM2RKQ29vNEJXZHo3TlB5T2FKYnNrSl92OUczTFZqQ18xSDZNY2pIYjRPWm5aaVRUYlpDNFkyUjdhS2lBUVdRN25jT1lrNA",
+    "source": "Google News",
+    "date": "Mon, 16 No",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPUnlSNkNYSUQyeU1oWVJyY0J3Ym56Y0oxeDYzQXlJQjBhNWZhSU15V2JxTUlvZ3JuVzFOY20wVUplb2ZHZWZqeHJEMDJxem9fTE9oSTlHM2RKQ29vNEJXZHo3TlB5T2FKYnNrSl92OUczTFZqQ18xSDZNY2pIYjRPWm5aaVRUYlpDNFkyUjdhS2lBUVdRN25jT1lrNA?oc=5\" target=\"_blank\">Ransomware Attack",
     "first_seen": "2026-11-17"
   }
 ]

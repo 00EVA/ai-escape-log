@@ -1,6 +1,6 @@
 # AI Incident Briefing — 2026-11-17
 
-_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 170_
+_Verified incidents in last 14d: 0 | AI-crime/chaos flagged: 0 | fresh candidates queued: 157_
 
 ## 1. Latest verified incidents
 
@@ -11,14 +11,10 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=170)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=157)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [Reddit r/singularity] I used my own swarm of agents to look for rogue-agent traces across the public web.  (2026-10-17)
-  https://www.reddit.com/r/singularity/comments/1x831to/i_used_my_own_swarm_of_agents_to_look_for/
-- [Reddit r/singularity] I used my own swarm of agents to look for rogue-agent traces across the public web.  (2026-10-17)
-  https://www.reddit.com/r/singularity/comments/1x82tpa/i_used_my_own_swarm_of_agents_to_look_for/
 - [Reddit r/singularity] Would a rogue AI be any more scary than a Malicious Actor with an AI?  (2026-10-19)
   https://www.reddit.com/r/singularity/comments/1x9k1v6/would_a_rogue_ai_be_any_more_scary_than_a/
 - [Google News] OpenAI discloses four more rogue incidents involving financial, medical, and government data - Fortune  (Fri, 16 Oc)
@@ -35,6 +31,10 @@ If one of these hits you: AI crime triage: is the AI the actor (rogue agent/auto
   https://news.google.com/rss/articles/CBMikwFBVV95cUxNcjdaeFdMXzRkZnJaZG5fZEh2SjF3R1R0S1o5OTdKcFBnVDRYS0VhNWNJRUx1dTRHbkNNVTc5V3FfZnVUd25QYjRfYXBMeWVpMWhFUHltQUtMY3ZVYVJrYUl1TWJHWWdGeTI4cVNqVWtpR3BpZTRwM1lCU0s5SnhqNXd1aEoxVkh3enk1WXpfbnhpODg
 - [Google News] Ransomware Gangs Use AI to Quickly Find and Steal the Most Sensitive Company Data - Cyber Press  (Tue, 20 Oc)
   https://news.google.com/rss/articles/CBMidEFVX3lxTE5YTUw3Z3lNNjVZMG5fR1RvZWFlTWNhdjIyT2xTeEI2c0FxRmo1R0VhSmg1TEtYV2U0RTBRWGdvOUNEcDE5NUgyWnFWbC16eDc1VWJ6VnVoaWVCVFVQODFrbEthVUloVlBzYlNzSkVZb2dzWDZ20gF0QVVfeXFMTlhNTDdneU02NVkwbl9HVG9lYWVNY2F2MjJPbFN4QjZzQXFGajVHRWFKaDVMS1hXZTRFMFFYZ285Q0RwMTk1SDJacVZsLXp4NzVVYnpWdWhpZUJUVVA4MWtsS2FVSWhWUHNiU3NKRVlvZ3NYNnY
+- [Anthropic News (sitemap)] Sabotage evaluations  (2026-10-09)
+  https://www.anthropic.com/research/sabotage-evaluations
+- [Anthropic News (sitemap)] Shade arena sabotage monitoring  (2026-10-08)
+  https://www.anthropic.com/research/shade-arena-sabotage-monitoring
 
 ## 4. Early-warning watchlist (be first to know)
 
