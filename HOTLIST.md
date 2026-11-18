@@ -34,3 +34,7 @@
 - [score 3] **CISA KEV: BerriAI LiteLLM Improper Authentication Vulnerability** (CISA KEV catalog, 2026-09-02)
   https://nvd.nist.gov/vuln/detail/CVE-2026-59822
 
+## 2026-11-18 12:03:49
+- [score 3] **CISA KEV: BerriAI LiteLLM Unprotected Alternate Channel Vulnerability** (CISA KEV catalog, 2026-11-18)
+  https://nvd.nist.gov/vuln/detail/CVE-2026-40217
+

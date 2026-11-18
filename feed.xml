@@ -5,7 +5,15 @@
   <link href="https://00eva.github.io/ai-escape-log/"/>
   <link rel="self" href="https://00eva.github.io/ai-escape-log/feed.xml"/>
   <id>tag:00eva.github.io,2026:/ai-escape-log</id>
-  <updated>2026-09-02T12:00:00Z</updated>
+  <updated>2026-11-18T12:00:00Z</updated>
+  <entry>
+    <id>tag:00eva.github.io,2026:/ai-escape-log/2026-11-18-cisa-kev-berriai-litellm-unprotected-alternate-c</id>
+    <title>CISA KEV: BerriAI LiteLLM Unprotected Alternate Channel Vulnerability</title>
+    <link href="https://nvd.nist.gov/vuln/detail/CVE-2026-40217"/>
+    <updated>2026-11-18T12:00:00Z</updated>
+    <summary>CVE-2026-40217 | BerriAI LiteLLM | BerriAI LiteLLM contains an unprotected alternate channel vulnerability that could allow remote attackers to execute arbitrary code via bytecode rewriting at the /guardrails/test_custom_code URI.</summary>
+    <category term="sandbox-escape"/>
+  </entry>
   <entry>
     <id>tag:00eva.github.io,2026:/ai-escape-log/2026-09-02-cisa-kev-berriai-litellm-improper-authentication</id>
     <title>CISA KEV: BerriAI LiteLLM Improper Authentication Vulnerability</title>
