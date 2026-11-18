@@ -964,5 +964,23 @@
       "human-accepted"
     ],
     "verification": "primary-source"
+  },
+  {
+    "id": "2026-11-18-cisa-kev-berriai-litellm-unprotected-alternate-c",
+    "date": "2026-11-18",
+    "lab": "Unattributed",
+    "model": "",
+    "category": "sandbox-escape",
+    "incident_type": "CISA KEV: BerriAI LiteLLM Unprotected Alternate Channel Vulnerability",
+    "title": "CISA KEV: BerriAI LiteLLM Unprotected Alternate Channel Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-40217",
+    "source": "CISA KEV catalog",
+    "summary": "CVE-2026-40217 | BerriAI LiteLLM | BerriAI LiteLLM contains an unprotected alternate channel vulnerability that could allow remote attackers to execute arbitrary code via bytecode rewriting at the /guardrails/test_custom_code URI.",
+    "status": "auto-promoted: KEV-confirmed AI-infra exploitation",
+    "importance": "high",
+    "tags": [
+      "human-accepted"
+    ],
+    "verification": "primary-source"
   }
 ]
