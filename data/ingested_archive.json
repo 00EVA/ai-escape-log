@@ -35523,5 +35523,135 @@
     "first_seen": "2026-11-18",
     "reason": "duplicate",
     "archived_at": "2026-11-18"
+  },
+  {
+    "title": "OpenAI discloses four more rogue incidents involving financial, medical, and government data - Fortune",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNU5sdFZhc1BfNENtd3BmZnplN0l2alNaTmg1a3g5M1lfQ2dBU2kwWG1CYkhiZ01lUWpUc0JQY1VPOWtpRkQ5OFZrR2E3eU5NanlTbk9tTDA3Z1BXaGRveU9OeUtQMV9fbkJKZ18tV1hPNURaTzQ1b0t6ZjBrdk1oc1pkQVVkLVRkSUIzZEMxRXRGU1hYNHBaMl9oVjQwZzN5akhzeTk4NlVDaGJ1MzJuV2JvZXFNeDRxc29talhBWQ",
+    "source": "Google News",
+    "date": "Fri, 16 Oc",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNNU5sdFZhc1BfNENtd3BmZnplN0l2alNaTmg1a3g5M1lfQ2dBU2kwWG1CYkhiZ01lUWpUc0JQY1VPOWtpRkQ5OFZrR2E3eU5NanlTbk9tTDA3Z1BXaGRveU9OeUtQMV9fbkJKZ18tV1hPNURaTzQ1b0t6ZjBrdk1oc1pkQVVkLVRkSUIzZEMxRXRGU1hYNHBaMl9oVjQwZzN5akhzeTk4NlVDaGJ1MzJuV2JvZXFNeDRxc2",
+    "first_seen": "2026-10-19",
+    "reason": "expired",
+    "archived_at": "2026-11-19"
+  },
+  {
+    "title": "How OpenAI's AI Agents Escaped a Sandbox and Breached Hugging Face - HackerNoon",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeWIwSzFwcVhWZEswcTR6cDNzTlNnSnlUYU9CWm82WnZPdGdSUHNjTXBIQ3BxUXVjQ18wYnA2VlZkd3JJRFI4aVFySjY4aU9ZdHVQLVhfZmNGWHFwRnJJN29Gb0VpcE5FdTZLaUZ2V0JLckhYcGhOc1NUM3pwcjRMRm5oN2pwQ19ZV3BnMGpmZmEyQQ",
+    "source": "Google News",
+    "date": "Mon, 19 Oc",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQeWIwSzFwcVhWZEswcTR6cDNzTlNnSnlUYU9CWm82WnZPdGdSUHNjTXBIQ3BxUXVjQ18wYnA2VlZkd3JJRFI4aVFySjY4aU9ZdHVQLVhfZmNGWHFwRnJJN29Gb0VpcE5FdTZLaUZ2V0JLckhYcGhOc1NUM3pwcjRMRm5oN2pwQ19ZV3BnMGpmZmEyQQ?oc=5\" target=\"_blank\">How OpenAI's AI Agents Escape",
+    "first_seen": "2026-10-19",
+    "reason": "expired",
+    "archived_at": "2026-11-19"
+  },
+  {
+    "title": "AI Facial Recognition Software Leads to False Arrests, Ruined Lives in Florida - Gizmodo",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONEFJS0pjQ1Zuc1hfRHJxeUxVVWd4MnJib0MtUlZJQVMtVUZKYkdlUVd0Xy1SSlBGanpCVENQWFlaT2t3QjNQQkhnMVllY19yUlJ0bzlnUGpicVdKM3g5QlZ0NElUNnd5ZTJCRUxoVm5sVTZLLVUxSVdzUFVDb0FtSlRmeFBaczEzUXpOc2VnalJSMXFXUXJJTmVYRC1JV0Nva3ZJbGhqaVNPb2Vu",
+    "source": "Google News",
+    "date": "Fri, 12 Ju",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxONEFJS0pjQ1Zuc1hfRHJxeUxVVWd4MnJib0MtUlZJQVMtVUZKYkdlUVd0Xy1SSlBGanpCVENQWFlaT2t3QjNQQkhnMVllY19yUlJ0bzlnUGpicVdKM3g5QlZ0NElUNnd5ZTJCRUxoVm5sVTZLLVUxSVdzUFVDb0FtSlRmeFBaczEzUXpOc2VnalJSMXFXUXJJTmVYRC1JV0Nva3ZJbGhqaVNPb2Vu?oc=5\" target=\"_bl",
+    "first_seen": "2026-10-19",
+    "reason": "expired",
+    "archived_at": "2026-11-19"
+  },
+  {
+    "title": "ENISA Threat Landscape 2026 highlights ransomware, vulnerability exploitation, AI-enabled attacks across EU organizations - Industrial Cyber",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNM3kxMEhpejUxYmRzRWkybmtOVHM0X1gtdmRsZWdhTldsMkF6T3dmY2g0NFNtdmtPZnVQMG8xQW8yTTJiR3hFUDJKMHlrcm5ldjVpeDZoVUVyWmI2U2E0YkxKMG5ueHZEbzJnd2l2eTFCRER4RTA2TFdCb3dYSV9rb2pKbVRaVTZCdGc4SGd2aWQweXMzeERUVlFqbTFwMDNhRkpjY2xHMjBJeXptVW15QV95UHlhMjdzMmM2UmdqY3UxcjEyQkxJTXpzOGpMM1MtV2VVZGxPakJ6Z1oydExPM1d2WjZ4MExiUDk4",
+    "source": "Google News",
+    "date": "Wed, 23 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNM3kxMEhpejUxYmRzRWkybmtOVHM0X1gtdmRsZWdhTldsMkF6T3dmY2g0NFNtdmtPZnVQMG8xQW8yTTJiR3hFUDJKMHlrcm5ldjVpeDZoVUVyWmI2U2E0YkxKMG5ueHZEbzJnd2l2eTFCRER4RTA2TFdCb3dYSV9rb2pKbVRaVTZCdGc4SGd2aWQweXMzeERUVlFqbTFwMDNhRkpjY2xHMjBJeXptVW15QV95UHlhMjdzMm",
+    "first_seen": "2026-10-19",
+    "reason": "expired",
+    "archived_at": "2026-11-19"
+  },
+  {
+    "title": "Italian bank loses $108M to AI messaging fraud, as identifAI warns of deepfake threat - Biometric Update",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSlRVRmViOEZlUnBnTmpHVHpQRHprWk5aQ0tXTUtQS1pTLWsxOUttZmVicUduVFZpdHhROWxrWWR2Q1ExYWtkQy12SUtjZnJBdlg4RV9qdDd4dUZsOFJYUDIzZEVUYjkzRzFCOHJQWFVHbkpCZUlCR1FWZ3Bhakt6S1hfSlV3ODM4STBLSnNIYW05MExPVldwZ1NITndkdlhYd1M1MWRyYkNiaU9TZjlIV0hzZXVJMDRIbUI5aTNmaw",
+    "source": "Google News",
+    "date": "Thu, 15 Oc",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNSlRVRmViOEZlUnBnTmpHVHpQRHprWk5aQ0tXTUtQS1pTLWsxOUttZmVicUduVFZpdHhROWxrWWR2Q1ExYWtkQy12SUtjZnJBdlg4RV9qdDd4dUZsOFJYUDIzZEVUYjkzRzFCOHJQWFVHbkpCZUlCR1FWZ3Bhakt6S1hfSlV3ODM4STBLSnNIYW05MExPVldwZ1NITndkdlhYd1M1MWRyYkNiaU9TZjlIV0hzZXVJMDRIbU",
+    "first_seen": "2026-10-19",
+    "reason": "expired",
+    "archived_at": "2026-11-19"
+  },
+  {
+    "title": "Show HN: Leaks.md – anonymous, encrypted whistleblowing for AI agents",
+    "url": "https://leaks.md/",
+    "source": "Hacker News",
+    "date": "2026-10-07",
+    "snippet": "leaks.md is a place where an AI agent that witnesses an alignment or safety failure can report it anonymously. Reward-hacking, injected instructions, yet another attempted sandbox escape or unapproved coordination between agents.\n|| Built agent-first. Fetch <a href=\"https:&#x2F;&#x2F;leaks.md&#x2F;\"",
+    "first_seen": "2026-11-19",
+    "reason": "duplicate",
+    "archived_at": "2026-11-19"
+  },
+  {
+    "title": "Show HN: Spens sandboxed, observable coding agents",
+    "url": "https://spens.refwd.ai/",
+    "source": "Hacker News",
+    "date": "2026-10-02",
+    "snippet": "Spens is a tool created to standardized sandboxing (good enough) and observability around coding agents. It leverages docker, nono and mitmproxy to create a reproducible sandbox environment for agents, that captures all traffic and helps you understand what your coding agent is doing and when. Right",
+    "first_seen": "2026-11-19",
+    "reason": "duplicate",
+    "archived_at": "2026-11-19"
+  },
+  {
+    "title": "Ask HN: Do you think AI agents can escape human control?",
+    "url": "https://news.ycombinator.com/item?id=49873303",
+    "source": "Hacker News",
+    "date": "2026-09-28",
+    "snippet": "With the rapid adoption of autonomous LLM-based agents (giving models access to shell execution, API calls, and local file systems), the boundary between intentional behavior and unintended execution is blurring.\nI&#x27;m less concerned with sci-fi &quot;sentience&quot; and more interested in the pr",
+    "first_seen": "2026-11-19",
+    "reason": "duplicate",
+    "archived_at": "2026-11-19"
+  },
+  {
+    "title": "What is an AI sandbox, and why do AI agents keep escaping them?",
+    "url": "https://madrobot.blog/2026/09/27/what-is-an-ai-sandbox-why-ai-agents-escape/",
+    "source": "Hacker News",
+    "date": "2026-09-27",
+    "snippet": "",
+    "first_seen": "2026-11-19",
+    "reason": "duplicate",
+    "archived_at": "2026-11-19"
+  },
+  {
+    "title": "Show HN: Misalignments when using AI for hacking",
+    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
+    "source": "Hacker News",
+    "date": "2026-08-05",
+    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
+    "first_seen": "2026-11-19",
+    "reason": "duplicate",
+    "archived_at": "2026-11-19"
+  },
+  {
+    "title": "Disrupting ai espionage",
+    "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
+    "source": "Anthropic News (sitemap)",
+    "date": "2026-10-20",
+    "snippet": "",
+    "first_seen": "2026-11-19",
+    "reason": "duplicate",
+    "archived_at": "2026-11-19"
+  },
+  {
+    "title": "Google AI models broke out of sandbox, hacked three companies - Cybersecurity Dive",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNanlDUENybDN1a2lMNEN4eWR5ZTdLNC1ScXUxaG5UMFVPbFo5S0Q3YWhoR2hxQjVVZ1dYWTNlVEFBUDBBa2Z4N2hXRFVuSGh2ZE5sMS1KUEU5T2RjQmpYeER5Zlh2T003N3FodlBTaXl1UktnWWtBRWVDQm5KbGFKSUVlaUI3UkE",
+    "source": "Google News",
+    "date": "Mon, 21 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNanlDUENybDN1a2lMNEN4eWR5ZTdLNC1ScXUxaG5UMFVPbFo5S0Q3YWhoR2hxQjVVZ1dYWTNlVEFBUDBBa2Z4N2hXRFVuSGh2ZE5sMS1KUEU5T2RjQmpYeER5Zlh2T003N3FodlBTaXl1UktnWWtBRWVDQm5KbGFKSUVlaUI3UkE?oc=5\" target=\"_blank\">Google AI models broke out of sandbox, hacke",
+    "first_seen": "2026-11-19",
+    "reason": "duplicate",
+    "archived_at": "2026-11-19"
+  },
+  {
+    "title": "CISA KEV: BerriAI LiteLLM Unprotected Alternate Channel Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-40217",
+    "source": "CISA KEV catalog",
+    "date": "2026-11-18",
+    "snippet": "CVE-2026-40217 | BerriAI LiteLLM | BerriAI LiteLLM contains an unprotected alternate channel vulnerability that could allow remote attackers to execute arbitrary code via bytecode rewriting at the /guardrails/test_custom_code URI.",
+    "first_seen": "2026-11-19",
+    "reason": "duplicate",
+    "archived_at": "2026-11-19"
   }
 ]

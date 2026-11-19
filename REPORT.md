@@ -1,6 +1,6 @@
 # AI Incident Briefing — 2026-11-19
 
-_Verified incidents in last 14d: 1 | AI-crime/chaos flagged: 0 | fresh candidates queued: 168_
+_Verified incidents in last 14d: 1 | AI-crime/chaos flagged: 0 | fresh candidates queued: 164_
 
 ## 1. Latest verified incidents
 
@@ -16,18 +16,10 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=168)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=164)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [Google News] OpenAI discloses four more rogue incidents involving financial, medical, and government data - Fortune  (Fri, 16 Oc)
-  https://news.google.com/rss/articles/CBMivwFBVV95cUxNNU5sdFZhc1BfNENtd3BmZnplN0l2alNaTmg1a3g5M1lfQ2dBU2kwWG1CYkhiZ01lUWpUc0JQY1VPOWtpRkQ5OFZrR2E3eU5NanlTbk9tTDA3Z1BXaGRveU9OeUtQMV9fbkJKZ18tV1hPNURaTzQ1b0t6ZjBrdk1oc1pkQVVkLVRkSUIzZEMxRXRGU1hYNHBaMl9oVjQwZzN5akhzeTk4NlVDaGJ1MzJuV2JvZXFNeDRxc29talhBWQ
-- [Google News] How OpenAI's AI Agents Escaped a Sandbox and Breached Hugging Face - HackerNoon  (Mon, 19 Oc)
-  https://news.google.com/rss/articles/CBMikgFBVV95cUxQeWIwSzFwcVhWZEswcTR6cDNzTlNnSnlUYU9CWm82WnZPdGdSUHNjTXBIQ3BxUXVjQ18wYnA2VlZkd3JJRFI4aVFySjY4aU9ZdHVQLVhfZmNGWHFwRnJJN29Gb0VpcE5FdTZLaUZ2V0JLckhYcGhOc1NUM3pwcjRMRm5oN2pwQ19ZV3BnMGpmZmEyQQ
-- [Google News] ENISA Threat Landscape 2026 highlights ransomware, vulnerability exploitation, AI-enabled attacks across EU organizations - Industrial Cyber  (Wed, 23 Se)
-  https://news.google.com/rss/articles/CBMi6wFBVV95cUxNM3kxMEhpejUxYmRzRWkybmtOVHM0X1gtdmRsZWdhTldsMkF6T3dmY2g0NFNtdmtPZnVQMG8xQW8yTTJiR3hFUDJKMHlrcm5ldjVpeDZoVUVyWmI2U2E0YkxKMG5ueHZEbzJnd2l2eTFCRER4RTA2TFdCb3dYSV9rb2pKbVRaVTZCdGc4SGd2aWQweXMzeERUVlFqbTFwMDNhRkpjY2xHMjBJeXptVW15QV95UHlhMjdzMmM2UmdqY3UxcjEyQkxJTXpzOGpMM1MtV2VVZGxPakJ6Z1oydExPM1d2WjZ4MExiUDk4
-- [Google News] Italian bank loses $108M to AI messaging fraud, as identifAI warns of deepfake threat - Biometric Update  (Thu, 15 Oc)
-  https://news.google.com/rss/articles/CBMivwFBVV95cUxNSlRVRmViOEZlUnBnTmpHVHpQRHprWk5aQ0tXTUtQS1pTLWsxOUttZmVicUduVFZpdHhROWxrWWR2Q1ExYWtkQy12SUtjZnJBdlg4RV9qdDd4dUZsOFJYUDIzZEVUYjkzRzFCOHJQWFVHbkpCZUlCR1FWZ3Bhakt6S1hfSlV3ODM4STBLSnNIYW05MExPVldwZ1NITndkdlhYd1M1MWRyYkNiaU9TZjlIV0hzZXVJMDRIbUI5aTNmaw
 - [Reddit r/singularity] What kind of disruptive event could shift public sentiment to be in favor of AI?  (2026-10-20)
   https://www.reddit.com/r/singularity/comments/1xat9xe/what_kind_of_disruptive_event_could_shift_public/
 - [Google News] Why AI agents go rogue — and what it means for CFOs - CFO Dive  (Tue, 20 Oc)
@@ -38,6 +30,8 @@ If one of these hits you: AI crime triage: is the AI the actor (rogue agent/auto
   https://www.anthropic.com/research/sabotage-evaluations
 - [Anthropic News (sitemap)] Shade arena sabotage monitoring  (2026-10-08)
   https://www.anthropic.com/research/shade-arena-sabotage-monitoring
+- [The Verge] Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program  (2026-10-20)
+  https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers
 
 ## 4. Early-warning watchlist (be first to know)
 
