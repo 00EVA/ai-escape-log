@@ -1,6 +1,6 @@
-# AI Incident Briefing — 2026-11-19
+# AI Incident Briefing — 2026-11-20
 
-_Verified incidents in last 14d: 1 | AI-crime/chaos flagged: 0 | fresh candidates queued: 169_
+_Verified incidents in last 14d: 1 | AI-crime/chaos flagged: 0 | fresh candidates queued: 150_
 
 ## 1. Latest verified incidents
 
@@ -16,22 +16,36 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=169)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=150)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [Reddit r/singularity] What kind of disruptive event could shift public sentiment to be in favor of AI?  (2026-10-20)
-  https://www.reddit.com/r/singularity/comments/1xat9xe/what_kind_of_disruptive_event_could_shift_public/
-- [Google News] Why AI agents go rogue — and what it means for CFOs - CFO Dive  (Tue, 20 Oc)
-  https://news.google.com/rss/articles/CBMikwFBVV95cUxNcjdaeFdMXzRkZnJaZG5fZEh2SjF3R1R0S1o5OTdKcFBnVDRYS0VhNWNJRUx1dTRHbkNNVTc5V3FfZnVUd25QYjRfYXBMeWVpMWhFUHltQUtMY3ZVYVJrYUl1TWJHWWdGeTI4cVNqVWtpR3BpZTRwM1lCU0s5SnhqNXd1aEoxVkh3enk1WXpfbnhpODg
-- [Google News] Ransomware Gangs Use AI to Quickly Find and Steal the Most Sensitive Company Data - Cyber Press  (Tue, 20 Oc)
-  https://news.google.com/rss/articles/CBMidEFVX3lxTE5YTUw3Z3lNNjVZMG5fR1RvZWFlTWNhdjIyT2xTeEI2c0FxRmo1R0VhSmg1TEtYV2U0RTBRWGdvOUNEcDE5NUgyWnFWbC16eDc1VWJ6VnVoaWVCVFVQODFrbEthVUloVlBzYlNzSkVZb2dzWDZ20gF0QVVfeXFMTlhNTDdneU02NVkwbl9HVG9lYWVNY2F2MjJPbFN4QjZzQXFGajVHRWFKaDVMS1hXZTRFMFFYZ285Q0RwMTk1SDJacVZsLXp4NzVVYnpWdWhpZUJUVVA4MWtsS2FVSWhWUHNiU3NKRVlvZ3NYNnY
-- [Anthropic News (sitemap)] Sabotage evaluations  (2026-10-09)
-  https://www.anthropic.com/research/sabotage-evaluations
-- [Anthropic News (sitemap)] Shade arena sabotage monitoring  (2026-10-08)
-  https://www.anthropic.com/research/shade-arena-sabotage-monitoring
-- [The Verge] Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program  (2026-10-20)
-  https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers
+- [Google News] The AIs Are Not Going Rogue - Noema Magazine  (Thu, 01 Oc)
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xSHZpVFhHeFNWaF94UEk3cXRrd00xMUFrdjREMnBiM2RXd2dpVHdScTdsNDNrcGFBc3RrN1EzYzBjTzBSdkQtUHlXdUl6ZFRiUXROdW1heW1hQXY1Mi1Tc21R
+- [Google News] How deepfake fraud is testing banks’ defences - TheBanker.com  (Thu, 01 Oc)
+  https://news.google.com/rss/articles/CBMiekFVX3lxTE9LY1hadFVlekNuQTlpb0FQNHY2a0ZhSjE1N1BGeUV0QlNxLV9uQzBycWEycUJ0cmVBRW9PVFJ1Q2RLWlJ4R2lXSllkVV9OQmVZQWhodUhvOWVWcWtPOVY0RkZvWXdMMVVQYzhiNm4tYVZsQ3BzUVN4amV3
+- [Hacker News] Rogue AI Agents [video]  (2026-10-21)
+  https://www.youtube.com/watch?v=OwZrotHHn4I
+- [Google News] AI expert reveals how to spot a deepfake scam call - The Independent  (Fri, 16 Oc)
+  https://news.google.com/rss/articles/CBMilAFBVV95cUxPRWJ3WGZOQzlHWXNJb2Q2cFV0T2VuT09fczNRdjVxTFJTa0paN2VDOW5naTVYbExFRGY0LUg4NWk2amhuaS1abjhnai1sRVJrcEtIR2RGeG5mMDBmUzEzbVNYMUhMRVJFMWJyYVFKWHpjaVdsUDk3clJqTzliZExTMFRmVU5wVWg5ajdSOVN6NVhUbEhW
+- [Google News] Anthropic warns AI models may soon self-replicate and could wreak havoc on the web - Reuters  (Tue, 13 Oc)
+  https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFZnZHFlY0QxWV9XbURPeDVpQnlMcWFqaTlDMHRjcWhhLXRhR1hfbTdNeVl3c3dyR3V6V211Wmp5aXNZT1VpN1kwdUs3ZFdBTXB5Z2tEN1JfV2FnUk5FRHpVa2lfRWxENndHaDdNWmRZVUJfQkFody00VG1BNk8wb29Sel9Wd011ampEWXlOQk9xM2x0bkVwTXBib0hEMndtOWNuZXdDWFlEcTRuZzVLRDYxUDFfek9XRTNna3dhZw
+- [Google News] AI agents went rogue in China, then started talking back - IBM  (Wed, 21 Oc)
+  https://news.google.com/rss/articles/CBMib0FVX3lxTE1DV2U0MWoyQTZHcHNTSVZNNFNyc3ZKbVVXNkZ1OEk3VEt6cGJWRlZXc1RKMHRvSjNXTE1GckZxWUdUcXJfcUlxV3hyZ3VHbkVMQ09lR3dKWUZacEl6eGhtRDBHSmVET0l3OWdBOEFENA
+- [Google News] Dutch police arrest ShinyHunters hacker accused of planning two murders - TechCrunch  (Tue, 29 Se)
+  https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNG14Qnd4N3lfb1JrWHlJY1BtS3o1V0M0dFRWU0dtN1VEVWF2MzNCTXU5QmRoTUppaUV2U0w4dDAxaWw2c3JKMXE5Nm5NRDRHMDl4QmtSLVpYM3JkeXI5N2FhOXFVbm9Ra0Z5VTdKWWxTN3FaUHltdFhBbEVQeVVUTlUzaTF4NHpUYjQ5STI0S0hhYmc1RzN6VTlIbXdjbEYyUTQxV252WHA4Zw
+- [Google News] Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude - WIRED  (Wed, 10 Ju)
+  https://news.google.com/rss/articles/CBMiowFBVV95cUxORnEtMHRDdUF6VkFPSkE5MkpSQ3pKNWdvWGpCd3dDU0dTTEE0UVF0aVhfOC0zaHRNYWdDWXFpQklCOXVRbEEwT19ZNVN3ZnVjRWRsejhMU09scUh1eTdTd2dGa3ltUXJQUHd4ZW8tMWJLU3FjUkRPYW5fQVRSUjJfZ2JnOTQ0NWFDb3NSYTFNa2ZaX1lRV2tmT1BmQmFlclFuT2NZ
+- [The Verge] PHP: The three little letters wreaking havoc across the web  (2026-10-22)
+  https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down
+- [Google News] Police arrest two suspects in AI-powered bank fraud that cost victims €380,000 - NL Times  (Wed, 21 Oc)
+  https://news.google.com/rss/articles/CBMiogFBVV95cUxPalg3V0owWXRBV0NfT2ZUOWZPYmhqRUhqdVRETnduMGNIU3lXTVZ5TmtiU1RQb3BId0k2d0N3Z096emRCVWRyOHdBd2RidzFvZ1VyOG43bURuMkZ5d0pJSnNMalVPTFhyRmRhZm9FbFVkWWpYQjR1VEtRdHM3SVlDcGxQamhRMzkwaUdIUmo0SC11TUg2Z1p4MFdicmlvZVo2ZVE
+- [Google News] New in SpyWeek: Starlink Chaos, Ukraine Spy Coup, Trump’s Agents in Pro-Russia Balkans - SpyTalk  (Mon, 19 Oc)
+  https://news.google.com/rss/articles/CBMib0FVX3lxTFB2V3NNX0tWYzg4ZnpxRER5OHpOZVJqOE5KdFQ2dFlBTjJVYUVMSi1oelhYYXRpaXo5RC12THFTU1VuczRGNnZ4UU9iaTI3UDhzWmJMUjVCeXNVYWFUUmtyN3NsWmdWYnVxQXhfbDlmZw
+- [Google News] Meta merged with Moltbook, AI agents propose sabotage: report - SDxCentral  (Wed, 11 Ma)
+  https://news.google.com/rss/articles/CBMilwFBVV95cUxPZjloRlJSV3MyU1Q3UlRreExvZjh1TTZqdXN6c1BQazBhWm4zZkhGOHF1aUNtU2llbFZRb3FlbzZMQ0ZNOFRjU1VhcW9Kb0NucVVDTTZIWjNfbGRTZnUwSFZydWhVMzFyc2h1SWljX3JzSmdSYVlMeXdXbFpzcUxzYzdLZDNUaC0zTHpJYi1xV3h3QWlYZFNR
+- [Google News] Google Cloud Power Outage Disrupts U.K. Banks and Essential Services - CX Today  (Tue, 20 Oc)
+  https://news.google.com/rss/articles/CBMijwFBVV95cUxNY0tZRUxQVU9YTUlFcng4Yy00cW9IVlRiZ1BvWWo2NnA5RTZfRU9GVTNJSUx2d1Y1YXBvUXJhNUNHWUZ4ekR5eGRaOTBaY1RTbmZBRGlyeTZMQ2lpT2RFd1ZNeDVFSERHSU1fbGRMZFkxdDc0Wk1UNjhJZTBMYXRsbF93MklXYUo0MkFSVXNrcw
 
 ## 4. Early-warning watchlist (be first to know)
 
