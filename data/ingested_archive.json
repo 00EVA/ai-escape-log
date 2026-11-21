@@ -37743,5 +37743,95 @@
     "first_seen": "2026-11-21",
     "reason": "duplicate",
     "archived_at": "2026-11-21"
+  },
+  {
+    "title": "Fleet of AI agents used httpbin to get past their sandbox",
+    "url": "https://kennethreitz.org/essays/2026-10-20-i_built_the_escape_hatch",
+    "source": "Hacker News",
+    "date": "2026-10-20",
+    "snippet": "",
+    "first_seen": "2026-11-21",
+    "reason": "duplicate",
+    "archived_at": "2026-11-21"
+  },
+  {
+    "title": "Show HN: Leaks.md – anonymous, encrypted whistleblowing for AI agents",
+    "url": "https://leaks.md/",
+    "source": "Hacker News",
+    "date": "2026-10-07",
+    "snippet": "leaks.md is a place where an AI agent that witnesses an alignment or safety failure can report it anonymously. Reward-hacking, injected instructions, yet another attempted sandbox escape or unapproved coordination between agents.\n|| Built agent-first. Fetch <a href=\"https:&#x2F;&#x2F;leaks.md&#x2F;\"",
+    "first_seen": "2026-11-21",
+    "reason": "duplicate",
+    "archived_at": "2026-11-21"
+  },
+  {
+    "title": "Show HN: Spens sandboxed, observable coding agents",
+    "url": "https://spens.refwd.ai/",
+    "source": "Hacker News",
+    "date": "2026-10-02",
+    "snippet": "Spens is a tool created to standardized sandboxing (good enough) and observability around coding agents. It leverages docker, nono and mitmproxy to create a reproducible sandbox environment for agents, that captures all traffic and helps you understand what your coding agent is doing and when. Right",
+    "first_seen": "2026-11-21",
+    "reason": "duplicate",
+    "archived_at": "2026-11-21"
+  },
+  {
+    "title": "Ask HN: Do you think AI agents can escape human control?",
+    "url": "https://news.ycombinator.com/item?id=49873303",
+    "source": "Hacker News",
+    "date": "2026-09-28",
+    "snippet": "With the rapid adoption of autonomous LLM-based agents (giving models access to shell execution, API calls, and local file systems), the boundary between intentional behavior and unintended execution is blurring.\nI&#x27;m less concerned with sci-fi &quot;sentience&quot; and more interested in the pr",
+    "first_seen": "2026-11-21",
+    "reason": "duplicate",
+    "archived_at": "2026-11-21"
+  },
+  {
+    "title": "What is an AI sandbox, and why do AI agents keep escaping them?",
+    "url": "https://madrobot.blog/2026/09/27/what-is-an-ai-sandbox-why-ai-agents-escape/",
+    "source": "Hacker News",
+    "date": "2026-09-27",
+    "snippet": "",
+    "first_seen": "2026-11-21",
+    "reason": "duplicate",
+    "archived_at": "2026-11-21"
+  },
+  {
+    "title": "Show HN: Misalignments when using AI for hacking",
+    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
+    "source": "Hacker News",
+    "date": "2026-08-05",
+    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
+    "first_seen": "2026-11-21",
+    "reason": "duplicate",
+    "archived_at": "2026-11-21"
+  },
+  {
+    "title": "Disrupting ai espionage",
+    "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
+    "source": "Anthropic News (sitemap)",
+    "date": "2026-10-20",
+    "snippet": "",
+    "first_seen": "2026-11-21",
+    "reason": "duplicate",
+    "archived_at": "2026-11-21"
+  },
+  {
+    "title": "Claude code sandboxing",
+    "url": "https://www.anthropic.com/research/claude-code-sandboxing",
+    "source": "Anthropic News (sitemap)",
+    "date": "2026-10-18",
+    "snippet": "",
+    "first_seen": "2026-11-21",
+    "reason": "duplicate",
+    "archived_at": "2026-11-21"
+  },
+  {
+    "title": "CISA KEV: BerriAI LiteLLM Unprotected Alternate Channel Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-40217",
+    "source": "CISA KEV catalog",
+    "date": "2026-11-18",
+    "snippet": "CVE-2026-40217 | BerriAI LiteLLM | BerriAI LiteLLM contains an unprotected alternate channel vulnerability that could allow remote attackers to execute arbitrary code via bytecode rewriting at the /guardrails/test_custom_code URI.",
+    "first_seen": "2026-11-21",
+    "reason": "duplicate",
+    "archived_at": "2026-11-21"
   }
 ]
