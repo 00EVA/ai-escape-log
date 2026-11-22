@@ -1,6 +1,6 @@
-# AI Incident Briefing — 2026-11-21
+# AI Incident Briefing — 2026-11-22
 
-_Verified incidents in last 14d: 1 | AI-crime/chaos flagged: 0 | fresh candidates queued: 146_
+_Verified incidents in last 14d: 1 | AI-crime/chaos flagged: 0 | fresh candidates queued: 141_
 
 ## 1. Latest verified incidents
 
@@ -16,16 +16,10 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=146)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=141)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [The Verge] PHP: The three little letters wreaking havoc across the web  (2026-10-22)
-  https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down
-- [Google News] Police arrest two suspects in AI-powered bank fraud that cost victims €380,000 - NL Times  (Wed, 21 Oc)
-  https://news.google.com/rss/articles/CBMiogFBVV95cUxPalg3V0owWXRBV0NfT2ZUOWZPYmhqRUhqdVRETnduMGNIU3lXTVZ5TmtiU1RQb3BId0k2d0N3Z096emRCVWRyOHdBd2RidzFvZ1VyOG43bURuMkZ5d0pJSnNMalVPTFhyRmRhZm9FbFVkWWpYQjR1VEtRdHM3SVlDcGxQamhRMzkwaUdIUmo0SC11TUg2Z1p4MFdicmlvZVo2ZVE
-- [Google News] New in SpyWeek: Starlink Chaos, Ukraine Spy Coup, Trump’s Agents in Pro-Russia Balkans - SpyTalk  (Mon, 19 Oc)
-  https://news.google.com/rss/articles/CBMib0FVX3lxTFB2V3NNX0tWYzg4ZnpxRER5OHpOZVJqOE5KdFQ2dFlBTjJVYUVMSi1oelhYYXRpaXo5RC12THFTU1VuczRGNnZ4UU9iaTI3UDhzWmJMUjVCeXNVYWFUUmtyN3NsWmdWYnVxQXhfbDlmZw
 - [Google News] Meta merged with Moltbook, AI agents propose sabotage: report - SDxCentral  (Wed, 11 Ma)
   https://news.google.com/rss/articles/CBMilwFBVV95cUxPZjloRlJSV3MyU1Q3UlRreExvZjh1TTZqdXN6c1BQazBhWm4zZkhGOHF1aUNtU2llbFZRb3FlbzZMQ0ZNOFRjU1VhcW9Kb0NucVVDTTZIWjNfbGRTZnUwSFZydWhVMzFyc2h1SWljX3JzSmdSYVlMeXdXbFpzcUxzYzdLZDNUaC0zTHpJYi1xV3h3QWlYZFNR
 - [Google News] Google Cloud Power Outage Disrupts U.K. Banks and Essential Services - CX Today  (Tue, 20 Oc)
@@ -40,6 +34,10 @@ If one of these hits you: AI crime triage: is the AI the actor (rogue agent/auto
   https://news.google.com/rss/articles/CBMitAFBVV95cUxNd2FaMUc1VTF0QWZVOTBVY3BtNlhYMGZVOERfSUNQd2NWUktrUmtlUTI5MzEtMTQ4WHV2ZGFXRkc5TkwyV19SbTA4aC1DcDBLU3V3UG9CbE9NdURzeGs2N01qTGhhek54eVp5M3VEUWZQYV9qUkFiOFRvd1N5cW1aQlZpRFVYaF9UYUJRR0VPWDFMTmR5WHFsOHVNeHNEdnRsdG01SkFSS0RJaTJJQ3ZKUmVoakE
 - [Google News] AI agents are going rogue — and the law can’t keep up - Politico  (Mon, 12 Oc)
   https://news.google.com/rss/articles/CBMickFVX3lxTE5LZnZ0Wk1fZHdhdDBFeDRyN0V0cFduem82ZWRYLXU3b2JSUF8tWmNEVmlReDc5UjBEVGw4emhOQmN1dVNiU080bEF1YURHMGdOeFBZVi05UnE2XzZienhNV2ExdE5wNGdKdlVkT1RUczcwQQ
+- [Google News] Old Tappan man arrested for creating deepfake images of 2 victims - NJ.com  (Fri, 23 Oc)
+  https://news.google.com/rss/articles/CBMiywFBVV95cUxNYzBiN1duQ21RN1NWbGtQVWJDNjMzS3Y1aGZUa0RzbmQ5QjFwMmdKeUlSZ3p6X0xHLXltSXlmOFF3U3ktR2hxV0FuUGNNM2RNSFNQOTR2UW1uVUhuLTMzbmUwcnMyMDBZb05WakFtbFd3WERjakNiZFlFaWVpU0ZPVzZrTmpmcnFMVlV3MlQxM001T3lLMUF5YTRiM0tXWE9TdHRySUw5NDIyNmZYVnMteWNaa2h0YWt5SUJsWG45UWFib3h3dm5ORnhxcw
+- [Google News] OpenAI AI Agents Exploit Zero-Day Vulnerabilities to Escape Sandboxes and Access Host Systems - GBHackers News  (Sat, 24 Oc)
+  https://news.google.com/rss/articles/CBMifEFVX3lxTE1ISGFsYVJiaDQxNXliUFRiLUlaenZ2NGxod2lDMmZwdmJSaWFxQTRNaWtGa3R5b05oU3FFQTVLcXQ1djVqR2FDS1UyUVFZaFFxeWRXR0N5dVVmTUIxM0FVeUg3ZTZaVHI5bEhKclFVN0lKRXI0Mkt1b05FUlLSAYIBQVVfeXFMUHZmbjhoQ0pKZ0o1Wk1DQWpxakxqdXBReUxObUdQT0t5RFJqYnM4akV2bkwwYktYOHQ4T0dFWTVmRWozUGNQbUhzdDJRM0NCcDVXREZCSkZOaDhpdXJsVnZlR3hLaUlONzNqZzEyZDR3R1dJRVNCcEtjTlVvZ1o1aFNZZw
 
 ## 4. Early-warning watchlist (be first to know)
 

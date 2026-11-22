@@ -8,46 +8,6 @@
     "first_seen": "2026-08-25"
   },
   {
-    "title": "PHP: The three little letters wreaking havoc across the web",
-    "url": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
-    "source": "The Verge",
-    "date": "2026-10-22",
-    "snippet": "Two vulnerabilities found in the programming language PHP put enormous swaths of the internet in danger. By some accounts, up to 70 percent of websites use PHP in some capacity. It powers Wikipedia, WordPress, Drupal, and a host of other popular sites and platforms, including DeviantArt and 4Chan, w",
-    "first_seen": "2026-10-22"
-  },
-  {
-    "title": "New DeepSeek AI Model Built an Exploit to Escape Chrome Sandbox Security - Android Headlines",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMjlHUEo4M216cEptUHMwWjVJRTFlb1JtT003WlVybFVQbHFnMkxRNzVWcUtSRDlKTm9idkN5LVdfdXctV2xRYjhoVjV0TmRPYVJVN3hwb0p6WVZFTHh1aGtyYlEzRjk0a2dhSUJWVG1xZXZobDJVWHhmSS1mUkNVU281U0pfcGswVVFCSi1XaXg",
-    "source": "Google News",
-    "date": "Thu, 22 Oc",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQMjlHUEo4M216cEptUHMwWjVJRTFlb1JtT003WlVybFVQbHFnMkxRNzVWcUtSRDlKTm9idkN5LVdfdXctV2xRYjhoVjV0TmRPYVJVN3hwb0p6WVZFTHh1aGtyYlEzRjk0a2dhSUJWVG1xZXZobDJVWHhmSS1mUkNVU281U0pfcGswVVFCSi1XaXg?oc=5\" target=\"_blank\">New DeepSeek AI Model Built an E",
-    "first_seen": "2026-10-22"
-  },
-  {
-    "title": "DeepSeek’s V4.1-Flash-1017 Model Just Built An Exploit That Escapes Chrome’s Sandbox, As The AI-Driven Assault On The Open Web Goes On An Overdrive - Wccftech",
-    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRklqZUtieWhhWUpzS0Y4VXZ0b1RXbFlvczBaZ1kxTUxDM3BWRFM5XzFXMzJQX3o0RVcxeFhFdC1hVmVCbnRQUWhvMjZHZi1mZVFBa1F1UjhvZUVRWUdfSnhXOXZWazhWbWxWUWlCRm5QRWZFUkVudU1lWWZjc1p5RkZFTzZZazRrYWFXdWlVMDZNYXhFRU9wUjZxZUY4ZEVTNnNXTGxCRktUbVVkdllzRFB4M3JjYnBrSXNlWnY3ejBOZDJxTEFGQ0Fic0RqZlY4R1J0UXhILVFhZzVYbkVsWlJKRWwzMW5aaTZuWFo4RTVBclJxNlNfY3h30gH_AUFVX3lxTFBENmt5V1hOTU94QnJzc1o0OHE0Qm9tNVhJV19MVG5NaHpHdkJldHRpNlZQbFRaZ3gxTXhXb2pyeDJjZWE3eUVHdUM3MVY3WU12a1Jaa2E0cTY5bjdoQTBscWFack9rdDFnN1diOTV3Vi1NaEJ6V0FfUFBEekpRcGpPRjU1cGJKU29fS293aGZ4SkREQVpLNXpBOFR4RkFXc3hhLVVpeXhsYVlVNEpVbGk4SWM3YnhScUtzRjByWEZ3MlBWeGxFSndkOThqUkxlc1Y0ZU5NMjJUcjRuMGNZS2MzM0IxWUtmN19HRnhGY3V1STVoVnFRUjVTdThDMV92VQ",
-    "source": "Google News",
-    "date": "Thu, 22 Oc",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRklqZUtieWhhWUpzS0Y4VXZ0b1RXbFlvczBaZ1kxTUxDM3BWRFM5XzFXMzJQX3o0RVcxeFhFdC1hVmVCbnRQUWhvMjZHZi1mZVFBa1F1UjhvZUVRWUdfSnhXOXZWazhWbWxWUWlCRm5QRWZFUkVudU1lWWZjc1p5RkZFTzZZazRrYWFXdWlVMDZNYXhFRU9wUjZxZUY4ZEVTNnNXTGxCRktUbVVkdllzRFB4M3JjYnBrSX",
-    "first_seen": "2026-10-22"
-  },
-  {
-    "title": "Police arrest two suspects in AI-powered bank fraud that cost victims €380,000 - NL Times",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPalg3V0owWXRBV0NfT2ZUOWZPYmhqRUhqdVRETnduMGNIU3lXTVZ5TmtiU1RQb3BId0k2d0N3Z096emRCVWRyOHdBd2RidzFvZ1VyOG43bURuMkZ5d0pJSnNMalVPTFhyRmRhZm9FbFVkWWpYQjR1VEtRdHM3SVlDcGxQamhRMzkwaUdIUmo0SC11TUg2Z1p4MFdicmlvZVo2ZVE",
-    "source": "Google News",
-    "date": "Wed, 21 Oc",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPalg3V0owWXRBV0NfT2ZUOWZPYmhqRUhqdVRETnduMGNIU3lXTVZ5TmtiU1RQb3BId0k2d0N3Z096emRCVWRyOHdBd2RidzFvZ1VyOG43bURuMkZ5d0pJSnNMalVPTFhyRmRhZm9FbFVkWWpYQjR1VEtRdHM3SVlDcGxQamhRMzkwaUdIUmo0SC11TUg2Z1p4MFdicmlvZVo2ZVE?oc=5\" target=\"_blank\">Police a",
-    "first_seen": "2026-10-22"
-  },
-  {
-    "title": "New in SpyWeek: Starlink Chaos, Ukraine Spy Coup, Trump’s Agents in Pro-Russia Balkans - SpyTalk",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2V3NNX0tWYzg4ZnpxRER5OHpOZVJqOE5KdFQ2dFlBTjJVYUVMSi1oelhYYXRpaXo5RC12THFTU1VuczRGNnZ4UU9iaTI3UDhzWmJMUjVCeXNVYWFUUmtyN3NsWmdWYnVxQXhfbDlmZw",
-    "source": "Google News",
-    "date": "Mon, 19 Oc",
-    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFB2V3NNX0tWYzg4ZnpxRER5OHpOZVJqOE5KdFQ2dFlBTjJVYUVMSi1oelhYYXRpaXo5RC12THFTU1VuczRGNnZ4UU9iaTI3UDhzWmJMUjVCeXNVYWFUUmtyN3NsWmdWYnVxQXhfbDlmZw?oc=5\" target=\"_blank\">New in SpyWeek: Starlink Chaos, Ukraine Spy Coup, Trump’s Agents in Pro-Russi",
-    "first_seen": "2026-10-22"
-  },
-  {
     "title": "Meta merged with Moltbook, AI agents propose sabotage: report - SDxCentral",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZjloRlJSV3MyU1Q3UlRreExvZjh1TTZqdXN6c1BQazBhWm4zZkhGOHF1aUNtU2llbFZRb3FlbzZMQ0ZNOFRjU1VhcW9Kb0NucVVDTTZIWjNfbGRTZnUwSFZydWhVMzFyc2h1SWljX3JzSmdSYVlMeXdXbFpzcUxzYzdLZDNUaC0zTHpJYi1xV3h3QWlYZFNR",
     "source": "Google News",
