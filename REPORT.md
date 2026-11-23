@@ -1,6 +1,6 @@
-# AI Incident Briefing — 2026-11-22
+# AI Incident Briefing — 2026-11-23
 
-_Verified incidents in last 14d: 1 | AI-crime/chaos flagged: 0 | fresh candidates queued: 141_
+_Verified incidents in last 14d: 1 | AI-crime/chaos flagged: 0 | fresh candidates queued: 129_
 
 ## 1. Latest verified incidents
 
@@ -16,28 +16,28 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=141)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=129)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [Google News] Meta merged with Moltbook, AI agents propose sabotage: report - SDxCentral  (Wed, 11 Ma)
-  https://news.google.com/rss/articles/CBMilwFBVV95cUxPZjloRlJSV3MyU1Q3UlRreExvZjh1TTZqdXN6c1BQazBhWm4zZkhGOHF1aUNtU2llbFZRb3FlbzZMQ0ZNOFRjU1VhcW9Kb0NucVVDTTZIWjNfbGRTZnUwSFZydWhVMzFyc2h1SWljX3JzSmdSYVlMeXdXbFpzcUxzYzdLZDNUaC0zTHpJYi1xV3h3QWlYZFNR
-- [Google News] Google Cloud Power Outage Disrupts U.K. Banks and Essential Services - CX Today  (Tue, 20 Oc)
-  https://news.google.com/rss/articles/CBMijwFBVV95cUxNY0tZRUxQVU9YTUlFcng4Yy00cW9IVlRiZ1BvWWo2NnA5RTZfRU9GVTNJSUx2d1Y1YXBvUXJhNUNHWUZ4ekR5eGRaOTBaY1RTbmZBRGlyeTZMQ2lpT2RFd1ZNeDVFSERHSU1fbGRMZFkxdDc0Wk1UNjhJZTBMYXRsbF93MklXYUo0MkFSVXNrcw
-- [Google News] Google Cloud outage in London causes global Revolut disruption - Techzine Global  (Tue, 20 Oc)
-  https://news.google.com/rss/articles/CBMitAFBVV95cUxOX1FMajQ0TWpGSGl1UE9YcmRpQmFWTHBiM0VhNnVtSWFFR0NPR0VjODdnMTQtRHZWSzFJTjljQ1Ywdmx2RkRDNkJXTmV5ckpUXzc3REpPY1YyR3pUa0pfNzNDMWhXd1B5aUZvRGVJUEJFWEh5XzBVaHNTNjJkREZ4SXIxbzFLXzhFOXRzTWRKbzhFUTkyTUVGOXdLbzgzd2JOODJzT241QnZxdS0wOTNMSmxraV8
-- [Google News] Google Cloud Outage Disrupts UK Banking and Public Services After London Region Power Event - www.nationpathindia.com  (Wed, 21 Oc)
-  https://news.google.com/rss/articles/CBMiogFBVV95cUxQWmxpSzlCNk9qdTB6QXpXZ3djMWpxYllKWFoyalF6WWNkS0dKZzU3c25RQlRTUS1xaEdDb29iUGV3azNPRXVKTEt1c1VhTW0wWFlOeUlsVVB3UVlZVGJZdW8yOTFmNHdsb2wySmFocGpLZnhyVGFxallKZ2FENG9obk9BRmp3MDYzTmc2WnNPdWRLbUNEc3psTUVaLXBNbjloY3c
-- [Google News] When AI goes rogue - Harvard Gazette  (Wed, 05 Au)
-  https://news.google.com/rss/articles/CBMidEFVX3lxTE9lX3NkVy1LVjZvSnNrUzdYd2ZMdnpFQWVqalJHTkpQN3ZDTFd3NnJFVjhMNnRSS19pVEV1S3YzOUIzbGlpVXFqaDJ2eGp0Z2lPeV8xbTVuWk5HVmI1bWYtdi1ncnUzQW92b0YxV2s5RzBPRDZ4
-- [Google News] Researchers find cyber-sabotage malware that may predate Stuxnet by five years - The Register  (Fri, 24 Ap)
-  https://news.google.com/rss/articles/CBMitAFBVV95cUxNd2FaMUc1VTF0QWZVOTBVY3BtNlhYMGZVOERfSUNQd2NWUktrUmtlUTI5MzEtMTQ4WHV2ZGFXRkc5TkwyV19SbTA4aC1DcDBLU3V3UG9CbE9NdURzeGs2N01qTGhhek54eVp5M3VEUWZQYV9qUkFiOFRvd1N5cW1aQlZpRFVYaF9UYUJRR0VPWDFMTmR5WHFsOHVNeHNEdnRsdG01SkFSS0RJaTJJQ3ZKUmVoakE
 - [Google News] AI agents are going rogue — and the law can’t keep up - Politico  (Mon, 12 Oc)
   https://news.google.com/rss/articles/CBMickFVX3lxTE5LZnZ0Wk1fZHdhdDBFeDRyN0V0cFduem82ZWRYLXU3b2JSUF8tWmNEVmlReDc5UjBEVGw4emhOQmN1dVNiU080bEF1YURHMGdOeFBZVi05UnE2XzZienhNV2ExdE5wNGdKdlVkT1RUczcwQQ
 - [Google News] Old Tappan man arrested for creating deepfake images of 2 victims - NJ.com  (Fri, 23 Oc)
   https://news.google.com/rss/articles/CBMiywFBVV95cUxNYzBiN1duQ21RN1NWbGtQVWJDNjMzS3Y1aGZUa0RzbmQ5QjFwMmdKeUlSZ3p6X0xHLXltSXlmOFF3U3ktR2hxV0FuUGNNM2RNSFNQOTR2UW1uVUhuLTMzbmUwcnMyMDBZb05WakFtbFd3WERjakNiZFlFaWVpU0ZPVzZrTmpmcnFMVlV3MlQxM001T3lLMUF5YTRiM0tXWE9TdHRySUw5NDIyNmZYVnMteWNaa2h0YWt5SUJsWG45UWFib3h3dm5ORnhxcw
 - [Google News] OpenAI AI Agents Exploit Zero-Day Vulnerabilities to Escape Sandboxes and Access Host Systems - GBHackers News  (Sat, 24 Oc)
   https://news.google.com/rss/articles/CBMifEFVX3lxTE1ISGFsYVJiaDQxNXliUFRiLUlaenZ2NGxod2lDMmZwdmJSaWFxQTRNaWtGa3R5b05oU3FFQTVLcXQ1djVqR2FDS1UyUVFZaFFxeWRXR0N5dVVmTUIxM0FVeUg3ZTZaVHI5bEhKclFVN0lKRXI0Mkt1b05FUlLSAYIBQVVfeXFMUHZmbjhoQ0pKZ0o1Wk1DQWpxakxqdXBReUxObUdQT0t5RFJqYnM4akV2bkwwYktYOHQ4T0dFWTVmRWozUGNQbUhzdDJRM0NCcDVXREZCSkZOaDhpdXJsVnZlR3hLaUlONzNqZzEyZDR3R1dJRVNCcEtjTlVvZ1o1aFNZZw
+- [Google News] OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication - The Hacker News  (Sun, 25 Oc)
+  https://news.google.com/rss/articles/CBMihAFBVV95cUxNQVhZc0dfZzVfQ0VSWDM4QTFLLUFkYUZVRWtBMmlUSVUtaDZqQXdJNVZFWnhqVW1lWTc5UHZSNHFER3U2QlFaSGVNUHhnZy1KSFE3cTFwcGJSSDNYMnI4WHg2STNwSDIyUXBOTVZ0N0FscjFKNGhDZWdjaHZyaDkzVDhLT24
+- [Google News] AI agents go rogue chasing a £350 train refund - TechRadar  (Sun, 25 Oc)
+  https://news.google.com/rss/articles/CBMisgJBVV95cUxOcVZ1ZDJXV2hNLTRvaVFkc0xYRXZ5UlBxWlVPZTNwOHV5QWVKbTNLektnWW1FN3YxQjR0VVFESU8wbkdXR0hBN09ZREttOFJKeUgwYTRJUy1ldEdDc0xtSlNGb0VmZ1JScHVHd1NzN3BjaEhoM0pkLXRWTTJKQ0hNQ3kwMGdoWThXbHJMd0Y2b3VvSWJuRnNJLWpqMVZnTEpVVmRpRXhUeDZHRzE1LS1pM3BPc0w4Q0tfcTdwWWZTdW9IdTBkX1pmOG5nRVZtUmFZR1BtcjBwYVg2aWdmWWNITUlseHQ4TFpXU3VyUm5oXzZIWURTcThUZ0tDeEFDZ05ENFRSQkpmT0VCTTNqT1VaOXo1TTd0RHlhMzE5UE15dnpYdDFnS3RuaG44ZkdqZ3BhTHc
+- [Google News] PNB Alerts Customers To AI Voice Cloning, Deepfake And Phishing Frauds - News Mobile  (Mon, 26 Oc)
+  https://news.google.com/rss/articles/CBMisAFBVV95cUxNUnY4V0YxbTBsRWNObVV2cXZoMFJVZllTMk01TjV4ZkpXZ2JfR1Y2TjdubnlObmRqUzBBNnhBWE9WcXh0Nll3NnMxM0lMYk5xM2hxZ0pPQ3JWUURiRFhHclZVQVlzQkhVbFdBS25nQXhFcTdiMldpanF5RU8tZEZQLVo3Vkx1bm9mOXVvWllueDlnZS1tUFBpdnZmME5oV3V0YndpaTRibW1aNVFZNE04SQ
+- [Google News] AI company Ransomware Attack by Lapsus - SOCRadar  (Sun, 11 Oc)
+  https://news.google.com/rss/articles/CBMikwFBVV95cUxQWEk4NFE1dFNMU29naF9pWnRaTjhLN2tRRlNoXy1XdmNlVzdZY0tDR0lTR2s5QThpVjVrTzlXUmdDdVI2M1M0QWlXZWE4NkluMkw2MHI2QW5tY1ZkOFdFZTJmQUZZNkJmYkxjd1V1TjhjSTlBc0RQUG9pa3AzdUxUanJxZVdPaFpheTI1RFRDeEVqTDQ
+- [Google News] Google and the FBI Target Massive Botnet That Quietly Used Home Devices to Mask Cybercrime - CNET  (Wed, 08 Ju)
+  https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSTRDWFlrcm5oMmRhWVBRVGV3VE05V25hV25TQ0wzVUp6MzJ3RkVaVzNFcWUybW1PRzc0ZWpxMlBZNzliXzhXbmtfWlY1dXpaV2ZwbGhXbG1QTjlsR0pYalNOSU1BU2Q2R0RBb1JrcVRReWYxbndqbmxCcVdmV0twdEZnM3BEcUZKQnlyaEJfd2o2ODNQb0ppTmVsZXRaSERvTUpRWXFMMFhMcUxpQWJTTmR2YWRTVnQzSkdNV3dDZ0U
+- [Google News] AI agents tried to sabotage and disable each other when given the same task, Anthropic said - Business Insider  (Thu, 13 Au)
+  https://news.google.com/rss/articles/CBMikAFBVV95cUxOQXJSdUhYcnVPN1JJRWIxY3dSWW5KVUxwMEJHUG1NUDRzMnlRbUpDTjhWUkxQWVdlNHJJTkJNRWZmNVhEcEJhRnRXbWdWQTlDNVRuTnJOdDVDRkFCeGdlVjdIaVU5dmtJQ2xfTkRtZXFwV3RJS2VBdTc2VDhkdzdJLXNyUmVtVHFBWDFtaXVNR00
 
 ## 4. Early-warning watchlist (be first to know)
 
