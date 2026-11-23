@@ -13,3 +13,9 @@
 - Queue: 148 live candidates (0 added this week) | Archive: 3424
 - Hot signals this week: 0
 - _Generated 2026-11-16 09:56 _
+
+## Week of 2026-11-23
+- New verified incidents: 0
+- Queue: 129 live candidates (0 added this week) | Archive: 3998
+- Hot signals this week: 0
+- _Generated 2026-11-23 09:08 _
