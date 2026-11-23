@@ -1030,5 +1030,21 @@
     "date": "2026-11-20",
     "snippet": "Google is announcing some significant changes to its smart home software. Starting next year, the company will shut down the Nest app in favor of the Google Home app and retire Google Assistant on its smart home devices. The Nest app shutdown takes place on January 25th, 2027, meaning you'll have to",
     "first_seen": "2026-11-20"
+  },
+  {
+    "title": "CISA KEV: Project MONAI MONAI Label Path Traversal Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133968",
+    "source": "CISA KEV catalog",
+    "date": "2026-11-23",
+    "snippet": "CVE-2026-133968 | Project MONAI MONAI Label | Project MONAI MONAI Label contains a path traversal vulnerability that allows an unauthenticated remote attacker to write arbitrary files outside the intended datastore directory, potentially resulting in remote code execution.",
+    "first_seen": "2026-11-23"
+  },
+  {
+    "title": "CISA KEV: N-able MailAssure (SpamExperts) Server-Side Request Forgery (SSRF) Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-134624",
+    "source": "CISA KEV catalog",
+    "date": "2026-11-23",
+    "snippet": "CVE-2026-134624 | N-able MailAssure | N-able MailAssure (SpamExperts) contains a server-side request forgery vulnerability in the LDAP synchronization connection check that allows an authenticated API user to connect to arbitrary internal hosts and ports, determine which are reachable, and send crafted data to internal services.",
+    "first_seen": "2026-11-23"
   }
 ]
