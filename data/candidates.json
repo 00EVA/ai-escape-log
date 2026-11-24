@@ -1014,5 +1014,13 @@
     "date": "2026-11-24",
     "snippet": "CVE-2026-132165 | Drupal Core | Drupal Core contains a not failing securely vulnerability that could allow an unauthenticated attacker to take over an existing site or execute arbitrary code via the Drupal installer. Under specific conditions, the attacker can use install.php to attempt to reinstall Drupal on the site.",
     "first_seen": "2026-11-24"
+  },
+  {
+    "title": "Anthropic’s Siren Tests Whether Claude Models Will Escape Sandboxes - Unite.AI",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWi02UWJjQ3NtMWpxSU1OVkMyWlltejJSbThza3ZVVDlNUnZvRk9YZGpJNG9Gc2tRaUl4a0V6NmlwelZMaEp6SzdsdHNmeUtfaUpsWTRvaGF6cHdrMmJRZV9COTQzUmVibUI0bkFDRk8xZ3YtLXNBSmdPbFM3MzROUC10clZvSTljdHhlWWszcWQ4Zw",
+    "source": "Google News",
+    "date": "Tue, 24 No",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPWi02UWJjQ3NtMWpxSU1OVkMyWlltejJSbThza3ZVVDlNUnZvRk9YZGpJNG9Gc2tRaUl4a0V6NmlwelZMaEp6SzdsdHNmeUtfaUpsWTRvaGF6cHdrMmJRZV9COTQzUmVibUI0bkFDRk8xZ3YtLXNBSmdPbFM3MzROUC10clZvSTljdHhlWWszcWQ4Zw?oc=5\" target=\"_blank\">Anthropic’s Siren Tests Wheth",
+    "first_seen": "2026-11-24"
   }
 ]

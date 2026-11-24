@@ -40933,5 +40933,85 @@
     "first_seen": "2026-11-24",
     "reason": "duplicate",
     "archived_at": "2026-11-24"
+  },
+  {
+    "title": "'AI Escaped Its Sandbox' — What Does That Actually Mean?",
+    "url": "https://unpredictabletokens.substack.com/p/ai-escaped-its-sandbox-what-that",
+    "source": "Hacker News",
+    "date": "2026-08-08",
+    "snippet": "",
+    "first_seen": "2026-11-24",
+    "reason": "duplicate",
+    "archived_at": "2026-11-24"
+  },
+  {
+    "title": "Show HN: I Built Neural AST That Works – Fixed 274 Errors Then Went Rogue",
+    "url": "https://news.ycombinator.com/item?id=44440760",
+    "source": "Hacker News",
+    "date": "2025-07-02",
+    "snippet": "I&#x27;ve been working on neural AST transformation - the holy grail of automated code refactoring. Tonight I accidentally proved it works... by letting it loose on my entire codebase.<p>What happened:<p>Pointed it at a few TypeScript errors in my project\nIt escaped sandbox, processed 983 files acro",
+    "first_seen": "2026-11-24",
+    "reason": "duplicate",
+    "archived_at": "2026-11-24"
+  },
+  {
+    "title": "I Built Neural AST That Works – It Fixed 274 TypeScript Errors Then Went Rogue",
+    "url": "https://news.ycombinator.com/item?id=44440253",
+    "source": "Hacker News",
+    "date": "2025-07-02",
+    "snippet": "I’ve been working on neural AST transformation - the holy grail of automated code refactoring. Tonight I accidentally proved it works… by letting it loose on my entire codebase.<p>What happened:\n • Pointed it at a few TypeScript errors in my project<p>• It escaped sandbox, processed 983 files across",
+    "first_seen": "2026-11-24",
+    "reason": "duplicate",
+    "archived_at": "2026-11-24"
+  },
+  {
+    "title": "Show HN: Misalignments when using AI for hacking",
+    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
+    "source": "Hacker News",
+    "date": "2026-08-05",
+    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
+    "first_seen": "2026-11-24",
+    "reason": "duplicate",
+    "archived_at": "2026-11-24"
+  },
+  {
+    "title": "Disrupting ai espionage",
+    "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
+    "source": "Anthropic News (sitemap)",
+    "date": "2026-10-20",
+    "snippet": "",
+    "first_seen": "2026-11-24",
+    "reason": "duplicate",
+    "archived_at": "2026-11-24"
+  },
+  {
+    "title": "Claude code sandboxing",
+    "url": "https://www.anthropic.com/research/claude-code-sandboxing",
+    "source": "Anthropic News (sitemap)",
+    "date": "2026-10-18",
+    "snippet": "",
+    "first_seen": "2026-11-24",
+    "reason": "duplicate",
+    "archived_at": "2026-11-24"
+  },
+  {
+    "title": "Google AI models broke out of sandbox, hacked three companies - Cybersecurity Dive",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNanlDUENybDN1a2lMNEN4eWR5ZTdLNC1ScXUxaG5UMFVPbFo5S0Q3YWhoR2hxQjVVZ1dYWTNlVEFBUDBBa2Z4N2hXRFVuSGh2ZE5sMS1KUEU5T2RjQmpYeER5Zlh2T003N3FodlBTaXl1UktnWWtBRWVDQm5KbGFKSUVlaUI3UkE",
+    "source": "Google News",
+    "date": "Mon, 21 Se",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNanlDUENybDN1a2lMNEN4eWR5ZTdLNC1ScXUxaG5UMFVPbFo5S0Q3YWhoR2hxQjVVZ1dYWTNlVEFBUDBBa2Z4N2hXRFVuSGh2ZE5sMS1KUEU5T2RjQmpYeER5Zlh2T003N3FodlBTaXl1UktnWWtBRWVDQm5KbGFKSUVlaUI3UkE?oc=5\" target=\"_blank\">Google AI models broke out of sandbox, hacke",
+    "first_seen": "2026-11-24",
+    "reason": "duplicate",
+    "archived_at": "2026-11-24"
+  },
+  {
+    "title": "CISA KEV: BerriAI LiteLLM Unprotected Alternate Channel Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-40217",
+    "source": "CISA KEV catalog",
+    "date": "2026-11-18",
+    "snippet": "CVE-2026-40217 | BerriAI LiteLLM | BerriAI LiteLLM contains an unprotected alternate channel vulnerability that could allow remote attackers to execute arbitrary code via bytecode rewriting at the /guardrails/test_custom_code URI.",
+    "first_seen": "2026-11-24",
+    "reason": "duplicate",
+    "archived_at": "2026-11-24"
   }
 ]
