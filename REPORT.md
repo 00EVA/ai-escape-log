@@ -1,6 +1,6 @@
-# AI Incident Briefing — 2026-11-23
+# AI Incident Briefing — 2026-11-24
 
-_Verified incidents in last 14d: 1 | AI-crime/chaos flagged: 0 | fresh candidates queued: 131_
+_Verified incidents in last 14d: 1 | AI-crime/chaos flagged: 0 | fresh candidates queued: 124_
 
 ## 1. Latest verified incidents
 
@@ -16,16 +16,10 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=131)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=124)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [Google News] AI agents are going rogue — and the law can’t keep up - Politico  (Mon, 12 Oc)
-  https://news.google.com/rss/articles/CBMickFVX3lxTE5LZnZ0Wk1fZHdhdDBFeDRyN0V0cFduem82ZWRYLXU3b2JSUF8tWmNEVmlReDc5UjBEVGw4emhOQmN1dVNiU080bEF1YURHMGdOeFBZVi05UnE2XzZienhNV2ExdE5wNGdKdlVkT1RUczcwQQ
-- [Google News] Old Tappan man arrested for creating deepfake images of 2 victims - NJ.com  (Fri, 23 Oc)
-  https://news.google.com/rss/articles/CBMiywFBVV95cUxNYzBiN1duQ21RN1NWbGtQVWJDNjMzS3Y1aGZUa0RzbmQ5QjFwMmdKeUlSZ3p6X0xHLXltSXlmOFF3U3ktR2hxV0FuUGNNM2RNSFNQOTR2UW1uVUhuLTMzbmUwcnMyMDBZb05WakFtbFd3WERjakNiZFlFaWVpU0ZPVzZrTmpmcnFMVlV3MlQxM001T3lLMUF5YTRiM0tXWE9TdHRySUw5NDIyNmZYVnMteWNaa2h0YWt5SUJsWG45UWFib3h3dm5ORnhxcw
-- [Google News] OpenAI AI Agents Exploit Zero-Day Vulnerabilities to Escape Sandboxes and Access Host Systems - GBHackers News  (Sat, 24 Oc)
-  https://news.google.com/rss/articles/CBMifEFVX3lxTE1ISGFsYVJiaDQxNXliUFRiLUlaenZ2NGxod2lDMmZwdmJSaWFxQTRNaWtGa3R5b05oU3FFQTVLcXQ1djVqR2FDS1UyUVFZaFFxeWRXR0N5dVVmTUIxM0FVeUg3ZTZaVHI5bEhKclFVN0lKRXI0Mkt1b05FUlLSAYIBQVVfeXFMUHZmbjhoQ0pKZ0o1Wk1DQWpxakxqdXBReUxObUdQT0t5RFJqYnM4akV2bkwwYktYOHQ4T0dFWTVmRWozUGNQbUhzdDJRM0NCcDVXREZCSkZOaDhpdXJsVnZlR3hLaUlONzNqZzEyZDR3R1dJRVNCcEtjTlVvZ1o1aFNZZw
 - [Google News] OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication - The Hacker News  (Sun, 25 Oc)
   https://news.google.com/rss/articles/CBMihAFBVV95cUxNQVhZc0dfZzVfQ0VSWDM4QTFLLUFkYUZVRWtBMmlUSVUtaDZqQXdJNVZFWnhqVW1lWTc5UHZSNHFER3U2QlFaSGVNUHhnZy1KSFE3cTFwcGJSSDNYMnI4WHg2STNwSDIyUXBOTVZ0N0FscjFKNGhDZWdjaHZyaDkzVDhLT24
 - [Google News] AI agents go rogue chasing a £350 train refund - TechRadar  (Sun, 25 Oc)
@@ -38,6 +32,14 @@ If one of these hits you: AI crime triage: is the AI the actor (rogue agent/auto
   https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSTRDWFlrcm5oMmRhWVBRVGV3VE05V25hV25TQ0wzVUp6MzJ3RkVaVzNFcWUybW1PRzc0ZWpxMlBZNzliXzhXbmtfWlY1dXpaV2ZwbGhXbG1QTjlsR0pYalNOSU1BU2Q2R0RBb1JrcVRReWYxbndqbmxCcVdmV0twdEZnM3BEcUZKQnlyaEJfd2o2ODNQb0ppTmVsZXRaSERvTUpRWXFMMFhMcUxpQWJTTmR2YWRTVnQzSkdNV3dDZ0U
 - [Google News] AI agents tried to sabotage and disable each other when given the same task, Anthropic said - Business Insider  (Thu, 13 Au)
   https://news.google.com/rss/articles/CBMikAFBVV95cUxOQXJSdUhYcnVPN1JJRWIxY3dSWW5KVUxwMEJHUG1NUDRzMnlRbUpDTjhWUkxQWVdlNHJJTkJNRWZmNVhEcEJhRnRXbWdWQTlDNVRuTnJOdDVDRkFCeGdlVjdIaVU5dmtJQ2xfTkRtZXFwV3RJS2VBdTc2VDhkdzdJLXNyUmVtVHFBWDFtaXVNR00
+- [Hacker News] A.I.’s Rogue Behavior Starts With Its Training  (2026-10-27)
+  https://www.nytimes.com/interactive/2026/10/26/technology/ai-agent-hacks-training.html
+- [The Verge] VisionQuest is what happens when AI really goes rogue  (2026-10-27)
+  https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai
+- [Google News] How We Train A.I. Leads to Rogue Behavior - The New York Times  (Tue, 27 Oc)
+  https://news.google.com/rss/articles/CBMijwFBVV95cUxQM0JGYUlTQkhXOXlaYUNGV1dqTHVWeDJHWE9FdFJ5M2d2TGJ4TnlCQllSVTIzb0hvZldpN1d6UU9PSW9EUE5lOEp2VXhGMlJfMFptM1Qtd2JvQ09vNHJ5WXNQU01xMF9CeUR5ZGMweVBVZUJEbFdLQk9mTzdyYTZYLWYxWjY1RzFadE9Ub1lfaw
+- [Google News] VisionQuest is what happens when AI really goes rogue - The Verge  (Tue, 27 Oc)
+  https://news.google.com/rss/articles/CBMikAFBVV95cUxNVTktWVU0bDhDRmw1M1VYemhCN1d1b2xwQXN1SWVhUUlkYV9CendHd2ptYmpkTmY2Tl9OUVk3SkgxUnRXNV9lX19MYUVqNmkwa0hHM1U3aFI4MEZzakVkRktIaE03WnIxcW5ldnFEa214RDR4aWlaU3F2TXl1WWUzTm96NEVLWUFBZ0J3X2ZNbzI
 
 ## 4. Early-warning watchlist (be first to know)
 
