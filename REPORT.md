@@ -1,6 +1,6 @@
-# AI Incident Briefing — 2026-11-24
+# AI Incident Briefing — 2026-11-25
 
-_Verified incidents in last 14d: 1 | AI-crime/chaos flagged: 0 | fresh candidates queued: 129_
+_Verified incidents in last 14d: 1 | AI-crime/chaos flagged: 0 | fresh candidates queued: 127_
 
 ## 1. Latest verified incidents
 
@@ -16,14 +16,10 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=129)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=127)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [Google News] OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication - The Hacker News  (Sun, 25 Oc)
-  https://news.google.com/rss/articles/CBMihAFBVV95cUxNQVhZc0dfZzVfQ0VSWDM4QTFLLUFkYUZVRWtBMmlUSVUtaDZqQXdJNVZFWnhqVW1lWTc5UHZSNHFER3U2QlFaSGVNUHhnZy1KSFE3cTFwcGJSSDNYMnI4WHg2STNwSDIyUXBOTVZ0N0FscjFKNGhDZWdjaHZyaDkzVDhLT24
-- [Google News] AI agents go rogue chasing a £350 train refund - TechRadar  (Sun, 25 Oc)
-  https://news.google.com/rss/articles/CBMisgJBVV95cUxOcVZ1ZDJXV2hNLTRvaVFkc0xYRXZ5UlBxWlVPZTNwOHV5QWVKbTNLektnWW1FN3YxQjR0VVFESU8wbkdXR0hBN09ZREttOFJKeUgwYTRJUy1ldEdDc0xtSlNGb0VmZ1JScHVHd1NzN3BjaEhoM0pkLXRWTTJKQ0hNQ3kwMGdoWThXbHJMd0Y2b3VvSWJuRnNJLWpqMVZnTEpVVmRpRXhUeDZHRzE1LS1pM3BPc0w4Q0tfcTdwWWZTdW9IdTBkX1pmOG5nRVZtUmFZR1BtcjBwYVg2aWdmWWNITUlseHQ4TFpXU3VyUm5oXzZIWURTcThUZ0tDeEFDZ05ENFRSQkpmT0VCTTNqT1VaOXo1TTd0RHlhMzE5UE15dnpYdDFnS3RuaG44ZkdqZ3BhTHc
 - [Google News] PNB Alerts Customers To AI Voice Cloning, Deepfake And Phishing Frauds - News Mobile  (Mon, 26 Oc)
   https://news.google.com/rss/articles/CBMisAFBVV95cUxNUnY4V0YxbTBsRWNObVV2cXZoMFJVZllTMk01TjV4ZkpXZ2JfR1Y2TjdubnlObmRqUzBBNnhBWE9WcXh0Nll3NnMxM0lMYk5xM2hxZ0pPQ3JWUURiRFhHclZVQVlzQkhVbFdBS25nQXhFcTdiMldpanF5RU8tZEZQLVo3Vkx1bm9mOXVvWllueDlnZS1tUFBpdnZmME5oV3V0YndpaTRibW1aNVFZNE04SQ
 - [Google News] AI company Ransomware Attack by Lapsus - SOCRadar  (Sun, 11 Oc)
@@ -40,6 +36,8 @@ If one of these hits you: AI crime triage: is the AI the actor (rogue agent/auto
   https://news.google.com/rss/articles/CBMijwFBVV95cUxQM0JGYUlTQkhXOXlaYUNGV1dqTHVWeDJHWE9FdFJ5M2d2TGJ4TnlCQllSVTIzb0hvZldpN1d6UU9PSW9EUE5lOEp2VXhGMlJfMFptM1Qtd2JvQ09vNHJ5WXNQU01xMF9CeUR5ZGMweVBVZUJEbFdLQk9mTzdyYTZYLWYxWjY1RzFadE9Ub1lfaw
 - [Google News] VisionQuest is what happens when AI really goes rogue - The Verge  (Tue, 27 Oc)
   https://news.google.com/rss/articles/CBMikAFBVV95cUxNVTktWVU0bDhDRmw1M1VYemhCN1d1b2xwQXN1SWVhUUlkYV9CendHd2ptYmpkTmY2Tl9OUVk3SkgxUnRXNV9lX19MYUVqNmkwa0hHM1U3aFI4MEZzakVkRktIaE03WnIxcW5ldnFEa214RDR4aWlaU3F2TXl1WWUzTm96NEVLWUFBZ0J3X2ZNbzI
+- [Google News] Anthropic's secret AI extracted data from a locked Android phone and escaped Chrome's sandbox - Notebookcheck  (Wed, 28 Oc)
+  https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbFlua2gwWmJfMjRldUV5S0RCRkVFREhtekhUUW95WU1kOURBTFFlUF96c1hIWnZ2dklaaHY3NW94LUg0Si1adTNWNjl4SGhJVTN0SUxzZW5UUDl6VlB6blZJbFg3LWJBOXY0RXdLNDI4ZXlEQTd6akFPamF4WlJJWG9yRWJGUVlDajRid01sRVFiY294RFBHQnotYi0xMDVmX19IYm1HTjQ5ZllrbzM2aHNsN3VlRGoyZmUtajZnUlNwZDZXcmFkN2cydE82MGRfeUlWeg
 
 ## 4. Early-warning watchlist (be first to know)
 
