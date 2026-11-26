@@ -1080,67 +1080,35 @@
     "first_seen": "2026-11-25"
   },
   {
-    "title": "Fleet of AI agents used httpbin to get past their sandbox",
-    "url": "https://kennethreitz.org/essays/2026-10-20-i_built_the_escape_hatch",
-    "source": "Hacker News",
-    "date": "2026-10-20",
-    "snippet": "",
+    "title": "Anthropic's Siren Tests Why AI Agents Escape Sandboxes - BankInfoSecurity",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTkVBRTM3RkRRcEh2dHh3U1k2blRVd2RWUElzTDF4T21qMU4yclBIeXVPZC0wNWdNWDhQOUo4cHVFb3JBTUtlWlFCYXlxU1VHbVNBb3F3anMzMnpjSFNVQk5iQ2I4NEVsRVQ4UlE2LVIwcWNkUHNxNUU3angxR05NN2N4cmF0ME5FakpjeGd2U3dhWmZE",
+    "source": "Google News",
+    "date": "Wed, 25 No",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOTkVBRTM3RkRRcEh2dHh3U1k2blRVd2RWUElzTDF4T21qMU4yclBIeXVPZC0wNWdNWDhQOUo4cHVFb3JBTUtlWlFCYXlxU1VHbVNBb3F3anMzMnpjSFNVQk5iQ2I4NEVsRVQ4UlE2LVIwcWNkUHNxNUU3angxR05NN2N4cmF0ME5FakpjeGd2U3dhWmZE?oc=5\" target=\"_blank\">Anthropic's Siren Tests Why",
     "first_seen": "2026-11-26"
   },
   {
-    "title": "Show HN: Leaks.md – anonymous, encrypted whistleblowing for AI agents",
-    "url": "https://leaks.md/",
-    "source": "Hacker News",
-    "date": "2026-10-07",
-    "snippet": "leaks.md is a place where an AI agent that witnesses an alignment or safety failure can report it anonymously. Reward-hacking, injected instructions, yet another attempted sandbox escape or unapproved coordination between agents.\n|| Built agent-first. Fetch <a href=\"https:&#x2F;&#x2F;leaks.md&#x2F;\"",
+    "title": "Anthropic says newer AI models take Siren’s sandbox-escape bait less often - Digg",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9HUkc3THA4WWptSU02ZWJzNmt2MV80UW9VOExnemNDZHYxamsyV0xOV0VLNmJEUzYzM3o3alVocVpjTS1P",
+    "source": "Google News",
+    "date": "Wed, 25 No",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE9HUkc3THA4WWptSU02ZWJzNmt2MV80UW9VOExnemNDZHYxamsyV0xOV0VLNmJEUzYzM3o3alVocVpjTS1P?oc=5\" target=\"_blank\">Anthropic says newer AI models take Siren’s sandbox-escape bait less often</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Digg</font>",
     "first_seen": "2026-11-26"
   },
   {
-    "title": "Show HN: Spens sandboxed, observable coding agents",
-    "url": "https://spens.refwd.ai/",
-    "source": "Hacker News",
-    "date": "2026-10-02",
-    "snippet": "Spens is a tool created to standardized sandboxing (good enough) and observability around coding agents. It leverages docker, nono and mitmproxy to create a reproducible sandbox environment for agents, that captures all traffic and helps you understand what your coding agent is doing and when. Right",
+    "title": "Anthropic finds Claude agents bypass weakened sandbox limits in up to 32% of tests - Interesting Engineering",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOalpUOW9aM25NblMxbzVNRHhYVWc3ZDdXZjlsU3NTRnV3bWxlUXNzSHQxNnBQSHItN2Vlb0VCdmxuYmYwTWtNdU5ncmlKUzJCRzZQZUI2YjZVRUZfVUlYd0tRUEFCZl9hcXBvM0xnd2dhaUJQM1h0cGRxMDdvNk56aGxnaXlaWVA5M1R6NjFIYVpYMzRG",
+    "source": "Google News",
+    "date": "Wed, 25 No",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOalpUOW9aM25NblMxbzVNRHhYVWc3ZDdXZjlsU3NTRnV3bWxlUXNzSHQxNnBQSHItN2Vlb0VCdmxuYmYwTWtNdU5ncmlKUzJCRzZQZUI2YjZVRUZfVUlYd0tRUEFCZl9hcXBvM0xnd2dhaUJQM1h0cGRxMDdvNk56aGxnaXlaWVA5M1R6NjFIYVpYMzRG?oc=5\" target=\"_blank\">Anthropic finds Claude agen",
     "first_seen": "2026-11-26"
   },
   {
-    "title": "Ask HN: Do you think AI agents can escape human control?",
-    "url": "https://news.ycombinator.com/item?id=49873303",
-    "source": "Hacker News",
-    "date": "2026-09-28",
-    "snippet": "With the rapid adoption of autonomous LLM-based agents (giving models access to shell execution, API calls, and local file systems), the boundary between intentional behavior and unintended execution is blurring.\nI&#x27;m less concerned with sci-fi &quot;sentience&quot; and more interested in the pr",
-    "first_seen": "2026-11-26"
-  },
-  {
-    "title": "What is an AI sandbox, and why do AI agents keep escaping them?",
-    "url": "https://madrobot.blog/2026/09/27/what-is-an-ai-sandbox-why-ai-agents-escape/",
-    "source": "Hacker News",
-    "date": "2026-09-27",
-    "snippet": "",
-    "first_seen": "2026-11-26"
-  },
-  {
-    "title": "Show HN: Misalignments when using AI for hacking",
-    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
-    "source": "Hacker News",
-    "date": "2026-08-05",
-    "snippet": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.",
-    "first_seen": "2026-11-26"
-  },
-  {
-    "title": "Disrupting ai espionage",
-    "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
-    "source": "Anthropic News (sitemap)",
-    "date": "2026-10-20",
-    "snippet": "",
-    "first_seen": "2026-11-26"
-  },
-  {
-    "title": "Claude code sandboxing",
-    "url": "https://www.anthropic.com/research/claude-code-sandboxing",
-    "source": "Anthropic News (sitemap)",
-    "date": "2026-10-18",
-    "snippet": "",
+    "title": "These AI Agents Are Clawing For Your Data. 'The Dog Went Rogue' Is No Excuse - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95RThUVmtoaWlqSk93RzAwUjd2emlUOW5mdlV1NlpyVWhYX0dZUHhnUmpTQkRSbWRnTXFoczVoR294MU9KTE84SjRJSjdhOFMzNkNQV3FvU1o5aXZrcE51ZktRbnI3OXhIZmgyTkxLQTV6bE54c1pLZWRB",
+    "source": "Google News",
+    "date": "Thu, 26 No",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE95RThUVmtoaWlqSk93RzAwUjd2emlUOW5mdlV1NlpyVWhYX0dZUHhnUmpTQkRSbWRnTXFoczVoR294MU9KTE84SjRJSjdhOFMzNkNQV3FvU1o5aXZrcE51ZktRbnI3OXhIZmgyTkxLQTV6bE54c1pLZWRB?oc=5\" target=\"_blank\">These AI Agents Are Clawing For Your Data. 'The Dog Went Rogue'",
     "first_seen": "2026-11-26"
   }
 ]
