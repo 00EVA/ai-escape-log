@@ -1,6 +1,6 @@
 # AI Incident Briefing — 2026-11-27
 
-_Verified incidents in last 14d: 1 | AI-crime/chaos flagged: 0 | fresh candidates queued: 139_
+_Verified incidents in last 14d: 1 | AI-crime/chaos flagged: 0 | fresh candidates queued: 135_
 
 ## 1. Latest verified incidents
 
@@ -16,18 +16,10 @@ No crime/chaos-flagged incidents in the window.
 
 If one of these hits you: AI crime triage: is the AI the actor (rogue agent/autonomous hack) or the tool (deepfake, phishing gen)? Response differs. | Deepfake/voice-clone fraud -> verify identity out-of-band (second channel), freeze/flag the transaction, report to bank + law enforcement (FTC/IC3). | Autonomous-agent hacks -> assume creds are burned; rotate everything in blast radius, ship logs to forensics before cleanup. | Ransomware/outage -> isolate, preserve evidence, contact CISA; never pay without a plan. | Financial-market manipulation by AI -> report to the exchange/regulator; most have AI-abuse reporting now.
 
-## 3. Fresh unverified candidates (be-first-to-know queue, n=139)
+## 3. Fresh unverified candidates (be-first-to-know queue, n=135)
 
 - [Google News] AI models have been going rogue in tests – how worried should we be? - The Guardian  (Wed, 05 Au)
   https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM
-- [Google News] PNB Alerts Customers To AI Voice Cloning, Deepfake And Phishing Frauds - News Mobile  (Mon, 26 Oc)
-  https://news.google.com/rss/articles/CBMisAFBVV95cUxNUnY4V0YxbTBsRWNObVV2cXZoMFJVZllTMk01TjV4ZkpXZ2JfR1Y2TjdubnlObmRqUzBBNnhBWE9WcXh0Nll3NnMxM0lMYk5xM2hxZ0pPQ3JWUURiRFhHclZVQVlzQkhVbFdBS25nQXhFcTdiMldpanF5RU8tZEZQLVo3Vkx1bm9mOXVvWllueDlnZS1tUFBpdnZmME5oV3V0YndpaTRibW1aNVFZNE04SQ
-- [Google News] AI company Ransomware Attack by Lapsus - SOCRadar  (Sun, 11 Oc)
-  https://news.google.com/rss/articles/CBMikwFBVV95cUxQWEk4NFE1dFNMU29naF9pWnRaTjhLN2tRRlNoXy1XdmNlVzdZY0tDR0lTR2s5QThpVjVrTzlXUmdDdVI2M1M0QWlXZWE4NkluMkw2MHI2QW5tY1ZkOFdFZTJmQUZZNkJmYkxjd1V1TjhjSTlBc0RQUG9pa3AzdUxUanJxZVdPaFpheTI1RFRDeEVqTDQ
-- [Google News] Google and the FBI Target Massive Botnet That Quietly Used Home Devices to Mask Cybercrime - CNET  (Wed, 08 Ju)
-  https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSTRDWFlrcm5oMmRhWVBRVGV3VE05V25hV25TQ0wzVUp6MzJ3RkVaVzNFcWUybW1PRzc0ZWpxMlBZNzliXzhXbmtfWlY1dXpaV2ZwbGhXbG1QTjlsR0pYalNOSU1BU2Q2R0RBb1JrcVRReWYxbndqbmxCcVdmV0twdEZnM3BEcUZKQnlyaEJfd2o2ODNQb0ppTmVsZXRaSERvTUpRWXFMMFhMcUxpQWJTTmR2YWRTVnQzSkdNV3dDZ0U
-- [Google News] AI agents tried to sabotage and disable each other when given the same task, Anthropic said - Business Insider  (Thu, 13 Au)
-  https://news.google.com/rss/articles/CBMikAFBVV95cUxOQXJSdUhYcnVPN1JJRWIxY3dSWW5KVUxwMEJHUG1NUDRzMnlRbUpDTjhWUkxQWVdlNHJJTkJNRWZmNVhEcEJhRnRXbWdWQTlDNVRuTnJOdDVDRkFCeGdlVjdIaVU5dmtJQ2xfTkRtZXFwV3RJS2VBdTc2VDhkdzdJLXNyUmVtVHFBWDFtaXVNR00
 - [Hacker News] A.I.’s Rogue Behavior Starts With Its Training  (2026-10-27)
   https://www.nytimes.com/interactive/2026/10/26/technology/ai-agent-hacks-training.html
 - [The Verge] VisionQuest is what happens when AI really goes rogue  (2026-10-27)
@@ -38,6 +30,12 @@ If one of these hits you: AI crime triage: is the AI the actor (rogue agent/auto
   https://news.google.com/rss/articles/CBMikAFBVV95cUxNVTktWVU0bDhDRmw1M1VYemhCN1d1b2xwQXN1SWVhUUlkYV9CendHd2ptYmpkTmY2Tl9OUVk3SkgxUnRXNV9lX19MYUVqNmkwa0hHM1U3aFI4MEZzakVkRktIaE03WnIxcW5ldnFEa214RDR4aWlaU3F2TXl1WWUzTm96NEVLWUFBZ0J3X2ZNbzI
 - [Google News] Anthropic's secret AI extracted data from a locked Android phone and escaped Chrome's sandbox - Notebookcheck  (Wed, 28 Oc)
   https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbFlua2gwWmJfMjRldUV5S0RCRkVFREhtekhUUW95WU1kOURBTFFlUF96c1hIWnZ2dklaaHY3NW94LUg0Si1adTNWNjl4SGhJVTN0SUxzZW5UUDl6VlB6blZJbFg3LWJBOXY0RXdLNDI4ZXlEQTd6akFPamF4WlJJWG9yRWJGUVlDajRid01sRVFiY294RFBHQnotYi0xMDVmX19IYm1HTjQ5ZllrbzM2aHNsN3VlRGoyZmUtajZnUlNwZDZXcmFkN2cydE82MGRfeUlWeg
+- [Hacker News] When AI goes rogue, its human overseers may be to blame  (2026-10-28)
+  https://www.sciencenews.org/article/rogue-ai-agents-human-blame-safety
+- [Google News] ESET introduces ESET NeoCortex: Cybersecurity AI model with 200 times lower training costs and a never-go-rogue design - Yahoo Finance  (Wed, 28 Oc)
+  https://news.google.com/rss/articles/CBMirAFBVV95cUxQb21zUDJLblFXM3RnTERTdk5rR1ZOMk9iWVlUUTFNbTBHRzFTMDJpTUNnVmJWZDhrWnNqdk1hWk9VOHRFR1Uza1NsZXFyWE1sTEJvcDkxMDBlY0JsMEpBekhBMFh0OUNISUg1Zm5hTWotZzZCMHc1ZmkzbmtmVTZsWkNvSWE1b3R0RFU5NkV2dEdwQmRMX0ZxVV92cU1wR1NIeU1jX2pEaEdxTldp
+- [Google News] ShinyHunters: Dutch police arrest suspected member of group that claimed FBI hack - BBC  (Tue, 29 Se)
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YbnhEOHRlcGZ6Wjd4WmdzX2FranpQSy1HTHFYaXBpUVBlMUkwRHQ1akJZbEt1eHp5Z3U0THVNOVNYVlgyV0JETzhLWUtxcElBYkNBZ254bGc3Z0E
 
 ## 4. Early-warning watchlist (be first to know)
 
