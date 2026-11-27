@@ -1006,5 +1006,29 @@
     "date": "Thu, 26 No",
     "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE95RThUVmtoaWlqSk93RzAwUjd2emlUOW5mdlV1NlpyVWhYX0dZUHhnUmpTQkRSbWRnTXFoczVoR294MU9KTE84SjRJSjdhOFMzNkNQV3FvU1o5aXZrcE51ZktRbnI3OXhIZmgyTkxLQTV6bE54c1pLZWRB?oc=5\" target=\"_blank\">These AI Agents Are Clawing For Your Data. 'The Dog Went Rogue'",
     "first_seen": "2026-11-26"
+  },
+  {
+    "title": "CISA KEV: OSGeo GeoServer XML Injection Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-120705",
+    "source": "CISA KEV catalog",
+    "date": "2026-11-27",
+    "snippet": "CVE-2026-120705 | OSGeo GeoServer | OsGeo GeoServer contains an XML injection vulnerability that allows an unauthenticated remote attacker to cause the server to read local text files accessible to the GeoServer process or fetch attacker-specified HTTP or HTTPS URLs via a crafted ID parameter in the WFS 2.0 GetFeatureById stored query",
+    "first_seen": "2026-11-27"
+  },
+  {
+    "title": "CISA KEV: OSGeo GeoServer Incorrect Authorization Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-129243",
+    "source": "CISA KEV catalog",
+    "date": "2026-11-27",
+    "snippet": "CVE-2026-129243 | OSGeo GeoServer | GeoServer contains an incorrect authorization vulnerability that allows an unauthenticated remote attacker to bypass service-level role checks and invoke operations protected solely by those checks via a request with a prefixed service parameter. This vulnerability can be chained with CVE-2026-12924",
+    "first_seen": "2026-11-27"
+  },
+  {
+    "title": "CISA KEV: Drupal Core Improper Check for Unusual or Exceptional Conditions Vulnerability",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-136716",
+    "source": "CISA KEV catalog",
+    "date": "2026-11-27",
+    "snippet": "CVE-2026-136716 | Drupal Core | Drupal Core contains an improper check for unusual or exceptional conditions vulnerability that allows an unauthenticated remote attacker to take over a site via the exposed Drupal installer when the site is in one of the affected unusual or incomplete installation states.",
+    "first_seen": "2026-11-27"
   }
 ]
